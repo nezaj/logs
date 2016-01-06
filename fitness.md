@@ -10,6 +10,26 @@ Exercise:
 Notes:
 *
 
+### Day 8 (Tuesday): 01/05/16
+Diet: 2280, 208g
+* Chicken Tenders (220) + Turkey Balls (150) + Veggies (75) = 445, 38g
+* Protein Shake (120), 25g
+* Cottage Cheese (240) + Avocado (275) = 515, 42g
+* Turkey Balls (300) + Veggies (75) = 375, 36g
+* B&J Half-Baked (350)
+* Protein Shake (120), 25g
+* Cottage Cheese (270) + Carrots (50) + Mandarin (35) = 355, 42g
+
+Exercise: Abs, Pull-ups, Kickbox
+* Abs: 16-20, Day 6 (Complete)
+* Pull-ups: 31-35, Day 4 (Repeat)
+
+Notes:
+* Felt pretty tired this morning
+* Tried out kickboxing class, wasn't as fun as I'd like though
+* Was pretty hungry late at night, ended up over-snacking
+* Next time limit late night to protein shake only
+
 ### Day 7 (Monday): 01/04/16, Weigh-in: 154.2
 Diet: 1535, 158g
 * Chicken Tenders (330) + Veggies (75) = 405, 30g
