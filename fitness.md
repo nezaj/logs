@@ -10,6 +10,22 @@ Exercise:
 Notes:
 *
 
+### Day 9 (Wednesday): 01/06/16
+Diet: 1885, 162g
+* Turkey Balls (300) + Veggies (75) = 375, 36g
+* Cottage Cheese (240) + Avocado (275) = 515, 42g
+* Protein Shake (120), 25g
+* Turkey Balls (300) + Veggies (75) = 375, 36g
+* Cookies n Cream Ice Cream (300)
+* Carrots (50) + Cottage Cheese (150) = 200, 23g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Slept poorly last night
+* Low energy throughout the day
+* Felt stressed as well at work
+
 ### Day 8 (Tuesday): 01/05/16
 Diet: 2280, 208g
 * Chicken Tenders (220) + Turkey Balls (150) + Veggies (75) = 445, 38g
