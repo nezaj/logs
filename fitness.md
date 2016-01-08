@@ -10,6 +10,23 @@ Exercise:
 Notes:
 *
 
+### Day 10 (Thursday): 01/07/16
+Diet: 2355
+* Turkey Balls (150) + Chicken Tenders (220) + Veggies (75) = 445
+* Protein Shake (120) + Pita (350) = 470
+* Cottage Cheese (240)
+* Cookies (350) + Salami (350) = 700
+* It's It (350) + Carrots (50) = 400
+
+Exercise: Rest Day
+
+Notes:
+* Really tired this morning, slept for an extra hour
+* Skipped morning workout
+* Felt stressed at work again
+* Low energy again
+* Happy hour at work -> snacked too much
+
 ### Day 9 (Wednesday): 01/06/16
 Diet: 1885, 162g
 * Turkey Balls (300) + Veggies (75) = 375, 36g
