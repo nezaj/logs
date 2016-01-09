@@ -10,17 +10,27 @@ Exercise:
 Notes:
 *
 
+
+Overview: 01/04/16 - 01/08/16
+* Ice-creams: 4/4 (Tues, Weds, Thurs, Fri)
+* Morning workout during week: 2/5
+* Snacks at work: 2
+
 ### Day 11 (Friday): 01/08/16
-Diet: 1980
+Diet: 2380
 * Carrots (50) + Fage (100) + Muscle Milk (140) + Cheese (90) = 380
 * Carrots (50) + Fage (100) = 150
 * Hazelnut butter (350) + Brownies (450) + Salami (300) = 1100
-* Pretzels + Chocolate + Fig Bar (400)
+* Pretzels + Chocolate + Fig Bar (420)
+* Cookie Sandwhich (380)
 
-Exercise:
+Exercise: Jiu Jitsu
 
 Notes:
-*
+* Woke up late, didn't have time to pack lunch
+* Stressed even more from work
+* Snacked hard again
+* Had my 4th ice cream for the week
 
 ### Day 10 (Thursday): 01/07/16
 Diet: 2355
