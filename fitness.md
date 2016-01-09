@@ -10,6 +10,18 @@ Exercise:
 Notes:
 *
 
+### Day 11 (Friday): 01/08/16
+Diet: 1980
+* Carrots (50) + Fage (100) + Muscle Milk (140) + Cheese (90) = 380
+* Carrots (50) + Fage (100) = 150
+* Hazelnut butter (350) + Brownies (450) + Salami (300) = 1100
+* Pretzels + Chocolate + Fig Bar (400)
+
+Exercise:
+
+Notes:
+*
+
 ### Day 10 (Thursday): 01/07/16
 Diet: 2355
 * Turkey Balls (150) + Chicken Tenders (220) + Veggies (75) = 445
