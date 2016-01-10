@@ -16,6 +16,26 @@ Overview: 01/04/16 - 01/08/16
 * Morning workout during week: 2/5
 * Snacks at work: 2
 
+### Day 12 (Saturday): 01/09/16
+Diet: 2030
+* Beef Patty (375) + Veggies (75) = 450
+* 2 Protein Shakes (240)
+* Turkey Balls (300)
+* Carrots (50) + Mandarins (140)
+* Ramen (800)
+* Carrots (50)
+
+Exercise: Abs, Lift
+* Abs: 16-20, Day 6 (Complete)
+* Cable Flys: 3x22.5, + OAPU: 2x12
+* Leg Curls: 3x95x8 (repeat)
++ Leg Extensions: 3x115x10 (repeat)
++ Calf Press: 3x215,190,165x15
+
+Notes:
+* Woke up late
+* Had to push myself to workout, didn't complete all but happy I did some workout
+
 ### Day 11 (Friday): 01/08/16
 Diet: 2380
 * Carrots (50) + Fage (100) + Muscle Milk (140) + Cheese (90) = 380
