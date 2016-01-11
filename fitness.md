@@ -16,6 +16,21 @@ Overview: 01/04/16 - 01/08/16
 * Morning workout during week: 2/5
 * Snacks at work: 2
 
+### Day 13 (Sunday): 01/10/16
+Diet: 1635
+* Fruits + Sweets (500)
+* Breaded Chicken (380)
+* Cottage Cheese + Chicken (100) + Beef Jerky (280) = 380
+* Chicken Patties (300) + Veggies (75) = 375
+
+Exercise: Abs, Pull-ups
+* Abs: 16-20, Day 7 (Complete)
+* Pull-ups: 31-35, Day 4 (Complete)
+
+Notes:
+* Stoked that I passed my pull-ups
+* Went to Sasha's house
+
 ### Day 12 (Saturday): 01/09/16
 Diet: 2030
 * Beef Patty (375) + Veggies (75) = 450
