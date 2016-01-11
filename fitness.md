@@ -11,7 +11,8 @@ Notes:
 *
 
 
-Overview: 01/04/16 - 01/08/16
+## Week 1: 01/04/16 - 01/10/16
+* Calories: 14100, ~2014
 * Ice-creams: 4/4 (Tues, Weds, Thurs, Fri)
 * Morning workout during week: 2/5
 * Snacks at work: 2
