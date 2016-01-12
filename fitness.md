@@ -10,6 +10,27 @@ Exercise:
 Notes:
 *
 
+### Day 14 (Monday): 01/11/16
+Diet: 2300
+* Chicken (110) + Breaded Chicken (300) + Veggies (75) = 485
+* 2 Kitkats + Snickers + Twix (1000)
+* Avocado (275) + Carrots (50) = 325
+* Protein Shake (120)
+* Breaded Chicken (300) + Mandarins (70) = 370
+
+Exercise: Abs, Lift, Jiu-Jitsu
+* Abs: 16-20, Day 8 (Complete)
+* Cable Flys: 3x22.5, + OAPU: 3x10
+* Leg Curls: 3x95x8 (repeat)
++ Leg Extensions: 3x95x10 (repeat)
++ Calf Press: 3x215,190,165x15
+
+Notes:
+* Had to push myself hard to finish workout
+* Next time I'm doing arms after abs
+* Got bad new this morning, ended up hitting the vending machine :(
+* Went for a run, felt much better
+* Ate a bunch of calories so had lots of energy, did a triple workout today
 
 ## Week 1: 01/04/16 - 01/10/16
 * Calories: 14100, ~2014
