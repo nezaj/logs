@@ -10,6 +10,21 @@ Exercise:
 Notes:
 *
 
+### Day 15 (Tuesday): 01/12/16
+Diet: 3485
+* Ramen (850) + Protein Bar (300) = 1150
+* Turkey Balls (300) + Veggies (75) = 375
+* Breaded Chicken (300)
+* Samosa (300) + B&J Ice Cream (1360) = 1660
+
+Exercise: Abs,
+* Abs: 16-20, Day 8 (Complete)
+
+Notes:
+* Woke up late, wasn't feeling motivated for pull-ups
+* Lunch with Mike this morning
+* Ate a whole pint of B&J, really wanted to...
+
 ### Day 14 (Monday): 01/11/16
 Diet: 2300
 * Chicken (110) + Breaded Chicken (300) + Veggies (75) = 485
