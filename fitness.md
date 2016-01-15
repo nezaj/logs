@@ -10,6 +10,20 @@ Exercise:
 Notes:
 *
 
+### Day 17 (Thursday): 01/14/16
+Diet: 1600
+* Turkey Balls (150) + Drumellas (200) + Veggies (75) = 425
+* Protein Powder (120)
+* Turkey Balls (150) + Drumellas (200) + Veggies (75) = 425
+* Avocado (275) + Mandarins (105) = 380
+* Celery (30) + Protein Powder (120) = 150
+* Cottage Cheese (100)
+
+Exercise: Embarcadero Run
+
+Notes:
+* Another restless night of sleep
+
 ### Day 16 (Wednesday): 01/13/16
 Diet: 1015
 * Turkey Balls (300) + Veggies (75) = 375
