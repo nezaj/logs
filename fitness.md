@@ -10,6 +10,19 @@ Exercise:
 Notes:
 *
 
+### Day 16 (Wednesday): 01/13/16
+Diet: 1015
+* Turkey Balls (300) + Veggies (75) = 375
+* Cottage Cheese (200) + Chicken (200) + Protein Powder (120) = 520
+* Protein Powder (120)
+
+Exercise: Embarcadero Run, Jiu-Jitsu
+
+Notes:
+* Rough time sleeping last night
+* Gums hurt from too much sugar of last two days
+* Good day in Jiu-Jitsu
+
 ### Day 15 (Tuesday): 01/12/16
 Diet: 3485
 * Ramen (850) + Protein Bar (300) = 1150
@@ -25,7 +38,7 @@ Notes:
 * Lunch with Mike this morning
 * Ate a whole pint of B&J, really wanted to...
 
-### Day 14 (Monday): 01/11/16
+### Day 14 (Monday): 01/11/16, Weigh-in: 151.5
 Diet: 2300
 * Chicken (110) + Breaded Chicken (300) + Veggies (75) = 485
 * 2 Kitkats + Snickers + Twix (1000)
