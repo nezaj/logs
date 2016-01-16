@@ -10,6 +10,20 @@ Exercise:
 Notes:
 *
 
+### Day 18 (Friday): 01/15/16
+Diet: 1785
+* Protein Powder (120) + Drumellas (300) = 420
+* Cottage Cheese (240) + Avocado (275) = 515
+* Turkey Balls (400) + Carrots (50) = 450
+* Protein Ice Cream (280)
+* Protein Powder (120)
+
+Exercise: Jiu Jitsu
+
+Notes:
+* Got a good night of sleep, reading a book helped a lot :)
+* Another good Jiu Jitsu session
+
 ### Day 17 (Thursday): 01/14/16
 Diet: 1600
 * Turkey Balls (150) + Drumellas (200) + Veggies (75) = 425
@@ -44,7 +58,7 @@ Diet: 3485
 * Breaded Chicken (300)
 * Samosa (300) + B&J Ice Cream (1360) = 1660
 
-Exercise: Abs,
+Exercise: Abs
 * Abs: 16-20, Day 8 (Complete)
 
 Notes:
