@@ -93,6 +93,11 @@ Notes:
 * Ice-creams: 4/4 (Tues, Weds, Thurs, Fri)
 * Morning workout during week: 2/5
 * Snacks at work: 2
+* Abs:          4/3 :)
+* Pull-ups:     2/3
+* Lift:         2/3
+* Jiu-Jitsu:    3/3 :)
+* Run:          1/2
 
 ### Day 13 (Sunday): 01/10/16
 Diet: 1635
@@ -137,7 +142,7 @@ Diet: 2380
 * Pretzels + Chocolate + Fig Bar (420)
 * Cookie Sandwhich (380)
 
-Exercise: Jiu Jitsu
+Exercise: Jiu-Jitsu
 
 Notes:
 * Woke up late, didn't have time to pack lunch
