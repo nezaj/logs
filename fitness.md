@@ -10,6 +10,23 @@ Exercise:
 Notes:
 *
 
+### Day 19 (Saturday): 01/16/16
+Diet: 2230
+* Beef Patty (375) + Veggies (75) = 450
+* Protein Powder (120)
+* Protein Bar (210)
+* Mediterranean Food (700)
+* Beer (200)
+* Avocados (550)
+
+Exercise: Abs, Pull-ups
+* Abs: 16-20, Day 9 (Complete)
+* Pull-ups: 31-35, Day 5 (Complete)
+
+Notes:
+* Went to DreamState tonight
+* Was super hungry afterwards, ate double avocados
+
 ### Day 18 (Friday): 01/15/16
 Diet: 1785
 * Protein Powder (120) + Drumellas (300) = 420
