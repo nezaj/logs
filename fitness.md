@@ -10,6 +10,21 @@ Exercise:
 Notes:
 *
 
+## Week 2: 01/11/16 - 01/17/16
+* Calories: 15735 (+1635), ~2248 (+234)
+* Ice-creams: 5/4 (Tues, Fri)
+* Morning workout during week: 3/5
+* Abs:          3/3 :)
+* Pull-ups:     1/3
+* Lift:         1/3
+* Jiu-Jitsu:    3/3 :)
+* Run:          2/2
+
+Notes:
+* Couple high-calorie days due to events, work, wedding, dreamstate, etc.
+* Didn't lift / pull-ups as much this week, let's try to pick it up this week!
+* Goal for this week is to average much lower calories, goal is to aim for 1800
+
 ### Day 20 (Sunday): 01/17/16
 Diet: 3320
 * Subway (320)
