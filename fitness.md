@@ -10,6 +10,18 @@ Exercise:
 Notes:
 *
 
+### Day 20 (Sunday): 01/17/16
+Diet: 3320
+* Subway (320)
+* Wedding food (1000)
+* Family dinner (2000)
+
+Exercise: Rest Day
+
+Notes:
+* Cousin's wedding today
+* Ate way too much at home
+
 ### Day 19 (Saturday): 01/16/16
 Diet: 2230
 * Beef Patty (375) + Veggies (75) = 450
