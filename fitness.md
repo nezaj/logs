@@ -10,6 +10,16 @@ Exercise:
 Notes:
 *
 
+### Day 21 (Monday): 01/18/16
+Diet: 2500
+* Family Lunch + Sweets (2250)
+* PB Cookie (250)
+
+Exercise: Rest Day
+
+Notes:
+* Another family day, definitely pigged out
+
 ## Week 2: 01/11/16 - 01/17/16
 * Calories: 15735 (+1635), ~2248 (+234)
 * Ice-creams: 5/4 (Tues, Fri)
