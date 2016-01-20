@@ -10,6 +10,20 @@ Exercise:
 Notes:
 *
 
+### Day 22 (Tuesday): 01/19/16
+Diet: 1805
+* Turkey Balls (300) + Veggies (75) = 375
+* Protein Powder (120)
+* Cottage Cheese (90) + Tomatoes (100) = 190
+* Protein Powder (120)
+* Indian Food (1000)
+
+Exercise: Embarcadero Run
+
+Notes:
+* I've been sleeping normal the last few days
+* Feeling much better and relaxed this week :)
+
 ### Day 21 (Monday): 01/18/16
 Diet: 2500
 * Family Lunch + Sweets (2250)
