@@ -10,6 +10,26 @@ Exercise:
 Notes:
 *
 
+### Day 23 (Wednesday): 01/20/16
+Diet: 1230
+* Turkey Balls (300) + Veggies (75) = 375
+* Protein Powder (120)
+* Cottage Cheese (240)
+* Turkey Balls (300) + Veggies (75) = 375
+* Protein Powder (120)
+
+Exercise: Lift, Jiu-Jitsu
+* Abs 21-25: Day 1 (Complete)
+* Tabata Pushups: 4 rounds
+* Windmilss: 3x20x8 + Crazy 8s: 3x75x8
+* Cable Flys: 3x22.5x8 + OAPU: 3x10
+
+Notes:
+* Poor sleep, stomach was upset from Indian food
+* Felt much better after lifting
+* Productive work day!
+* Good jiu-jtisu session
+
 ### Day 22 (Tuesday): 01/19/16
 Diet: 1805
 * Turkey Balls (300) + Veggies (75) = 375
