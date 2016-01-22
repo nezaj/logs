@@ -10,6 +10,25 @@ Exercise:
 Notes:
 *
 
+### Day 24 (Thursday): 01/21/16
+Diet: 2630
+* Protein Powder (120)
+* Turkey Sanwhich + Salad (650)
+* Protein Ice Cream (150)
+* Cottage Cheese (180) + Carrots (30) = 210
+* Family Dinner (1500)
+
+Exercise: Pull-ups + Legs
+* Pull-ups 31-35: Day 6 (Complete)
+* Leg Curls: 3x95x10 (go up)
+* Leg Extensions: 3x115x10 (go up)
+* Calf Raise: 3x215/190/165x15 (Repeat)
+
+Notes:
+* Good night of sleep
+* Fun day
+* Celebrated Gary's/Denise's bday
+
 ### Day 23 (Wednesday): 01/20/16
 Diet: 1230
 * Turkey Balls (300) + Veggies (75) = 375
