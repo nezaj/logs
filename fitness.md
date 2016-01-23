@@ -1,4 +1,8 @@
 Fitness Log
+## Goals
+* Eat <2000cals per week -> April 1st
+* Can have ice-cream / cookies every now and then
+* No binges, even while visting home
 
 ### Day
 Diet:
@@ -9,6 +13,27 @@ Exercise:
 
 Notes:
 *
+
+### Day 25 (Friday): 01/22/16
+Diet: 1225
+* Protein Powder (120) + Cottage Cheese (150) = 270
+* Beef Jerky (210)
+* Breaded Chicken (330) + BBQ Chicken (150) = 480
+* Veggies (75)
+* Mandarins (70)
+* Protein Ice Cream (120)
+
+Exercise: Pull-ups + Legs
+* Pull-ups 31-35: Day 6 (Complete)
+* Leg Curls: 3x95x10 (go up)
+* Leg Extensions: 3x115x10 (go up)
+* Calf Raise: 3x215/190/165x15 (Repeat)
+
+Notes:
+* Another good night of sleep
+* Did another lift, but was sluggish
+* Jiu-jitsu was good again :)
+* Chilled with some friends at night
 
 ### Day 24 (Thursday): 01/21/16
 Diet: 2630
