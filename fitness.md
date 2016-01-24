@@ -14,14 +14,30 @@ Exercise:
 Notes:
 *
 
+### Day 26 (Saturday): 01/23/16
+Diet: 1835
+* Breaded Chicken (220) + Meatballs (150) = 370
+* Veggies (75)
+* Halo Top (240) + Englightened (80) = 320
+* Artic Zero (70)
+* Dinner w/ Friends (1000)
+
+Exercise: Pull-ups
+* Pull-ups 31-35: Day 7 (Complete)
+
+Notes:
+* Good night sleep
+* Tried Halo Top Protein ice cream, delicious
+* Had a nice dinner w/ friends
+
 ### Day 25 (Friday): 01/22/16
-Diet: 1225
+Diet: 1255
 * Protein Powder (120) + Cottage Cheese (150) = 270
 * Beef Jerky (210)
 * Breaded Chicken (330) + BBQ Chicken (150) = 480
 * Veggies (75)
 * Mandarins (70)
-* Protein Ice Cream (120)
+* Artic Zero (70) + Halo Top (80) (150)
 
 Exercise: Pull-ups + Legs
 * Pull-ups 31-35: Day 6 (Complete)
