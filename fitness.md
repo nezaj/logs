@@ -14,6 +14,34 @@ Exercise:
 Notes:
 *
 
+## Week 3: 01/18/16 - 01/24/16
+* Calories: 13095 (-2640), ~1870 (-378)
+* Abs:          2/3
+* Pull-ups:     2/3
+* Lift:         2/3
+* Jiu-Jitsu:    2/3
+* Run:          2/2 :)
+
+Notes:
+* Signed up for Jiu-Jitsu tournament, gotta make weight!
+* Did much better with diet this week
+* Did more pull-ups and lifts this week too :)
+* No B&J! Did well replacing ice cream cravings with protein ice cream instead
+
+### Day 27 (Sunday): 01/24/16
+Diet: 1870
+* Breaded Chicken (330) + BBQ Chicken (175) = 505
+* Veggies (75)
+* Protein Ice Cream (70)
+* Mandarins (70) + Avocado (275) + Cottage Cheese (180) = 525
+* Carrots (50)
+* BBQ Chicken (175) + Chicken Tenders (330) = 505
+* Protein Ice Cream (140)
+
+Exercise: Embarcadero Run
+
+Notes:
+
 ### Day 26 (Saturday): 01/23/16
 Diet: 1835
 * Breaded Chicken (220) + Meatballs (150) = 370
