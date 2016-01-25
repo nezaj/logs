@@ -39,11 +39,11 @@ Diet: 1255
 * Mandarins (70)
 * Artic Zero (70) + Halo Top (80) (150)
 
-Exercise: Pull-ups + Legs
-* Pull-ups 31-35: Day 6 (Complete)
-* Leg Curls: 3x95x10 (go up)
-* Leg Extensions: 3x115x10 (go up)
-* Calf Raise: 3x215/190/165x15 (Repeat)
+Exercise: Lift, Jiu-Jitsu
+* Abs 21-25: Day 2 (Complete)
+* Tabata Pushups: 4 rounds
+* Cable Flys: 3x27.5x8 + OAPU: 3x10
+* Windmills: 3x20x8 + Crazy 8s: 3x75x8
 
 Notes:
 * Another good night of sleep
