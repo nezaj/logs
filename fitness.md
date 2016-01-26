@@ -14,6 +14,25 @@ Exercise:
 Notes:
 *
 
+### Day 28 (Monday): 01/25/16
+Diet: 1950
+* Breaded Chicken (330) + Turkey Balls (200) = 530
+* Veggies (75)
+* Protein Powder (120)
+* Cottage Cheese (240) + Avocado (275) = 515
+* Beef Patty (375) + Veggies (75) = 450
+* Protein Ice Cream (140)
+* Carrots (70) + Tomatoes (50) = 120
+
+Exercise: Abs, Jiu-Jitsu
+* Abs: 21-25 Day 3 (Complete)
+* Tabata Push-ups
+
+Notes:
+* Didn't sleep well last night, low motivation to finsh workout
+* Had a good morning session of code
+* Jiu-Jitsu went okay, little tired beforehand
+
 ## Week 3: 01/18/16 - 01/24/16
 * Calories: 13095 (-2640), ~1870 (-378)
 * Abs:          2/3
