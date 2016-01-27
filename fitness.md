@@ -14,6 +14,25 @@ Exercise:
 Notes:
 *
 
+### Day 29 (Tuesday): 01/26/16
+Diet: 2895
+* Breaded Chicken (330) + Turkey Balls (200) = 530
+* Veggies (75)
+* Protein Powder (120)
+* Avocado (275) + Mandarins (70) = 345
+* BBQ Chicken (175) + Turkey Balls (200) = 375
+* Veggies (75) + Carrots (35) = 110
+* Dal Soup (300)
+* Ice Cream (1040)
+
+Exercise: Pull-ups
+* Pull-ups 31-35: Day 8 (Repeat)
+
+Notes:
+* Another "meh" night of sleep, not sure why
+* Didn't have enough energy to finish pull-ups, probably sleep related
+* Ate a bunch of ice cream at night
+
 ### Day 28 (Monday): 01/25/16
 Diet: 1950
 * Breaded Chicken (330) + Turkey Balls (200) = 530
