@@ -14,6 +14,21 @@ Exercise:
 Notes:
 *
 
+### Day 30 (Wednesday): 01/27/16
+Diet: 1075
+* Breaded Chicken (330) + Turkey Balls (150) = 480
+* Veggies (75)
+* Cottage Cheese (90)
+* Protein Shake (120)
+* Ice Cream (310)
+
+Exercise: Embarcadero Run, Jiu-Jitsu
+
+Notes:
+* Had a rough start in the morning, felt much better after the run
+* Productive day of code
+* Felt less hungry, probably because of yesterday's excess
+
 ### Day 29 (Tuesday): 01/26/16
 Diet: 2895
 * Breaded Chicken (330) + Turkey Balls (200) = 530
