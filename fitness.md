@@ -14,6 +14,24 @@ Exercise:
 Notes:
 *
 
+### Day 31 (Thursday): 01/28/16
+Diet: 2730
+* Protein bar (200)
+* Breaded Chicken (330) + Turkey Balls (150) = 480
+* Veggies (75)
+* Ice Cream (190)
+* Avocado (275)
+* BBQ Chicken (175) + Turkey Meatballs (200) = 375
+* Veggies (75)
+* Ice Cream (400)
+* Breaded Chicken (660)
+
+Exercise: Embarcadero Run (Half)
+
+Notes:
+* Really low energy this morning
+* Was super hungry today and just overall lazy
+
 ### Day 30 (Wednesday): 01/27/16
 Diet: 1075
 * Breaded Chicken (330) + Turkey Balls (150) = 480
@@ -68,7 +86,7 @@ Notes:
 * Jiu-Jitsu went okay, little tired beforehand
 
 ## Week 3: 01/18/16 - 01/24/16
-* Calories: 13095 (-2640), ~1870 (-378)
+* Calories: 13125 (-2610), ~1875 (-373)
 * Abs:          2/3
 * Pull-ups:     2/3
 * Lift:         2/3
