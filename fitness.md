@@ -14,6 +14,21 @@ Exercise:
 Notes:
 *
 
+### Day 32 (Friday): 01/29/16
+Diet: 1150
+* Mandarins (280)
+* Breaded Chicken (330) + Turkey Meatballs (200)
+* Cottage Cheese (80)
+* Tomatoes (70) + Protein Powder (120) = 190
+* Ice Cream (300)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up very late today
+* Sorta productive with code, not really though
+* Overall tho, this week was more productive with code
+
 ### Day 31 (Thursday): 01/28/16
 Diet: 2730
 * Protein bar (200)
@@ -31,6 +46,7 @@ Exercise: Embarcadero Run (Half)
 Notes:
 * Really low energy this morning
 * Was super hungry today and just overall lazy
+* Not productive with code
 
 ### Day 30 (Wednesday): 01/27/16
 Diet: 1075
