@@ -14,6 +14,19 @@ Exercise:
 Notes:
 *
 
+### Day 33 (Saturday): 01/30/16
+Diet: 2620
+* Ice Cream (70)
+* Friendly Lunch (1000)
+* 3 Halo Tops (760) + Enlighthened (70)
+* 3 Ice Cream Sandwhiches (450)
+* Turkey meatballs (200) + Mandarins (70)
+
+Exercise: Rest Day
+
+Notes:
+* Binged on ice cream again
+
 ### Day 32 (Friday): 01/29/16
 Diet: 1150
 * Mandarins (280)
