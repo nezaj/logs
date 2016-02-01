@@ -1,7 +1,8 @@
 Fitness Log
 ## Goals
-* Eat <2000cals per week -> April 1st
-* Can have ice-cream / cookies every now and then
+* Eat <1850cals per week -> April 1st
+* Eat enlightened ice-cream on jiu-jitsu days
+* Be aware of the effect foods will have on your pull-ups/lifting performance
 * No binges, even while visting home
 
 ### Day
@@ -13,6 +14,42 @@ Exercise:
 
 Notes:
 *
+
+## Week 4:
+* Calories: 14080 (+955), ~2012 (+137)
+* Weigh-in: 151.2
+* Abs:          1/3
+* Pull-ups:     1/3
+* Lift:         1/3
+* Jiu-Jitsu:    3/3     :)
+* Run:          2.5/2   :)
+
+Notes:
+
+**Diet**
+* Even though most of it was protein, ate 3700cal in ice cream :/
+  Obviously way too much. Had a very negative effect on my performance
+  and sleep.
+* Going to cut back on all the different ice-cream varieties and just stick
+  with enlightened after jiu-jitsu days
+* Calories zig-zagged too much, try to be more consistent this week
+* Went slightly above 2000 calories, this won't due if I want to compete
+  --> aim for 1850
+
+**Exercise**
+* Skipped most of my morning workouts this week. No good, my guess is this due
+  to a combination of poor sleep, sporadic calorie intake, and too much ice cream
+* Noticed I was in a rut with my lift routine, switched it up to power-lifting
+  instead. Feel more motivated now.
+
+**Personal**
+* Was moderately productive with code this week, glad I outputted something.
+  This week I want to do even more.
+* Had a very relaxing weekend, feeling pumped for the upcoming week
+
+**Takeaway**
+* Tournament is in less than 12 weeks, must make weight to compete!
+* Eat clean, keep calories <1850
 
 ### Day 34 (Sunday): 01/31/16
 Diet: 1740
