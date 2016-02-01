@@ -14,6 +14,24 @@ Exercise:
 Notes:
 *
 
+### Day 34 (Sunday): 01/31/16
+Diet: 1740
+* Protein bar (200)
+* Protein Powder (120)
+* Halo Top (120) + Ice Cream Sandwhiches (300)
+* Friendly Dinner (1000)
+
+Exercise: Lift, Embaracdero Run
+* Crazy 8s: 3x75 Day 1 (Complete)
+* Skulls Crushers: 3x75 Day 1 (Complete)
+* Squats: 3x185x5 (Complete)
+* Bench: 3x155x5 (Complete)
+
+Notes:
+* Ended up killing the ice cream
+* First power-lift workout in awhile, felt great
+* Hosted friends for dinner, was a fun/relaxing evening
+
 ### Day 33 (Saturday): 01/30/16
 Diet: 2620
 * Ice Cream (70)
