@@ -15,6 +15,26 @@ Exercise:
 Notes:
 *
 
+### Day 35 (Monday): 02/01/16
+Diet: 2150
+* Dim Sum (1000)
+* Protein bar (200)
+* Chicken (300)
+* Mandarins (35)
+* Avocado (275)
+* Ice-Cream (140)
+* Chicken (200)
+
+Exercise: Abs, Pull-ups, Jiu-Jitsu
+* Abs 21-25: Day 4 (Complete)
+* Pull-ups 31-35: Day 8 (Repeat) -- close! will get it next time for sure
+
+Notes:
+* Woke up super early today, like 5am
+* Almost completed pull-ups rx, was tough though due to indian food from previous
+  night, need to keep in mind the effects foods will have on my performance
+* Decent jiu-jitsu workout, felt a little tired though
+
 ## Week 4:
 * Calories: 14080 (+955), ~2012 (+137)
 * Weigh-in: 151.2
