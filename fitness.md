@@ -15,6 +15,23 @@ Exercise:
 Notes:
 *
 
+### Day 36 (Tuesday): 02/02/16
+Diet: 1810
+* Apple (100) + Mandarins (105) = 205
+* BBQ Chicken (175) + Turkey Meatballs (200) = 375
+* Protein Bar (210)
+* Thai Food (750)
+* Carrots (70) + Chicken (200)
+
+Exercise: Lift
+* Crazy 8s: 5x75 Day 2 (Complete)
+* Skulls Crushers: 5x75 Day 2 (Complete)
+* Bench: 5x155 Day 2 (Complete)
+
+Notes:
+* Good morning session of code
+* Good workout, missed squats though because super sore
+
 ### Day 35 (Monday): 02/01/16
 Diet: 2150
 * Dim Sum (1000)
@@ -79,10 +96,10 @@ Diet: 1740
 * Friendly Dinner (1000)
 
 Exercise: Lift, Embaracdero Run
-* Crazy 8s: 3x75 Day 1 (Complete)
-* Skulls Crushers: 3x75 Day 1 (Complete)
-* Squats: 3x185x5 (Complete)
-* Bench: 3x155x5 (Complete)
+* Crazy 8s: 5x75 Day 1 (Complete)
+* Skulls Crushers: 5x75 Day 1 (Complete)
+* Squats: 5x185x5 (Complete)
+* Bench: 5x155x5 (Complete)
 
 Notes:
 * Ended up killing the ice cream
