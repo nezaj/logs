@@ -15,6 +15,25 @@ Exercise:
 Notes:
 *
 
+### Day 37 (Wednesday): 02/03/16
+Diet: 1675
+* Apple (100) + Mandarins (70) = 170
+* Turkey balls (150) + Breaded chicken (220) = 370
+* Cottage Cheese (150) + Carrots (30) = 180
+* Ice Cream (70)
+* Avocado (275)
+* Protein Powder (120)
+* Turkey balls (150) + Breaded chicken (220) = 370
+* Protein Powder (120)
+
+Exercise: Embarcadero Run, Jiu-Jitsu
+
+Notes:
+* Got up early again! Feels good to be on the morning schedule again
+* Lots of reading today
+* Felt a little tired later in the day
+* Good Jiu-jitsu session
+
 ### Day 36 (Tuesday): 02/02/16
 Diet: 1810
 * Apple (100) + Mandarins (105) = 205
