@@ -15,6 +15,24 @@ Exercise:
 Notes:
 *
 
+### Day 38 (Thursday): 02/04/16
+Diet: 1840
+* Protein Powder (120)
+* Ramen (800)
+* Protein Ice Cream (70)
+* Turkey Balls (200) + Chicken Tenders (280)
+* Mandarins (70) + Cottage Cheese (80)
+* Protein Powder (120) + Veggies/Mandarins (100) = 220
+
+Exercise: Rest Day
+
+Notes:
+* Went to bed late last night and felt too lazy to do pull-ups
+* Pull-ups are worrying me... maybe I should drop down because it
+  feels too intense? I've noticed I've been lazy with them for the
+  last two weeks
+* Tons of reading again today -- javascript is crazy
+
 ### Day 37 (Wednesday): 02/03/16
 Diet: 1675
 * Apple (100) + Mandarins (70) = 170
