@@ -15,6 +15,28 @@ Exercise:
 Notes:
 *
 
+### Day 39 (Friday): 02/05/16
+Diet: 1725
+* Apple (80) + Mandarin (35) + Cottage Cheese (80)
+* Breaded chicken (300) + Turkey Balls (200)
+* Protein bar (210)
+* BBQ Chicken (300) + Kung Pao Chicken (240)
+* Carrots (70)
+* Ice Cream (140) + Carrots (70)
+
+Exercise: Lift
+* Crazy 8s: 5x75 Day 3 (Complete)
+* Skulls Crushers: 5x75 Day 3 (Complete)
+* Squats: 5x190x5 (Complete)
+* Bench: 5x160x5 (Complete)
+
+Notes:
+* Went to bed late again, definitely felt tired this morning
+* Great lift today, weights felt much easier. Getting back in the groove!
+* Productive day of code
+* Great jiu-jitsu session
+* Overall a great Friday :)
+
 ### Day 38 (Thursday): 02/04/16
 Diet: 1840
 * Protein Powder (120)
