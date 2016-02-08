@@ -15,6 +15,38 @@ Exercise:
 Notes:
 *
 
+### Day 41 (Sunday): 02/07/16
+Diet: 2070
+* Mandarins (70)
+* Family Lunch (1400)
+* Superbowl snacks (600)
+
+Exercise: Rest day
+
+Notes:
+* Went to bed super late last night but was able to wake up early
+* Had a great skype session in the morning :)
+* Felt sluggish towards the end of the day, too many calories this weekend
+
+### Day 40 (Saturday): 02/06/16
+Diet: 3050
+* Breaded Chicken (330) + Kung Pao (120) + Nuts (200)
+* Veggies (100)
+* Ice Cream (140)
+* Friend Dinner, heavy (1400)
+* Jerky (480) + Ice Cream (280)
+
+Exercise: Pull-ups, Embarcadero Run
+* Pull-ups 31-35: Day 1 (Complete)
+
+Notes:
+* Felt really good this morning
+* Reset on pull-ups, this was definitely the right thing
+* Got an amazing runner's high today, first one in awhile
+* Had a relaxing dinner with friends, but definitely overate
+* Got some strong cravings last night and gave in, no bueno
+* Went to bed super late
+
 ### Day 39 (Friday): 02/05/16
 Diet: 1725
 * Apple (80) + Mandarin (35) + Cottage Cheese (80)
