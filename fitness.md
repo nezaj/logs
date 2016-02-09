@@ -15,6 +15,29 @@ Exercise:
 Notes:
 *
 
+### Day 42 (Monday): 02/08/16
+Diet: 1850
+* Breaded Chicken (330) + Turkey Balls (150)
+* Veggies (75) + Mandarins (70)
+* Protein Powder (120) + Cottage Cheese (80)
+* Mandarins (70) + Carrots (75)
+* Pork Ribs (700) + Carrots (50) = 750
+* Protein Powder (120)
+
+Exercise: Lift
+* Crazy 8s: 3x75 Day 4 (Complete)
+* Skulls: 3x75 Day 4 (Complete)
+* Squats: 5x195x5
+* Bench: 5x165x5
+
+Notes:
+* Lots of sleep last night, caught up on my sleep debt
+* Felt strong during my lift, completed rx
+* Okay Jiu-Jitsu session
+* Not productive with code, wasn't focused -- too easily distracted
+* --> Use howler timer for focus if you need to
+* --> don't slack/HN/read random articles, stay on task
+
 ### Day 41 (Sunday): 02/07/16
 Diet: 2070
 * Mandarins (70)
