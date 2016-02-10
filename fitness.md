@@ -9,11 +9,31 @@ Fitness Log
 Diet:
 *
 
-Exercise:
+Exercise: articles, stay on task
 *
 
 Notes:
 *
+
+### Day 43 (Tuesday): 02/09/16
+Diet: 1910
+* Friend Lunch (750)
+* Protein Ice Cream (240)
+* Apples (160)
+* Breaded Chicken (220) + Turkey Balls (200)
+* Carrots (50)
+* Mandarins (140) + Fruits/Veggies (150)
+
+Exercise: Abs, Pull-ups
+* Abs 21-25: Day 5 (Complete)
+* Pull-ups 31-35: Day 2 (Complete)
+
+Notes:
+* Had a hard time falling asleep last night but woke up early
+* Abs/Pull-ups were tough but got through it
+* Not productive w/ code again, too much reading
+--> Start coding again, implement what you've learned!
+
 
 ### Day 42 (Monday): 02/08/16
 Diet: 1850
