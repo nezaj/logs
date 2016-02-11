@@ -8,7 +8,7 @@ Fitness Log
 Diet:
 *
 
-Exercise: articles, stay on task
+Exercise:
 *
 
 Notes:
