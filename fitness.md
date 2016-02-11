@@ -1,9 +1,8 @@
 Fitness Log
-## Goals
-* Eat <1850cals per week -> April 1st
-* Eat enlightened ice-cream on jiu-jitsu days
-* Be aware of the effect foods will have on your pull-ups/lifting performance
-* No binges, even while visting home
+## Goal: Make weight (141.5) for jiu-jitsu tournament on 04/24/16
+
+## Take-aways
+* Eat clean, keep calories <1850 everyday
 
 ### Day
 Diet:
@@ -31,6 +30,7 @@ Exercise: Abs, Pull-ups
 Notes:
 * Had a hard time falling asleep last night but woke up early
 * Abs/Pull-ups were tough but got through it
+* Progress pic today
 * Not productive w/ code again, too much reading
 --> Start coding again, implement what you've learned!
 
@@ -44,7 +44,7 @@ Diet: 1850
 * Pork Ribs (700) + Carrots (50) = 750
 * Protein Powder (120)
 
-Exercise: Lift
+Exercise: Lift, Jiu-Jitsu
 * Crazy 8s: 3x75 Day 4 (Complete)
 * Skulls: 3x75 Day 4 (Complete)
 * Squats: 5x195x5
@@ -134,7 +134,7 @@ Diet: 1725
 * Carrots (70)
 * Ice Cream (140) + Carrots (70)
 
-Exercise: Lift
+Exercise: Lift, Jiu-Jitsu
 * Crazy 8s: 5x75 Day 3 (Complete)
 * Skulls Crushers: 5x75 Day 3 (Complete)
 * Squats: 5x190x5 (Complete)
