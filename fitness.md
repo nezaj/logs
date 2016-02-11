@@ -14,6 +14,24 @@ Exercise: articles, stay on task
 Notes:
 *
 
+### Day 44 (Wednesday): 02/10/16
+Diet: 1790
+* Breaded Chicken (220) + BBQ Chicken (175)
+* Breaded Chicken (110) + Kung Pao (150)
+* Veggies (75) + Cottage CHeese (80)
+* Mandarins (105)
+* Cottage Cheese (80) + Mandarins (70)
+* Avocado (275) + Breaded Chicken (330)
+* Protein Powder (120)
+
+Exercise: Embarcadero Run, Jiu-Jitsu
+
+Notes:
+* Low energy and low productivity today
+* Not getting things done -> bad effect on mood
+* Focus on shipping code and getting through low calories
+* Remember, gotta make weight!!
+
 ### Day 43 (Tuesday): 02/09/16
 Diet: 1910
 * Friend Lunch (750)
