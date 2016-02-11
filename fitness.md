@@ -58,6 +58,41 @@ Notes:
 * --> Use howler timer for focus if you need to
 * --> don't slack/HN/read random articles, stay on task
 
+## Week 5:
+* Calories: 14320 (+240), ~2045 (+33)
+* Weigh-in: 152.2 (+1.0)
+* Abs:          |
+* Pull-ups:     ||
+* Lift:         ||
+* Jiu-Jitsu:    |||
+* Run:          ||
+* Rest:         ||
+
+Notes:
+
+**Diet**
+* Surprisingly, I ate more calories overall than last week
+* This is due to overeating on the weekend, Family Lunch especially
+* Did a good job eating clean during the week and not zig-zagging
+* However, must make sure I eat clean on the weekend too
+
+**Exercise**
+* Did some solid lift sessions this week
+* Good jiu-jitsu this week, focusing on technique for the tourney
+* Took an extra rest day because I didn't want to do pull-ups
+* Reset on pull-ups, current load was too much and I want to work back up
+* Do pull-ups first and then abs, but make sure you do abs!
+
+**Personal**
+* Weight went up this week, but I think this is due to water weight at weigh-in
+* Was productive with code, finished my goals, maybe should have set higher?
+* Feeling motivated with jiu-jitsu
+* Lots of interaction withf friends/family this week, felt nice
+
+**Takeaway**
+* Eat clean on weekends as well
+* Eat consistent amount of calories, feels better than zig-zagging
+
 ### Day 41 (Sunday): 02/07/16
 Diet: 2070
 * Mandarins (70)
