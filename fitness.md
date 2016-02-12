@@ -14,6 +14,30 @@ Exercise:
 Notes:
 *
 
+### Day 45 (Thursday): 02/11/16
+Diet: 2605
+* Mandarins (140) + Apple (80)
+* Breaded Chicken (220) + Turkey Balls (200)
+* Veggies (75) + Cottage Cheese (125)
+* BBQ Chicken (175) + Turkey Balls (200)
+* Protein Powder (120)
+* Protein Bar (210) + Cliff Bar (250)
+* Protein Powder (120) + Cottage Cheese (80)
+* Apple (80) + Mandarins (70)
+* Cottage Cheese (240) + Mandarins (70)
+* Apple (80) + Tomatoes (70)
+
+Exercise: Lift
+* Crazy 8s: 5x75 Day 5 (Complete)
+* Skulls: 5x75 Day 5 (Complete)
+* Bench: 5x170x5 (Complete)
+
+Notes:
+* Very low energy this morning, ate a bunch of fruit today
+* Lifted in the evening, super crowded, skipped aquats
+* Went a little over calories at first and then went hard
+  --> must keept to <1850
+
 ### Day 44 (Wednesday): 02/10/16
 Diet: 1790
 * Breaded Chicken (220) + BBQ Chicken (175)
