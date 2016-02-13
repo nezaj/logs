@@ -14,6 +14,24 @@ Exercise:
 Notes:
 *
 
+### Day 46 (Friday): 02/12/16
+Diet: 2145
+* Breaded Chicken (330) + Turkey Balls (150)
+* Veggies (75) + Mandarins (70)
+* Cottage Cheese (270) + Veggies (150)
+* 5.5 Protein Bars (1100)
+
+Exercise: Abs, Pull-ups, Jiu-Jitsu
+* Abs 21-25: Day 6 3 sets + 3 sets weighted (swithcing up)
+* Pull-ups 31-35: Day 3 (Complete)
+
+Notes:
+* Want to try switching up Ab routine, do weighted lifts instead
+* Super long Jiu-Jitsu class, went really well!
+* Got a bunch of protein bars in the mail, supposed to be for hackathon
+  and yet I binged on half of them...
+  --> Don't do that shit< you know better
+
 ### Day 45 (Thursday): 02/11/16
 Diet: 2605
 * Mandarins (140) + Apple (80)
