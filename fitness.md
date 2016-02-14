@@ -14,6 +14,20 @@ Exercise:
 Notes:
 *
 
+### Day 47 (Satuday): 02/13/16
+Diet: 2760
+* 6 Protein bars (1260)
+* Turkey/Avocado Sandwhich (400)
+* Pizza (400)
+* Breaded Chicken (400) + Fruits/Veggies (300)
+
+Exercise: Embarcadero Run
+
+Notes:
+* Participating in my first hackathon today!
+* Great morning run, lots of energy
+* Went over calories again, will cut down tomorrow
+
 ### Day 46 (Friday): 02/12/16
 Diet: 2145
 * Breaded Chicken (330) + Turkey Balls (150)
