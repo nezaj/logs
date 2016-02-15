@@ -14,6 +14,19 @@ Exercise:
 Notes:
 *
 
+### Day 48 (Sunday): 02/14/16
+Diet: 1380
+* Bagel + PB (500)
+* Half Burrito + Guac + Mandarin (500)
+* Ice Cream (380)
+
+Exercise: Embarcadero Run
+
+Notes:
+* Day two of the hackathon
+* Was super tired afterwards, took a long nap
+* Nice evening run
+
 ### Day 47 (Satuday): 02/13/16
 Diet: 2760
 * 6 Protein bars (1260)
