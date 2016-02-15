@@ -3,6 +3,8 @@ Fitness Log
 
 ## Take-aways
 * Eat clean, keep calories <1850 everyday
+* Don't buy sweets (ice-cream, candy, protein bars) in bulk
+* Ship code every working weekday to feel good
 
 ### Day
 Diet:
@@ -13,6 +15,49 @@ Exercise:
 
 Notes:
 *
+
+## Week 6:
+* Calories: 14440 (+120), ~2062 (+28)
+* Weigh-in: 150.0 (-2.2)
+* Abs:          ||
+* Pull-ups:     ||
+* Lift:         ||
+* Jiu-Jitsu:    |||
+* Run:          |||
+* Rest:
+
+Notes:
+
+**Diet**
+* Again, ate more calories this week than the previous one
+* The real culrpit this week was the box of protein bars I ordered
+* They were delicious, and I had zero control, ate 12 bars over two days
+* 12 bars -> Extra 2620, if I had eaten 3 instead would have cut ~2000/285cal avg
+* --> Don't buy protein bars in bulk, they're like candy/ice-cream and too tempting
+* Was able to stay clean for most of the week, but went over on Thursday
+* I noticed once I go a little bit over, I'm more willing to go over a lot
+* --> Keep calories <1850 every day, weekends included
+
+**Exercise**
+* Worked out everyday this week! No need for rest days :)
+* Solid Jiu-jitsu sessions
+* Solid lift sessions
+* Solid pull-ups/abs sessions, resetting was a good idea
+* For next week switch up abs to do weighted leg lifts
+* Look into VOx2 training for runs
+
+**Personal**
+* Was not productive with code during the week
+* Spent too much reading about tech that doesn't solve my current problems
+* This had a negative effect on mood for sure
+* --> Shipping code makes me feel better, strive to commit each weekday
+* Participated in my first hackathon!
+* Didn't get as much done as I wanted, but great learning experience
+
+**Takeaway**
+* Don't buy protein bars in bulk, they're like candy/ice-cream and too tempting
+* Keep calories <1850 every day, weekends included
+* Ship code every working weekday to feel good
 
 ### Day 48 (Sunday): 02/14/16
 Diet: 1380
