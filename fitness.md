@@ -16,6 +16,30 @@ Exercise:
 Notes:
 *
 
+### Day 49 (Monday): 02/15/16
+Diet: 1535
+* Protein Powder (120)
+* Mandarins (70) + Apple (80)
+* Breaded Chicken (220) + Meatballs (200)
+* Veggies (75) + Cottage Cheese (80)
+* Veggies (75) + Meatballs (200) + BBQ Chicken (175)
+* Ice Cream (240)
+
+Exercise: Lift, Embarcadero Run, Jiu-Jitsu
+* Crazy 8s: 5x75 Day 6 (Complete)
+* Skulls Crushers: 5x75 Day 6 (Complete)
+* Squats: 5x200x5 (Complete)
+* Bench: 5x175x5 (Complete)
+
+Notes:
+* Woke up early and took care of some personal chores
+* Great lift session, completed rx
+* Beautiful day, motivated to do another run
+* Triple workout
+* Low energy at Jiu-Jitsu, too much exericse today and not enough calories
+* Productive with code, good mood booster
+* Overall a good day, but be wary of over-exercise
+
 ## Week 6:
 * Calories: 14440 (+120), ~2062 (+28)
 * Weigh-in: 150.0 (-2.2)
