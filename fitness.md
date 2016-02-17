@@ -16,6 +16,26 @@ Exercise:
 Notes:
 *
 
+### Day 50 (Tuesday): 02/16/16
+Diet: 2115
+* Mandarins (70)
+* Turkey Balls (200) + Breaded Chicken (330)
+* BBQ Chicken (175)
+* Veggies (75)
+* Avocado (275) + Cottage Cheese (240)
+* Cottage Cheese (240) + Apple (80)
+* Breaded Chicken (220)
+* Cottage Cheese (160) + Carrots (50)
+
+
+Exercise: Rest day
+
+Notes:
+* Hard to fall asleep last night, woke up early enough though
+* Really low energy in the morning today, took some time off
+* Somewhat productive with code
+* Nice relaxing evening
+
 ### Day 49 (Monday): 02/15/16
 Diet: 1535
 * Protein Powder (120)
