@@ -16,6 +16,26 @@ Exercise:
 Notes:
 *
 
+### Day 51 (Wednesday): 02/17/16
+Diet: 2200
+* Breaded Chicken (330) + Meatballs (200)
+* Veggies (75)
+* Protein Powder (120)
+* Cottage Cheese (320) + Veggies (100)
+* BBQ Chicken (175) + Apple (80)
+* Breaded Chicken (200) + Meatballs (150)
+* Protein Powder (120)
+* Cottage Cheese (160) + Carrots (100) + Mandarins (70)
+
+Exercise: Pull-ups, Abs
+* Pull-ups 31-35: Day 4 (Complete)
+* Abs Crazy 8s: 5x7.5 Day 1 (Complete)
+
+Notes:
+* Good Pull-up session, Day 4 felt way easier this time around
+* Productive day of code!
+* Bit high on the calories
+
 ### Day 50 (Tuesday): 02/16/16
 Diet: 2115
 * Mandarins (70)
