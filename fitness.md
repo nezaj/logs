@@ -16,6 +16,64 @@ Exercise:
 Notes:
 *
 
+## Week 7 (Tahoe weekend)
+* Weigh-in:     150.2 (+0.2)
+* Abs:          |
+* Pull-ups:     |
+* Lift:         ||
+* Jiu-Jitsu:    |
+* Run:          ||
+* Snowboarding: ||
+* Rest:         |
+
+Notes:
+
+**Diet**
+* Diet was reasonable during the week
+* Overdid the calories during Tahoe
+* However, was able to buy/eat healthy food
+* Last week slipping up, going forward, will be strict
+
+**Exercise**
+* Good lifts and pull-up sessions
+* Good amount of running and snowboarding
+* Be careful with triple workouts, don't overdo it
+
+**Personal**
+* Productive with code!
+* Built/Deployed first one-day hack w/ Express/JS
+* Had a lot of fun at Tahoe this weekend
+* Did not bring latop / log during the weekend
+
+**Takeaway**
+* You can still eat healthy on trips, just buy the right things
+* Tournament is in 2 months -- must be strict and make weight
+
+### Tahoe: (Friday): 02/19/16 -> (Sunday): 02/21/16
+* Did not bring computer/logging on purpose
+* Did a bunch of exercise due to snowboarding/running
+* Ate a bunch of crap though like oreos, cookies, and gummy bears
+* Easily consumed ~4k calories each day
+
+### Day 52 (Thursday): 02/18/16
+Diet: 2155
+* Protein bar (210)
+* Breaded Chicken (220) + Meatballs (300)
+* Veggies (125) + Protein Powder (120)
+* Mandarins (210) + Apple (80)
+* Avocado (275) + Apple (80) + Veggies (35)
+* Tahoe Snacks (500)
+
+Exercise: Lift
+* Crazy 8s: 5x75 Day 7 (Complete)
+* Skulls Crushers: 5x75 Day 7 (Complete)
+* Squats: 5x205x5 (Complete)
+* Bench: 5x180x5 (Complete)
+
+Notes:
+* Finish lift rx, although was a bit tired. Feeling strong on all lifts
+* Left for Tahoe
+
 ### Day 51 (Wednesday): 02/17/16
 Diet: 2200
 * Breaded Chicken (330) + Meatballs (200)
@@ -46,7 +104,6 @@ Diet: 2115
 * Cottage Cheese (240) + Apple (80)
 * Breaded Chicken (220)
 * Cottage Cheese (160) + Carrots (50)
-
 
 Exercise: Rest day
 
