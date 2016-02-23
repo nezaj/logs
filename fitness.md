@@ -16,6 +16,24 @@ Exercise:
 Notes:
 *
 
+### Day 53 (Monday): 02/22/16
+Diet: 1690, 169g
+* BBQ Chicken (200) + Breaded Chicken (330), 53g
+* Veggies (75)
+* Protein Powder (120) + Mandarins (35), 24g
+* Protein Powder (120) + Apples (150), 24g
+* Halo Top (240), 24g
+* BBQ Chicken (200) + Breaded Chicken (220), 44g
+
+Exercise: Embarcadero Run, Jiu-Jitsu
+
+Notes:
+* Felt tired from the weekend
+* Great morning run
+* Did lots of chores today
+* A little low energy during Jiu-Jitsu
+* Overall decent day
+
 ## Week 7 (Tahoe weekend)
 * Weigh-in:     150.2 (+0.2)
 * Abs:          |
