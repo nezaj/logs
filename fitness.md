@@ -16,6 +16,28 @@ Exercise:
 Notes:
 *
 
+### Day 54 (Tuesday): 02/23/16
+Diet: 1955, 150g
+* Breaded Chicken (220) + Turkey balls (200), 42g
+* Egg whites (125) + Veggies (75), 25g
+* Mandarins (70)
+* Cottage Cheese (240) + Veggies (75) + Apple (120), 42g
+* BBQ Chicken (175), 16g
+* Protein Powder (120) + Beer (200), 24g
+* Carrots (100) + Apple (75) + Cottage Cheese (160), 26g
+
+Exercise: Lift
+* Crazy 8s: 5x80 Day 1 (Complete)
+* Skulls: 5x80 Day 1 (Complete)
+* Squats: 5x210 (Complete, Repeat)
+* Bench: 5x185 (Complete, Repeat)
+
+Notes:
+* Had a hard time falling asleep last night, woke up early though
+* Hard lift session, however, still made it!
+* Setup boilerplate for new React project, feeling pumped
+* Went out to celebrate a bday, still managed to keep things clean!
+
 ### Day 53 (Monday): 02/22/16
 Diet: 1690, 169g
 * BBQ Chicken (200) + Breaded Chicken (330), 53g
