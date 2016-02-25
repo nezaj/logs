@@ -16,6 +16,24 @@ Exercise:
 Notes:
 *
 
+### Day 55 (Wednesday): 02/23/16
+Diet: 1895, 181g
+* Breaded Chicken (330) + Turkey balls (200), 53g
+* Veggies (75)
+* Breaded Chicken (220) + Turkey balls (100), 32g
+* Cottage Cheese (80) + Apple (120) + Mandarins (140), 13g
+* Cottage Cheese (160) + Tomatoes (50) + Turkey Balls (300), 59g
+* Protein Powder (120), 24g
+
+Exercise: Pull-ups, Abs, Embarcadero Run
+* Pull-ups 31-35: Day 5 (Complete)
+* Abs: 5x10, (Reset to pull-up schedule)
+
+Notes:
+* Good night sleep
+* Tough pull session but made it, need to reset Abs, weight lifts not working
+* Was too tired for Jiu-Jitsu, went for a run instead
+
 ### Day 54 (Tuesday): 02/23/16
 Diet: 1955, 150g
 * Breaded Chicken (220) + Turkey balls (200), 42g
