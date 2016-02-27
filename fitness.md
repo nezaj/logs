@@ -16,7 +16,24 @@ Exercise:
 Notes:
 *
 
-### Day 55 (Wednesday): 02/23/16
+### Day 56 (Thursday): 02/25/16
+Diet: 4365, 148g
+* Breaded Chicken (330) + Turkey balls (200), 53g
+* Breaded Chicken (330) + Turkey balls (200), 53g
+* Veggies (75) + Mandarins (210) + Apple (120)
+* Cottage Cheese (240) + Apple (80), 42g
+* Veggies (75)
+* B&J Chocolate Therapy (1000) + Butterfinger (275) + Heath (230)
+* Kitkat (250) + Twix (250) + Snickers (250) + Payday (250)
+
+Exercise: Embarcadero Run
+
+Notes:
+* Good night sleep again
+* Super low energy again
+* Binged again, totally could have avoided it, must make up now
+
+### Day 55 (Wednesday): 02/24/16
 Diet: 1895, 181g
 * Breaded Chicken (330) + Turkey balls (200), 53g
 * Veggies (75)
