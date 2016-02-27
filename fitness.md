@@ -16,6 +16,25 @@ Exercise:
 Notes:
 *
 
+### Day 57 (Friday): 02/26/16
+Diet: 640, 77g
+* Veggies (100) + Apple (120) + Cottage Cheese (80), 13g
+* Protein Powder (120), 24g
+* Muscle Milk (220), 40g
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 5x80 Day 2 (Complete)
+* Skulls: 5x80 Day 2 (Complete)
+* Squats: 5x215 (Complete)
+* Bench: 5x190/185/185/190/185
+
+Notes:
+* Good night's sleep
+* Wasn't very hungry due to excess calories last night
+* Good lift session
+* Good jiu-jitsu session
+* Much more positive attitude today, might be due to sugar increase
+
 ### Day 56 (Thursday): 02/25/16
 Diet: 4365, 148g
 * Breaded Chicken (330) + Turkey balls (200), 53g
