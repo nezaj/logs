@@ -16,6 +16,25 @@ Exercise:
 Notes:
 *
 
+### Day 58 (Saturday): 02/27/16
+Diet: 3005, 98g
+* Apple (120) + Carrots (80) + Egg whites (125), 25g
+* Halo Top (180) + Veggies/Fruit (200), 18g
+* Burrito (1000) + 2 Twix (500) + Snickers (250)
+* Breaded Chicken (550), 55g
+
+Exercise: Pull-ups
+* Pull-ups 31-35: Day 6 (Complete)
+
+Notes:
+* Good night sleep again
+* Felt strong on pull-ups, lazy with abs
+* Super fun day, hung out with friends
+* Ate burrito after going out and just lost control after
+* Honestly, am disappointed with myself, did not want to log this
+* Will make up Sunday, at this point, I can't afford any slips
+* If I want to make weight, I must be committed -- let's make this happen
+
 ### Day 57 (Friday): 02/26/16
 Diet: 640, 77g
 * Veggies (100) + Apple (120) + Cottage Cheese (80), 13g
