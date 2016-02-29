@@ -16,6 +16,19 @@ Exercise:
 Notes:
 *
 
+### Day 59 (Sunday): 02/28/16
+Diet: 1820, 120g
+* Protein Bar (280), 20g
+* Mandarins (210) + Carrots (80)
+* Friend BBQ (1200) + Veggies (50), 100g
+
+Exercise: Embarcadero Run, Skate session
+
+Notes:
+* Good night sleep again
+* Fun skype session :D
+* Another fun day with friends
+
 ### Day 58 (Saturday): 02/27/16
 Diet: 3005, 98g
 * Apple (120) + Carrots (80) + Egg whites (125), 25g
