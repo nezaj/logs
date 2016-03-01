@@ -16,6 +16,25 @@ Exercise:
 Notes:
 *
 
+### Day 60 (Monday): 02/29/16
+Diet: 1460, 107g
+* Breaded Chicken (330) + Turkey Balls (200), 53g
+* Veggies (75) + Mandarins (140) + Apple (120)
+* BBQ Chicken (200) + Turkey Balls (200), 40g
+* Veggies (75)
+* Protein Powder (120), 24g
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 5x80 Day 3 (Complete)
+* Skulls: 5x80 Day 3 (Complete)
+* Bench: 5x190
+
+Notes:
+* Good night sleep
+* Unfocused during lift, skipped squats
+* Solid 3-4 hours of work today
+* Decent Jiu-Jitsu session
+
 ### Day 59 (Sunday): 02/28/16
 Diet: 1820, 120g
 * Protein Bar (280), 20g
