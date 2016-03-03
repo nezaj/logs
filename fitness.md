@@ -16,6 +16,21 @@ Exercise:
 Notes:
 *
 
+### Day 62 (Wednesday): 03/02/16
+Diet: 2010, 87g
+* Carrots (70)
+* Ramen (1000) + Fried Chicken (150), 15g
+* Protein Bar (300), 30g
+* Cottage Cheese (240) + Strawberries (150) + Carrots (100), 42g
+
+Exercise: Embarcadero Run, Jiu-Jitsu
+
+Notes:
+* Good sleep
+* Yummy lunch
+* Good jiu-jitsu session
+* Good productivity
+
 ### Day 61 (Tuesday): 03/01/16
 Diet: 2490, 141g
 * Roast Beef Sandwhich and Salad (850), 50g
