@@ -16,6 +16,25 @@ Exercise:
 Notes:
 *
 
+### Day 61 (Tuesday): 03/01/16
+Diet: 2490, 141g
+* Roast Beef Sandwhich and Salad (850), 50g
+* Coconut water (80)
+* Egg whites (120) + Veggies (75), 20g
+* Strawberries (150)
+* Veggies (75) + Cottage Cheese (80), 13g
+* Breaded Chicken (330) + Turkey Balls (250), 58g
+* Mandarins (70)
+* Fruits (150)
+* Cottage Cheese (160) + Carrots (100)
+
+Exercise: Rest Day
+
+Notes:
+* Couldn't sleep, got up around 5am
+* Body aches and exhausted throughout day, took several naps
+* Moderate productivity
+
 ### Day 60 (Monday): 02/29/16
 Diet: 1460, 107g
 * Breaded Chicken (330) + Turkey Balls (200), 53g
