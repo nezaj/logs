@@ -16,6 +16,41 @@ Exercise:
 Notes:
 *
 
+### Day 65 (Saturday): 03/05/16
+Diet: 2000, 135g
+* Salad (400) + Cliff Bars (500), 30g
+* Protein Powder (240) + Apple (120), 48g
+* Veggies (200) + Mandarins (70)
+* Breaded Chicken (220) + Turkey Balls (250), 47g
+
+Exercise: Lift
+* Crazy 8s: 5x80 Day 4 (Complete)
+* Skulls: 5x80 Day 4 (Complete)
+* Squats: 2x215 (Go down in weight )
+* Bench: 5x185
+
+Notes:
+* Hung out with friends whole day, super chill
+* Didn't eat enough earlier in day, lifts suffered
+* Need to reset weight on squats, my form is no bueno
+
+### Day 64 (Friday): 03/04/16
+Diet: 2000, 176g
+* Cottage Cheese (240) + Carrots (100), 42g
+* Breaded Chicken (220) + Turkey Balls (200), 42g
+* 2 Eggwhites (250) + Mandarins (100) + Vegges (200), 50g
+* Cottage Cheese (270) + Apple (120), 42g
+* Veggies (300)
+
+Exercise: Stairmaster
+
+Notes:
+* Ate super early in the morning after going out, no bueno
+* Good sleep
+* Woke up feeling a little sick tho, gotta fight it
+* Killer stairmaster workout, pushed hard!
+* Stoked to have Shah visiting
+
 ### Day 63 (Thursday): 03/03/16
 Diet: 1830, 97g
 * Egg whites (120) + Apple (120) + Veggies (75), 20g
