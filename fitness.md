@@ -16,6 +16,25 @@ Exercise:
 Notes:
 *
 
+### Day 63 (Thursday): 03/03/16
+Diet: 1830, 97g
+* Egg whites (120) + Apple (120) + Veggies (75), 20g
+* Veggies (75) + Mandarins (70)
+* Protein Powder (120), 24g
+* Breaded Chicken (330) + Turkey Balls (200), 53g
+* Apple (120) + Carrots (100)
+* Strawberries (150)
+* 2 Beers (350)
+
+Exercise: Pull-ups
+* Pull-ups 31-35: Day 7 (Complete)
+
+Notes:
+* Okay sleep
+* Productive morning
+* Felt strong on pull-ups
+* Super fun night
+
 ### Day 62 (Wednesday): 03/02/16
 Diet: 2010, 87g
 * Carrots (70)
