@@ -123,6 +123,37 @@ Notes:
 * Solid 3-4 hours of work today
 * Decent Jiu-Jitsu session
 
+## Week 8
+* Diet:         ~2196 (+134), ~135g
+* Weigh-in:     N/A
+* Abs:          |
+* Pull-ups:     ||
+* Lift:         ||
+* Jiu-Jitsu:    ||
+* Run:          ||||
+* Rest:         N/A
+
+Notes:
+
+**Diet**
+* Had a harder time coping with lower sugar too
+* Lost control and binged at night, messed up my calories big time
+* --> Include more simple sugars in diet (strawberries, apples, mandarins)
+* --> Don't eat late, easy way to cut calories
+
+**Exercise**
+* No rest days!
+* Lower sugar made workouts a bit tougher, especially for jiu-jitsu
+
+**Personal**
+* Slept better this week
+* Spent more time with friends
+* Decent amount of code done, not too much but not too little
+* Lower energy during jiu-jitsu, probably because of sugar decrease
+
+**Takeaway**
+* Don't eat late, easy way to cut calories
+
 ### Day 59 (Sunday): 02/28/16
 Diet: 1820, 120g
 * Protein Bar (280), 20g
