@@ -2,8 +2,9 @@ Fitness Log
 ## Goal: Make weight (141.5) for jiu-jitsu tournament on 04/24/16
 
 ## Take-aways
-* Eat clean, keep calories <1850 everyday
+* Eat clean, keep calories ~1850 +/- 20%
 * Don't buy sweets (ice-cream, candy, protein bars) in bulk
+* Don't eat late, make up calories the next day
 * Ship code every working weekday to feel good
 
 ### Day
