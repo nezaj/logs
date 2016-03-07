@@ -16,6 +16,40 @@ Exercise:
 Notes:
 *
 
+## Week 9 (147.6)
+* Diet:         ~1911 (-285), 131g (-4)
+* Abs:          N/A
+* Pull-ups:     |
+* Lift:         ||
+* Jiu-Jitsu:    ||
+* Run:          ||
+* Stairmaster:  |
+* Rest:         |
+
+Notes:
+* Overall a good week
+
+**Diet**
+* Much cleaner diet this week
+* No binge days!
+* Noticed I eat extra calories at night, thankfully they were clean this week
+* --> Don't eat late, better to make up the calories the next day
+
+**Exercise**
+* Decent lifts/cardio, skipped abs/squats/pull-ups
+* Need to reset squats, form is bad -> 5x185
+* Need to reset abs, didn't go once this week -> 21-25: Day 1
+* I've missed at least one Jiu-Jitsu session 3 weeks in a row now
+* --> Let's be perfect this week, come MWF
+
+**Personal**
+* Good sleep this week
+* Hung out a bunch with friends/family
+* Decent productivity, jumped right into interviewing
+
+**Takeaway**
+* Don't eat late, make up calories the next day
+
 ### Day 66 (Sunday): 03/06/16
 Diet: 1590, 175g
 * Carrots (35) + Protein Powder (240), 50g
