@@ -16,6 +16,23 @@ Exercise:
 Notes:
 *
 
+### Day 66 (Sunday): 03/06/16
+Diet: 1590, 175g
+* Carrots (35) + Protein Powder (240), 50g
+* Tofu (120), 16g
+* Indian food, clean (850), 85g
+* Mandarins (105)
+* Halo Top (240), 24g
+
+Exercise: Embarcadero Run
+
+Notes:
+* Woke up early, had enough energy to get things done
+* Nice family lunch
+* Nice time hanging with friends
+* Overall super chill day
+* Resisted indulging several times -- especially at night!
+
 ### Day 65 (Saturday): 03/05/16
 Diet: 2000, 135g
 * Salad (400) + Cliff Bars (500), 30g
