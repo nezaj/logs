@@ -17,6 +17,22 @@ Exercise:
 Notes:
 *
 
+### Day 67 (Monday): 03/07/16
+Diet: 1890, 163g
+* BBQ Chicken (350) + Breaded Chicken (200), 55g
+* Veggies (75) + Apple (100) + Mandarin (100)
+* Tofu (180) + Strawberries (150), 24g
+* Breaded Chicken (330), 33g
+* Egg Whites (125) + Cottage Cheese (160), 51g
+* Apple (120)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Decent sleep
+* Not productive, made me feel tired
+* Okay Jiu-Jitsu session
+
 ## Week 9 (147.6)
 * Diet:         ~1911 (-285), 131g (-4)
 * Abs:          N/A
