@@ -17,6 +17,23 @@ Exercise:
 Notes:
 *
 
+### Day 68 (Tuesday): 03/08/16
+Diet: 2355, 93g
+* Oats (200) + Cottage Cheese (120), 20g
+* Breaded Chicken (200) + Turkey Balls (250), 45g
+* Veggies (125) + Strawberries (150)
+* Apple (120) + Tofu (60), 8g
+* Cliff bar (280), 20g
+* Ramen (850)
+
+Exercise: Rest day
+
+Notes:
+* Good sleep
+* Watching too much Netflix, House of cards!!
+* Not productive, again negative effect
+* Nice dinner with friends
+
 ### Day 67 (Monday): 03/07/16
 Diet: 1890, 163g
 * BBQ Chicken (350) + Breaded Chicken (200), 55g
