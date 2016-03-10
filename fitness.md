@@ -17,6 +17,25 @@ Exercise:
 Notes:
 *
 
+### Day 69 (Wednesday): 03/09/16
+Diet: 2310, 187g
+* Eggwhites (125) + Cottage Cheese (160), 51g
+* Veggies (75) + Apple (120) + Mandarins (120)
+* Strawberries (150)
+* Oats (200) + Cottage Cheese (160) + Carrots (50), 33g
+* Breaded Chicken (330) + Turkey Balls (250), 58g
+* Breaded Chicken (200) + Turkey Balls (250), 45g
+* Protein Powder (120)
+
+Exercise: Embarcadero Run
+
+Notes:
+* Good sleep
+* Decent run, legs felt much better
+* Finished House of Cards, thankfully
+* Ate too much breaded chicken/turkey, noticed it makes me sleepy
+* Good Jiu-Jitsu session, started focusing on flow
+
 ### Day 68 (Tuesday): 03/08/16
 Diet: 2355, 93g
 * Oats (200) + Cottage Cheese (120), 20g
