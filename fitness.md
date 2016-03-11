@@ -17,6 +17,28 @@ Exercise:
 Notes:
 *
 
+### Day 70 (Thursday): 03/10/16
+Diet: 2165, 181g
+* Oats (150) + Protein Powder (60), 17g
+* Oats (150) + Cottage Cheese (100), 20g
+* Carrots (35)
+* Oats (200) + Egg Whites (125), 30g
+* Mandarins (105)
+* Stawberries (150) + Cottage Cheese (100), 15g
+* Carrots (50) + Apple (80) + Cottage Cheese (100), 15g
+* Breaded Chicken (440) + Turkey Balls (250), 69g
+* Protein Powder (120), 25g
+
+Exercise: Pull-ups
+* Pull-ups 31-35: Day 8 (Complete)
+
+Notes:
+* Decent sleep
+* Moderate productivity
+* Tough pull-up session, took a week off
+* Feeling very full from calories, will decrease tomorrow
+* Chill night playing video games with friends
+
 ### Day 69 (Wednesday): 03/09/16
 Diet: 2310, 187g
 * Eggwhites (125) + Cottage Cheese (160), 51g
@@ -27,7 +49,7 @@ Diet: 2310, 187g
 * Breaded Chicken (200) + Turkey Balls (250), 45g
 * Protein Powder (120)
 
-Exercise: Embarcadero Run
+Exercise: Embarcadero Run, Jiu-Jitsu
 
 Notes:
 * Good sleep
