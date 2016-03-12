@@ -17,6 +17,23 @@ Exercise:
 Notes:
 *
 
+### Day 71 (Friday): 03/11/16
+Diet: 535, 90g
+* Protein Powder (120), 25g
+* Eggwhites (120) + Veggies (75), 20g
+* Protwin Powder (120), 25g
+* Muscle Milk (100), 20g
+
+Exercise: Stairmaster, Jiu-Jitsu
+
+Notes:
+* Great sleep
+* Low calories day
+* No coding
+* Tough mentally, felt good though
+* Good Jiu-Jitu session
+* Spa after jiu-jitsu, I think good for recovery?
+
 ### Day 70 (Thursday): 03/10/16
 Diet: 2165, 181g
 * Oats (150) + Protein Powder (60), 17g
