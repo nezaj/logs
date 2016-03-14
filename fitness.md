@@ -17,6 +17,20 @@ Exercise:
 Notes:
 *
 
+### Day 73 (Sunday): 03/13/16
+Diet: 1060, 115g
+* Whole Foods (800), 100g
+* Egg whites (60) + Veggies (100) + Fruit (100), 15g
+
+Exercise: Rest Day
+
+Notes:
+* Great sleep
+* Woke up late
+* Not hungry today, probably due to all the cals from previous day
+* Chilling/coding with friends
+* Productive day
+
 ### Day 72 (Saturday): 03/12/16
 Diet: 2880, 236g
 * Oats (150) + Cottage Cheese (160), 31g
@@ -30,7 +44,7 @@ Diet: 2880, 236g
 * Egg whites (120), 24g
 * Twix (250)
 
-Exercise:
+Exercise: Rest Day
 
 Notes:
 * Decent sleep
@@ -39,6 +53,7 @@ Notes:
 * --> Low cals + hard jiu-jitsu is a bad mix for the next day
 * Noticed eating strawberries makes me very cold
 * --> Don't buy frozen strawberries anymore, only eat oats during day
+* Productive with code in evening
 
 ### Day 71 (Friday): 03/11/16
 Diet: 535, 90g
