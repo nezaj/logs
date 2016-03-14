@@ -17,6 +17,29 @@ Exercise:
 Notes:
 *
 
+### Day 72 (Saturday): 03/12/16
+Diet: 2880, 236g
+* Oats (150) + Cottage Cheese (160), 31g
+* Veggies (75) + Apple (40)
+* Turkey Balls (300) + Breaded Chicken (330), 63g
+* Protein Powder (120), 25g
+* Carrots (35) + Apple (40)
+* Oats (300) + Cottage Cheese (240), 49g
+* Strawberries (150)
+* Oats (300) + Cottage Cese (240), 49g
+* Egg whites (120), 24g
+* Twix (250)
+
+Exercise:
+
+Notes:
+* Decent sleep
+* Super hungry in the morning
+* Very low energy, took a massive nap
+* --> Low cals + hard jiu-jitsu is a bad mix for the next day
+* Noticed eating strawberries makes me very cold
+* --> Don't buy frozen strawberries anymore, only eat oats during day
+
 ### Day 71 (Friday): 03/11/16
 Diet: 535, 90g
 * Protein Powder (120), 25g
