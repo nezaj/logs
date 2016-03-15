@@ -17,10 +17,32 @@ Exercise:
 Notes:
 *
 
+### Day 74 (Monday): 03/14/16
+Diet: 1870, 150g
+* Oats (150) + Cottage Cheese (160) + Banana (100), 31g
+* Oats (150) + Yogurt (130), 23g
+* Tofu (140) + Carrots (50), 16g
+* Breaded Chicken (440), 40g
+* Carrots (100)
+* Halo Top (240), 24g
+* Carrots (70) + Tofu (140), 16g
+
+Exercise: Pull-ups, Abs, Jiu-Jitsu
+* Pull-ups 31-35: Day 9 (Repeat)
+* Abs: 21-25: Day 2 (Complete)
+
+Notes:
+* Decent sleep, but woke up early
+* Lots of chores today
+* Feeling excited about diet additions
+* Good jiu-jitsu session
+
 ### Day 73 (Sunday): 03/13/16
-Diet: 1060, 115g
+Diet: 1870, 115g
 * Whole Foods (800), 100g
 * Egg whites (60) + Veggies (100) + Fruit (100), 15g
+* Cottage Cheese (240) + Oats (450), 57g
+* Carrots (120)
 
 Exercise: Rest Day
 
