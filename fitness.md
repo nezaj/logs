@@ -17,6 +17,24 @@ Exercise:
 Notes:
 *
 
+### Day 75 (Tuesday): 03/15/16
+Diet: 2200, 154g
+* Oats (150) + Cottage Cheese (160) + Banana (100), 31g
+* Yogurt (120) + Veggies (100), 22g
+* Mandarins (220) + Turkey Balls (300), 36g
+* Protein Powder (120), 25g
+* Marlowe Burger and Fries (850), 40g
+* Beer (175) + Whisky (125)
+
+Exercise: Embarcadero Run
+
+Notes:
+* Decent sleep
+* Finished Effective JS
+* Not productive
+* Nice chat with sis
+* Fun evening with friends
+
 ### Day 74 (Monday): 03/14/16
 Diet: 1870, 150g
 * Oats (150) + Cottage Cheese (160) + Banana (100), 31g
