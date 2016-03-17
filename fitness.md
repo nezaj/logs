@@ -17,6 +17,24 @@ Exercise:
 Notes:
 *
 
+### Day 76 (Wednesday): 03/16/16
+Diet: 1620, 190g
+* Oats (150) + Yogurt (130) + Banana (100), 28g
+* Veggies (100)
+* Crunch Protein bar (190), 16g
+* Turkey Balls (300) + BBQ Chicken (175), 55g
+* Veggies (75) + Tofu (120), 16g
+* Eggwhites (120) + Cottage Cheese (160), 50g
+* Protein Powder (120), 25g
+
+Exercise: Embarcadero Run
+
+Notes:
+* Dehydrated this morning
+* Needed to get extra sleep, just felt totally unproductive
+* Good Jiu-Jitsu session
+* More productive in the evening
+
 ### Day 75 (Tuesday): 03/15/16
 Diet: 2200, 154g
 * Oats (150) + Cottage Cheese (160) + Banana (100), 31g
