@@ -17,8 +17,29 @@ Exercise:
 Notes:
 *
 
+### Day 77 (Thursday): 03/17/16
+Diet: 2260, 150g
+* Oats (170) + Cottage Cheese (160) + Banana (100), 32g
+* Oats (170) + Cottage Cheese (160) + Protein Powder (60), 44g
+* BBQ Chicken (350) + Veggies (100) + Tofu (70), 48g
+* Mandarins (210) + Twix (250)
+* Veggies (100) + Fruits (150)
+* Carrots (50) + Cottage Cheese (160), 26g
+
+Exercise: Pull-ups, Abs
+* Pull-ups 31-35: Day 9 (Complete)
+* Abs 21-25: Day 3 (Complete)
+
+Notes:
+* Great sleep
+* Good pull-up session, felt strong!
+* Lagged a bit on abs, be more focused
+* Cleaned apt, finally
+* YC talk with Kam
+* Not productive with code
+
 ### Day 76 (Wednesday): 03/16/16
-Diet: 1620, 190g
+Diet: 1740, 190g
 * Oats (150) + Yogurt (130) + Banana (100), 28g
 * Veggies (100)
 * Crunch Protein bar (190), 16g
