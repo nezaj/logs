@@ -17,6 +17,24 @@ Exercise:
 Notes:
 *
 
+### Day 78 (Friday): 03/18/16
+Diet: 2680, 163g
+* Catered Lunch (700), 70g
+* Mie goreng (400) + Turkey Balls (350), 42g
+* Protein Powder (120) + Veggies (100), 25g
+* Ramen (750)
+* Cottage Cheese (160) + Veggies (100), 26g
+
+Exercise: Stairmaster, Jiu-Jitsu
+
+Notes:
+* Great sleep
+* Full day interview, went well
+* Good jiu-jitsu session
+* Fun dinner with jiu-jitsu crew
+* Long but productive day!
+* High calorie day, felt good though
+
 ### Day 77 (Thursday): 03/17/16
 Diet: 2260, 150g
 * Oats (170) + Cottage Cheese (160) + Banana (100), 32g
