@@ -3,6 +3,7 @@ Fitness Log
 
 ## Take-aways
 * Eat clean, keep calories ~1850 +/- 20%
+* Make sure to eat enough on Jiu-Jitsu days to properly recover next day
 * Don't buy sweets (ice-cream, candy, protein bars) in bulk
 * Don't eat late, make up calories the next day
 * Ship code every working weekday to feel good
@@ -125,6 +126,46 @@ Notes:
 * Feeling excited about diet additions
 * Good jiu-jitsu session
 
+## Week 10
+* Diet:         ~2001 (+90), 152g (+21)
+* Abs:
+* Pull-ups:     |
+* Lift:
+* Jiu-Jitsu:    |||
+* Run:          |
+* Stairmaster:  |
+* Rest:         |||
+
+Notes:
+* Not productive week, House of cards came out, negative impact on energy
+* Ate more throughout the week, felt like I needed more calories
+* Exercised less but I did manage to perform better in Jiu-Jitsu
+
+**Diet**
+* No real binges again, ate fairly clean
+* Couple higher calorie days, too little energy during the day
+* Noticed that too much turkey/breaded-chicken makes me sleepy
+--> Don't overdo animal protein intake, otherwise I become sleepy
+* Low calories day on Friday was bad for next day
+--> Make sure to eat enough on Jiu-Jitsu days to properly recover next day
+
+**Exercise**
+* Much less exercise this week
+* Did do jiu-jitsu 3x a week though!
+* However, I have been coming late to class, no bueno, change this
+* In general had lower energy this week during day
+* Good energy during jiu-jitsu though
+
+**Personal**
+* Slept well overall
+* Binged on House of cards, lowered overall productivity
+* More productive on weekend
+* Fun week hanging out with friends, chilled tues/thurs/fri/sat/sun
+
+**Takeaways**
+* Don't overdo animal protein intake, otherwise I become sleepy
+* Make sure to eat enough on Jiu-Jitsu days to properly recover next day
+
 ### Day 73 (Sunday): 03/13/16
 Diet: 1870, 115g
 * Whole Foods (800), 100g
@@ -169,7 +210,7 @@ Notes:
 Diet: 535, 90g
 * Protein Powder (120), 25g
 * Eggwhites (120) + Veggies (75), 20g
-* Protwin Powder (120), 25g
+* Protein Powder (120), 25g
 * Muscle Milk (100), 20g
 
 Exercise: Stairmaster, Jiu-Jitsu
