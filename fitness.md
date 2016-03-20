@@ -17,6 +17,19 @@ Exercise:
 Notes:
 *
 
+### Day 79 (Saturday): 03/19/16
+Diet: 2500
+* Dark chocolate (700) + Yogurt (100) + Banana (100)
+* Friend Dinner (1600)
+
+Exercise: Stairmaster
+
+Notes:
+* Great sleep
+* Fun Weave meeting
+* Bought a couple of varietes of chocolate, sampled them all
+* Fun dinner with friends
+
 ### Day 78 (Friday): 03/18/16
 Diet: 2680, 163g
 * Catered Lunch (700), 70g
