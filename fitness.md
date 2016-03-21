@@ -18,10 +18,29 @@ Exercise:
 Notes:
 *
 
+### Day 80 (Sunday): 03/20/16
+Diet: 1700, 161g
+* Protein Powder (240), 50g
+* Dark Chocolate (200)
+* Yogurt (340) + Carrots (160), 51g
+* Breaded Chicken (660) + Fruits (100), 60g
+
+Exercise: Pull-ups, Abs
+* Pull-ups Max Effort: 42
+* Abs 21-25: Day 4 (Complete)
+
+Notes:
+* Okay sleep
+* Fasting today to offset excess calories from this week
+* Felt strong on pull-ups
+* Hung out with Kam all day
+* Submitted YC app!
+* Ended up not holding the fast, ate a bunch in the evening, but kept it clean
+
 ### Day 79 (Saturday): 03/19/16
-Diet: 2500
+Diet: 2500, 50g
 * Dark chocolate (700) + Yogurt (100) + Banana (100)
-* Friend Dinner (1600)
+* Friend Dinner (1600), 50g
 
 Exercise: Stairmaster
 
@@ -80,7 +99,7 @@ Diet: 1740, 190g
 * Eggwhites (120) + Cottage Cheese (160), 50g
 * Protein Powder (120), 25g
 
-Exercise: Embarcadero Run
+Exercise: Embarcadero Run, Jiu-Jitsu
 
 Notes:
 * Dehydrated this morning
