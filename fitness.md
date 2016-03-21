@@ -18,6 +18,45 @@ Exercise:
 Notes:
 *
 
+## Week 11 (147.0)
+* Diet:         2136 (+135), 137g (-15g)
+* Abs:          |||
+* Pull-ups:     |||
+* Lift:
+* Jiu-Jitsu:    |||
+* Run:          ||
+* Stairmaster:  ||
+* Rest:
+
+Notes:
+* Clean diet, lots of cardio/exercise, good sleep, very social
+
+**Diet**
+* Very lax with diet this week, made me need to fast
+* Adding more things to diet like yogurt and dark chocolate, I think this is good
+
+**Exercise**
+* Overall, good exercise this week
+* Again went to jiu-jitsu 3x a week!
+* No rest days!
+* Started doing abs again, lots of pull-ups as well
+* Have not lifted 2 weeks now, was a little injured before
+* Lots of cardio this week (2x runs, 2x stairmaster)
+* For this next month, want to focus more on lifting/strength for the tournament
+
+**Personal**
+* Good sleep this week
+* Not productive with code again, didn't study as hard I could
+--> For these next two weeks, up your interview prep game, due lots of CTCI
+* However, am making progress with Kam on YC
+* Went to showdown with Bryan, Shane and Kam, pretty chill
+* Felt unproductive after drinking on Tuesday though, no bueno
+* Great dinner/chill session with Jiu-Jitsu crew for Sasha's bday
+* Fun Weave meeting
+* Hosted a friend dinner, lots of fun
+
+**Takeaways**
+
 ### Day 80 (Sunday): 03/20/16
 Diet: 1700, 161g
 * Protein Powder (240), 50g
