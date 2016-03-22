@@ -18,6 +18,32 @@ Exercise:
 Notes:
 *
 
+### Day 81 (Monday): 03/21/16
+Diet: 3815, 164g
+* Protein Bar (210), 20g
+* Oats (170) + Yogurt (120) + Banana (100) + Protein Podwer (30), 33g
+* Dark Chocolate (280)
+* Oats (80) + Cottage Cheese (100), 17g
+* Breaded Chicken (330), 30g
+* Carrots (105)
+* Tofu (140)
+* Halo Top (240), 24g
+* 2 Cliff bars (500) Twix (250) + Snickers (250) + TJ Chcolate (280)
+* Breaded Chicken (300) + Turkey Balls (250) + Yogurt (100), 40g
+
+Exercise: Light Lift
+* Crazy 8s: 3x80x8
+* Skulls: 3x80x8
+* Bechn: 3x185x5
+
+Notes:
+* Woke up super early, like 4:30am
+* Felt super tired by 9am
+* Not focused in the gym
+* Busy day with interviews
+* Skipped Jiu-Jitsu, ran into old-coworkers, was fun to hang out with
+* Late night binge
+
 ## Week 11 (147.0)
 * Diet:         2136 (+135), 137g (-15g)
 * Abs:          |||
