@@ -18,6 +18,19 @@ Exercise:
 Notes:
 *
 
+### Day 82 (Tuesday): 03/22/16
+Diet: 220, 24g
+* Egg whites (120) + Veggies (100)
+
+Exercise: Embarcadero Run x 2
+
+Notes:
+* Sluggish in morning due to excess calories
+* Felt much better after morning run
+* Good interview
+* Chill evening hanging with friends
+* Fasted for the day and did double runs to cleanse some anxiety/excitement
+
 ### Day 81 (Monday): 03/21/16
 Diet: 3815, 164g
 * Protein Bar (210), 20g
