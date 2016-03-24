@@ -18,6 +18,30 @@ Exercise:
 Notes:
 *
 
+### Day 83 (Wednesday): 03/23/16
+Diet: 2340, 200g
+* Oats/Cottage/Banana/Powder (410), 38g
+* Carrots (160) + Banana (50)
+* Egg whites (120) + Yogurt (100), 28g
+* Apple (70) + Mandarins (70) + Yogurt (120), 22g
+* Turkey Balls (250) + Breaded Chicken (220), 47g
+* Banana (100) + Yougrt (120), 22g
+* Oats (200) + Cottage Cheese (200) + Powder (30), 43g
+* Protein Powder (120)
+
+Exercise: Jiu-Jitsu, Pull-ups
+* Pull-ups 36-40: Day 1 (Repeat)
+
+Notes:
+* Great sleep
+* Woke up feeling good, fast worked well from previous day
+* Felt tired again from breaded chicken + turkey combo
+--> Happened couple times now, remove breaded chicken from diet
+* Consumed more calories, probably due to extra hunger from previous day
+* Great jiu-jitsu session, extra calories definitely help
+--> Again, I'm thankful for picking up jiu-jitsu, really good for me.
+* Did an ad-hoc pull-up session at 24 after, definitely much harder when tired
+
 ### Day 82 (Tuesday): 03/22/16
 Diet: 220, 24g
 * Egg whites (120) + Veggies (100)
