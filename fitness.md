@@ -18,6 +18,21 @@ Exercise:
 Notes:
 *
 
+### Day 84 (Thursday): 03/24/16
+Diet: 1570, 116g
+* Egg whites (120) + Cottage Cheese (80) + Veggies (100), 43g
+* Yogurt (150) + Carrots (150), 7g
+* Banana (100) + Mandarins (140) + Breaded Chicken (330), 30g
+* Turkey Balls (300) + Carrots (100) 400, 36g
+
+Exercise: Embarcadero Run
+
+Notes:
+* Good sleep
+* Moderate productivity
+* Chill day
+* Felt hungrier at night, managed to keep it under control
+
 ### Day 83 (Wednesday): 03/23/16
 Diet: 2340, 200g
 * Oats/Cottage/Banana/Powder (410), 38g
