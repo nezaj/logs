@@ -18,6 +18,24 @@ Exercise:
 Notes:
 *
 
+### Day 85 (Friday): 03/25/16
+Diet: 1930, 106g
+* Quiche (600) + Salad (150)
+* Cliff Bar (270) + Enlighted Ice Cream (320), 48g
+* Oats (170) + Cottage Cheese (160), 34g
+* Apples (140)
+* Protein Powder (120), 24g
+
+Exercise: Pull-ups, Stairmaster, Jiu-Jitsu
+* Pull-ups 36-40: Day 1 (Complete)
+
+Notes:
+* Hard time falling asleep, I think due to herbal tea
+* Good morning workout
+* Long day of interviews
+* Great Jiu-Jitsu session
+* Chill evening
+
 ### Day 84 (Thursday): 03/24/16
 Diet: 1570, 116g
 * Egg whites (120) + Cottage Cheese (80) + Veggies (100), 43g
