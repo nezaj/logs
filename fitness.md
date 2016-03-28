@@ -18,6 +18,43 @@ Exercise:
 Notes:
 *
 
+### Day 86 (Sunday): 03/27/16
+Diet: 3880, 162g
+* Yogurt (120) + Protein Powder (120), 47g
+* Oats (170) + Yogurt (120) + Banana (100), 30g
+* BBQ Chicken (350) + Dark Chocolate (300), 40g
+* Oats (200) + Protein Bars (450) + Nuts (200), 45g
+* Ramen (750)
+* Dark Chocolate (1000)
+
+Exercise: Stairmaster
+
+Notes:
+* Chill day, hung out with friends and studied
+* Another big calorie day
+* Ate so much felt sick!
+
+### Day 86 (Saturday): 03/26/16
+Diet: 5145, 141g
+* Bi-rite ice cream (500)
+* Oats (170) + Cottage Cheese (160) + Banana (100), 34g
+* Dark Chocolate (400)
+* Carrots (100)
+* Greek Yogurt (240), 42g
+* Turkey Balls (350) + Chicken (175) + Veggies/Tofu (100), 65g
+* Cliff Bar (270) + Twix (250) + KitKat (250) + Snickers (250)
+* B&J (1300) + Cookies (400) + Dark Chocolate (150)
+
+Exercise: Half Embaracdero Run
+
+Notes:
+* Good sleep but had to wake up early
+* Very low energy during run
+* Good Weave meeting
+* Beautiful weather today, hung out at Dolores, very relaxing
+* Indulged in some ice-cream and chocolates, lead to excess calorries for the day
+* Another late night binge :/, again same as monday
+
 ### Day 85 (Friday): 03/25/16
 Diet: 1930, 106g
 * Quiche (600) + Salad (150)
