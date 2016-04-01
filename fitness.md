@@ -18,6 +18,75 @@ Exercise:
 Notes:
 *
 
+### Day 90 (Thursday): 03/31/16
+Diet: 1025, 128g
+* Protein Powder (120), 25g
+* Sliced Turkey (250) + Protein Bar (200), 65g
+* Carrots (160)
+* BBQ Chicken (225) + Tofu (70), 38g
+
+Exercise: Rest Day
+
+Notes:
+* Woke up early
+* Feeling sick this morning
+* Emergen-c and hot water big help
+* Relaxing day
+* Got some great news
+* Great Shisha session with friends
+
+### Day 89 (Wednesday): 03/30/16
+Diet: 1010, 15g
+* Salad (500)
+* Banana (100) + Apple (80) + Mandarins (70)
+* Carrots (160)
+* Cottage Cheese (100), 15g
+
+Exercise: Half Stairmaster, Jiu-Jitsu
+
+Notes:
+* Good sleep
+* Tough interviews
+* Starting to feel very sick, probably due to sleep debt and poor diet
+* Good Jiu-Jitsu session
+* Went to be early
+
+### Day 88 (Tuesday): 03/29/16
+Diet: 2880, 30g
+* Chicken + Lettuce (300) + Carrots (100)
+* Cookie + Ice Cream (450)
+* Babula's Food (1200)
+* Snickers (250) + M&Ms (250) + KitKat (250)
+* Breaded Chicken (330), 30g
+
+Exercise: Embarcadero Run
+
+Notes:
+* Woke up @ 4:30am to study
+* High adrenaline day
+* Long interview
+* Ate a bunch of crap afterwards again
+
+### Day 87 (Monday): 03/28/16
+Diet: 2990, 108g
+* Yogurt (180) + Oats (170), 16g
+* Banana (100) + Mandarins (70) + Cottage Cheese (80), 13g
+* Turkey Balls (300), 36g
+* Protein bar (210), 20g
+* Chicken Slices (250) + Chocolate Almonds (150)
+* Dark Chocolate (1000) + Cottage Cheese (80) + Carrots (100), 13g
+* Chicken Tenders (330), 30g
+
+Exercise: Pull-ups, Jiu-Jitsu
+
+Notes:
+* Woke up super early
+* High adreline before interview
+* Slept middle of the day
+* Got a solid haircut
+* Ate chocolate at night again, not going to buy again
+--> Same take-away as before, do not buy chocolate/sweets/nuts etc in bulk
+
 ### Day 86 (Sunday): 03/27/16
 Diet: 3880, 162g
 * Yogurt (120) + Protein Powder (120), 47g
