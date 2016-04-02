@@ -18,6 +18,25 @@ Exercise:
 Notes:
 *
 
+### Day 91 (Friday): 04/01/16
+Diet: 1815, 174g
+* Protein Powder (120), 25g
+* Mandarins (140)
+* BBQ Chicken (225) + Veggies (100), 30g
+* Cottage Cheese (240) + Oatmeal (170) + Banana (100), 47g
+* Turkey Balls (350) + Veggies (100), 42g
+* Egg whites (120) + Veggies (100) + Truffle (50), 30g
+
+Exercise: Pull-ups, Abs
+* Pull-ups 36-40: Day 2 (Complete)
+* Abs 21-25: Day 4 (Complete)
+
+Notes:
+* Woke up early again
+* Still sick this morning, feeling somewhat better?
+* Solid Pull-ups/Abs routine, haven't done a proper rx in awhile, felt great!
+* Chill night hanging with friends
+
 ### Day 90 (Thursday): 03/31/16
 Diet: 1025, 128g
 * Protein Powder (120), 25g
@@ -49,7 +68,7 @@ Notes:
 * Tough interviews
 * Starting to feel very sick, probably due to sleep debt and poor diet
 * Good Jiu-Jitsu session
-* Went to be early
+* Went to bed early
 
 ### Day 88 (Tuesday): 03/29/16
 Diet: 2880, 30g
