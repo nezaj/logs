@@ -18,6 +18,49 @@ Exercise:
 Notes:
 *
 
+## Week 12-13 (146.2)
+* Diet:         2336 (+486), 117.5g (-32.5)
+* Abs:          |
+* Pull-ups:     ||||
+* Lift:         ||
+* Jiu-Jitsu:    ||
+* Run:          |||||
+* Stairmaster:  |||
+* Rest:         |
+
+**Overall**
+* Stressful week due to interviews
+* Ate too much crap due to stress, made me feel sick, but I pushed through
+* Was good about exercising, didn't lift much but I did do lots of cardio
+* Was good about being social, kept me sane and celebrated properly
+* Strong Jiu-Jitsu sessions, ready to focus on it for next three weeks
+
+**Diet**
+* Calories were very high these last two weeks
+* Bad week to buy bulk chocolate, too easy to reach for when stressed
+--> Again, don't buy chocolate, ice-cream, etc. in bulk. Too easy to be tempted
+
+**Exercise**
+* Lots of cardio!
+* Only one rest day!
+* Went to BJJ 2x a week both times --> let's do 3x as much as possible b4 tourny
+* Did a couple of pull sessions, they are feeling much easier!
+* Did my first proper lift at the end of the week. Time to get back into it
+* For next three weeks let's do a Lift/Pull focus. 3x a week for each
+
+**Personal**
+* Finished my interview process these last two weeks, was very stressful
+* Got sick end of the week due to stress, sleep-deprivation, and bad calories
+* However, didn't have trouble sleeping which was nice
+* Discovered truffles + eating lean feels great next day. Binging feels terrible
+--> Eat clean to feel zen
+* Had a big celebration with friends after signing offer, was lots of fun!
+* In general, feel like I've been good about being social for a couple weeks now
+--> This is a big boost for my productivity, haven't felt lonely in awhile
+
+**Takeaways**
+* Again, don't buy chocolate, ice-cream, etc. in bulk. Too easy to be tempted
+
 ### Day 93 (Sunday): 04/03/16
 Diet: 2380, 158g
 * Oats (170) + Cottage Cheese (160) + Banana (50), 34g
