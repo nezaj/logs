@@ -18,6 +18,43 @@ Exercise:
 Notes:
 *
 
+### Day 93 (Sunday): 04/03/16
+Diet: 2380, 158g
+* Oats (170) + Cottage Cheese (160) + Banana (50), 34g
+* Veggies (120) + Turkey Balls (300), 36g
+* Truffle (50)
+* Yogurt (240) + Carrots (160), 44g
+* Carrots (80)
+* Ramen (800) + Deli Slices (250), 50g
+
+Exercise: Embaracdero Run, Tennis
+
+Notes:
+* Good sleep
+* Played Tennis for first time in forever!
+* Fun, relaxing day
+* Got a great email in the evening
+
+### Day 92 (Saturday): 04/02/16
+Diet: 1850, 120g
+* Eggwhites (120) + Veggies (100), 30g
+* Mandarins (140)
+* Fogo de Chao (1340), 90g
+* Veggies + Fruits (150)
+
+Exercise: Lift
+* Crazy 8s: 5x80 Day 1 (Complete)
+* Skulls: 5x80 Day 1 (Complete)
+* Squats: 5x135x8 (Light, and easy)
+* Bench: 5x155x5
+
+Notes:
+* Great sleep
+* First lift in awhile, had to reset some numbers, but proud I did it
+* Very productive writing session! Scoped out next steps and goals
+* Amazing dinner :)
+* Hosted friends after, lots of fun
+
 ### Day 91 (Friday): 04/01/16
 Diet: 1815, 174g
 * Protein Powder (120), 25g
