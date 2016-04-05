@@ -18,6 +18,28 @@ Exercise:
 Notes:
 *
 
+### Day 94 (Monday): 04/04/16
+Diet: 1865, 157g
+* Oats (170) + Yogurt (120) + Banana (50), 30g
+* Veggies (100) + Mandarins (70)
+* Carrots (100) + Tofu (140), 16g
+* Apple (80)
+* Protein Powder (120) + Yogurt (120), 47g
+* Turkey Balls (200) + BBQ Chicken (175), 40g
+* Veggies (100)
+* Halo Top (240) + Carrots (80), 24g
+
+Exercise: Pull-ups, Abs, Embaracdero Run
+* Pull-ups 36-40: Day 3 (Complete)
+* Abs 21-25: Day 6 (Complete)
+
+Notes:
+* Good sleep, woke up early
+* Took care of emails and writing chores in the morning :)
+* Solid Pull-up + Ab workout
+* Feeling strong from eating clean again, feel like im cleansed from last week
+* Still a little sick, skipped jiu-jitsu and went running instead
+
 ## Week 12-13 (146.2)
 * Diet:         2336 (+486), 117.5g (-32.5)
 * Abs:          |
