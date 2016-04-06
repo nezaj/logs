@@ -18,6 +18,21 @@ Exercise:
 Notes:
 *
 
+### Day 95 (Tuesday): 04/05/16
+Diet: 2050, 125g
+* Turkey Slices (250), 45g
+* Chicken (500) + Veggies (100) + Pineapple (150), 80g
+* Bagels (300) + Fruit tart (400)
+* Mandarins (70) + Apple (80) + Suhariki (200)
+
+Exercise: Stairmaster
+
+Notes:
+* Great sleep, woke up early
+* Bought tickets today!
+* Family day, family lunch + foods
+* Full day of tech support for the family
+
 ### Day 94 (Monday): 04/04/16
 Diet: 1865, 157g
 * Oats (170) + Yogurt (120) + Banana (50), 30g
