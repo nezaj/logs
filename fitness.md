@@ -18,6 +18,26 @@ Exercise:
 Notes:
 *
 
+### Day 95 (Wednesday): 04/06/16
+Diet: 1760, 174g
+* Oats (170) + Yogurt (120) + Banana (100), 30g
+* Veggies (100) + Mandarins (140)
+* Protein Powder (120), 25g
+* BBQ Chicken (250) + Turkey Balls (200), 55g
+* Veggies (70) + Tofu (140), 16g
+* Cottage Cheese (160), 26g
+* Yogurt (120) + Veggies (70), 22g
+
+Exercise: Embaracdero Run
+
+Notes:
+* Good sleep again, woke up early
+* Still congested :(
+* Finally filed taxes and took care of other random chores
+* Low energy, took a nap in middle of day
+* Went running and felt much more alive after
+--> Make sure to exercise first thing in the morning, wakes you up!
+
 ### Day 95 (Tuesday): 04/05/16
 Diet: 2050, 125g
 * Turkey Slices (250), 45g
