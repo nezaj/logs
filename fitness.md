@@ -18,8 +18,29 @@ Exercise:
 Notes:
 *
 
+### Day 96 (Thursday): 04/07/16
+Diet: 1760, 141g
+* Protein Powder (120) + Yogurt (120), 47g
+* Apple (80) + Mandarins (105) + Banana (100)
+* Truffle (50)
+* Yogurt (120) + Veggies (100), 22g
+* Protein Powder (120), 25g
+* Beef Patty (375) + Veggies (100), 25g
+* Apple (80) + Mandarin (70)
+* Carrots + Celery (100) + Yogurt (120), 22g
+
+Exercise: Pull-ups
+* Pull-ups 36-40: Day 4 (Complete)
+
+Notes:
+* Woke up early and then fell asleep
+* Not very productive until I finally did pulls
+* I don't think I'm in the zone to do full lifts
+--> Try instead to do half lifts (chest/bi) + Stairmaster
+* Fun day chilling with various friends
+
 ### Day 95 (Wednesday): 04/06/16
-Diet: 1760, 174g
+Diet: 1810, 174g
 * Oats (170) + Yogurt (120) + Banana (100), 30g
 * Veggies (100) + Mandarins (140)
 * Protein Powder (120), 25g
@@ -27,6 +48,7 @@ Diet: 1760, 174g
 * Veggies (70) + Tofu (140), 16g
 * Cottage Cheese (160), 26g
 * Yogurt (120) + Veggies (70), 22g
+* Truffle (50)
 
 Exercise: Embaracdero Run
 
