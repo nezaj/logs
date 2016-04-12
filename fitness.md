@@ -18,6 +18,64 @@ Exercise:
 Notes:
 *
 
+### Day 100 (Monday): 04/11/16
+Diet: 1810, 148g
+* Yogurt (240) + Flax/Chia Seeds (400), 52g
+* Mandarins (70)
+* Veggies (100) + Yogurt (60) + Turkey Balls (400), 60g
+* Apple (80) + Banana (100)
+* Cottage Cheese (160) + Seeds (200), 36g
+
+Exercise: Embarcadero Run
+
+Notes:
+* Woke up early
+* Felt amazing after running
+
+### Day 99 (Sunday): 04/10/16
+Diet: 3800
+* Family Brunch (1000)
+* Nama (750)
+* Cookies (750) + B&J (1300)
+
+Exercise: Stairmaster
+
+Notes:
+* Another family day
+* Got robbed on the street today, super pissed, ending up indulging
+
+### Day 98 (Saturday): 04/09/16
+Diet: 1650
+* Truffle (50)
+* Home food + snacks (1000)
+* Its It (350) + Cliff Bar (250)
+
+Exercise: Stairmaster
+
+Notes:
+* Hung out wth the family earlier in the day
+* Had a lingering desire for something sweet again
+
+### Day 97 (Friday): 04/08/16
+Diet: 4670, 163g
+* Oats (170) + Cottage Cheese (160) + Banana (100), 34g
+* Oats (170) + Cottage Cheese (160) + Banana (100), 34g
+* Carrots (70)
+* Beef Jerky (280), 33g
+* Yogurt (120) + Chia Seeds (240) + Mandarins (70), 30g
+* Cottage Cheese (160) + Flax Seeds (180) + Mandarins (70), 32g
+* Binge (2620)
+
+Exercise: Light lift
+* Tabata push-ups: 6 rounds
+* Crazy 8s: 2x80x7/8, 2x70x8
+* Skulls: 2x80x7/8, 2x70x8
+
+Notes:
+* Woke up early again and then fell asleep
+* Had a light workout
+* Good weave meeting
+
 ### Day 96 (Thursday): 04/07/16
 Diet: 1760, 141g
 * Protein Powder (120) + Yogurt (120), 47g
