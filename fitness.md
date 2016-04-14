@@ -18,6 +18,21 @@ Exercise:
 Notes:
 *
 
+### Day 101 (Tuesday): 04/12/16
+Diet: 2690, 91g
+* Cottage Cheese (160) + Seeds (200) + Banana (100), 36g
+* Yogurt (120) + Oats (170) + Mandarins (70), 30g
+* Protein Powder (120), 25g
+* Pork Chops + Rice Pilaf (750)
+* Fries + Sliders (100)
+
+Exercise: Rest Day
+
+Notes:
+* Got a ton of sleep last night, paid off some sleep debt w/ interest
+* Had fun catching up with friends in the morning
+* Feeling hungry today, indulged in lunch/dinner
+
 ### Day 100 (Monday): 04/11/16
 Diet: 1810, 148g
 * Yogurt (240) + Flax/Chia Seeds (400), 52g
