@@ -18,6 +18,33 @@ Exercise:
 Notes:
 *
 
+### Day 102 (Wednesday): 04/13/16
+Diet: 2870, 297g
+* Cottage Cheese (160) + Seeds (200) + Banana (100), 36g
+* Eggwhites (120) + Veggies (100) + Mandarins (70), 30g
+* Yogurt (120) + Seeds (200) + Apple (80), 32g
+* Yogurt (120) + Seeds (200) + Banana (100), 32g
+* Turkey Balls (250), 30g
+* Halo Top (240), 24g
+* Protein Powder (120), 25g
+* Yogurt (120) + Carrots (70), 22g
+* BBQ Chicken (200) + Turkey Balls (300), 66g
+
+Exercise: Lift, Stairmaster, Skate Sesh, Jiu-Jitsu
+* Crazy 8s: 3x70x8 (okay)
+* Skulls: 3x70x8 (okay)
+* Squat: 3x185x5 (Repeat)
+* Bench: 5x175x5 (Repeat)
+
+Notes:
+* Lots of sleep again
+* Picked up some NO Xplode, omg. Best workout in forever
+* Lots and lots of energy today, see above
+* Chill coffee session talking about travel
+* Great skate session on the Embarcadero
+* Great Jiu-Jitsu session
+* Felt very hungry last night, decided to eat more but keep clean
+
 ### Day 101 (Tuesday): 04/12/16
 Diet: 2690, 91g
 * Cottage Cheese (160) + Seeds (200) + Banana (100), 36g
