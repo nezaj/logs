@@ -74,6 +74,41 @@ Notes:
 * Woke up early
 * Felt amazing after running
 
+## Week 14
+* Diet:         2515 (+665), 109g (-41g)
+* Abs:          |
+* Pull-ups:     ||
+* Lift:
+* Jiu-Jitsu:
+* Run:          ||
+* Stairmaster:  |||
+* Rest:
+
+**Overall**
+* Relaxing week
+* May have been too relaxed, forgetting my goals
+* Got robbed on the street end of week though, that sucked
+
+**Diet**
+* Worst week in awhile
+* Actually ate clean for 5/7 days but binged hard over weekend
+* Friday wasy worst, just didn't care, was weird
+* Was pissed after getting robbed on Sunday, ended up cheating again
+--> Break the habit of eating sugar when stressed, find a substitute
+
+**Exercise**
+* No Jiu-Jitsu this week since I was sick
+* Low motivation for lifting, lots of cardio again
+* Was good about doing pull-ups though!
+
+**Personal**
+* Was still sick this week
+* Done with interviews, finally taking it easy
+* Had some good family time
+
+**Takeaways**
+--> Break the habit of eating sugar when stressed, find a substitute
+
 ### Day 99 (Sunday): 04/10/16
 Diet: 3800
 * Family Brunch (1000)
