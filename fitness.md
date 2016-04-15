@@ -18,6 +18,25 @@ Exercise:
 Notes:
 *
 
+### Day 103 (Thursday): 04/14/16
+Diet: 2230, 216g
+* Yogurt (120) + Seeds (200) + Banana (100), 32g
+* BBQ Chicken (200) + Veggies (100), 30g
+* Cottage Cheese (160) + Seeds (200), 36g
+* Yogurt (120) + Seeds (200) + Mandarins (70), 32g
+* Cottage Cheese (160) + Seeds (200), 36g
+* Fiber One (150) + Turkey Deli (250), 50g
+
+Exercise: Pull-ups
+* Pull-ups 36-40: Day 5 (Repeat)
+
+Notes:
+* Good sleep, woke up early
+* Kinda lazy during the day, picked up productivity afternoon
+* Started playing with React!
+* Chilled with the guys later on
+* Got an evening pull-up session in
+
 ### Day 102 (Wednesday): 04/13/16
 Diet: 2870, 297g
 * Cottage Cheese (160) + Seeds (200) + Banana (100), 36g
