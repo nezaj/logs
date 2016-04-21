@@ -18,6 +18,39 @@ Exercise:
 Notes:
 *
 
+### Vegas: (Sunday): 04/17/16 -> (Wednesday): 04/20/16
+* Did not bring computer/logging on purpose
+* Ran every day and averaged 13mi++
+* Ate a ton though, buffets every day, easily 3k+ cals a day
+* Ate a good amount of sugar too
+* However, I didn't eat too much crap and didn't eat late
+* Had lots of fun with the family :)
+
+### Day 105 (Saturday): 04/16/16
+Exercise: Pull-ups
+* Pull-ups 36-40: Day 5 (Complete)
+
+Notes:
+* Didn't log food today
+
+### Day 104 (Friday): 04/15/16
+Diet: 1910, 163g
+* Cottage Cheese (160) + Seeds (200) + Banana (100), 36g
+* Cottage Cheese (160) + Oats (170) 34g
+* Eggwhites (60) + Veggies (50), 15g
+* Apple (80) + Mandarins (70)
+* Turkey Balls (350) + Tomatoes (70), 42g
+* Tofu (140) + Carrots (100) + Seeds (200), 26g
+
+Exercise: Lift, Jiu Jitsu
+* Crazy 8s: 5x75x8 (okay)
+* Skulls: 5x75x8 (okay)
+* Bench: 3x175x5 (Repeat)
+
+Notes:
+* Good sleep, woke up early again
+* Not focused in gym, feeling very sore
+
 ### Day 103 (Thursday): 04/14/16
 Diet: 2230, 216g
 * Yogurt (120) + Seeds (200) + Banana (100), 32g
@@ -50,8 +83,8 @@ Diet: 2870, 297g
 * BBQ Chicken (200) + Turkey Balls (300), 66g
 
 Exercise: Lift, Stairmaster, Skate Sesh, Jiu-Jitsu
-* Crazy 8s: 3x70x8 (okay)
-* Skulls: 3x70x8 (okay)
+* Crazy 8s: 5x70x8 (okay)
+* Skulls: 5x70x8 (okay)
 * Squat: 3x185x5 (Repeat)
 * Bench: 5x175x5 (Repeat)
 
