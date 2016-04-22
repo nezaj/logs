@@ -18,6 +18,24 @@ Exercise:
 Notes:
 *
 
+### Day 106 (Thursday): 04/21/16
+Diet: 2090, 145g
+* Yogurt (130) + Seeds (200) + Banana (100), 34g
+* Cottage Cheese (180) + Oats (170) + Banana (100), 34g
+* Chicken (150), 17g
+* 2 Apples (160) + Carrots (70)
+* Carrots (70) + Yogurt (130), 22g
+* Fiber One (150) + Jerky (280) + Chicken (200), 60g
+
+Exercise: Rest Day
+
+Notes:
+* Chill day
+* Low energy, decided to rest
+* Took a huge nap
+* Did some chores
+* Hung out with friends rest of day
+
 ### Vegas: (Sunday): 04/17/16 -> (Wednesday): 04/20/16
 * Did not bring computer/logging on purpose
 * Ran every day and averaged 13mi++
