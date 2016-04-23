@@ -18,6 +18,28 @@ Exercise:
 Notes:
 *
 
+### Day 107 (Friday): 04/22/16
+Diet: 1935, 153g
+* Yogurt (130) + Seeds (200) + Banana (100), 34g
+* Cottage Cheese (180) + Oats (170) + Mandarins (105), 34g
+* Yogurt (130) + Seeds (200) + Banana (100), 34g
+* Chicken (150) + Veggies (70), 17g
+* 2 Apples (160)
+* Chicken (300), 34g
+
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 5x75 8, 9, 8, 8, 9
+* Skulls: 5x75 8, 9, 8, 8, 9
+* Bench: 5x175x5
+
+Notes:
+* Good sleep
+* Little lazy in the morning but finished chores!
+* Ate a bunch of calories early in the day, but all clean
+* Took another afternoon nap
+* Good Jiu-Jitsu session
+
 ### Day 106 (Thursday): 04/21/16
 Diet: 2090, 145g
 * Yogurt (130) + Seeds (200) + Banana (100), 34g
