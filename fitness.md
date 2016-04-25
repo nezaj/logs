@@ -31,7 +31,7 @@ Notes:
 * Once I come back from vacation, I think I'll have mental strength to re-focus
 * Goal will be to cut down 10lbs, target is 136lb
 
-### Day 106 (Sunday): 04/24/16 (Jiu-Jitsu Tournament)
+### Day 109 (Sunday): 04/24/16 (Jiu-Jitsu Tournament)
 Weigh-in: 146.2lb
 
 Diet: 3010, 68g
