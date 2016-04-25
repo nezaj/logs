@@ -19,6 +19,18 @@ Notes:
 
 ### Hiatus (Traveling in Spain/Big Sur) 04/25/16 -> 05/15/16
 
+### 100ish day Review
+* Improved dmy diet a lot over these three months
+* However, still binging occasionally on candy/ice-cream
+* Was much more discplined earlier which helped me cut weight
+* Was not so strict from end of march onwards
+* As a result, progressed stalled
+* Nonetheless, identified a lot of take-aways
+* I think I'm close to breaking my sugar habit
+* Will not log while traveling, will be mindful anyhow
+* Once I come back from vacation, I think I'll have mental strength to re-focus
+* Goal will be to cut down 10lbs, target is 136lb
+
 ### Day 106 (Sunday): 04/24/16 (Jiu-Jitsu Tournament)
 Weigh-in: 146.2lb
 
