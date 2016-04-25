@@ -1,5 +1,4 @@
 Fitness Log
-## Goal: Make weight (141.5) for jiu-jitsu tournament on 04/24/16
 
 ## Take-aways
 * Eat clean, keep calories ~1850 +/- 20%
@@ -17,6 +16,49 @@ Exercise:
 
 Notes:
 *
+
+### Hiatus (Traveling in Spain/Big Sur) 04/25/16 -> 05/15/16
+
+### Day 106 (Sunday): 04/24/16 (Jiu-Jitsu Tournament)
+Weigh-in: 146.2lb
+
+Diet: 3010, 68g
+* Oats (170) + Cottage Cheese (180) + Apple (80), 34g
+* Oats (170) + Yogurt (130) + Apple (80), 34g
+* Ramen + Beer (1000)
+* B&J Ice Cream (1300)
+
+Exercise: Extended Run (13-15mi)
+
+Notes:
+* Tournamet today!
+* Lots of emotions and adrenaline
+* 3 pounds under weight cut off
+* Fought hard
+* Great celebration with friends after
+* Enjoyed some Game of thrones and hanging with the buds
+
+### Day 108 (Saturday): 04/23/16
+Diet: 5505
+* Yogurt (130) + Seeds (200) + Banana (100), 34g
+* Cottage Cheese (180) + Oats (170) + Mandarins (105), 34g
+* Carrots (70)
+* Cliff Bar (250)
+* Its-It (350) + Skinny Cow (150)
+* Banana (100) + Chocolate Almonds (50)
+* Indian Food (1150)
+* B&J + Candy (2500)
+
+Exercise: Pull-ups
+* Pull-ups 36-40: Day 6 (Complete)
+
+Notes:
+* Good sleep
+* Little lazy with pull-ups, still got it done
+* Chilling with the guys
+* Eating some sugar to feel amped for the tourney
+* Great friend dinner
+* Ended up overloading on sugar late night
 
 ### Day 107 (Friday): 04/22/16
 Diet: 1935, 153g
