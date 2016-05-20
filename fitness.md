@@ -17,7 +17,41 @@ Exercise:
 Notes:
 *
 
-### Hiatus (Traveling in Spain/Big Sur) 04/25/16 -> 05/15/16
+### Day 111 (Thursday): 05/19/16
+Diet: 3175
+* Chicken + Veggies (450), 60g
+* Ice Cream + Cookie (650)
+* Protein Bar (300) + Cookie (120)
+* Toblerone (250) + Carrots (50)
+* 2 Twix (500) + Snickers (250) + Cookie (200)
+* Carrots (50) + Flax Seeds (250) + Mandarins (105)
+
+Exercise: Embarcadero Run
+
+Notes:
+* Woke up early
+* First embarcadero run after awhile!
+* Felt lazy / bored at work and grabbed some ice-cream, downhill from there
+* Evening adventure after work!
+* Empty calories made me super hungry however, ended up binging hard
+
+### Day 110 (Wednesday): 05/18/16
+Diet: 2150, 181g
+* Turkey (250) + Veggies (50) + Fritata (100) + Cashew Butter (100), 50g
+* Cottage Cheese (270) + Banana (100), 30g
+* Fiber One Cookie (120)
+* Turkey (250) + Bacon (200) + Avocado (150) + Veggies (50), 55g
+* Yogurt (260) + Flax Seed (250), 46g
+
+Exercise: Rest Day
+
+Notes:
+* First entry after break!
+* Start new job / bootcamp on Monday
+* Overslept for work
+* Long days, been tired
+
+### Hiatus (Traveling in Spain/Big Sur) 04/25/16 -> 05/17/16
 
 ### 100ish day Review
 * Improved dmy diet a lot over these three months
