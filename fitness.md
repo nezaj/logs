@@ -17,6 +17,39 @@ Exercise:
 Notes:
 *
 
+### Day 113 (Saturday): 05/21/16
+Diet: 3000, 80g
+* Turkey Slices (250) + Almonds (200), 50g
+* Protein Bar (300) + Banana (100), 30g
+* Tari Rice (750)
+* 2 Cookies (400) + 2 Twix (500) + Snickers (250) + KitKat (250)
+
+Exercise: 45min Stairmaster
+
+Notes:
+* Was productive during the day!
+* Did some stepping stairmaster, good exercise that is light on my achilles
+* Fun day hanging out with friends
+* Felt hungry late night and gave in too sugar craving again
+* --> Done with that, felt like I wanted to do it once more
+* --> Ready to get clean
+
+### Day 112 (Friday): 05/20/16
+Diet: 1705, 91g
+* Protein Powder (120), 25g
+* Tomatoes (150) + Mandarins (150)
+* Tomatoes (150)
+* Mandarins (175) + Oatmeal (170), 8g
+* Oatmeal (340), 16g
+* Turkey Balls (350) + Veggies (100), 40g
+
+Exercise: Rest Day
+
+Notes:
+* Woke up late
+* Lowering calories due to previous day
+* Definitely feeling tired
+
 ### Day 111 (Thursday): 05/19/16
 Diet: 3175
 * Chicken + Veggies (450), 60g
