@@ -17,6 +17,43 @@ Exercise:
 Notes:
 *
 
+### Day 114 (Monday): 05/23/16
+Diet: 1800, 130g
+* Banana (100)
+* BBQ Chicken and Brisket + Veggies (750), 80g
+* Apple (80) + Banana (100)
+* Cliff Bar (280), 20g
+* Dark Chocolate (120)
+* 3 Cottage Cheese (270) + Banana (100), 30g
+
+Exercise: Pull-ups, Jiu-Jitsu
+* Pull-ups 36-40: Day 1 (Repeat)
+
+Notes:
+* Woke up early
+* Reset on pull-ups, hurt hand but I think reset was right thing to do
+* Almost missed the shuttle
+* Ate clean today!
+* Somewhat productive at work
+* First jiu-jitsu session in awhile!
+* Evening Shisha
+
+### Day 113 (Sunday): 05/22/16
+Diet: 2090
+* Croissant (240)
+* Kefta Kebab (700)
+* Soba Noodles (700)
+* Carrots (100) + Fruit (50)
+* Cheese (200) + Yogurt (100)
+
+Exercise: Rest day
+
+Notes:
+* Somewhat productive day
+* Hung with the guys
+* Felt pretty relaxed
+* Got centered about work
+
 ### Day 113 (Saturday): 05/21/16
 Diet: 3000, 80g
 * Turkey Slices (250) + Almonds (200), 50g
