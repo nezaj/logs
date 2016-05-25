@@ -17,6 +17,27 @@ Exercise:
 Notes:
 *
 
+### Day 115 (Tuesday): 05/24/16
+Diet: 4010, 128g
+* Banana (100) + Cottage Cheese (270), 30g
+* Dark Chocolate (60) + Carrots (50)
+* 3 Cookies (360) + Candy (200) + Waffles (400) + Fig bar (250)
+* BBQ Chicken + Brisket (500) + Mac&Cheese (250) + Veggies (50), 70g
+* 2 Waffles (260) + Cookie (120)
+* Ice Cream (500)
+* 3 Waffles (390) + Crunch (50)
+* String Cheese (200), 28g
+
+Exercise: 40min Stepping Stairmaster
+
+Notes:
+* Got up ~7:10am
+* Good moderate workout
+* Almost missed the shuttle again
+* Binged hard in the morning, was low energy
+* Just kept eating unhealthy later in the day too :(
+* Productive in the evening but definitely tired from extra calories
+
 ### Day 114 (Monday): 05/23/16
 Diet: 1800, 130g
 * Banana (100)
