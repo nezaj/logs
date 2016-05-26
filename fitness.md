@@ -17,6 +17,28 @@ Exercise:
 Notes:
 *
 
+### Day 116 (Wednesday): 05/25/16
+Diet: 1510, 130g
+* Carrots (50)
+* Chicken BBQ (250) + Pork (300) + Veggies (100), 70g
+* Carrots (50) + Cottage Cheese (90), 10g
+* Cottage Cheese (270) + Banana (100) + Carrots (50), 30g
+* Cured meats (250), 20g
+
+Exercise: Lift, Jiu-Jitsu
+* Tabata Push-ups: 8 rounds (repeat)
+* Crazy 8s: 5x70x8
+* Leg-lifts: 4x10
+
+Notes:
+* Got up ~7:10am
+* Spent extra time in the morning checking random stuff
+* Got workout in and took later shuttle
+* Relaxing shuttle ride, felt pumped for the day
+* Fun day at work
+* Decent Jiu-Jitsu session
+* Stayed up late working on random stuff
+
 ### Day 115 (Tuesday): 05/24/16
 Diet: 4010, 128g
 * Banana (100) + Cottage Cheese (270), 30g
