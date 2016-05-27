@@ -17,7 +17,29 @@ Exercise:
 Notes:
 *
 
-### Day 116 (Wednesday): 05/25/16
+### Day 117 (Thursday): 05/26/16
+Diet: 2920, 211g
+* Apple (80)
+* Chicken (250) + Beef Ribs (250) + Veggies (150), 70g
+* Turkey Slices (250) + Bacon (250), 50g
+* Banana (100) + Carrots (50)
+* Fage (190), 18g
+* Carrots (50) + Jerky (50), 11g
+* Carne Enchilada (350) + CHicken Tamale (350) + Chips (200), 50g
+* Cheese (300) + Greek Yogurt (150), 23g
+
+Exercise: 40min Stepping Stairmaster
+
+Notes:
+* Woke up later today, ~8:30am
+* Decent morning workout
+* Relaxing shuttle ride
+* Big lunch, feeling kind of sluggish
+* Productive day
+* Chill dinner + movie after
+* Felt hungry late night and snacked hard
+
+### Day 116 (Wednesday): 05/25/16 (No sugar start!)
 Diet: 1510, 130g
 * Carrots (50)
 * Chicken BBQ (250) + Pork (300) + Veggies (100), 70g
@@ -35,6 +57,7 @@ Notes:
 * Spent extra time in the morning checking random stuff
 * Got workout in and took later shuttle
 * Relaxing shuttle ride, felt pumped for the day
+* Resolved to start no sugar challenege
 * Fun day at work
 * Decent Jiu-Jitsu session
 * Stayed up late working on random stuff
