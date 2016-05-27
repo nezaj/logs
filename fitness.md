@@ -17,6 +17,24 @@ Exercise:
 Notes:
 *
 
+### Day 118 (Friday): 05/27/16
+Diet: 1230, 98g
+* Meatloaf + Chicken + Beef (600) + Veggies (150), 70g
+* Banana (100)
+* Cottage Cheese (90) + Yogurt (190) + Grapes (100), 28g
+
+Exercise: Lift
+* Tabata Push-ups: 8 rounds (Repeat)
+* Pull-ups 36-35: Day 1 (Repeat)
+* Leg-lifts 4x10: Day 2
+
+Notes:
+* Woke up late today again
+* --> Going to bed after 11pm makes it tough to wake up on time
+* --> Need to push harder in the morning, will get used to it eventually
+* Felt sluggish from previous day, probably due to excess calories
+* Chill work day
+
 ### Day 117 (Thursday): 05/26/16
 Diet: 2920, 211g
 * Apple (80)
