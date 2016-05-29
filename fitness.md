@@ -17,13 +17,31 @@ Exercise:
 Notes:
 *
 
+### Day 119 (Saturday): 05/28/16
+Diet: 2600, 100g
+* Butter Croissant (225)
+* Chicken Fajitas + Veggies (750), 50g
+* Butter Croissant (225)
+* Hummus + Bread (800) + Shish Kabob (350), 30g
+* Cheese (100) + Yogurt (80) + Carrots (70), 20g
+
+Exercise: Rest Day
+
+Notes:
+* Woke up feeling chilling
+* Good weave meeting
+* Productive w/ React Native
+* Overall chill day hanging out
+
 ### Day 118 (Friday): 05/27/16
-Diet: 1230, 98g
+Diet: 1510, 118g
 * Meatloaf + Chicken + Beef (600) + Veggies (150), 70g
 * Banana (100)
 * Cottage Cheese (90) + Yogurt (190) + Grapes (100), 28g
+* Truffle (50)
+* Carrots (80) + Yogurt (100), 20g
 
-Exercise: Lift
+Exercise: Lift, Jiu-Jitsu
 * Tabata Push-ups: 8 rounds (Repeat)
 * Pull-ups 36-35: Day 1 (Repeat)
 * Leg-lifts 4x10: Day 2
@@ -34,6 +52,8 @@ Notes:
 * --> Need to push harder in the morning, will get used to it eventually
 * Felt sluggish from previous day, probably due to excess calories
 * Chill work day
+* Decent Jiu-Jitsu session
+* Chill night
 
 ### Day 117 (Thursday): 05/26/16
 Diet: 2920, 211g
