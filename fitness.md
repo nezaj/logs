@@ -17,6 +17,25 @@ Exercise:
 Notes:
 *
 
+### Day 120 (Sunday): 05/29/16
+Diet: 1550, 160g
+* Chicken Deli Slices (250), 50g
+* Kebab, Rice, Salad (750), 40g
+* Chicken Deli Slices (250), 50g
+* Cottage Cheese (200) + Fruits (100), 20g
+
+Exercise: Cardio/Lift
+* 10min Stairmaster
+* 35min stepping stairmaster
+* Crazy 8s: 4x70 Day 2
+
+Notes:
+* Good sleep
+* Felt great after workout on the train
+* Fun day chilling with family and friends
+* Ate clean!
+* Felt hungry at night but managed to resist :)
+
 ### Day 119 (Saturday): 05/28/16
 Diet: 2600, 100g
 * Butter Croissant (225)
