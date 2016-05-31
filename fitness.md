@@ -42,6 +42,53 @@ Notes:
 * Had to eat after BJJ, too low calories otherwise
 * Another clean day!!
 
+## Week Review: 05/23/16 - 05/29/16
+* Diet: ~2271 (+421), ~140g (-10)
+* Abs:          ||
+* Pull-ups:     ||
+* Lift:         |||
+* Jiu-Jitsu:    |||
+* Run:
+* Stairmaster:  |||
+* Rest:         |
+
+**Overall**
+* Great week!
+* Got lots of work done
+* Was super active and ate much cleaner than I have in the last month
+* Hung out and relaxed a bunch with friends/fam
+* Again, great week!
+
+**Diet**
+* Binged hard on Tuesday, this prompted me to start "No Sugar Challenge"
+* Won't "eat sugar" until my bday 09/09
+* Otherwise ate fairly clean!
+* Easy to eat extra calories at work though
+* For the most part snacking on yogurt, cottage cheese, fruits, etc is good
+* For lunches/dinners stick to salads + cut meat
+
+**Exercise**
+* Very active week!
+* Started Jiu-Jitsu again! Went 3x/week
+* Achilles is still inured -- doing stairmaster instead
+
+**Work**
+* Productive week!
+* Rushed to the shuttle most days though, want to be better about leaving early
+* Enjoying my commute
+* Feel like I'm really getting in the grove of things
+
+**Personal**
+* Very chill week
+* Hung out with lots of family / friends
+* Saw two crappy movies -- was fun to see something anyway
+
+**Next Week Focus**
+* Eat clean both at work and outside of work
+* Keep being active
+* Keep being productive at work
+* Keep up activities/chill session with friends
+
 ### Day 120 (Sunday): 05/29/16
 Diet: 1550, 160g
 * Chicken Deli Slices (250), 50g
@@ -88,7 +135,7 @@ Diet: 1510, 118g
 Exercise: Lift, Jiu-Jitsu
 * Tabata Push-ups: 8 rounds (Repeat)
 * Pull-ups 36-35: Day 1 (Repeat)
-* Leg-lifts 4x10: Day 2
+* Abs 4x10: Day 2
 
 Notes:
 * Woke up late today again
@@ -107,7 +154,7 @@ Diet: 2920, 211g
 * Banana (100) + Carrots (50)
 * Fage (190), 18g
 * Carrots (50) + Jerky (50), 11g
-* Carne Enchilada (350) + CHicken Tamale (350) + Chips (200), 50g
+* Carne Enchilada (350) + Chicken Tamale (350) + Chips (200), 50g
 * Cheese (300) + Greek Yogurt (150), 23g
 
 Exercise: 40min Stepping Stairmaster
@@ -132,7 +179,7 @@ Diet: 1510, 130g
 Exercise: Lift, Jiu-Jitsu
 * Tabata Push-ups: 8 rounds (repeat)
 * Crazy 8s: 5x70x8
-* Leg-lifts: 4x10
+* Abs: 4x10
 
 Notes:
 * Got up ~7:10am
