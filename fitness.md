@@ -45,6 +45,31 @@ Exercise:
 Notes:
 *
 
+### Day 121 (Monday): 05/30/16
+Diet: 1810, 158g
+* Protein Powder (120), 25g
+* Cottage Cheese (180) + Oats (170) + Mandarins (70), 28g
+* Yogurt (100) + Carrots (70), 20g
+* Cheese (100), 14g
+* Apple (80) + Croissant (150)
+* Chicken/Tofu Salad (550), 60g
+* Cheese (150) + Carrots (70), 21g
+
+Exercise: Lift, Jiu-Jitsu
+* Tabata Push-ups: 8 rounds
+* Pull-ups 36-40: Day 1 (Repeat)
+* Abs 4x10: Day 3 (Complete)
+
+Notes:
+* Great sleep
+* Feeling "lean" from previous night, good feeling!
+* Tough workout, but got it done!
+* Finished my chores!
+* Chilling/hacking with friends
+* Good jiu-jitsu session
+* Had to eat after BJJ, too low calories otherwise
+* Another clean day!!
+
 ### Day 120 (Sunday): 05/29/16
 Diet: 1550, 160g
 * Chicken Deli Slices (250), 50g
