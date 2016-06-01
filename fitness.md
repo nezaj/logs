@@ -17,6 +17,35 @@ Exercise:
 Notes:
 *
 
+### Day 122 (Tuesday): 05/30/16
+Diet: 3065, 222g
+* Cottage Cheese (90) + Banana (100), 10g
+* Chicken/Tofu Salad (550), 60g
+* Yogurt (190), 18g
+* Cottage Cheese (270) + Banana (100), 30g
+* Nuts/Oats Snacks + Milk (250), 10g
+* Bacon Salad (650), 30g
+* Cheese (150) + Carrots (70), 21g
+* Cheese (50) + Apple (80)
+* Oats (170) + Protein Powder (120) + Mandarins (105), 33g
+* Cottage Cheese (70), 10g
+* Truffle (50)
+
+Exercise: Cardio
+* 10min Stairmaster
+* 50min Stepping Stairmaster
+
+Notes:
+* Woke up early today
+* Good workout / felt great on the shuttle
+* Forgot my glasses at home :(
+* Busy day with talks
+* Hungrier/lower energy
+* A little bit stressed to due to trying to shift focus at work
+* Ended up eating a lot when I came home (still kept it clean though!)
+* Ate a truffle before bed to chill out
+* Overall a tougher day
+
 ### Day 121 (Monday): 05/30/16
 Diet: 1810, 158g
 * Protein Powder (120), 25g
