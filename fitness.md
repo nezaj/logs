@@ -17,7 +17,26 @@ Exercise:
 Notes:
 *
 
-### Day 122 (Tuesday): 05/30/16
+### Day 123 (Wednesday): 06/01/16
+Diet: 2640, 221g
+* Chicken Salad (600), 60g
+* Apple (80)
+* Nuts (200) + Carrots (60), 10g
+* Quest Bar (200) + Banana (100), 21g
+* Soba Noodles (600), 30g
+* Chicken (350) + Meatballs (500), 100g
+
+Exercise: Rest Day
+
+Notes:
+* Woke up tired, ended up sleeping in
+* Missed morning workout to be on-time for bus
+* Chill day at work
+* Fun dinner and shisha with co-workers after
+* Bought some groceries and ate late again, no bueno
+--> Don't eat late night, if hungry, eat more next day
+
+### Day 122 (Tuesday): 05/31/16
 Diet: 3065, 222g
 * Cottage Cheese (90) + Banana (100), 10g
 * Chicken/Tofu Salad (550), 60g
