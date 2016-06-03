@@ -17,6 +17,29 @@ Exercise:
 Notes:
 *
 
+### Day 124 (Thursday): 06/02/16
+Diet: 3840, 190g
+* Chicken Salad (600), 60g
+* Quest Bar (200), 20g
+* Banana (100)
+* Carrots (60)
+* Banana (100) + Cottage Cheese (180), 20g
+* Chicken Guac Asada (350) + Nut Butters (300) + Pecans (200), 50g
+* Bacon Bits (200) + Dutch Crunch (150) + Cheezy Bread (250)
+* Mexican Food (500) + Nuts (400) + Kadah (250), 40g
+
+Exercise: Cardio
+* Stairmaster: 25min (w/o handles!)
+
+Notes:
+* Woke up feeling way too full
+* Needed to do chores in morning so had less time for workout
+* Even though less time, intense workout, training back to full stairmaster
+* Chill day at work!
+* Was super hungry and wanting sugar, ended up binging hard
+* Had a fun time chilling with family though!
+* Came home very late
+
 ### Day 123 (Wednesday): 06/01/16
 Diet: 2640, 221g
 * Chicken Salad (600), 60g
