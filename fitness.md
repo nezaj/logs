@@ -17,6 +17,51 @@ Exercise:
 Notes:
 *
 
+### Day 126 (Sunday): 06/05/16
+Diet: 1270, 100g
+* Turkey Meatballs (640), 70g
+* Veggies (150) + Apple (80)
+* Cottage Cheese (180) + Oats (170) + Mandarin (50), 30g
+
+Exercise: Stretch, Cardio
+* 15min stretch session
+* 45min stepping stairmaster
+
+Notes:
+* Woke up feeling relaxed
+* Good workout
+* Caught up on my house-hold chores!
+
+
+### (Saturday): 06/04/16 (NO LOG)
+Diet: ~1800cal
+
+Exercise: Rest Day
+
+Notes:
+* Woke up late
+* Chill Weave meeting
+* Productive with work
+* Didn't feel like logging
+* --> Workflow for logging is less straight-forward since I have
+  both the work computer and personal, still, need to keep on top of this!
+* Went to bed early
+
+### Day 125 (Friday): 06/03/16
+Diet: 3550, 168g
+* Chicken + Nuts/Cheese Salad (650), 60g
+* Quest Bar (200) + Nuts (200), 28g
+* Additional foods (2500), 80g
+
+Exercise: Tabata Push-ups
+
+Notes:
+* Woke up feeling way too full again
+* Hard time getting out of bed, missed my full workout
+* --> Be aware of staying out late during a worknight, makes it tough next day
+* Did not fully log today
+* Wasn't feeling motivated to go to jiu-jitsu
+
 ### Day 124 (Thursday): 06/02/16
 Diet: 3840, 190g
 * Chicken Salad (600), 60g
