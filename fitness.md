@@ -18,10 +18,12 @@ Notes:
 *
 
 ### Day 126 (Sunday): 06/05/16
-Diet: 1270, 100g
+Diet: 1570, 100g
 * Turkey Meatballs (640), 70g
 * Veggies (150) + Apple (80)
 * Cottage Cheese (180) + Oats (170) + Mandarin (50), 30g
+* Carrots (50)
+* Butter Croissant (250)
 
 Exercise: Stretch, Cardio
 * 15min stretch session
@@ -31,7 +33,8 @@ Notes:
 * Woke up feeling relaxed
 * Good workout
 * Caught up on my house-hold chores!
-
+* Did some more React Native, almost done with the book
+* Chilled with friends and watched some GoT in the evening
 
 ### (Saturday): 06/04/16 (NO LOG)
 Diet: ~1800cal
