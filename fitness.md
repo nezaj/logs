@@ -17,6 +17,52 @@ Exercise:
 Notes:
 *
 
+## Week Review: 05/30/16 - 06/05/16
+* Diet: ~2611 (+761), ~177g (+27)
+* Abs:          |
+* Pull-ups:     |
+* Lift:         |
+* Jiu-Jitsu:    |
+* Run:          |
+* Stairmaster:  ||
+* Stretch:      |
+* Rest:         |||
+
+**Overall**
+* Stressful week
+* Ate way too much and didn't exercise enough, ultimately this pulled me down
+* Felt stressed at work in the beginning of week
+* Felt much better end of week and got some reset time
+* Feeling amped for next week
+
+**Diet**
+* Calories were way too high
+* Difficult to cope with no sugar but I made it
+* Most of my excess calories came from eating late
+* Will do better following week
+
+**Exercise**
+* Exercised a lot less this week, probably due to excess calories
+* Only went to Jiu-Jitsu once. Let's up this next week!
+* Was good about Cardio, did my first 30min run too in awhile
+* Did my first stretch session in awhile, felt good
+* Will start tracking stretching
+
+**Work**
+* DIdn't get many tasks done, lots of meetings/talks
+* Excess calories also made me sluggish with code
+* Was stressed due to track selection
+* Did good work on Saturday though, got things done!
+
+**Personal**
+* Chill week overall, hung out with family, co-owrkers, and some friends
+* Weekend was a good reset for me
+
+**Next Week Focus**
+* No Sugar
+* Eat clean and exercise
+* Take it easy, don't be so serious, focus on crushing fitness and work
+
 ### Day 126 (Sunday): 06/05/16
 Diet: 1570, 100g
 * Turkey Meatballs (640), 70g
@@ -56,7 +102,7 @@ Diet: 3550, 168g
 * Quest Bar (200) + Nuts (200), 28g
 * Additional foods (2500), 80g
 
-Exercise: Tabata Push-ups
+Exercise: Tabata Push-ups, Rest Day
 
 Notes:
 * Woke up feeling way too full again
