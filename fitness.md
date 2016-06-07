@@ -17,6 +17,28 @@ Exercise:
 Notes:
 *
 
+### Day 129 (Monday): 06/06/16
+Diet: 1860, 180g
+* Chicken Salad (600), 71g
+* Quest Bar (190), 20g
+* Apple (80) + Banana (100)
+* Banana (100) + Cottage Cheese (180), 20g
+* Chicken Salad (600), 70g
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s + Skulls: 4x70x9 (Complete)
+* Pull-ups 31-35: Day 1, first 3 sets (Repeat)
+* Abs: 4x11/12/11/12 (Complete)
+
+Notes:
+* Stayed out late last night so woke up later, good choice
+* Struggled a bit to get to gym but was glad I did!
+* Chill day at work, not super productive though
+* Napped on the shuttle back
+* Good Jiu-Jitsu session
+* Shisha session after
+* Went to bed late again
+
 ## Week Review: 05/30/16 - 06/05/16
 * Diet: ~2611 (+761), ~177g (+27)
 * Abs:          |
