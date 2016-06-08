@@ -17,12 +17,37 @@ Exercise:
 Notes:
 *
 
+### Day 130 (Tuesday): 06/07/16
+Diet: 3180, 290g
+* Chicken Salad (600), 70g
+* Quest Bar (190), 20g
+* Cottage Cheese (180), 20g
+* Chicken Salad (600), 70g
+* Yogurt (190), 18g
+* 2 Apples (160) + Carrots (100)
+* Cottage Cheese (180) + Oats (170) + Mandarins (50), 28g
+* Yogurt (260) + Chia Seeds (130) + Mandarins (50), 40g
+* Yogurt (130) + Chicken (200), 24g
+
+Exercise: Cardio
+* 10min Stairmaster
+* 30min run
+
+Notes:
+* Woke up tired
+* Didn't feel up to stairmaster, went on a half run again
+* Achilles didn't hurt during run, will see how it feels after
+* Chill day at work, landed 2 tasks!
+* Was super low energy and hungry when I got home
+* Ended up eating way too much. It was all clean but still too much
+* Food coma after food, went to bed early
+
 ### Day 129 (Monday): 06/06/16
-Diet: 1860, 180g
-* Chicken Salad (600), 71g
+Diet: 1870, 178g
+* Chicken Salad (600), 70g
 * Quest Bar (190), 20g
 * Apple (80) + Banana (100)
-* Banana (100) + Cottage Cheese (180), 20g
+* Banana (100) + Yogurt (190), 18g
 * Chicken Salad (600), 70g
 
 Exercise: Lift, Jiu-Jitsu
