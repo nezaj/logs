@@ -1,11 +1,22 @@
 Fitness Log
 
 ## Take-aways
-* Eat clean, keep calories ~1850 +/- 20%
+General:
 * Make sure to eat enough on Jiu-Jitsu days to properly recover next day
 * Don't buy sweets (ice-cream, candy, protein bars) in bulk
-* Don't eat late, make up calories the next day
+
+Morning:
+* Don't go back to bed after turning off alarm
+* Drink PWO/Coffee right away and get moving
+* Get in a solid workout as the first part of your day
+
+Day:
+* Eat clean, keep calories ~1850 +/- 20%
 * Ship code every working weekday to feel good
+
+Evening:
+* Don't eat late, make up calories the next day
+* Be in bed by 11pm if you have work the next day
 
 ### Day
 Diet:
