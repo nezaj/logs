@@ -28,6 +28,31 @@ Exercise:
 Notes:
 *
 
+### Day 132 (Thursday): 06/09/16
+Diet: 2000, 150g
+* Again didn't log, didn't eat as much but still a decent amount
+
+Exercise: Stretch, DDR, Long walk
+
+Notes:
+* Low energy in the morning due to excess calories
+* Didn't log today either
+* Was bored during the work day
+* Did lots of exercise though
+* Felt much better by evening time
+
+### Day 131 (Wednesday): 06/08/16
+Diet: 3500, 200g
+* Didn't log, but big calorie day for sure
+
+Exercise: Tabata Push-ups, Jiu-Jitsu
+
+Notes:
+* Woke up very tired, mostly due to excess calories previous day I think
+* --> Don't eat excess calories to counter energy, will make it worse
+* Skipped morning lift, got some push-ups in though.
+* Skipped logging
+
 ### Day 130 (Tuesday): 06/07/16
 Diet: 3180, 290g
 * Chicken Salad (600), 70g
