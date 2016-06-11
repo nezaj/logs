@@ -28,6 +28,22 @@ Exercise:
 Notes:
 *
 
+### Day 133 (Friday): 06/10/16
+Diet: 1710, 133g
+* Big Salad (800), 70g
+* Quest Bar (190) + Carrots (25), 20g
+* Cottage Cheese (180), 20g
+* Nuts (200), 5g
+* Yogurt (190) + Banana (100) + Carrots (25), 18g
+
+Exercise: Semi-lift
+* Crazy 8s + Skulls: 4x70x9/10/9/10 (complete)
+* Abs: 4x11/12/11/12 (complete)
+
+Notes:
+* Went to bed later again, had a harder time waking up
+* Feeling much better this morning
+
 ### Day 132 (Thursday): 06/09/16
 Diet: 2000, 150g
 * Again didn't log, didn't eat as much but still a decent amount
