@@ -28,21 +28,39 @@ Exercise:
 Notes:
 *
 
+### Day 134 (Saturday): 06/11/16
+Diet: 2250, 121g
+* Burger + Fries (900), 30g
+* 2 PB Bars (660), 32g
+* Carrots (50) + Yogurt (50) + Turkey Balls (350), 35g
+* Cheese (240), 24g
+
+Exercise: Skateboard
+
+Notes:
+* Didn't log most of this
+* Fasted for most of day, just shifting over calories
+
 ### Day 133 (Friday): 06/10/16
-Diet: 1710, 133g
+Diet: 2200, 163g
 * Big Salad (800), 70g
 * Quest Bar (190) + Carrots (25), 20g
 * Cottage Cheese (180), 20g
 * Nuts (200), 5g
 * Yogurt (190) + Banana (100) + Carrots (25), 18g
+* Apple (160) + Yogurt (130) + Oatmeal (200), 30g
 
-Exercise: Semi-lift
+Exercise: Semi-lift, Jiu-Jitsu
 * Crazy 8s + Skulls: 4x70x9/10/9/10 (complete)
 * Abs: 4x11/12/11/12 (complete)
 
 Notes:
 * Went to bed later again, had a harder time waking up
 * Feeling much better this morning
+* Chill work day
+* Stuck in traffic on way back, very tiring
+* Not best jiu-jitsu session, very low energy
+* Ended up snacking after to regain energy
 
 ### Day 132 (Thursday): 06/09/16
 Diet: 2000, 150g
