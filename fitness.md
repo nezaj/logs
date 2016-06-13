@@ -28,6 +28,54 @@ Exercise:
 Notes:
 *
 
+## Week Review: 06/06/16 - 06/12/16
+* Diet:         ~2410 (+560), ~172g (+22g)
+* Abs:          ||
+* Pull-ups:     |
+* Lift:         |
+* Jiu-Jitsu:    |||
+* Cardio:       |||
+* Run:          ||
+* Stretch:      |
+* Rest:
+
+**Overall**
+* Another stressful week
+* Bored at work
+* Wasn't consistent with logging
+* Felt like I had lower energy
+* Fasted end-of-week, helped me re-focus
+
+**Diet**
+* Ate excess calories again
+* However, still kept clean with sugar!
+* Culprit is eating late, don't do this, get your calories during the day
+
+**Exercise**
+* Moderate exercise this week
+* Went to Jiu-Jitsu 3x!
+* Doing much better with achilles re-hab
+* I think I'm primed to have a good workout week coming up
+
+**Work**
+* Felt bored
+* Finished most of my tasks
+* Met with a couple of teams but nothing piqued my interest
+* Try to be motivated following week
+
+**Personal**
+* Chilled with friends most days
+* Had a couple personal days which was good for me
+* Feel more re-centered
+
+**Next Week Focus**
+* Get out of bed right away and drink PWO
+* Get in solid exercise
+* Eat clean at work
+* Ship code
+* Relax in the evening
+* Don't eat late
+
 ### Day 135 (Sunday): 06/12/16
 Diet: 1870, 100g
 * Turkey Meatballs (350) + Veggies (150), 36g
@@ -120,7 +168,7 @@ Diet: 3180, 290g
 
 Exercise: Cardio
 * 10min Stairmaster
-* 30min run
+* 30min Run
 
 Notes:
 * Woke up tired
