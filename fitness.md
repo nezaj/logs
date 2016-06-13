@@ -28,6 +28,24 @@ Exercise:
 Notes:
 *
 
+### Day 135 (Sunday): 06/12/16
+Diet: 1870, 100g
+* Turkey Meatballs (350) + Veggies (150), 36g
+* Apple (80) + Cheese (240), 24g
+* Oatmeal (170) + Protein Powder (60) + Mandarins (70), 20g
+* Pocket Pita (750), 20g
+
+Exercise: Cardio
+* Embarcadero Run
+
+Notes:
+* Restless sleep, probably due to excess caffeine and fast
+* Felt cleansed in the morning
+* Finished first full embarcadero run since injury!
+* Did some work at Starbucks
+* Chilled with friends in the evening
+* Overall relaxing day
+
 ### Day 134 (Saturday): 06/11/16
 Diet: 2250, 121g
 * Burger + Fries (900), 30g
@@ -35,7 +53,8 @@ Diet: 2250, 121g
 * Carrots (50) + Yogurt (50) + Turkey Balls (350), 35g
 * Cheese (240), 24g
 
-Exercise: Skateboard
+Exercise: Cardio
+* ~1hr Skateboard session
 
 Notes:
 * Didn't log most of this
