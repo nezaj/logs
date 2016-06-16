@@ -28,6 +28,55 @@ Exercise:
 Notes:
 *
 
+### 06/15/16 (Wednesday): NO LOG
+Diet: 3000
+* Another log skip
+* Ate a ton of food again
+
+Exercise: Crazy 8s: 3x70x10/10/10
+
+Notes:
+* Didn't get up early today
+* Had only 15min for a lift
+* Ate way too much once more
+* Skipped Jiu-Jitsu again, low energy
+* Chilled with friends in evening
+* --> Turning point, starting my daily mantra again:
+      Wake up early, do solid exercise, eat clean, do good work
+
+### 06/14/16 (Tuesday): NO LOG
+Diet: 3500
+* Didn't log again today
+* Ate a ton of food though
+
+Exercise: Cardio
+* Embarcadero Run
+
+Notes:
+* Got up early today and felt great
+* Achilles is feeling much better, completed another full run
+* Ate way too much at work again
+* Was too lazy to log
+* Lowered my productivity for sure
+* Chilled in the evening
+
+### Day 136 (Monday): 06/13/16
+Diet: 1830, 126g
+* Yogurt (190) + Banana (100), 18g
+* Roast Beef, Salad, Dried Apricots, Cheese, Avocado (850), 60g
+* Almonds (200), 8g
+* Chicken (240) + Veggies (100) + Watermelon (50) + Croissant (100), 40g
+
+Exercise: Semi-Lift
+* Pull-ups 31-35: Day 1 (Complete!!)
+* Abs: 4 x 12/12/11/12 (Complete)
+
+Notes:
+* Restless sleep again
+* Hard time getting up
+* Finally hit gym, completed first pull-up workout in over a month!!
+* Feeling positive today
+
 ## Week Review: 06/06/16 - 06/12/16
 * Diet:         ~2410 (+560), ~172g (+22g)
 * Abs:          ||
