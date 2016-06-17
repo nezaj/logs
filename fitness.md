@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 137 (Thursday): 06/16/16
+Diet: 2500, 192g
+* Oatmeal (170) + Yogurt (130) + Pineapple (100), 30g
+* Turkey Slices (350) + Veggies (150), 40g
+* Quest Bar (190), 21g
+* Cottage Cheese (180) + Granola (170), 20g
+* Apple (120)
+* Quest Bar (190), 21g
+* BBQ Chicken (450) + Veggies (100), 60g
+* Bread Roll (200)
+
+Exercise: Cardio
+* Embarcadero Run
+
+Notes:
+* Woke up early today!
+* Solid run in the morning
+* Great Breakfast at work
+* Productive morning
+* Decent afternoon/evening
+* Ate a bit too much for late snack / dinner
+
 ### 06/15/16 (Wednesday): NO LOG
 Diet: 3000
 * Another log skip
@@ -60,7 +82,7 @@ Notes:
 * Lowered my productivity for sure
 * Chilled in the evening
 
-### Day 136 (Monday): 06/13/16
+### Day 136 (Monday): 06/13/16 (155.4lb)
 Diet: 1830, 126g
 * Yogurt (190) + Banana (100), 18g
 * Roast Beef, Salad, Dried Apricots, Cheese, Avocado (850), 60g
