@@ -28,6 +28,29 @@ Exercise:
 Notes:
 *
 
+### Day 138 (Friday): 06/17/16
+Diet: 3330, 180g
+* Oatmeal (170) + Cottage Cheese (270) + Fruit (100), 38g
+* Turkey (300) + Veggies (100) + Croissant (150), 50g
+* Quest Bar (190), 21g
+* Quest Bar (190), 21g
+* Burger (600) + Bread (300) + Avocado Rolls (500), 50g
+* Nuts (200) + Fruit (150) + Kadah (300)
+
+Exercise: Semi-Lift
+* Tabata Push-ups: 8 Rounds
+* Pull-ups 31-35: Day 2 (Repeat)
+* Abs 3x12: Day 1 (Repeat)
+
+Notes:
+* Woke up early again!
+* Had to do some chores in the morning
+* Less time to lift but still did decent work
+* Another dope breakfast at work
+* Productive day
+* Nice bday dinner w/ family
+* Ate too much again though at night
+
 ### Day 137 (Thursday): 06/16/16
 Diet: 2500, 192g
 * Oatmeal (170) + Yogurt (130) + Pineapple (100), 30g
