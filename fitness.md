@@ -28,6 +28,38 @@ Exercise:
 Notes:
 *
 
+### Day 140 (Sunday): 06/19/16
+Diet:  1600, 100g
+* Family Lunch (1600), 100g
+
+Exercise: Semi-Lift
+* Tabata push-ups
+
+Notes:
+* Woke up early to take prep for Father's Day
+* No time to proper workout, but still got some push-ups in
+* Nice family lunch
+* Chill Shisha / hang-session with pop
+* Got home ~11pm and went to be right away
+* Overall chill day, felt like I've done a good job of chilling for awhile now
+
+### Day 139 (Saturday): 06/18/16
+Diet: 2000, 99g
+* String cheese (240), 24g
+* Apple (60) + Carrots (50)
+* BBQ Patties (800) + Cheese (250) + Chips (300), 60g
+* Soylent (300), 15g
+
+Exercise: Cardio
+* Embarcadero Run
+
+Notes:
+* Woke up around ~8:30am and got a solid run in
+* Did a couple of chores and headed to Philz for a work session
+* Semi productive session
+* Went to chill BBQ party
+* Had a chill Shisha session w/ friends in the evening
+
 ### Day 138 (Friday): 06/17/16
 Diet: 3330, 180g
 * Oatmeal (170) + Cottage Cheese (270) + Fruit (100), 38g
