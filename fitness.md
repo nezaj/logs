@@ -28,12 +28,49 @@ Exercise:
 Notes:
 *
 
+## Week Review: 06/13/16 - 06/19/16
+* Diet:         ~2537 (+687), 142g (-8g)
+* Abs:          ||
+* Pull-ups:     ||
+* Lift:         ||
+* Jiu-Jitsu:
+* Cardio:       |||
+* Run:          |||
+* Stretch:      |
+* Rest:
+
+**Overall**
+* Rough week in the beginning
+* Turned around mid-week with new daily mantra
+* Great weekend
+
+**Diet**
+* High calorie week
+* Still clean on sugar!
+
+**Exercise**
+* But Skipped all of Jiu-Jitsu :(
+
+**Work**
+* Became productive by mid-week, felt great
+
+**Personal**
+* Mid-week started new mantra log for managing daily routine
+* Chilled a lot with family / friends
+* Feel very content, ready to spice things up again
+
+**Next Week Focus**
+* Keep clean on sugar
+* Hit ~1850 average calories
+* Fufill daily mantra
+* Choose a work team
+
 ### Day 140 (Sunday): 06/19/16
-Diet:  1600, 100g
+Diet: 1600, 100g
 * Family Lunch (1600), 100g
 
 Exercise: Semi-Lift
-* Tabata push-ups
+* Tabata Push-ups: 8 rounds (Repeat)
 
 Notes:
 * Woke up early to take prep for Father's Day
@@ -52,6 +89,7 @@ Diet: 2000, 99g
 
 Exercise: Cardio
 * Embarcadero Run
+* Stretch
 
 Notes:
 * Woke up around ~8:30am and got a solid run in
@@ -106,7 +144,7 @@ Notes:
 * Ate a bit too much for late snack / dinner
 
 ### 06/15/16 (Wednesday): NO LOG
-Diet: 3000
+Diet: 3000, 150g
 * Another log skip
 * Ate a ton of food again
 
@@ -122,7 +160,7 @@ Notes:
       Wake up early, do solid exercise, eat clean, do good work
 
 ### 06/14/16 (Tuesday): NO LOG
-Diet: 3500
+Diet: 3500, 150g
 * Didn't log again today
 * Ate a ton of food though
 
