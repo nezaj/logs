@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 141 (Monday): 06/20/16
+Diet: 1780, 140g
+* Cottage Cheese (180) + Oatmeal (150) + Flaxseed (200), 36g
+* Turkey (200) + Tri-Tip (300) + Veggies (100), 60g
+* Quest Bar (190), 21g
+* Yogurt (190) + Granola (170), 23g
+* Apple (80)
+
+Exercise: Lift
+* Tabata Push-ups: 8 rounds (Clean!)
+* Pull-ups 31-35: Day 2 (Complete)
+* Abs: 4x13/12/13/12 (Complete)
+
+Notes:
+* Woke up on time
+* Great workout session
+* Completed morning routine, didn't need to rush too much out the door
+* Productive day at work!
+* Great Jiu-Jitsu session
+* Took care of remaining chores and caught up on GoT before bed
+* Overall, great day
+
 ## Week Review: 06/13/16 - 06/19/16
 * Diet:         ~2537 (+687), 142g (-8g)
 * Abs:          ||
@@ -49,6 +71,8 @@ Notes:
 * Still clean on sugar!
 
 **Exercise**
+* Worked out more consisently
+* Ran 3x this week, achilles almost fully rehabed
 * But Skipped all of Jiu-Jitsu :(
 
 **Work**
