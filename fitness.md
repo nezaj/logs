@@ -28,6 +28,30 @@ Exercise:
 Notes:
 *
 
+### Day 142 (Tuesday): 06/21/16
+Diet: 2840, 207g
+* Cottage Cheese (180) + Oatmeal (150) + Flaxseed (200), 36g
+* Quest Bar (190), 21g
+* Turkey Salad (500), 60g
+* Dumplings (250), 5g
+* Yogurt (190) + Granola (170), 23g
+* Banana (80)
+* Apple (80)
+* 2 Bread Rolls (350)
+* Cheese (400) + Yogurt (130) + Carrots (50), 63g
+
+Exercise: Cardio
+* Embarcadero Run
+
+Notes:
+* Woke up on time, solid exercise, and didn't rush to shuttle
+* Solid morning routine
+* Did some minor improvements on my dotfiles, felt nice
+* Productive day
+* Definitely felt more hungry, gave in to some bread at EOD
+* Chilled w/ friends in the evening
+* Stayed up later and got super hungry, ate late
+
 ### Day 141 (Monday): 06/20/16
 Diet: 1780, 140g
 * Cottage Cheese (180) + Oatmeal (150) + Flaxseed (200), 36g
