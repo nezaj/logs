@@ -28,6 +28,24 @@ Exercise:
 Notes:
 *
 
+### Day 143 (Wednesday): 06/22/16
+Diet: 1550, 140g
+* Cottage Cheese (180) + Oatmeal (170) + Fruit (100), 28g
+* Turkey (250) + Veggies (100), 40g
+* Quest Bar (190), 21g
+* Yogurt (190) + Granola (170), 26g
+* Apple (80)
+* Protein Powder (120), 25g
+
+Exercise: Lift, Jiu-Jitsu
+* Tabata Push-ups: 8 rounds (Complete, try 9 rounds next)
+* Crazy 8s + Skulls: 4x70x10/10/10/10 (Complete)
+* Abs: 4x12/13/12/13 (Complete)
+
+Notes:
+* Woke up feeling tired and full from last night, not too bad though
+* Solid exercise in the morning!
+
 ### Day 142 (Tuesday): 06/21/16
 Diet: 2840, 207g
 * Cottage Cheese (180) + Oatmeal (150) + Flaxseed (200), 36g
@@ -60,10 +78,10 @@ Diet: 1780, 140g
 * Yogurt (190) + Granola (170), 23g
 * Apple (80)
 
-Exercise: Lift
+Exercise: Lift, Jiu-Jitsu
 * Tabata Push-ups: 8 rounds (Clean!)
 * Pull-ups 31-35: Day 2 (Complete)
-* Abs: 4x13/12/13/12 (Complete)
+* Abs: 4x13/12/13/12 (Repeat)
 
 Notes:
 * Woke up on time
