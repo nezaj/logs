@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 144 (Thursday): 06/23/16
+Diet: 2990, 187g
+* Cottage Cheese (180) + Oatmeal (170) + Fruit (100), 28g
+* Quest Bar (190), 21g
+* Turkey (250) + Veggies (150), 40g
+* Quest Bar (190) + Carrots (60), 21g
+* Yogurt (190) + Granola (170) + Cheese (80), 32g
+* Mixed Nuts (150), 5g
+* 2 Apples (160) + Half Banh Mi (150)
+* Jerk Chicken + Rice + Plantains (800), 40g
+
+Exercise: Cardio
+* Embarcadero Run
+
+Notes:
+* Had a hard time sleeping last night, woke up tired
+* Good run, discovered a new path
+* Productive day
+* Mad hungry towards the end though
+* Chill dinner
+* Relaxing Shisha / Reading session
+
 ### Day 143 (Wednesday): 06/22/16
 Diet: 1550, 140g
 * Cottage Cheese (180) + Oatmeal (170) + Fruit (100), 28g
@@ -45,6 +67,9 @@ Exercise: Lift, Jiu-Jitsu
 Notes:
 * Woke up feeling tired and full from last night, not too bad though
 * Solid exercise in the morning!
+* Productive day
+* Good Jiu-Jitsu session
+* Relaxing evening
 
 ### Day 142 (Tuesday): 06/21/16
 Diet: 2840, 207g
