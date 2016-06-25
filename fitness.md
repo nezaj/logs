@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 145 (Friday): 06/24/16
+Diet: 2080, 129g
+* Greek Yogurt (180) + Oatmeal (170) + Fruit (100), 26g
+* Quest Bar (190), 21g
+* BBQ Chicken + Veggies (400) + Bread/Snacks/Nuts (600), 50g
+* Cheese (80), 6g
+* Yogurt (190) + Granola (170), 26g
+
+Exercise: Semi-Lift, Jiu-Jitsu
+* Tabata Push-ups: 9 rounds
+* Pull-ups 31-35: Day 3 (Repeat)
+
+Notes:
+* Went to bed late last night, woke up late
+* Low energy during workout, got distracted too easily
+* Family visit at work, was fun
+* Productive day
+* Solid Jiu-Jitsu session
+* Chill Shisha session in the evening
+
 ### Day 144 (Thursday): 06/23/16
 Diet: 2990, 187g
 * Cottage Cheese (180) + Oatmeal (170) + Fruit (100), 28g
