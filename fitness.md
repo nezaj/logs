@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 146 (Saturday): 06/25/16
+Diet: 2430, 139g
+* Butter Croissant (240)
+* Turkey Balls (300) + Veggies (150) + Cheese (80), 44g
+* Apples (100) + Carrots (60) + Yogurt (80), 12g
+* Pretzel Nuggets (390) + Oat Bars (200), 4g
+* Cottage Cheese (270) + Oatmeal (170) + Mandarins (70), 47g
+* Cheese (320), 32g
+
+Exercise: Cardio
+* Half Embarcadero run (Achilles pain)
+
+Notes:
+* One month of no sugar!
+* Woke up feeling good, less calories from previous day is big win
+* Doing lots of chores in the morning helped improve mood
+* Walked around a lot today
+* Was super hungry and ended up over-snacking
+* Took a fat nap in the evening
+
 ### Day 145 (Friday): 06/24/16
 Diet: 2080, 129g
 * Greek Yogurt (180) + Oatmeal (170) + Fruit (100), 26g
@@ -477,7 +497,7 @@ Notes:
 * Went to bed late again
 
 ## Week Review: 05/30/16 - 06/05/16
-* Diet: ~2611 (+761), ~177g (+27)
+* Diet:         ~2611 (+761), ~177g (+27)
 * Abs:          |
 * Pull-ups:     |
 * Lift:         |
@@ -943,7 +963,7 @@ Notes:
 ### Hiatus (Traveling in Spain/Big Sur) 04/25/16 -> 05/17/16
 
 ### 100ish day Review
-* Improved dmy diet a lot over these three months
+* Improved my diet a lot over these three months
 * However, still binging occasionally on candy/ice-cream
 * Was much more discplined earlier which helped me cut weight
 * Was not so strict from end of march onwards
