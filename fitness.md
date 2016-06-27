@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 147 (Sunday): 06/26/16
+Diet: 1560, 149g
+* Turkey Balls (700), 72g
+* Protein Powder (120), 25g
+* Cottage Cheese (270) + Oatmeal (170) + Chia Seeds (200), 52g
+* Apples (100)
+
+Exercise: Lift
+* Tabata Push-ups: 9 rounds (Complete, not bad)
+* Crazy 8s + Skulls: 5x75 7, 7, 7, 7, 7 (Complete)
+* Abs: 4x13/13/12/13 (Complete)
+
+Notes:
+* Messed up my sleep due to previous day nap
+* Re-tooled my Vim
+* Did lots of random chores, misc updates in the morning, was productive
+* Solid lift session
+* Got a haircut
+* Decent code session
+* Chill evening watching GoT w/ friends
+* Was hungry at night but determined to keep calories in check!
+
 ### Day 146 (Saturday): 06/25/16
 Diet: 2430, 139g
 * Butter Croissant (240)
