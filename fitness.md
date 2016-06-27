@@ -1,6 +1,6 @@
-Fitness Log
+## Fitness Log
 
-## Take-aways
+### Take-aways
 General:
 * Make sure to eat enough on Jiu-Jitsu days to properly recover next day
 * Don't buy sweets (ice-cream, candy, protein bars) in bulk
@@ -27,6 +27,62 @@ Exercise:
 
 Notes:
 *
+
+## Week Review: 06/20/16 - 06/26/16
+* Weight:       153.8lb
+* Diet:         ~2176 (+326), 156g (+6)
+* Lift:         ||||
+* Abs:          |||
+* Pull-ups:     ||
+* Crazy 8s:     ||
+* Jiu-Jitsu:    |||
+* Cardio:       |||
+* Run:          |||
+* Stretch:
+* Rest:
+
+**Overall**
+* Monday -> Friday was excellent
+* Felt very anxious on Sat, Sunday was much better
+* Executed on morning routine, improved diet, solid exercise
+* Overall an excellent and productive week
+
+**Diet**
+* Calories were better this week but still high
+* Zig-zagged on calories due to hunger
+* Will buckle down following week
+* Still clean on sugar :)
+
+**Exercise**
+* Exercised every day this week!
+* Went to Jiu-Jitsu 3x, all sessions were great
+* Lifting is starting to feel fun again!
+* Achilles still needs more time, had some pain on Saturday
+
+**Work**
+* Chose a team this week!
+* Feeling very excited about work
+
+**Personal**
+* Executed on my mantra log, this really helped set me up for a successful week
+* Good chill sessions with friends and co-workers
+* Felt a little anxious on Saturday, but dealt with it
+* feeling centered on my execution
+
+**Last week Focus**
+* Keep clean on sugar: Y
+* Hit ~1850 average calories: N
+--> Calories were better but still too high
+* Fufill daily mantra: Y
+* Choose a work team: Y
+
+**Next Week Focus**
+* Hit ~1850 average calories
+--> This is the cut range
+--> Be vigilant about logging weight weekly
+* Be productive at work, start narrowing down areas of ownership
+* Build simple app using React Native/GraphQL/Relay
+* Do some shopping this weekend (clothes, glasses)
 
 ### Day 147 (Sunday): 06/26/16
 Diet: 1560, 149g
