@@ -28,6 +28,30 @@ Exercise:
 Notes:
 *
 
+### Day 148 (Monday): 06/27/16
+Diet: 1920, 151g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseed (200), 43g
+* Quest Bar (190), 20g
+* Turkey (300) + Veggies (100), 50g
+* Cheese (160), 12g
+* Yogurt (190) + Granola (170), 26g
+* Plums (90) + Apple (80)
+
+Exercise: Lift
+* Tabata Push-ups: 9 rounds (Complete, repeat)
+* Pull-ups 31-35: Day 3 (Complete)
+* Abs: 4x13/13/13/13 (Complete)
+
+Notes:
+* Woke up early
+* Solid exercise
+* Was definitely feeling hungry today but kept calories low
+* One thing to note is to not snack so early, better to save my snacks
+* Productive day
+* Great Jiu-Jitsu session
+* Chill evening shisha session
+* Overall great day
+
 ## Week Review: 06/20/16 - 06/26/16
 * Weight:       153.8lb
 * Diet:         ~2176 (+326), 156g (+6)
