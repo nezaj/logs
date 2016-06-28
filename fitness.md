@@ -37,7 +37,7 @@ Diet: 1920, 151g
 * Yogurt (190) + Granola (170), 26g
 * Plums (90) + Apple (80)
 
-Exercise: Lift
+Exercise: Lift, Jiu-Jitsu
 * Tabata Push-ups: 9 rounds (Complete, repeat)
 * Pull-ups 31-35: Day 3 (Complete)
 * Abs: 4x13/13/13/13 (Complete)
@@ -50,6 +50,7 @@ Notes:
 * Productive day
 * Great Jiu-Jitsu session
 * Chill evening shisha session
+* Went to bed late though, around midnight
 * Overall great day
 
 ## Week Review: 06/20/16 - 06/26/16

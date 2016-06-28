@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 12 (Monday): 06/27/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Chores      : Y
+* Ate Clean       : Y
+
+Notes:
+
 ### Day 11 (Sunday): 06/26/16 (Clean)
 Mantra:
 * Woke up Early   : Y
