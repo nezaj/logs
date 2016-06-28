@@ -14,10 +14,29 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Did Chores      : Y
+* Did Good Work   : Y
 * Ate Clean       : Y
 
 Notes:
+
+## Week Review: 06/20/16 - 06/26/16
+**Stats**
+* Woke up Early   : 7/7
+* Solid Exercise  : 5/7
+* Ate Clean       : 4/7
+* Did Good Work   : 5/5
+* Did Chores      : 2/2
+
+**Notes**
+* Overall a great week
+* Was consistent with waking up early and work / chores
+* Did lots of exercise, not perfect due to one day tiredness and injury
+* Diet was better this week than previous, zig-zagged on calories though
+
+**Next Week Focus**
+* Execute on <1850 calorie challenge
+* Keep up consistency, will feel great after
+* Try to stretch when you can to re-hab Achilles
 
 ### Day 11 (Sunday): 06/26/16 (Clean)
 Mantra:
@@ -43,8 +62,8 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : N
-* Ate Clean       : Y
 * Did Good Work   : Y
+* Ate Clean       : Y
 
 Notes:
 * Low energy in the morning
@@ -54,8 +73,8 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Ate Clean       : N
 * Did Good Work   : Y
+* Ate Clean       : N
 
 Notes:
 * Felt very hungry today
@@ -65,8 +84,8 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Ate Clean       : Y
 * Did Good Work   : Y
+* Ate Clean       : Y
 
 Notes:
 
@@ -74,8 +93,8 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Ate Clean       : N
 * Did Good Work   : Y
+* Ate Clean       : N
 
 Notes:
 * Ate mostly clean but extra bread towards EOD
@@ -95,8 +114,8 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Ate Clean       : Y
 * Did Good Work   : Y
+* Ate Clean       : Y
 
 Notes:
 
