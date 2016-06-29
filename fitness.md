@@ -28,6 +28,27 @@ Exercise:
 Notes:
 *
 
+### Day 149 (Tuesday): 06/28/16
+Diet: 4200, 201g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseed (200), 43g
+* Quest Bar (190), 20g
+* Sushi/Asian food (700), 30g
+* Croissant (200) + Quest Bar (190) + Dried Fruits (60), 20g
+* Cheese (160), 12g
+* Granola (170) + Yogurt (190), 26g
+* FB Snacks (1200), 40g
+* Oats Bars (400) + Apples (100), 10g
+
+Exercise: Cardio
+* Embarcadero Run
+
+Notes:
+* Woke up early but definitely tired due to going to bed late
+* Low energy during first half of run, woke up for the second
+* Ate way too much food today
+* Lower productivity as a result
+* Chill evening though
+
 ### Day 148 (Monday): 06/27/16
 Diet: 1920, 151g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseed (200), 43g

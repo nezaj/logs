@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 13 (Tuesday): 06/27/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Ate Clean       : N
+
+Notes:
+* Ate way too much which negatively impacted my work
+
 ### Day 12 (Monday): 06/27/16 (Clean)
 Mantra:
 * Woke up Early   : Y
@@ -105,8 +115,8 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Ate Clean       : Y
 * Did Good Work   : Y
+* Ate Clean       : Y
 
 Notes:
 
@@ -114,8 +124,8 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Did Good Work   : Y
 * Ate Clean       : Y
+* Did Good Work   : Y
 
 Notes:
 
