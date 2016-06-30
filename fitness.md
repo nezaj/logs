@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 150 (Wednesday): 06/29/16
+Diet: 3340, 214g
+* 2 Quest Bars (380) + 2 Cheese (160), 52g
+* Ramen (500) + Ban Mi (300) + Snacks (200), 40g
+* Quest Bar (190), 20g
+* Yogurt (190) + Granola (170), 28g
+* 2 Cheese (160) + Popcorn (100), 14g
+* FB Dinner (800) + Quest Bar (190), 60g
+
+Exercise: Lift
+* Crazy 8s + Skulls: 5x75 7, 8, 7, 7, 8 (Complete)
+* Tabata Push-ups: 9 rounds (Complete, tough)
+
+Notes:
+* Woke up late today, too overstuffed from previous days
+* Barely squeezed in a workout, but felt great after
+* Originally tried fasting but ended up eating too much again today
+* -> You know this doesn't work
+* Not productive at work
+* Was tired throughout the day and took another nap
+* Went to bed early
+
 ### Day 149 (Tuesday): 06/28/16
 Diet: 4200, 201g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseed (200), 43g

@@ -10,7 +10,18 @@ Mantra:
 Notes:
 *
 
-### Day 13 (Tuesday): 06/27/16
+### Day 14 (Wednesday): 06/29/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Ate Clean       : N
+
+Notes:
+* Hard time waking up due to overfullness from previous night
+* Ate way too much again today and couldn't focus at work
+
+### Day 13 (Tuesday): 06/28/16
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
