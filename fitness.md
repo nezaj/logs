@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 151 (Thursday): 06/30/16
+Diet: 1910, 159g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseed (200), 43g
+* Quest Bar (190), 20g
+* Chicken Breast (300) + Veggies (150), 50g
+* Quest Bar (190), 20g
+* Apple (80)
+* Yogurt (190) + Granola (170), 26g
+
+Exercise: Cardio
+* Embarcadero Run
+
+Notes:
+* Woke up early
+* Solid run
+* Decent work
+* Not as tired
+* Ate clean!
+* Chill evening w/ friends
+
 ### Day 150 (Wednesday): 06/29/16
 Diet: 3340, 214g
 * 2 Quest Bars (380) + 2 Cheese (160), 52g
