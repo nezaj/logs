@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 16 (Friday): 07/01/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Ate Clean       : Y
+
+Notes:
+
 ### Day 15 (Thursday): 06/30/16 (Clean)
 Mantra:
 * Woke up Early   : Y

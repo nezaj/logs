@@ -28,6 +28,29 @@ Exercise:
 Notes:
 *
 
+### Day 152 (Friday): 07/01/16
+(Estimate) Diet: 1860, 139g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseed (200), 43g
+* Banana (100)
+* Chicken Breast (300) + Veggies (100), 50g
+* Apple (80)
+* Carrots (90)
+* Granola (170) + Yogurt (190), 26g
+* Quest Bar (190), 20g
+
+Exercise: Lift, Jiu-Jitsu
+* Tabata Push-ups: 9 rounds (Complete, repeat)
+* Pull-ups 31-35: Day 4, 24/27/24/24/0 (Repeat)
+* Abs: 4x13/14/13/14 (Complete)
+
+Notes:
+* Woke up early
+* Great lift session, not enough energy to finish pulls though
+* Productive @ Work
+* Solid Jiu-Jitsu session
+* Chill evevning Shisha session
+* Feeling good overall, digging the lean feeling
+
 ### Day 151 (Thursday): 06/30/16
 Diet: 1910, 159g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseed (200), 43g
