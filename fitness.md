@@ -28,15 +28,36 @@ Exercise:
 Notes:
 *
 
+### Day 153 (Saturday): 07/02/16
+Diet: 1930, 145g
+* Protein Powder (120), 25g
+* Turkey Balls (300) + Veggies (100), 36g
+* Apples (100) + Carrots (70)
+* Cottage Cheese (270) + Oatmeal (170) + Chia Seeds (200), 48g
+* Turkey Balls (300) + Veggies (100), 36g
+* Apples (100) + Carrots (100)
+
+Exercise: Cardio
+* Half Embarcadero Run
+
+Notes:
+* Woke up earlyish
+* Took it easy in the morning with running
+* Caught up with some family / did some chores in the morning
+* Signed up for SF marathon!
+* Did some shopping
+* Chilled in the evening
+* Went to bed early
+
 ### Day 152 (Friday): 07/01/16
-(Estimate) Diet: 1860, 139g
+Diet: 1860, 139g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseed (200), 43g
 * Banana (100)
 * Chicken Breast (300) + Veggies (100), 50g
 * Apple (80)
-* Carrots (90)
 * Granola (170) + Yogurt (190), 26g
 * Quest Bar (190), 20g
+* Carrots (90)
 
 Exercise: Lift, Jiu-Jitsu
 * Tabata Push-ups: 9 rounds (Complete, repeat)
