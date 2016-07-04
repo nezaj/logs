@@ -10,11 +10,23 @@ Mantra:
 Notes:
 *
 
+## Week Review: 06/27/16 - 07/03/16
+* Cleans          : 4/7
+* Woke up Early   : 6/7
+* Solid Exercise  : 7/7
+* Ate Clean       : 4/7
+* Did Good Work   : 3/5
+
+**Notes**
+* Decent week
+* Tues/Weds binge days messed up my cleans/doing good work and waking up early
+* Basically, as you already know, eating clean is the most important thing for
+  success
+
 ### Day 18 (Sunday): 07/03/16
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Did Good Work   : Y
 * Ate Clean       : N
 
 Notes:
@@ -24,7 +36,6 @@ Notes:
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
-* Did Good Work   : Y
 * Ate Clean       : Y
 
 Notes:

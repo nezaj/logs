@@ -28,6 +28,61 @@ Exercise:
 Notes:
 *
 
+## Week Review: 06/27/16 - 07/03/16
+* Weight:
+* Diet:         ~2540 (+690), ~160g (+10)
+* Lift:         |||
+* Abs:          ||
+* Pull-ups:     ||
+* Crazy 8s:     |
+* Jiu-Jitsu:    ||
+* Cardio:       ||||
+* Run:          ||||
+* Stretch:
+* Rest:
+
+**Overall**
+* Decent week
+* Binged in the middle of the week which killed productivity
+* Otherwise things were good, solid exercise, solid chilling
+* Excited about Marathon
+
+**Diet**
+* Ate clean most days
+* However, binged hard on Tues/Weds which killed overall average
+* Owning the sugar challenege, almost 40 days strong
+* Ready to begin new challenege, <2000cal a day
+
+**Exercise**
+* Exercised everyday which was great!
+* Missed Jiu-Jitsu on Wednesday due to over-eating though
+* Feeling strong however with lifts
+* Signed up for SF Marathon, excited to have a new challenge
+
+**Work**
+* Overall decent week
+* Not as productive as I would have liked
+* Productivity was killed on tues/weds
+* Need to ramp up on code-base and not be shy about reaching out for help
+
+**Personal**
+* Another chill week, hung most evenings with friends
+* Really fun weekend
+* Feeling proud of making time for family, friends, and personal time
+
+**Last week Focus**
+* Hit ~1850cal          : N
+* Be productive at work : N (Not as productive as I would have liked)
+* Build simple app      : N
+* Do some shopping      : Y
+
+**Next Week Focus**
+* Hit <2000 average calories
+--> New challenege
+* Land at last 3 real tasks for work
+* Buy glasses this weekend
+* Stretch: Spend an afternoon/evening hacking on an RN App
+
 ### Day 154 (Sunday): 07/03/16
 Diet: 2620, 109g
 * Protein Powder (120), 25g
