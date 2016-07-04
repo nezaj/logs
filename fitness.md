@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 154 (Sunday): 07/03/16
+Diet: 2620, 109g
+* Protein Powder (120), 25g
+* Oatmeal + Berries (400), 20g
+* Half Croissant (150)
+* Ramen (800)
+* Turkey Balls (300) + Veggies (100), 36g
+* Carrots (200) + Apples (200)
+* Cottage Cheese (180) + Oatmeal (170), 28g
+
+Exercise: Cardio
+* 13.11mi Run
+
+Notes:
+* Woke up early
+* Solid half marathon run
+* CHill day hanging with friends
+* Lots of energy today, ended up over-snacking at night
+* Stayed up late
+
 ### Day 153 (Saturday): 07/02/16
 Diet: 1930, 145g
 * Protein Powder (120), 25g

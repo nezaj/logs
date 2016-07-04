@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 18 (Sunday): 07/03/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Ate Clean       : N
+
+Notes:
+* Ended up eating too much in the evneing
+
 ### Day 17 (Saturday): 07/02/16 (Clean)
 Mantra:
 * Woke up Early   : Y
