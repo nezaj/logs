@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 18 (Monday): 07/04/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Ate Clean       : N
+
+Notes:
+* Ate way too much food during family lunch
+
 ## Week Review: 06/27/16 - 07/03/16
 * Cleans          : 4/7
 * Woke up Early   : 6/7

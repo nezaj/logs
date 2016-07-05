@@ -28,8 +28,25 @@ Exercise:
 Notes:
 *
 
+### Day 155 (Monday): 07/04/16
+Diet: 2640, 168g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
+* Family Lunch (2000), 120g
+
+Exercise: Lift
+* Tabata Push-ups: 9 rounds (Complete, repeat once more)
+* Crazy 8s + Skulls: 5x75 8, 8, 7, 7, 8 (Complete)
+* Abs: 4x14/14/13/14 (Complete)
+
+Notes:
+* Woke up early
+* Solid lift, was a little less focused though due to time leisure
+* Wrapped up some morning chores
+* Ate way too much with family
+* Overall chill family day
+
 ## Week Review: 06/27/16 - 07/03/16
-* Weight:
+* Weight:       157.4
 * Diet:         ~2540 (+690), ~160g (+10)
 * Lift:         |||
 * Abs:          ||
@@ -236,7 +253,7 @@ Notes:
 * Overall great day
 
 ## Week Review: 06/20/16 - 06/26/16
-* Weight:       153.8lb
+* Weight:       153.8
 * Diet:         ~2176 (+326), 156g (+6)
 * Lift:         ||||
 * Abs:          |||
