@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 20 (Wednesday): 07/06/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : N
+* Ate Clean       : Y
+
+Notes:
+* Took a day off from training / work
+
 ### Day 19 (Tuesday): 07/05/16
 Mantra:
 * Woke up Early   : Y

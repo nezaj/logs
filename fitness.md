@@ -28,6 +28,21 @@ Exercise:
 Notes:
 *
 
+### Day 157 (Wednesday): 07/06/16
+Diet: 2000, 139g
+* Oatmeal (340) + Flaxseed (200), 26g
+* Carrots (300)
+* Turkey Balls (700), 72g
+* Oatmeal (340) + Protein Powder (120), 41g
+
+Exercise: Rest Day
+
+Notes:
+* Woke up late, skipped all alarms
+* Did not work out, needed to take a day off
+* Did not do any work, again, just needed a day off
+* Ended up watching a lot of TV and sleeping
+
 ### Day 156 (Tuesday): 07/05/16
 Diet: 3420, 38g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
