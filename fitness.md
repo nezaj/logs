@@ -28,6 +28,25 @@ Exercise:
 Notes:
 *
 
+### Day 156 (Tuesday): 07/05/16
+Diet: 3420, 38g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
+* Banana (100)
+* 2 Quest Bars (380), 40g
+* Almonds + Cashews + PB Pretzels (300), 10g
+* Additional FB Snacks (3000), 40g
+
+Exercise: Cardio
+* 5mi Run, 8:45/mi pace
+
+Notes:
+* Woke up early
+* Solid run
+* Felt very tired at work today
+* Not focused and ended up over-eating
+* I think I may have over-trained
+* Chill evening
+
 ### Day 155 (Monday): 07/04/16
 Diet: 2640, 168g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g

@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 19 (Tuesday): 07/05/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Ate Clean       : N
+
+Notes:
+* Way too tired today
+* Ended up over-eating
+
 ### Day 18 (Monday): 07/04/16
 Mantra:
 * Woke up Early   : Y
