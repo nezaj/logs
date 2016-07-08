@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 21 (Thursday): 07/07/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Took a day off from training / work
+
 ### Day 20 (Wednesday): 07/06/16
 Mantra:
 * Woke up Early   : N

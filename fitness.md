@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 158 (Thursday): 07/07/16 (Under 2000 start)
+Diet: 1870, 146g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
+* Banana (100)
+* Chicken Breast (300) + Veggies (100), 50g
+* Quest Bar (190), 20g
+* Apple (80)
+* Granola (170) + Yogurt (190), 26g
+* Banana (100)
+
+Exercise: Mini Lift
+* Tabata Push-ups: 9 rounds (Complete, go up)
+
+Notes:
+* Woke up early
+* Tidy-ed up place and got things in order
+* Ended up not lifting, but at least got in a tabata session
+* Productive at work, was good to actively sit with the team
+* Made new bet w/ Stepan for Under 2000 Calorie challenege
+* Chill shisha session
+* Overall good day!
+
 ### Day 157 (Wednesday): 07/06/16
 Diet: 2000, 139g
 * Oatmeal (340) + Flaxseed (200), 26g
