@@ -10,6 +10,18 @@ Mantra:
 Notes:
 *
 
+## Week Review: 07/04/16 - 07/10/16
+* Cleans          : 1/7
+* Woke up Early   : 6/7
+* Solid Exercise  : 5/7
+* Under 2000      : 3/7
+* Did Good Work   : 2/4
+
+**Notes**
+* Rougher week
+* Overate due to holidays / family events
+* Slipped on exercise / work due to fatigue
+
 ### Day 24 (Sunday): 07/10/16 (Clean)
 Mantra:
 * Woke up Early   : Y

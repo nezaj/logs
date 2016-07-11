@@ -28,6 +28,53 @@ Exercise:
 Notes:
 *
 
+## Week Review: 07/04/16 - 07/10/16
+* Weight:       154.8
+* Diet:         ~2430 (+580), 137g
+* Lift:         ||
+* Abs:          ||
+* Pull-ups:
+* Crazy 8s:     ||
+* Jiu-Jitsu:
+* Cardio:       |||
+* Stretch:
+* Rest:         ||
+
+**Overall**
+* Tougher week
+* Felt over-trained and depleted beginning of week
+* Recovered by Thursday and then did lots of family/friend stuff
+
+**Diet**
+* Another high calorie week
+* Overate beginning of week due to fatigure, overate end due to events
+
+**Exercise**
+* Less exercise this week, felt drained from marathon training
+* Missed Jiu-Jitsu all this week due to events / fatigue, will try 3x this week
+
+**Work**
+* Less productive beginning of week
+* Became much more productive when actively sitting with the team
+
+**Personal**
+* Lots of family / friends events this week which was nice
+* Excited about Marathon, good challenege to keep pushing me
+
+**Last week Focus**
+* Hit <2000 average calories    : N
+* Land at last 3 tasks          : N
+* Buy glasses this weekend      : N
+* Stretch: Hack on an RN App    : N
+--> Not sure how useful these are, I don't seem to check them
+--> Let's try once more
+
+**Next Week Focus**
+* Hit <2000 average calories    :
+* Land at last 3 tasks          :
+* Buy Glasses / Schedule Doc    :
+* Stretch: Hack on an RN App    :
+
 ### Day 161 (Sunday): 07/10/16
 Diet: 1930, 174g
 * Greek Yougrt (480) + Oatmeal (170) + Carrots (70), 95g
@@ -43,6 +90,7 @@ Notes:
 * Woke up reasonable time
 * 20mi run was tough, felt destroyed after
 * Taking it easy for rest of day
+* Napped sporadially and fell asleep late
 
 ### Day 160 (Saturday): 07/09/16
 Diet: 2300, 80g
@@ -92,7 +140,7 @@ Diet: 1870, 146g
 * Granola (170) + Yogurt (190), 26g
 * Banana (100)
 
-Exercise: Mini Lift
+Exercise: Mini Lift (Rest)
 * Tabata Push-ups: 9 rounds (Complete, go up)
 
 Notes:
@@ -1099,7 +1147,7 @@ Notes:
 * Another clean day!!
 
 ## Week Review: 05/23/16 - 05/29/16
-* Diet: ~2271 (+421), ~140g (-10)
+* Diet:         ~2271 (+421), ~140g (-10)
 * Abs:          ||
 * Pull-ups:     ||
 * Lift:         |||
