@@ -10,6 +10,33 @@ Mantra:
 Notes:
 *
 
+### Day 24 (Sunday): 07/10/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
+### Day 23 (Saturday): 07/09/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Overate w/ Jiu-Jitsu crew
+
+### Day 22 (Friday): 07/08/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Overate at Alex's bday
+
 ### Day 21 (Thursday): 07/07/16
 Mantra:
 * Woke up Early   : Y

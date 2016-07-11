@@ -28,6 +28,60 @@ Exercise:
 Notes:
 *
 
+### Day 161 (Sunday): 07/10/16
+Diet: 1930, 174g
+* Greek Yougrt (480) + Oatmeal (170) + Carrots (70), 95g
+* Protein Powder (120), 25g
+* Turkey Balls (350) + Veggies (150), 36g
+* Apples (150)
+* Oatmeal (170) + Flaxseed (200) + Mandarins (70), 18g
+
+Exercise: Cardio
+* Marathon Training: 20mi, 3:17:40 -- 9:53/mi pace
+
+Notes:
+* Woke up reasonable time
+* 20mi run was tough, felt destroyed after
+* Taking it easy for rest of day
+
+### Day 160 (Saturday): 07/09/16
+Diet: 2300, 80g
+* Granola + Yogurt + Fruit (800), 20g
+* Bulgogi (500) + Almonds (600) + Popcorn (400), 60g
+
+Exercise: Lift
+* Tabata Push-ups: 9 rounds (Complete, repeat)
+* Crazy 8s + Skulls: 5x75 8, 8, 8, 8, 8 (Complete)
+* Abs: 4x14/14/14/14 (Complete)
+
+Notes:
+* Woke up early, got on the train
+* Brunch with pop.
+* Great lift session
+* Awesome evening/night with JiuJitsu Crew
+* Went to bed super late
+
+### Day 159 (Friday): 07/08/16
+Diet: 2850, 215g
+* 2 Quest Bars (380), 40g
+* Peach (80)
+* Chicken Breast (300) + Veggies (100), 50g
+* Chicken + Roast Beef (150), 25g
+* Quest Bar (190), 20g
+* Chicken/Hachapuri (600) + Vodka (150), 30g
+* Chicken/Hachapuri (900), 50g
+
+Exercise: Cardio
+* 5mi Embarcadero run - 8:35 pace
+
+Notes:
+* Woke up early, felt a bit tired though
+* Solid run
+* Lots of work / investigation done, felt productive
+* Chill evening celebrating a bday + yummy russian food
+* Overate again though
+* Went to bed late
+
 ### Day 158 (Thursday): 07/07/16 (Under 2000 start)
 Diet: 1870, 146g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
