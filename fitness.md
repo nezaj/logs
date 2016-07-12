@@ -28,6 +28,29 @@ Exercise:
 Notes:
 *
 
+### Day 162 (Monday): 07/11/16
+Diet: 1860, 142g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
+* Banana (100)
+* Chicken Breast (300) + Veggies (100), 50g
+* Apple (80)
+* Granola (170) + Yogurt (190), 26g
+* Carrots (90)
+* Yogurt (190), 18g
+
+Exercise: Semi-Lift, Jiu-Jitsu
+* Tabata Push-ups: 10 rounds (Complete)
+* Abs: 4x14/15/14/15 (Complete)
+
+Notes:
+* Woke up early, but definitely tired/sore
+* Didn't have time for full workout, but did decent
+* Feeling a little bit of a slower start
+* Lower energy at work
+* Solid Jiu-Jitsu session
+* Finished chores in evening, watched some netflix, very chill
+* Went to bed on time
+
 ## Week Review: 07/04/16 - 07/10/16
 * Weight:       154.8
 * Diet:         ~2430 (+580), 137g

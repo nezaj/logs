@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 25 (Monday): 07/11/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Got up too late and didn't do full workout
+* Feeling sore and injured from previous day run
+
 ## Week Review: 07/04/16 - 07/10/16
 * Cleans          : 1/7
 * Woke up Early   : 6/7
