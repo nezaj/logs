@@ -10,6 +10,18 @@ Mantra:
 Notes:
 *
 
+### Day 25 (Tuesday): 07/12/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Workout overall was decent
+* However I wasn't focused and had lower energy, didn't feel solid
+* Pigged out in the evening
+
 ### Day 25 (Monday): 07/11/16
 Mantra:
 * Woke up Early   : Y

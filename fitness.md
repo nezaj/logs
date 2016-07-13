@@ -28,6 +28,30 @@ Exercise:
 Notes:
 *
 
+### Day 163 (Tuesday): 07/12/16
+Diet: 3570, 178g
+* Cottage Cheese (270) + Granola (170) + Flaxseeds (200), 48g
+* Banana (100)
+* Apple (80)
+* Chicken Breast (300) + Veggies (100), 50g
+* Popcorn (100)
+* Chicken Breast (150), 30g
+* Popcorn (100)
+* Chicken Breast (300) + Veggies (100), 50g
+* FB Snacks (1600)
+
+Exercise: Semi-Lift
+* Stretch: 10min
+* Tabata Push-ups: 10 rounds (Complete)
+* Crazy 8s + Skulls: 5x75 8, 9, 8, 8, 9 (Complete)
+
+Notes:
+* Woke up early
+* Decent workout, wasn't as focused but pushed through
+* Decent productivity, was feeling very hungry though
+* Buddy visited me at work was fun but I totally pigged out
+* Felt super sluggish at night
+
 ### Day 162 (Monday): 07/11/16
 Diet: 1860, 142g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
