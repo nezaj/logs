@@ -10,6 +10,18 @@ Mantra:
 Notes:
 *
 
+### Day 26 (Wednesday): 07/13/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Went to bed way too late last night and felt sluggish in morning
+* Ate way too many calories yesterday
+* Skipped morning workout
+
 ### Day 25 (Tuesday): 07/12/16
 Mantra:
 * Woke up Early   : Y

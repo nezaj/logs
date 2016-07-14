@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 164 (Wednesday): 07/13/16
+Diet: 1880, 167g
+* Apple (80)
+* Granola (170) + Yogurt (190), 26g
+* Quest Bar (190), 20g
+* Chicken Breast (300) + Veggies (100), 50g
+* Bread (100) + Cheese (100), 6g
+* Tomatoes + Roast Beef (150), 15g
+* Tomatoes (150) + Roast Beef (200) + Macadamia Nuts (200), 50g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up late, feeling crap from too much food yesterday
+* Skipped morning workout
+* Big struggle to get productive at work in the morning
+* Felt much better by mid-day
+* Decent productive, was a little distracted due to hackathon at work
+* Great Jiu-Jitsu session
+* Chill sisha sesh with JiuJitsu folk
+* Went to bed very late though
+
 ### Day 163 (Tuesday): 07/12/16
 Diet: 3570, 178g
 * Cottage Cheese (270) + Granola (170) + Flaxseeds (200), 48g
