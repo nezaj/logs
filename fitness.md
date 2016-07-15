@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 165 (Thursday): 07/14/16
+Diet: 1980, 141g
+* Apple (80) + Quest Bar (190) + Carrots (90), 20g
+* Turkey Breast (150) + Roast Beef (150) + Veggies (100), 50g
+* Roast Beef (150) + Veggies (150), 25g
+* Quest Bar (190), 20g
+* Yogurt (190) + Granola (170), 26g
+* Blackberries (150) + Tomatoes (100)
+* Sunflower Bread (100)
+* Hefe Beer (120)
+
+Exercise: Cardio
+* Embarcadero Run, chill run
+
+Notes:
+* Went to bed late so ended up sleeping in longer
+* Solid morning run
+* Feeling energetic this morning
+* Chill day at work
+* Relaving evening
+* Went to bed late again
+
 ### Day 164 (Wednesday): 07/13/16
 Diet: 1880, 167g
 * Apple (80)
