@@ -28,6 +28,22 @@ Exercise:
 Notes:
 *
 
+### Day 166 (Friday): 07/15/16
+Diet: 1980, 147g
+* Apple (80) + Oatmeal (340) + Flaxseed (200), 21g
+* Quest Bar (190), 20g
+* Chicken Breast (300) + Veggies (150), 50g
+* Quest Bar (190) + Milk (120), 30g
+* Yogurt (190) + Granola (170), 26g
+* Half Popcorn (50)
+
+Exercise:
+
+Notes:
+* Woke up late, skipped morning workout
+--> Again, staying out late makes next morning tough
+* Forgot my glasses at home, not productive day, deifnitely lower energy
+
 ### Day 165 (Thursday): 07/14/16
 Diet: 1980, 141g
 * Apple (80) + Quest Bar (190) + Carrots (90), 20g

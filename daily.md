@@ -10,6 +10,19 @@ Mantra:
 Notes:
 *
 
+### Day 28 (Friday): 07/15/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : N
+* Under 2000      : Y
+
+Notes:
+* Went to bed way too late last night again
+* Ended up sleeping in
+--> Do your best to go to bed no later than 11:30am on worknights
+* Forgot glasses, low energy, not productive day
+
 ### Day 27 (Thursday): 07/14/16
 Mantra:
 * Woke up Early   : N
