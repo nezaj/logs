@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 29 (Saturday): 07/16/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Under 2000      : Y
+
+Notes:
+* Lift too late, wasn't focused
+
 ### Day 28 (Friday): 07/15/16
 Mantra:
 * Woke up Early   : N

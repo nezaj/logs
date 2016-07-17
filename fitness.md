@@ -28,6 +28,25 @@ Exercise:
 Notes:
 *
 
+### Day 167 (Saturday): 07/16/16
+Diet: 1940, 130g
+* Apple (100) + Oatmeal (340) + Flaxseed (200), 21g
+* Protein Powder (120), 25g
+* Apple (100) + Mandarins (140)
+* Turkey Balls (350), 42g
+* Turkey Balls (350) + Carrots (100), 42g
+* Mandarins (140)
+
+Exercise: Semi-Lift
+* Crazy 8s + Skulls: 5x75 9, 9, 8, 8, 9 (Complete)
+* Abs: 4x15/15/14/15 (Repeat)
+
+Notes:
+* Woke up ~9am
+* Lifted too late, wasn't focused
+* Did some chores, but felt pretty lazy today
+* Went to bed early
+
 ### Day 166 (Friday): 07/15/16
 Diet: 1980, 147g
 * Apple (80) + Oatmeal (340) + Flaxseed (200), 21g
@@ -37,12 +56,14 @@ Diet: 1980, 147g
 * Yogurt (190) + Granola (170), 26g
 * Half Popcorn (50)
 
-Exercise:
+Exercise: Jiu-Jitsu
 
 Notes:
 * Woke up late, skipped morning workout
 --> Again, staying out late makes next morning tough
 * Forgot my glasses at home, not productive day, deifnitely lower energy
+* Solid Jiu-Jitsu session
+* Chill shisha aevening with friends
 
 ### Day 165 (Thursday): 07/14/16
 Diet: 1980, 141g
