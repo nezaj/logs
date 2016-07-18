@@ -29,16 +29,67 @@ Notes:
 *
 
 ### Day 169 (Monday): 07/18/16
-Weight:
-* Morning: 153.0
+Weight: 153.0
 
-Diet:
-*
+Diet: 930, 68g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
+* Quest Bar (190), 20g
+* Banana (100)
 
-Exercise:
+Exercise: Semi-Lift
+* Pull-ups 26-30: Day 1 Complete
 
 Notes:
 * Woke up early
+* Reset on pull-ups to pick up the habit again
+* Skin tear on right palm ended workout early
+* Low energy this morning
+
+## Week Review: 07/11/16 - 07/17/16
+* Weight:       153.0
+* Diet:         ~2171, 136g
+* Lift:         |||
+* Abs:          ||
+* Pull-ups:
+* Crazy 8s:     ||
+* Jiu-Jitsu:    |||
+* Cardio:       ||
+* Rest:
+
+**Overall**
+* Decent week
+* Ate clean 6/7 days, did JiuJitsu 3x, and completed marathon training
+* Chilled a lot with friends
+* However, lack of sleep and energy negatively affected workouts/productivity
+
+**Diet**
+* Binged hard on Tuesday, determined to stick to <2000 challenege from here out
+
+**Exercise**
+* Exercised more often this week
+* Morning exercise were less intense however, due to poor sleep/low energy
+* Went to JiuJitsu 3x!
+* Missed all pull workouts again for 2nd week in a row
+--> Been losing this habit, did a re-test and decided to drop down in bucket
+--> Do pulls 3x a week again
+
+
+**Work**
+* Was more productive in beginning of week but lost steam towards the end
+* Landed 2 tasks. Goal was 3, will try to pick up pace this week
+
+**Personal**
+* Hung out with people 6/7 evenings, very fun/relaxing
+* Went to a bar for the first time in awhile, found myself liking the atmosphere
+* Only downside was going to bed late, need to get in bed on time for sure
+
+**Takeaways**
+--> Go to bed on time during worknights! Will make the next day much better
+
+**Goals this week**
+* Land 3 tasks
+* Hit 5 Cleans
+* Do pulls 3x this week
 
 ### Day 168 (Sunday): 07/17/16
 Weight:
@@ -72,6 +123,7 @@ Diet: 1940, 130g
 * Mandarins (140)
 
 Exercise: Semi-Lift
+* Pull challenege: 28reps
 * Crazy 8s + Skulls: 5x75 9, 9, 8, 8, 9 (Complete)
 * Abs: 4x15/15/14/15 (Repeat)
 
@@ -118,7 +170,7 @@ Notes:
 * Solid morning run
 * Feeling energetic this morning
 * Chill day at work
-* Relaving evening
+* Chilled at bar in the evening, fairly relaxing
 * Went to bed late again
 
 ### Day 164 (Wednesday): 07/13/16

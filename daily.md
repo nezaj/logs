@@ -10,6 +10,20 @@ Mantra:
 Notes:
 *
 
+## Week Review: 07/11/16 - 07/17/16
+* Cleans          : 1/7
+* Woke up Early   : 4/7
+* Solid Exercise  : 2/7
+* Under 2000      : 6/7
+* Did Good Work   : 4/5
+
+**Notes**
+* Mixed week, ate cleaner and was more productive at work
+* However was lower energy in general
+* This is due to marathon training and going to bed late
+* This caused less intense workouts as well
+* Main lack of cleans due to not waking up on time and working out intensely
+
 ### Day 30 (Sunday): 07/17/16 (Clean)
 Mantra:
 * Woke up Early   : Y
