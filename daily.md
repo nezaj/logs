@@ -10,6 +10,14 @@ Mantra:
 Notes:
 *
 
+### Day 30 (Sunday): 07/17/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 29 (Saturday): 07/16/16
 Mantra:
 * Woke up Early   : Y
