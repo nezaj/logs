@@ -31,12 +31,16 @@ Notes:
 ### Day 169 (Monday): 07/18/16
 Weight: 153.0
 
-Diet: 930, 68g
+Diet: 1970, 168g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
 * Quest Bar (190), 20g
 * Banana (100)
+* Chicken Breast (300) + Veggies (150), 50g
+* Coffee/Milk (40), 4g
+* Quest Bar (190), 20g
+* Yogurt (190) + Granola (170), 26g
 
-Exercise: Semi-Lift
+Exercise: Semi-Lift, Jiu-Jitsu
 * Pull-ups 26-30: Day 1 Complete
 
 Notes:
@@ -44,6 +48,10 @@ Notes:
 * Reset on pull-ups to pick up the habit again
 * Skin tear on right palm ended workout early
 * Low energy this morning
+* Not productive at work, very tired/un-focused
+* Solid Jiu-Jitsu session
+* Chill evening Shisha
+* Went to bed reasonable time, but hard time falling asleep
 
 ## Week Review: 07/11/16 - 07/17/16
 * Weight:       153.0

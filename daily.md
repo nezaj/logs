@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 31 (Monday): 07/18/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : N
+* Under 2000      : Y
+
+Notes:
+* Injured hand during pulls and ended workout early
+* Low eenergy at working, didn't get anything done
+
 ## Week Review: 07/11/16 - 07/17/16
 * Cleans          : 1/7
 * Woke up Early   : 4/7
