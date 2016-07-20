@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 32 (Tuesday): 07/19/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Took rest day due to injured hand
+
 ### Day 31 (Monday): 07/18/16
 Mantra:
 * Woke up Early   : Y

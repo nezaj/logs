@@ -28,8 +28,30 @@ Exercise:
 Notes:
 *
 
+### Day 170 (Tuesday): 07/19/16
+Weight: 152.8 / 157.2
+
+Diet: 1970, 158g
+* Cottage Cheese (270) + Oatmeal (170) + Strawberries (100), 38g
+* Quest Bar (190), 20g
+* Milk/Coffee (30), 3g
+* Chicken Breast (300) + Veggies (100), 50g
+* Milk/Coffee (50) + Quest Bar (190), 24g
+* Apple (80) + Popcorn (100)
+* Granola (170) + Yogurt (190), 26g
+* PB Pretzels (60)
+
+Exercise: Rest Day
+
+Notes:
+* Woke up early
+* Decided to skip lift today due to hand injury
+* Started day off slow but became more productive towards end
+* Chilled with Babula in the evening
+* Went to bed early
+
 ### Day 169 (Monday): 07/18/16
-Weight: 153.0
+Weight: 153.0 / 154.2
 
 Diet: 1970, 168g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
