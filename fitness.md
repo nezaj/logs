@@ -28,6 +28,50 @@ Exercise:
 Notes:
 *
 
+### Day 172 (Thursday): 07/21/16
+Weight: 155.6
+
+Diet: 1980, 109g
+* Cottage Cheese (160) + Oatmeal (340) + Flaxseeds (200), 50g
+* Wine (300)
+* Yogurt (130) + Oatmeal (340) + Flaxseed (200), 45g
+* Oatmeal (170) + Flaxseeds (200), 14g
+
+Exercise: Cardio, Jiu-Jitsu
+* Embarcadero Run: 5mi easy pace
+
+Notes:
+* Woke up late, really low energy
+* Had doctor appointments all day, felt much better by afternoon
+* Chilled with friends in the evening
+* Very relaxing day
+* Very hungry at night, ended up eating extra because I though I could
+  spare calories, overall not the best idea though, would have been
+  better to just keep calories lower
+
+### Day 171 (Wednesday): 07/20/16
+Weight: 153.4 / 157.6
+
+Diet: 1970, 130g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
+* Strawberries (50) + Apricots (100) + Granola (50)
+* Milk/Coffee (40), 4g
+* Quest Bar (190), 20g
+* Beef (400) + Carrots (100) + Eggplant (50) + Tofu (50), 35g
+* Quest Bat (190) + Pretzels (80) + Fruit (80), 20g
+* Milk/Coffee (40), 3g
+
+Exercise: Cardio, Jiu-Jitsu
+* Embarcadero Run: 5mi easy pace
+
+Notes:
+* Woke up early, lower energy
+* Good run, definitely helped wake me up a bit
+* Ate a bigger breakfast for more energy
+* Definitely feeling hungry today, decided to switch up food
+* Solid Jiu-Jitsu session
+* Finished chores in the evening, took it easy
+
 ### Day 170 (Tuesday): 07/19/16
 Weight: 152.8 / 157.2
 

@@ -10,6 +10,25 @@ Mantra:
 Notes:
 *
 
+### Day 34 (Thursday): 07/21/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Under 2000      : Y
+
+Notes:
+* Was too tired to lift
+
+### Day 33 (Wednesday): 07/20/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : Y
+
+Notes:
+* Didn't feel productive today
+
 ### Day 32 (Tuesday): 07/19/16
 Mantra:
 * Woke up Early   : Y
