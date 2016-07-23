@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 173 (Friday): 07/22/16
+Weight: 155.0
+
+Diet: 1930, 134g
+* Cottage Cheese (180) + Oatmeal (170) + Fruit (100), 28g
+* Bacon (150), 5g
+* Quest Bar (190) + Milk/Coffee (40), 24g
+* Banana (100) + Quest Bar (1290), 20g
+* Beef Brisket (400), 30g
+* Milk/Coffee (40) + Granola Bites (60), 3g
+* Apple (80) + Quest Bar (190) + Milk/Coffee (40), 24g
+
+Exercise: Jiu Jitsu
+
+Notes:
+* Skipped morning workout, low morning energy
+* Caught up on logging and chores from previous day though
+* Decent productivity at work, did some personal project as well
+* Great JiuJitsu session
+
 ### Day 172 (Thursday): 07/21/16
 Weight: 155.6
 
