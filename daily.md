@@ -10,6 +10,13 @@ Mantra:
 Notes:
 *
 
+### Day 34 (Saturday): 07/23/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 35 (Friday): 07/22/16
 Mantra:
 * Woke up Early   : Y

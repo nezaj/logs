@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 174 (Saturday): 07/23/16
+Weight: 153.6
+
+Diet: 1980, 186g
+* Cottage Cheese (160) + Oatmeal (300) + Flaxseed (200), 44g
+* Apple (80)
+* Protein Powder (120), 25g
+* Turkey Balls (300) + Veggies (150), 36g
+* Yogurt (260), 46g
+* Oatmeal (250) + Cottage Cheese (80) + Yogurt (80), 35g
+
+Exercise: Cardio
+* Embarcadero Run: 8mi
+
+Notes:
+* Woke up ~10am
+* Did some morning chores and weekly catch up
+* Solid Run
+* Took it easy, watched some netflix and had a big cat nap
+
 ### Day 173 (Friday): 07/22/16
 Weight: 155.0
 
