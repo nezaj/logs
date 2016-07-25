@@ -28,6 +28,20 @@ Exercise:
 Notes:
 *
 
+### Day 175 (Sunday): 07/24/16
+Diet: 1730, 161g
+* Cottage Cheese (160) + Oatmeal (300) + Flaxseed (200), 44g
+* Yogurt (420), 75g
+* Apple (80) + Mandarins (70)
+* Turkey Balls (350) + Veggies (150), 42g
+
+Exercise: Rest Day
+
+Notes:
+* Finished watching BoJack
+* Slept for most of day
+* Went to Bachata/Salsa in the evening, pretty fun
+
 ### Day 174 (Saturday): 07/23/16
 Weight: 153.6
 
