@@ -28,12 +28,60 @@ Exercise:
 Notes:
 *
 
+## Week Review: 07/18/16 - 07/24/16
+* Weight:       155.0
+* Diet:         ~1967, 149g
+* Lift:
+* Abs:
+* Pull-ups:     |
+* Crazy 8s:
+* Jiu-Jitsu:    |||
+* Cardio:       ||
+* Rest:         |||
+
+**Overall**
+* Blah kind of week
+* Was good about diet, jiu-jitsu, and chilling
+* Okay with work, could have been better
+* Not good with lifts and sleep
+* Felt overall tired this week, recovered during the weekend which was nice
+
+**Diet**
+* First full logging week of <2000cal challenege
+* Definitely tough, energy is lower but feeling good
+* Excited to keep pushing forward!
+
+**Exercise**
+* Injured hand beginning of week during pull-up session
+* Injury + lower energy -> skipping all lift workouts
+* Went to Jiu Jitsu 3x again! Training has been solid and focused
+
+**Work**
+* Productivity was a little better this week
+* However, I feel like I can do better!
+
+**Personal**
+* Chilled a bunch this week again with folks, felt good
+* Ended up sleeping in most of Saturday/Sunday, really needed to regain energy
+
+**Takeaways**
+* Exercise: Get back to the lifts!
+* Work: Use Howler timer trick to stay on-task at work!
+* Personal: Keep a note on sleep, noticed it's been pretty bad lately
+
+**Next Week Focus**
+* Keep energy levels high
+* Lift at least 3x
+* Be productive at work
+* Get good sleep
+
 ### Day 175 (Sunday): 07/24/16
-Diet: 1730, 161g
+Diet: 1970, 161g
 * Cottage Cheese (160) + Oatmeal (300) + Flaxseed (200), 44g
 * Yogurt (420), 75g
 * Apple (80) + Mandarins (70)
 * Turkey Balls (350) + Veggies (150), 42g
+* Apples (240)
 
 Exercise: Rest Day
 
@@ -41,6 +89,7 @@ Notes:
 * Finished watching BoJack
 * Slept for most of day
 * Went to Bachata/Salsa in the evening, pretty fun
+* Went to bed late though
 
 ### Day 174 (Saturday): 07/23/16
 Weight: 153.6
@@ -60,7 +109,7 @@ Notes:
 * Woke up ~10am
 * Did some morning chores and weekly catch up
 * Solid Run
-* Took it easy, watched some netflix and had a big cat nap
+* Took it easy, watched some Netflix and had a big cat nap
 
 ### Day 173 (Friday): 07/22/16
 Weight: 155.0
@@ -91,15 +140,14 @@ Diet: 1980, 109g
 * Yogurt (130) + Oatmeal (340) + Flaxseed (200), 45g
 * Oatmeal (170) + Flaxseeds (200), 14g
 
-Exercise: Cardio, Jiu-Jitsu
-* Embarcadero Run: 5mi easy pace
+Exercise: Rest Day
 
 Notes:
 * Woke up late, really low energy
 * Had doctor appointments all day, felt much better by afternoon
 * Chilled with friends in the evening
 * Very relaxing day
-* Very hungry at night, ended up eating extra because I though I could
+* Very hungry at night, ended up eating extra because I thought I could
   spare calories, overall not the best idea though, would have been
   better to just keep calories lower
 
@@ -200,7 +248,6 @@ Notes:
 * Missed all pull workouts again for 2nd week in a row
 --> Been losing this habit, did a re-test and decided to drop down in bucket
 --> Do pulls 3x a week again
-
 
 **Work**
 * Was more productive in beginning of week but lost steam towards the end

@@ -10,12 +10,26 @@ Mantra:
 Notes:
 *
 
-### Day 35 (Sunday): 07/24/16 (Clean)
+## Week Review: 07/18/16 - 07/24/16
+* Cleans          : 1/7
+* Woke up Early   : 5/5
+* Solid Exercise  : 2/7
+* Under 2000      : 7/7
+* Did Good Work   : 2/4
+
+**Notes**
+* Blah kind of week
+* Was lower energy this week and missed all my lift days
+* Again marathon training + lower calories took a lot out of me
+* Took a big rest over the weekend, hopefully will have more energy this week
+
+### Day 35 (Sunday): 07/24/16
 Mantra:
-* Solid Exercise  : Y
+* Solid Exercise  : N
 * Under 2000      : Y
 
 Notes:
+* Took a rest day
 
 ### Day 34 (Saturday): 07/23/16 (Clean)
 Mantra:
@@ -73,7 +87,7 @@ Mantra:
 
 Notes:
 * Injured hand during pulls and ended workout early
-* Low eenergy at working, didn't get anything done
+* Low energy at work, didn't get anything done
 
 ## Week Review: 07/11/16 - 07/17/16
 * Cleans          : 1/7
