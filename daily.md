@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 35 (Monday): 07/25/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Super tired this morning, skipped lift again
+
 ## Week Review: 07/18/16 - 07/24/16
 * Cleans          : 1/7
 * Woke up Early   : 5/5

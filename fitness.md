@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 176 (Monday): 07/25/16
+Weight: 155.0 / 154.8
+
+Diet: 1970, 151g
+* Cottage Cheese (180) + Oatmeal (170) + Flaxseed (200), 34g
+* Milk/Coffee (40) + Quest Bar (190), 24g
+* Chicken Breast (300) + Veggies (150), 50g
+* Quest Bar (190) + Milk/Coffee (40) + Banana (100), 23g
+* Quest Bar (190) + Popcorn (100), 20g
+* Apple (100)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Super tired this morning, skipped lift again
+* Feeling more energized at work
+* Motivated to learn stuff, felt like productive day
+* Solid Jiu-Jitsu session
+* Prepped some things for Marathon, will finish up on Thurs/Sat
+
 ## Week Review: 07/18/16 - 07/24/16
 * Weight:       155.0
 * Diet:         ~1967, 149g
