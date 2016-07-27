@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 36 (Tuesday): 07/26/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : Y
+
+Notes:
+* Wasn't focused at work, not happy about that
+
 ### Day 35 (Monday): 07/25/16
 Mantra:
 * Woke up Early   : Y

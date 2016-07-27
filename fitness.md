@@ -28,6 +28,30 @@ Exercise:
 Notes:
 *
 
+### Day 177 (Tuesday): 07/26/16
+Weight: 152.6 / 155.8
+
+Diet: 1970, 122g
+* Protein Powder (120) + Apple (80), 25g
+* Quest Bar (190) + Milk/Coffee (40), 24g
+* Chicken Breast (100) + Veggies (100), 20g
+* Croissant (150) + Dutch Crunch (150) + Apricots (100)
+* Quest Bar (190) + Milk/Coffee (40), 23g
+* Banana (100) + Popcorn (100)
+* Granola (170) + Yogurt (190), 26g
+* Granola Bites (100), 4g
+* Carrots (60)
+
+Exercise: Cardio
+* Marathon training run: 7mi, 9:32min pace
+
+Notes:
+* Again tired this morning, slept poorly
+* Solid morning run, knees hurt a bit, but felt great towards the end
+* Unproductive day
+* Chill evening though
+* Slightly better sleep, but still not great
+
 ### Day 176 (Monday): 07/25/16
 Weight: 155.0 / 154.8
 
