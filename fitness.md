@@ -28,6 +28,24 @@ Exercise:
 Notes:
 *
 
+### Day 178 (Wednesday): 07/27/16
+Weight: 152.4
+
+Diet: 1990, 110g
+* Oatmeal (300) + Granola (200), 20g
+* Bacon (300) + Tator Tots / Potatoes (200), 15g
+* Cheese (250) + Roast Beef/Chickn Breast (200), 50g
+* Nuts + Veggies (200), 5g
+* Croissant (150) + Quest Bar (190), 20g
+
+Exercise: Rest Day
+
+Notes:
+* Woke up tired and exhausted, ended up skipping lift
+* Dad came to visit, felt nice
+* Unproductive day again
+* Chill evening at SF Symphony
+
 ### Day 177 (Tuesday): 07/26/16
 Weight: 152.6 / 155.8
 
