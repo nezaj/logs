@@ -28,6 +28,25 @@ Exercise:
 Notes:
 *
 
+### Day 179 (Thursday): 07/28/16
+Weight: 156.8
+
+Diet: 1970, 95g
+* Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
+* Banana (100) + Apple (80) + Milk/Coffee (40), 4g
+* Meatballs (300) + Chicken (100) + Veggies (150), 40g
+* Almonds (150) + Milk/Coffee (40), 3g
+* Apple (80)
+* Croissant (150) + Figs (50)
+* Carrots (90)
+
+Exercise: Rest Day
+
+Notes:
+* Woke up late and skipped morning workout
+* Productive day
+* Chill evening Shisha session
+
 ### Day 178 (Wednesday): 07/27/16
 Weight: 152.4
 
@@ -45,6 +64,7 @@ Notes:
 * Dad came to visit, felt nice
 * Unproductive day again
 * Chill evening at SF Symphony
+* Went to bed very late though
 
 ### Day 177 (Tuesday): 07/26/16
 Weight: 152.6 / 155.8

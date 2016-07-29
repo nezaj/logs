@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 38 (Thursday): 07/28/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Woke up late due to going to bed late
+* Ended up skipping morning workout again
+
 ### Day 37 (Wednesday): 07/27/16
 Mantra:
 * Woke up Early   : Y
