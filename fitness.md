@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 180 (Friday): 07/29/16
+Weight: 157.2 / 154.0
+
+Diet: 1950, 77g
+* Cottage Cheese (270) + Fruit (200) + Flaxseeds (200), 40g
+* Croissant (150) + Milk/Coffee (40), 4g
+* Mini Burrito (300) + Potatoes (150) + Veggies (100) + Roast Beef (100), 25g
+* Almonds (150) + Milk/Coffee (40), 8g
+* Apple (80)
+* Apple (80)
+* Carrots (90)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Getting up was rough, missed workout again
+* Productive day
+* Solid Jiu-Jitsu session
+* Slept well
+
 ### Day 179 (Thursday): 07/28/16
 Weight: 156.8
 
@@ -35,7 +55,7 @@ Diet: 1970, 95g
 * Cottage Cheese (270) + Oatmeal (170) + Flaxseeds (200), 48g
 * Banana (100) + Apple (80) + Milk/Coffee (40), 4g
 * Meatballs (300) + Chicken (100) + Veggies (150), 40g
-* Almonds (150) + Milk/Coffee (40), 3g
+* Almonds (150) + Milk/Coffee (40), 8g
 * Apple (80)
 * Croissant (150) + Figs (50)
 * Carrots (90)
@@ -46,6 +66,7 @@ Notes:
 * Woke up late and skipped morning workout
 * Productive day
 * Chill evening Shisha session
+* Went to bed way late, like 2am
 
 ### Day 178 (Wednesday): 07/27/16
 Weight: 152.4

@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 39 (Friday): 07/29/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Getting up was rough, missed workout again
+
 ### Day 38 (Thursday): 07/28/16
 Mantra:
 * Woke up Early   : N
