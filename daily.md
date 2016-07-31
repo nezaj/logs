@@ -10,6 +10,13 @@ Mantra:
 Notes:
 *
 
+### Day 40 (Saturday): 07/30/16 (Clean)
+Mantra:
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 39 (Friday): 07/29/16
 Mantra:
 * Woke up Early   : N

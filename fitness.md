@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 181 (Saturday): 07/30/16
+Weight: 153.2
+
+Diet: 1970, 121g
+* Protein Powder (120), 25g
+* Oatmeal (300) + Flaxseed (200), 16g
+* Protein Powder (120), 25g
+* Protein Bar Samples (200), 15g
+* Tropisueno (850) + Chips/Guac/Strawberries (300), 40g
+
+Exercise: Lift
+* Tabata Push-ups: 10 rounds (Complete)
+* Crazy 8s + Skulls: 3x75x9
+* Abs: 4 x 15/15/15/15 (Complete)
+
+Notes:
+* Woke up ~9am
+* Took care of some chores and lifted again!
+* Wrapped more chores before marathon
+* Great dinner and chill session with friends
+* Went to bed early
+
 ### Day 180 (Friday): 07/29/16
 Weight: 157.2 / 154.0
 
