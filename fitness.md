@@ -28,6 +28,22 @@ Exercise:
 Notes:
 *
 
+### Day 182 (Sunday): 07/31/16
+Diet: 1935, 40g
+* 5 Fruit bars (450)
+* Granola/Yogurt/Fruit (700), 20g
+* Mandarin (35)
+* Soba Noodles (750), 20g
+
+Exercise: Cardio
+* Full Marathon!!
+
+Notes:
+* Woke up ~4am in prep of the marathon
+* Conquered SF Marathon! Feels great to have completed it
+* Spent rest of day chilling with family and friends
+* Went to bed early, ~9:30pm
+
 ### Day 181 (Saturday): 07/30/16
 Weight: 153.2
 

@@ -10,9 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 41 (Sunday): 07/31/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 40 (Saturday): 07/30/16 (Clean)
 Mantra:
-* Did Good Work   : Y
+* Solid Exercise  : Y
 * Under 2000      : Y
 
 Notes:
