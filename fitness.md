@@ -28,6 +28,47 @@ Exercise:
 Notes:
 *
 
+## Week Review: 07/25/16 - 07/31/16 (SF Marathon Weekend)
+* Weight:       153.6 (152.4-M, 157.2-M)
+* Diet:         ~1965, ~102g
+* Lift:         |
+* Abs:          |
+* Pull-ups:
+* Crazy 8s:     |
+* Jiu-Jitsu:    ||
+* Cardio:       ||
+* Rest:         ||
+
+**Overall**
+* Conquered the SF Marathon this week, accomplished my July challenege!
+* However, lots of bad sleep again, this is becoming a serious problem
+* Also low energy during work week, due to bad sleep and skipping morning lifts
+* Otherwise, very social and productive week
+
+**Diet**
+* Eating clean!
+* Lower energy though
+
+**Exercise**
+* Skipped all my lifts during the work-week
+* However, got my first real work since hand injury on Saturday!
+* Feel like I lost my gym habit, want to focus on picking it up again
+
+**Work**
+* Feel like I don't have real tasks assign to me
+* Decided to use the down-time to go through tutorials and learn new tech
+* This definitely makes me feel productive
+
+**Personal**
+* Very chill/social week
+* Hung with friends, met a previous co-worker, chilled with jiu-jitsu crew
+* Conquered the SF Marathon!
+
+**Takeaways**
+* Preparing for the marathon took a lot of physical and mental energy
+* Feel proud of my accomplishment, motivated to keep killing it
+* Now that marathon is complete, time to focus on work and gym habit
+
 ### Day 182 (Sunday): 07/31/16
 Diet: 1935, 40g
 * 5 Fruit bars (450)

@@ -10,6 +10,19 @@ Mantra:
 Notes:
 *
 
+## Week Review: 07/25/16 - 07/31/16
+* Cleans          : 2/7
+* Woke up Early   : 3/5
+* Solid Exercise  : 3/7
+* Under 2000      : 7/7
+* Did Good Work   : 3/5
+
+**Notes**
+* Missed 4/5 morning workouts this week
+* Broke my gym habit and hard to muster energy
+* This also results in me feeling lower energy overall
+* Need to push myself to start lifting again
+
 ### Day 41 (Sunday): 07/31/16 (Clean)
 Mantra:
 * Solid Exercise  : Y
