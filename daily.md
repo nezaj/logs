@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 42 (Monday): 08/01/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : N
+* Under 2000      : Y
+
+Notes:
+* Lazy in the morning to lift
+* Mediocore productivity
+
 ## Week Review: 07/25/16 - 07/31/16
 * Cleans          : 2/7
 * Woke up Early   : 3/5

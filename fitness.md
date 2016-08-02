@@ -28,6 +28,23 @@ Exercise:
 Notes:
 *
 
+### Day 183 (Monday): 08/01/16
+Diet: 1885, 115g
+* Cottage Cheese (270) + Oatmeal (170) + Strawberries (75), 36g
+* Almonds (170) + Milk/Coffee (40), 10g
+* Chicken/Pork/Beef (450) + Veggies (100), 60g
+* Banana (100) + Apple (80) + Milk/Coffee (40), 3g
+* Popcorn (200) + PB Bar (190), 6g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up early, got good sleep
+* Skipped morning workout, felt lazy and completed unfinished chores instead
+* Medicore productive day
+* Solid Jiu Jitsu session
+* Nice evening helping friend prep for itnerview
+
 ## Week Review: 07/25/16 - 07/31/16 (SF Marathon Weekend)
 * Weight:       153.6 (152.4-M, 157.2-M)
 * Diet:         ~1965, ~102g
