@@ -28,13 +28,26 @@ Exercise:
 Notes:
 *
 
+## Week Review: 08/01/16 - 08/07/16 (Yosemite Weekend)
+Notes:
+* Short review this week
+* Didn't complete log for 08/02
+* WFH and took care of errands on 08/03, didn't log either
+* Went to Yosemite 08/04 -> 08/07
+* Ate a lot of food during this time
+* Did not exercise much
+* But felt great, feel very re-juvenated from this weekend
+* Ready to be productive!
+
+### 08/02/16 -> 08/07/16: (NO LOG)
+
 ### Day 183 (Monday): 08/01/16
-Diet: 1885, 115g
+Diet: 1885, 119g
 * Cottage Cheese (270) + Oatmeal (170) + Strawberries (75), 36g
 * Almonds (170) + Milk/Coffee (40), 10g
 * Chicken/Pork/Beef (450) + Veggies (100), 60g
 * Banana (100) + Apple (80) + Milk/Coffee (40), 3g
-* Popcorn (200) + PB Bar (190), 6g
+* Popcorn (200) + PB Bar (190), 10g
 
 Exercise: Jiu-Jitsu
 

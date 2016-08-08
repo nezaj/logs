@@ -10,6 +10,13 @@ Mantra:
 Notes:
 *
 
+## Week Review: 08/01/16 - 08/07/16
+Notes:
+* No real logs this week due to Yosemite trip
+* Feeling good though
+
+### 08/02/16 -> 08/07/16: (NO LOG)
+
 ### Day 42 (Monday): 08/01/16
 Mantra:
 * Woke up Early   : Y
