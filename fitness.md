@@ -28,6 +28,27 @@ Exercise:
 Notes:
 *
 
+### Day 184 (Monday): 08/08/16
+Diet: 2150, 117g
+* Banana (100)
+* Chicken (120) + Salmon (120) + Veggies (100), 30g
+* Quest Bar (190) + Carrots (50), 20g
+* Milk/Coffee (40), 4g
+* Popcorn (200) + Cliff Bar (280), 20g
+* Fried Rice + Brisket (700), 35g
+* 2 Waffles (250), 8g
+
+Exercise: Cardio
+* Embardero Run: 6mi, 8:35/mi
+
+Notes:
+* Woke up early, great sleep
+* Solid run
+* Spent morning at work catching up on missed threads/notifcations etc.
+* Not productive at work
+* Got chores done in the evening
+* Chill shisa session afterwards
+
 ## Week Review: 08/01/16 - 08/07/16 (Yosemite Weekend)
 Notes:
 * Short review this week
@@ -36,6 +57,7 @@ Notes:
 * Went to Yosemite 08/04 -> 08/07
 * Ate a lot of food during this time
 * Did not exercise much
+* Ate sugar this weekend, re-started count
 * But felt great, feel very re-juvenated from this weekend
 * Ready to be productive!
 

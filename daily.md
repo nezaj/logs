@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 43 (Monday): 08/08/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Hard time getting motivated to work
+* Ended up over-snacking as well
+
 ## Week Review: 08/01/16 - 08/07/16
 Notes:
 * No real logs this week due to Yosemite trip
