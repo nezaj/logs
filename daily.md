@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 44 (Tuesday): 08/09/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Woke up early, but was too lazy to lift, will try in evening
+* Ended up over-snacking at the very end
+
 ### Day 43 (Monday): 08/08/16
 Mantra:
 * Woke up Early   : Y

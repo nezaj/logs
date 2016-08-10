@@ -28,6 +28,24 @@ Exercise:
 Notes:
 *
 
+### Day 185 (Tuesday): 08/09/16
+Diet: 3280, 102g
+* Strawberries (50) + Bacon (250) + Chicken (100) + Potatoes (50), 35g
+* Croissant (150) + Milk/Coffee (40), 4g
+* Brisket (300) + BBQ Pork (400), 60g
+* Coffee/Milk (40), 3g
+* Apple (80)
+* Cheese Bread (300) + Croissant (150) + Chicken (120) + Veggies (100), 25g
+* 4 Cookies (800) + Ice Cream (250)
+
+Exercise: Rest day
+
+Notes:
+* Woke up early, but was too lazy to lift, will try in evening
+* Productive day
+* Ended up over-snacking at the very end
+* Stayed up late coding
+
 ### Day 184 (Monday): 08/08/16
 Diet: 2150, 117g
 * Banana (100)
