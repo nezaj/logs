@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 186 (Wednesday): 08/10/16
+Diet: 1450, 134g
+* Chicken Salad Bowl (500), 50g
+* Protein Powder (120), 20g
+* Oatmeal (300) + Flaxseed (500), 16g
+* 2 Apple (160) + Yogurt (130), 23g
+* Protein Powder (120), 25g
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 3x75x8
+* Deadlifts: 3x225x10
+* Bench: 3x155x10
+* Abs: 3x9
+
+Notes:
+* Woke up early
+* Vision appointment in the morning
+* Good brunch w/ Stepan
+* Finished up lots of chores in the afternoon, very productive
+* Felt weak during Jiu-Jitsu, most likely due from poor diet earlier
+* Went to bed early
+
 ### Day 185 (Tuesday): 08/09/16
 Diet: 3280, 102g
 * Strawberries (50) + Bacon (250) + Chicken (100) + Potatoes (50), 35g
@@ -53,7 +75,7 @@ Diet: 2150, 117g
 * Quest Bar (190) + Carrots (50), 20g
 * Milk/Coffee (40), 4g
 * Popcorn (200) + Cliff Bar (280), 20g
-* Fried Rice + Brisket (700), 35g
+* Fried Rice (400) + Brisket (300), 35g
 * 2 Waffles (250), 8g
 
 Exercise: Cardio
