@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 46 (THursday): 08/11/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 45 (Wednesday): 08/10/16 (Clean)
 Mantra:
 * Woke up Early   : Y

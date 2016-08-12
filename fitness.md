@@ -28,11 +28,34 @@ Exercise:
 Notes:
 *
 
+### Day 187 (Thursday): 08/11/16
+Diet: 1960, 149g
+* Protein Powder (120), 20g
+* Oatmeal (300) + Flaxseed (200), 16g
+* Mandarins (105)
+* Chicken (300) + Veggies (100), 50g
+* Milk/Coffee (40), 4g
+* Apple (80) + Granola (130), 3g
+* Banana (100) + Carrots (75)
+* Quest Bar (190) + Coffee/Milk (40), 23g
+* Turkey Jerky (180), 33g
+
+Exercise: Cardio
+* Embardero Run: 6mi, 8:40/mi
+
+Notes:
+* Woke up early, but hit the snooze
+* Solid run
+* Missed my shuttle though!
+* --> Stop hitting snooze
+* Decent productivity
+* Chill evening at MOMA/Downtown
+
 ### Day 186 (Wednesday): 08/10/16
-Diet: 1450, 134g
+Diet: 1530, 134g
 * Chicken Salad Bowl (500), 50g
 * Protein Powder (120), 20g
-* Oatmeal (300) + Flaxseed (500), 16g
+* Oatmeal (300) + Flaxseed (200), 16g
 * 2 Apple (160) + Yogurt (130), 23g
 * Protein Powder (120), 25g
 
