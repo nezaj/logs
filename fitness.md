@@ -28,6 +28,26 @@ Exercise:
 Notes:
 *
 
+### Day 188 (Friday): 08/12/16
+Diet: 4780, 265g
+* Apple (80)
+* Rice (200) + Chicken (150) + Bread (150), 25g
+* Banana (100)
+* Chicken (400) + Veggies (100), 60g
+* Chicken (250) + Rice (250), 50g
+* Jar of PB (2600) + Candy (500), 130g
+
+Exercise: Lift, Jiu-Jitsu
+* PT session -- was intense!
+
+Notes:
+* Woke up super early
+* Intense PT session, feeling good after
+* Productive day, but definitely feeling tired
+* Felt very tired during Jiu-Jitsu
+* Chill Shisha session
+* Found myself feeling very low energy, ended up eating a jar a of PB
+
 ### Day 187 (Thursday): 08/11/16
 Diet: 1960, 149g
 * Protein Powder (120), 20g
