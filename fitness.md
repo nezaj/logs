@@ -28,6 +28,22 @@ Exercise:
 Notes:
 *
 
+### Day 189 (Saturday): 08/13/16
+Diet: 1220, 78g
+* Turkey Balls (350) + Veggies (150), 36g
+* Cottage Cheese (270), 42g
+* Mandarins (70) + Apple (80)
+* Wine (150) + Shot (150)
+
+Exercise: Cardio
+* Embarcadero RUn: 7.0mi
+
+Notes:
+* Woke up early
+* Solid run
+* Did a ton of chores, was very productive
+* Fun night out with friends
+
 ### Day 188 (Friday): 08/12/16
 Diet: 4780, 265g
 * Apple (80)

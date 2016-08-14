@@ -10,6 +10,13 @@ Mantra:
 Notes:
 *
 
+### Day 48 (Saturday): 08/13/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 47 (Friday): 08/12/16
 Mantra:
 * Woke up Early   : Y
@@ -614,3 +621,4 @@ Notes:
 * First day logging daily mantra
 * Ate better than last two days but overdid it towards end of day
 * Feel like I'm moving in right direction!
+
