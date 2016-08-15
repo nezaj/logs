@@ -29,12 +29,14 @@ Notes:
 *
 
 ### Day 190 (Sunday): 08/14/16
-Diet: 1310, 96g
+Diet: 1910, 138g
 * Granola Brunch (550), 25g
 * Croissant (300)
 * Protein Powder (120), 25g
 * Yogurt (260), 46g
 * Apple (80)
+* Carrots (100)
+* Turkey Balls (350) + Veggies (150), 42g
 
 Exercise: Lift
 * Crazy 8s: 3x75x8 (Clean)
