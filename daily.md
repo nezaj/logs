@@ -10,6 +10,13 @@ Mantra:
 Notes:
 *
 
+### Day 49 (Sunday): 08/14/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 48 (Saturday): 08/13/16 (Clean)
 Mantra:
 * Solid Exercise  : Y

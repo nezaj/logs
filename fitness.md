@@ -28,6 +28,25 @@ Exercise:
 Notes:
 *
 
+### Day 190 (Sunday): 08/14/16
+Diet: 1310, 96g
+* Granola Brunch (550), 25g
+* Croissant (300)
+* Protein Powder (120), 25g
+* Yogurt (260), 46g
+* Apple (80)
+
+Exercise: Lift
+* Crazy 8s: 3x75x8 (Clean)
+* Squat: 5x185x5 (Clean)
+* Bench: 5x155x5 (Clean)
+
+Notes:
+* Woke up earlyish
+* Solid morning lift session
+* Chill afternoon
+* Productive evening working on side project
+
 ### Day 189 (Saturday): 08/13/16
 Diet: 1220, 78g
 * Turkey Balls (350) + Veggies (150), 36g

@@ -1,0 +1,1328 @@
+{
+    "wake_up": [
+        {
+            "date": "08/12/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/09/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/08/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/29/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/27/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/22/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/15/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/14/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/13/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/12/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/09/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/08/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/07/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/05/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/04/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/03/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/02/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/29/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/28/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/27/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/24/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/22/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/15/16",
+            "flag": "Y"
+        }
+    ],
+    "cleans": [
+        {
+            "date": "08/14/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/12/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/09/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/08/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/01/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/29/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/22/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/21/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/20/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/19/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/16/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/15/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/14/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/13/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/12/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/11/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/09/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/08/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/07/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/05/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/04/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/03/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/02/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/29/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/27/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/23/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/22/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/21/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/17/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/15/16",
+            "flag": "N"
+        }
+    ],
+    "exercise": [
+        {
+            "date": "08/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/12/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/09/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/08/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/01/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/29/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/22/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/21/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/19/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/16/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/15/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/13/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/12/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/11/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/09/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/08/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/07/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/05/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/04/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/03/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/02/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/28/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/27/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/22/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/15/16",
+            "flag": "Y"
+        }
+    ],
+    "good_work": [
+        {
+            "date": "08/12/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/09/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/08/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/01/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/28/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/22/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/20/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/15/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/12/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/08/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/07/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/05/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/29/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "06/27/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/24/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/22/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "06/15/16",
+            "flag": "Y"
+        }
+    ],
+    "under_2000": [
+        {
+            "date": "08/14/16",
+            "flag": ""
+        },
+        {
+            "date": "08/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/12/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/09/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/08/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/28/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/27/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/24/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/22/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/15/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/12/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "07/09/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/08/16",
+            "flag": "N"
+        },
+        {
+            "date": "07/07/16",
+            "flag": "Y"
+        }
+    ],
+    "notes": [
+        {
+            "date": "08/14/16",
+            "values": []
+        },
+        {
+            "date": "08/13/16",
+            "values": []
+        },
+        {
+            "date": "08/12/16",
+            "values": [
+                "Ended up binging late night"
+            ]
+        },
+        {
+            "date": "08/11/16",
+            "values": []
+        },
+        {
+            "date": "08/10/16",
+            "values": []
+        },
+        {
+            "date": "08/09/16",
+            "values": [
+                "Woke up early, but was too lazy to lift, will try in evening",
+                "Ended up over-snacking at the very end"
+            ]
+        },
+        {
+            "date": "08/08/16",
+            "values": [
+                "Hard time getting motivated to work",
+                "Ended up over-snacking as well",
+                "",
+                "## Week Review: 08/01/16 - 08/07/16",
+                "Notes:",
+                "No real logs this week due to Yosemite trip",
+                "Feeling good though",
+                "",
+                "### 08/02/16 -> 08/07/16: (NO LOG)"
+            ]
+        },
+        {
+            "date": "08/01/16",
+            "values": [
+                "Lazy in the morning to lift",
+                "Mediocore productivity",
+                "",
+                "## Week Review: 07/25/16 - 07/31/16",
+                "Cleans          : 2/7",
+                "Woke up Early   : 3/5",
+                "Solid Exercise  : 3/7",
+                "Under 2000      : 7/7",
+                "Did Good Work   : 3/5",
+                "",
+                "**Notes**",
+                "Missed 4/5 morning workouts this week",
+                "Broke my gym habit and hard to muster energy",
+                "This also results in me feeling lower energy overall",
+                "Need to push myself to start lifting again"
+            ]
+        },
+        {
+            "date": "07/31/16",
+            "values": []
+        },
+        {
+            "date": "07/30/16",
+            "values": []
+        },
+        {
+            "date": "07/29/16",
+            "values": [
+                "Getting up was rough, missed workout again"
+            ]
+        },
+        {
+            "date": "07/28/16",
+            "values": [
+                "Woke up late due to going to bed late",
+                "Ended up skipping morning workout again"
+            ]
+        },
+        {
+            "date": "07/27/16",
+            "values": [
+                "Woke up tired and exhausted, skipped morning lift"
+            ]
+        },
+        {
+            "date": "07/26/16",
+            "values": [
+                "Wasn't focused at work, not happy about that"
+            ]
+        },
+        {
+            "date": "07/25/16",
+            "values": [
+                "Super tired this morning, skipped lift again",
+                "",
+                "## Week Review: 07/18/16 - 07/24/16",
+                "Cleans          : 1/7",
+                "Woke up Early   : 5/5",
+                "Solid Exercise  : 2/7",
+                "Under 2000      : 7/7",
+                "Did Good Work   : 2/4",
+                "",
+                "**Notes**",
+                "Blah kind of week",
+                "Was lower energy this week and missed all my lift days",
+                "Again marathon training + lower calories took a lot out of me",
+                "Took a big rest over the weekend, hopefully will have more energy this week"
+            ]
+        },
+        {
+            "date": "07/24/16",
+            "values": [
+                "Took a rest day"
+            ]
+        },
+        {
+            "date": "07/23/16",
+            "values": []
+        },
+        {
+            "date": "07/22/16",
+            "values": [
+                "Tired again this morning, did chores instead of exercise"
+            ]
+        },
+        {
+            "date": "07/21/16",
+            "values": [
+                "Was too tired to lift",
+                "Didn't work today, all day doctor appointments"
+            ]
+        },
+        {
+            "date": "07/20/16",
+            "values": [
+                "Didn't feel productive today"
+            ]
+        },
+        {
+            "date": "07/19/16",
+            "values": [
+                "Took rest day due to injured hand"
+            ]
+        },
+        {
+            "date": "07/18/16",
+            "values": [
+                "Injured hand during pulls and ended workout early",
+                "Low energy at work, didn't get anything done",
+                "",
+                "## Week Review: 07/11/16 - 07/17/16",
+                "Cleans          : 1/7",
+                "Woke up Early   : 4/7",
+                "Solid Exercise  : 2/7",
+                "Under 2000      : 6/7",
+                "Did Good Work   : 4/5",
+                "",
+                "**Notes**",
+                "Mixed week, ate cleaner and was more productive at work",
+                "However was lower energy in general",
+                "This is due to marathon training and going to bed late",
+                "This caused less intense workouts as well",
+                "Main lack of cleans due to not waking up on time and working out intensely"
+            ]
+        },
+        {
+            "date": "07/17/16",
+            "values": []
+        },
+        {
+            "date": "07/16/16",
+            "values": [
+                "Lift too late, wasn't focused"
+            ]
+        },
+        {
+            "date": "07/15/16",
+            "values": [
+                "Went to bed way too late last night again",
+                "Ended up sleeping in",
+                "--> Do your best to go to bed no later than 11:30am on worknights",
+                "Forgot glasses, low energy, not productive day"
+            ]
+        },
+        {
+            "date": "07/14/16",
+            "values": [
+                "Went to bed way too late last night again",
+                "Ended up sleeping in",
+                "--> Do your best to go to bed no later than 11:30am on worknights"
+            ]
+        },
+        {
+            "date": "07/13/16",
+            "values": [
+                "Went to bed way too late last night and felt sluggish in morning",
+                "Ate way too many calories yesterday",
+                "Skipped morning workout"
+            ]
+        },
+        {
+            "date": "07/12/16",
+            "values": [
+                "Workout overall was decent",
+                "However I wasn't focused and had lower energy, didn't feel solid",
+                "Pigged out in the evening"
+            ]
+        },
+        {
+            "date": "07/11/16",
+            "values": [
+                "Got up too late and didn't do full workout",
+                "Feeling sore and injured from previous day run",
+                "",
+                "## Week Review: 07/04/16 - 07/10/16",
+                "Cleans          : 1/7",
+                "Woke up Early   : 6/7",
+                "Solid Exercise  : 5/7",
+                "Under 2000      : 3/7",
+                "Did Good Work   : 2/4",
+                "",
+                "**Notes**",
+                "Rougher week",
+                "Overate due to holidays / family events",
+                "Slipped on exercise / work due to fatigue"
+            ]
+        },
+        {
+            "date": "07/10/16",
+            "values": []
+        },
+        {
+            "date": "07/09/16",
+            "values": [
+                "Overate w/ Jiu-Jitsu crew"
+            ]
+        },
+        {
+            "date": "07/08/16",
+            "values": [
+                "Overate at Alex's bday"
+            ]
+        },
+        {
+            "date": "07/07/16",
+            "values": [
+                "Took a day off from training / work"
+            ]
+        },
+        {
+            "date": "07/06/16",
+            "values": [
+                "Took a day off from training / work"
+            ]
+        },
+        {
+            "date": "07/05/16",
+            "values": [
+                "Way too tired today",
+                "Ended up over-eating"
+            ]
+        },
+        {
+            "date": "07/04/16",
+            "values": [
+                "Ate way too much food during family lunch",
+                "",
+                "## Week Review: 06/27/16 - 07/03/16",
+                "Cleans          : 4/7",
+                "Woke up Early   : 6/7",
+                "Solid Exercise  : 7/7",
+                "Ate Clean       : 4/7",
+                "Did Good Work   : 3/5",
+                "",
+                "**Notes**",
+                "Decent week",
+                "Tues/Weds binge days messed up my cleans/doing good work and waking up early",
+                "Basically, as you already know, eating clean is the most important thing for",
+                "success"
+            ]
+        },
+        {
+            "date": "07/03/16",
+            "values": [
+                "Ended up eating too much in the evneing"
+            ]
+        },
+        {
+            "date": "07/02/16",
+            "values": []
+        },
+        {
+            "date": "07/01/16",
+            "values": []
+        },
+        {
+            "date": "06/30/16",
+            "values": []
+        },
+        {
+            "date": "06/29/16",
+            "values": [
+                "Hard time waking up due to overfullness from previous night",
+                "Ate way too much again today and couldn't focus at work"
+            ]
+        },
+        {
+            "date": "06/28/16",
+            "values": [
+                "Ate way too much which negatively impacted my work"
+            ]
+        },
+        {
+            "date": "06/27/16",
+            "values": [
+                "",
+                "## Week Review: 06/20/16 - 06/26/16",
+                "**Stats**",
+                "Woke up Early   : 7/7",
+                "Solid Exercise  : 5/7",
+                "Ate Clean       : 4/7",
+                "Did Good Work   : 5/5",
+                "Did Chores      : 2/2",
+                "",
+                "**Notes**",
+                "Overall a great week",
+                "Was consistent with waking up early and work / chores",
+                "Did lots of exercise, not perfect due to one day tiredness and injury",
+                "Diet was better this week than previous, zig-zagged on calories though",
+                "",
+                "**Next Week Focus**",
+                "Execute on <1850 calorie challenge",
+                "Keep up consistency, will feel great after",
+                "Try to stretch when you can to re-hab Achilles"
+            ]
+        },
+        {
+            "date": "06/26/16",
+            "values": []
+        },
+        {
+            "date": "06/25/16",
+            "values": [
+                "Achilles pain prevent a full-run",
+                "Over-snacked today"
+            ]
+        },
+        {
+            "date": "06/24/16",
+            "values": [
+                "Low energy in the morning",
+                "Didn't finish full work-out"
+            ]
+        },
+        {
+            "date": "06/23/16",
+            "values": [
+                "Felt very hungry today",
+                "Ate clean mostly but too high calories"
+            ]
+        },
+        {
+            "date": "06/22/16",
+            "values": []
+        },
+        {
+            "date": "06/21/16",
+            "values": [
+                "Ate mostly clean but extra bread towards EOD",
+                "Bread is filling, but not necessary",
+                "Noticed I ate it after DDR, this has happened before"
+            ]
+        },
+        {
+            "date": "06/20/16",
+            "values": []
+        },
+        {
+            "date": "06/19/16",
+            "values": []
+        },
+        {
+            "date": "06/18/16",
+            "values": []
+        },
+        {
+            "date": "06/17/16",
+            "values": [
+                "Ending up eating too much for Grandma's dinner and afterwards",
+                "Felt super full on the way back home"
+            ]
+        },
+        {
+            "date": "06/15/16",
+            "values": [
+                "First day logging daily mantra",
+                "Ate better than last two days but overdid it towards end of day",
+                "Feel like I'm moving in right direction!"
+            ]
+        }
+    ]
+}
