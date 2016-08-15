@@ -29,6 +29,8 @@ Notes:
 *
 
 ## Week Review: 08/08/16 - 08/14/16
+**Stats**
+```
 * Diet:         ~2390
 * Lift:         |||
 * Abs:          |
@@ -78,6 +80,7 @@ Foods: 39 unique, 80 total, 16730 calories
 * Coffee             : 2    (80),   0.5%,   99.4%
 * Potatoes           : 1    (50),   0.3%,   99.7%
 * Strawberries       : 1    (50),   0.3%,  100.0%
+```
 
 **Overall**
 * Mixed week, started off slow but felt good towards the end

@@ -11,11 +11,14 @@ Notes:
 *
 
 ## Week Review: 08/08/16 - 08/14/16
+**Stats**
+```
 * Cleans          : 4/7
 * Woke up Early   : 5/5
 * Solid Exercise  : 6/7
 * Under 2000      : 4/7
 * Did Good Work   : 4/5
+```
 
 **Notes**
 * Overall mixed week
