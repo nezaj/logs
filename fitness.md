@@ -28,6 +28,82 @@ Exercise:
 Notes:
 *
 
+## Week Review: 08/08/16 - 08/14/16
+* Diet:         ~2390
+* Lift:         |||
+* Abs:          |
+* Pull-ups:
+* Crazy 8s:     ||
+* Jiu-Jitsu:    ||
+* Cardio:       |||
+* Rest:         |
+
+Foods: 39 unique, 80 total, 16730 calories
+* Jar of PB          : 1  (2600),  15.5%,   15.5%
+* Chicken            : 7  (1440),   8.6%,   24.1%
+* Cookies            : 4   (800),   4.8%,   28.9%
+* Turkey Balls       : 2   (700),   4.2%,   33.1%
+* Veggies            : 6   (700),   4.2%,   37.3%
+* Brisket            : 2   (600),   3.6%,   40.9%
+* Croissant          : 3   (600),   3.6%,   44.5%
+* Oatmeal            : 2   (600),   3.6%,   48.1%
+* Apple              : 7   (560),   3.3%,   51.4%
+* Granola Brunch     : 1   (550),   3.3%,   54.7%
+* Candy              : 1   (500),   3.0%,   57.7%
+* Chicken Salad Bowl : 1   (500),   3.0%,   60.7%
+* Protein Powder     : 4   (480),   2.9%,   63.5%
+* Rice               : 2   (450),   2.7%,   66.2%
+* Flaxseed           : 2   (400),   2.4%,   68.6%
+* BBQ Pork           : 1   (400),   2.4%,   71.0%
+* Fried Rice         : 1   (400),   2.4%,   73.4%
+* Yogurt             : 2   (390),   2.3%,   75.7%
+* Quest Bar          : 2   (380),   2.3%,   78.0%
+* Banana             : 3   (300),   1.8%,   79.8%
+* Cheese Bread       : 1   (300),   1.8%,   81.6%
+* Cliff Bar          : 1   (280),   1.7%,   83.3%
+* Cottage Cheese     : 1   (270),   1.6%,   84.9%
+* Bacon              : 1   (250),   1.5%,   86.4%
+* Ice Cream          : 1   (250),   1.5%,   87.9%
+* Waffles            : 2   (250),   1.5%,   89.4%
+* Carrots            : 3   (225),   1.3%,   90.7%
+* Popcorn            : 1   (200),   1.2%,   91.9%
+* Turkey Jerky       : 1   (180),   1.1%,   93.0%
+* Mandarins          : 2   (175),   1.0%,   94.0%
+* Bread              : 1   (150),   0.9%,   94.9%
+* Shot               : 1   (150),   0.9%,   95.8%
+* Wine               : 1   (150),   0.9%,   96.7%
+* Granola            : 1   (130),   0.8%,   97.5%
+* Milk               : 3   (120),   0.7%,   98.2%
+* Salmon             : 1   (120),   0.7%,   98.9%
+* Coffee             : 2    (80),   0.5%,   99.4%
+* Potatoes           : 1    (50),   0.3%,   99.7%
+* Strawberries       : 1    (50),   0.3%,  100.0%
+
+**Overall**
+* Mixed week, started off slow but felt good towards the end
+
+**Diet**
+* Was definitely looser this week
+* Monday/Tuesday was still in a bit of vacation mode and ate extra
+* Friday was very low energy and hungry after PT, ended up binging
+* Otherwise ate very clean
+
+**Exercise**
+* Lots of good exercise this week, only took one rest day
+* Lifted 3x! Feeling very good
+
+**Work**
+* Again, not a productive week at work
+* However, very productive with side projects, specifically logs tooling
+
+**Personal**
+* Very social week, had lots of fun!
+* Came up with new 10 week fitness challenge
+
+**Takeaways**
+* Own week 1 of fitness challenge!
+* Try to be more productive this week at work
+
 ### Day 190 (Sunday): 08/14/16
 Diet: 1910, 138g
 * Granola Brunch (550), 25g
@@ -167,7 +243,7 @@ Notes:
 * Spent morning at work catching up on missed threads/notifcations etc.
 * Not productive at work
 * Got chores done in the evening
-* Chill shisa session afterwards
+* Chill shisha session afterwards
 
 ## Week Review: 08/01/16 - 08/07/16 (Yosemite Weekend)
 Notes:

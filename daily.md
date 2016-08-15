@@ -10,6 +10,19 @@ Mantra:
 Notes:
 *
 
+## Week Review: 08/08/16 - 08/14/16
+* Cleans          : 4/7
+* Woke up Early   : 5/5
+* Solid Exercise  : 6/7
+* Under 2000      : 4/7
+* Did Good Work   : 4/5
+
+**Notes**
+* Overall mixed week
+* Started off slow but felt much better by Wednesday
+* Had lots of good sleep, exercise, and productivity on side-projects
+* Not as productive with work stuff though
+
 ### Day 49 (Sunday): 08/14/16 (Clean)
 Mantra:
 * Solid Exercise  : Y
