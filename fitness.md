@@ -28,6 +28,24 @@ Exercise:
 Notes:
 *
 
+### Day 191 (Monday): 08/15/16
+Weight: 155.4lb
+
+Diet: 1915, 170g
+* Fruit (75) + Croissant (100) + Chicken Patties (200), 30g
+* Mini Bearclaw (150) + Eggs (100), 10g
+* Milk/Coffee (40) + Quest Bar (190), 24g
+* Chicken (300) + Lamb (50) + Veggies (100) + Dates (200), 50g
+* Milk/Coffee (40) + Quest Bar (190), 23g
+* Turkey Jerky (180), 33g
+
+Exercise: Rest Day
+
+Notes:
+* Woke up early, but slept in an extra hour due to poor sleep
+* Day started slow, but became more productive later
+* Very fun evening catching up with old friend
+
 ## Week Review: 08/08/16 - 08/14/16
 **Stats**
 ```

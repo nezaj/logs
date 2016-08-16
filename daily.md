@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 50 (Monday): 08/15/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Felt like I needed a rest day, felt good
+
 ## Week Review: 08/08/16 - 08/14/16
 **Stats**
 ```
