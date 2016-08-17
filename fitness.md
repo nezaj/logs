@@ -28,6 +28,27 @@ Exercise:
 Notes:
 *
 
+### Day 192 (Tuesday): 08/16/16
+Weight: 156.0lb
+
+Diet: 2000, 274g
+* Quest Bar (190) + Milk/Coffee (40), 24g
+* Chicken (350) + Veggies (100) + Dates (200), 50g
+* Quest Bar (190), 20g
+* Almonds (130)
+* Jerk Chicken (400) + Riec (300) + Plantans (100), 80g
+
+Exercise: Lift
+* Pull-ups 16-20: Day 1 (Complete)
+* OH Press: 5x95x5 (Clean)
+* Deadlifts: 5x230x5 (Clean)
+
+Notes:
+* Got up early and completed a solid lift!
+* Not very productive day
+* Great dinner with family
+* Fun evening catching up with old friends
+
 ### Day 191 (Monday): 08/15/16
 Weight: 155.4lb
 
