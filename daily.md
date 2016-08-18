@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 52 (Wednesday): 08/17/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : Y
+
+Notes:
+* Went to bed very late, had a hard time waking up
+* Again, not focused with work :(
+
 ### Day 51 (Tuesday): 08/16/16
 Mantra:
 * Woke up Early   : Y

@@ -28,6 +28,25 @@ Exercise:
 Notes:
 *
 
+### Day 193 (Wednesday): 08/17/16
+Weight: 157.2lb
+
+Diet: 1860, 130g
+* Protein Powder (120), 25g
+* Oatmeal (300) + Chia Seeds (200), 16g
+* Turkey Balls (300) + Veggies (150), 36g
+* Mandarins (210) + Apples (180)
+* Cottage Cheese (180), 28g
+* Protein Powder (120) + Carrots (100), 25g
+
+Exercise: Cardio
+* Embarcadero Run: 7.0mi, 9:57/mi
+
+Notes:
+* Went to bed late last night and woke up late today
+* FInally got up and did a solid run
+* Overall low energy today
+
 ### Day 192 (Tuesday): 08/16/16
 Weight: 156.0lb
 
