@@ -28,6 +28,29 @@ Exercise:
 Notes:
 *
 
+### Day 194 (Thursday): 08/18/16
+Weight: 157.4lb
+
+Diet: 1960, 178g
+* Cottage Cheese (270) + Granola (200) + Strawberries (100), 40g
+* Quest Bar (190), 20g
+* Chicken (300) + Lamb Stew (250) + Veggies (150) + Mandarin (50), 65g
+* Quest Bar (190), 20g
+* Apple (80)
+* Turkey Jerky (180), 33g
+
+Exercise: Lift
+* Crazy 8s: 3x75x8/9/8 (Clean)
+* Squat: 5x190x5 (Clean)
+* Bench: 5x160x5 (Clean)
+* Abs: Captain Chair
+
+Notes:
+* Poor sleep last night, but still managed to get up early
+* Solid lift session in the morning
+* Tried working on shuttle today, might be a good habit for future
+* Productive day! Was able to focus and get things done :)
+
 ### Day 193 (Wednesday): 08/17/16
 Weight: 157.2lb
 

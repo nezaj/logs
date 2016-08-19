@@ -1,6 +1,22 @@
 {
     "wake_up": [
         {
+            "date": "08/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/17/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/15/16",
+            "flag": "Y"
+        },
+        {
             "date": "08/12/16",
             "flag": "Y"
         },
@@ -194,6 +210,22 @@
         }
     ],
     "cleans": [
+        {
+            "date": "08/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/17/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/16/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/15/16",
+            "flag": "N"
+        },
         {
             "date": "08/14/16",
             "flag": "Y"
@@ -413,6 +445,22 @@
     ],
     "exercise": [
         {
+            "date": "08/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/15/16",
+            "flag": "N"
+        },
+        {
             "date": "08/14/16",
             "flag": "Y"
         },
@@ -631,6 +679,22 @@
     ],
     "good_work": [
         {
+            "date": "08/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/17/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/16/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/15/16",
+            "flag": "Y"
+        },
+        {
             "date": "08/12/16",
             "flag": "Y"
         },
@@ -785,6 +849,22 @@
     ],
     "under_2000": [
         {
+            "date": "08/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/15/16",
+            "flag": "Y"
+        },
+        {
             "date": "08/14/16",
             "flag": "Y"
         },
@@ -918,6 +998,45 @@
         }
     ],
     "notes": [
+        {
+            "date": "08/18/16",
+            "values": []
+        },
+        {
+            "date": "08/17/16",
+            "values": [
+                "Went to bed very late, had a hard time waking up",
+                "Again, not focused with work :("
+            ]
+        },
+        {
+            "date": "08/16/16",
+            "values": [
+                "Not focused at work"
+            ]
+        },
+        {
+            "date": "08/15/16",
+            "values": [
+                "Felt like I needed a rest day, felt good",
+                "",
+                "## Week Review: 08/08/16 - 08/14/16",
+                "**Stats**",
+                "```",
+                "Cleans          : 4/7",
+                "Woke up Early   : 5/5",
+                "Solid Exercise  : 6/7",
+                "Under 2000      : 4/7",
+                "Did Good Work   : 4/5",
+                "```",
+                "",
+                "**Notes**",
+                "Overall mixed week",
+                "Started off slow but felt much better by Wednesday",
+                "Had lots of good sleep, exercise, and productivity on side-projects",
+                "Not as productive with work stuff though"
+            ]
+        },
         {
             "date": "08/14/16",
             "values": []

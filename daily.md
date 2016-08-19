@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 53 (Thursday): 08/18/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 52 (Wednesday): 08/17/16
 Mantra:
 * Woke up Early   : N
