@@ -10,6 +10,13 @@ Mantra:
 Notes:
 *
 
+### Day 54 (Saturday): 08/20/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 53 (Friday): 08/19/16
 Mantra:
 * Woke up Early   : N

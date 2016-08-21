@@ -28,6 +28,23 @@ Exercise:
 Notes:
 *
 
+### Day 155 (Saturday): 08/20/16
+Weight: 157.2lb
+
+Diet: 1950, 70g
+* Pad Thai (900)
+* Apple (160) + Mandarins (210) + Cottage Cheese (180), 28g
+* Turkey Balls (350) + Veggies (150), 42g
+
+Exercise: Lift
+
+Notes:
+* Woke up ~8am, feeling sick for sure
+* Managed to get in a solid lift though
+* Went on a chill hike
+* Took a cat nap after
+* Definitely feeling sick, taking it easy at home
+
 ### Day 154 (Friday): 08/19/16
 Weight: 157.0lb
 
