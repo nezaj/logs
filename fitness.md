@@ -28,6 +28,28 @@ Exercise:
 Notes:
 *
 
+### Day 154 (Friday): 08/19/16
+Weight: 157.0lb
+
+Diet: 2270, 148g
+* Apple (80) + Quest Bar (190), 20g
+* Chicken (300) + Veggies (150), 60g
+* Rice (100) + Croissant (200) + Taquito (100), 10g
+* Quest Bar (190), 20g
+* Turkey Jerky (180) + Granola (130), 38g
+* Pita Bread and Fava (650)
+
+Exercise: Cardio
+* Embarcadero Run: 10K, 9:44/mi
+
+Notes:
+* Went to bed late and ended up waking up late today too
+* Feeling sick this morning, felt much better after solid run
+* Loading up on Vitamin C + Nyquil/Dayquil is a big help!
+* Not productive at work, just not focused
+* Decided to cal-up today
+* Chill evening/dinner with friends
+
 ### Day 194 (Thursday): 08/18/16
 Weight: 157.4lb
 

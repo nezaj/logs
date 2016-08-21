@@ -10,6 +10,19 @@ Mantra:
 Notes:
 *
 
+### Day 53 (Friday): 08/19/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Went to bed late and ended up waking up late today too
+* Also worth noting, feeling a bit sick
+* Not focused
+* Decided to cal-up today
+
 ### Day 53 (Thursday): 08/18/16 (Clean)
 Mantra:
 * Woke up Early   : Y
