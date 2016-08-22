@@ -10,6 +10,14 @@ Mantra:
 Notes:
 *
 
+### Day 55 (Sunday): 08/21/16
+Mantra:
+* Solid Exercise  : N
+* Under 2000      : Y
+
+Notes:
+* Very sick, took a rest day for my body
+
 ### Day 54 (Saturday): 08/20/16 (Clean)
 Mantra:
 * Solid Exercise  : Y

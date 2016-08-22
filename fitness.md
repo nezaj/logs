@@ -28,7 +28,24 @@ Exercise:
 Notes:
 *
 
-### Day 155 (Saturday): 08/20/16
+### Day 197 (Sunday): 08/21/16
+Weight: 156.6lb
+
+Diet: 1260, 86g
+* Oatmeal (300) + Flaxseed (200), 16g
+* Carrots (100)
+* Turkey Balls (350) + Veggies (150), 42g
+* Cottage Cheese (160), 28g
+
+Exercise: Rest Day
+
+Notes:
+* Very sick, taking it easy today
+* No workout
+* Lots of sleep and anime
+* Definitely feeling better by afternoon/evening
+
+### Day 196 (Saturday): 08/20/16
 Weight: 157.2lb
 
 Diet: 1950, 70g
@@ -37,6 +54,9 @@ Diet: 1950, 70g
 * Turkey Balls (350) + Veggies (150), 42g
 
 Exercise: Lift
+* Pull-ups 16-20: Day 2 (Repeat?)
+* Deadlifts: 5x235x5 (Clean)
+* OH Press: 5x100x5 (Clean)
 
 Notes:
 * Woke up ~8am, feeling sick for sure
@@ -45,7 +65,7 @@ Notes:
 * Took a cat nap after
 * Definitely feeling sick, taking it easy at home
 
-### Day 154 (Friday): 08/19/16
+### Day 195 (Friday): 08/19/16
 Weight: 157.0lb
 
 Diet: 2270, 148g
@@ -112,12 +132,12 @@ Notes:
 ### Day 192 (Tuesday): 08/16/16
 Weight: 156.0lb
 
-Diet: 2000, 274g
+Diet: 2000, 174g
 * Quest Bar (190) + Milk/Coffee (40), 24g
 * Chicken (350) + Veggies (100) + Dates (200), 50g
 * Quest Bar (190), 20g
 * Almonds (130)
-* Jerk Chicken (400) + Riec (300) + Plantans (100), 80g
+* Jerk Chicken (400) + Rice (300) + Plantans (100), 80g
 
 Exercise: Lift
 * Pull-ups 16-20: Day 1 (Complete)
