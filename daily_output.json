@@ -1,6 +1,10 @@
 {
     "wake_up": [
         {
+            "date": "08/19/16",
+            "flag": "N"
+        },
+        {
             "date": "08/18/16",
             "flag": "Y"
         },
@@ -210,6 +214,18 @@
         }
     ],
     "cleans": [
+        {
+            "date": "08/21/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/19/16",
+            "flag": "N"
+        },
         {
             "date": "08/18/16",
             "flag": "Y"
@@ -445,6 +461,18 @@
     ],
     "exercise": [
         {
+            "date": "08/21/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/19/16",
+            "flag": "Y"
+        },
+        {
             "date": "08/18/16",
             "flag": "Y"
         },
@@ -679,6 +707,10 @@
     ],
     "good_work": [
         {
+            "date": "08/19/16",
+            "flag": "N"
+        },
+        {
             "date": "08/18/16",
             "flag": "Y"
         },
@@ -849,6 +881,18 @@
     ],
     "under_2000": [
         {
+            "date": "08/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/19/16",
+            "flag": "N"
+        },
+        {
             "date": "08/18/16",
             "flag": "Y"
         },
@@ -998,6 +1042,25 @@
         }
     ],
     "notes": [
+        {
+            "date": "08/21/16",
+            "values": [
+                "Very sick, took a rest day for my body"
+            ]
+        },
+        {
+            "date": "08/20/16",
+            "values": []
+        },
+        {
+            "date": "08/19/16",
+            "values": [
+                "Went to bed late and ended up waking up late today too",
+                "Also worth noting, feeling a bit sick",
+                "Not focused",
+                "Decided to cal-up today"
+            ]
+        },
         {
             "date": "08/18/16",
             "values": []

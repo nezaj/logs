@@ -28,6 +28,81 @@ Exercise:
 Notes:
 *
 
+## Week Review: 08/15/16 - 08/21/16
+**Stats**
+```
+* Diet:         ~1888
+* Lift:         |||
+* Abs:          |
+* Pull-ups:     ||
+* Crazy 8s:     |
+* Jiu-Jitsu:
+* Cardio:       ||
+* Rest:         ||
+
+Foods: 33 unique, 68 total, 13215 calories
+* Quest Bar           : 8  (1520),  11.5%,   11.5%
+* Chicken             : 4  (1250),   9.5%,   21.0%
+* Turkey Balls        : 3  (1000),   7.6%,   28.5%
+* Veggies             : 7   (950),   7.2%,   35.7%
+* Pad Thai            : 1   (900),   6.8%,   42.5%
+* Cottage Cheese      : 4   (790),   6.0%,   48.5%
+* Pita Bread and Fava : 1   (650),   4.9%,   53.4%
+* Oatmeal             : 2   (600),   4.5%,   58.0%
+* Turkey Jerky        : 3   (540),   4.1%,   62.1%
+* Mandarins           : 2   (420),   3.2%,   65.2%
+* Dates               : 2   (400),   3.0%,   68.3%
+* Jerk Chicken        : 1   (400),   3.0%,   71.3%
+* Rice                : 2   (400),   3.0%,   74.3%
+* Granola             : 2   (330),   2.5%,   76.8%
+* Apple               : 3   (320),   2.4%,   79.2%
+* Croissant           : 2   (300),   2.3%,   81.5%
+* Lamb Stew           : 1   (250),   1.9%,   83.4%
+* Protein Powder      : 2   (240),   1.8%,   85.2%
+* Carrots             : 2   (200),   1.5%,   86.7%
+* Chia Seeds          : 1   (200),   1.5%,   88.2%
+* Chicken Patties     : 1   (200),   1.5%,   89.7%
+* Flaxseed            : 1   (200),   1.5%,   91.3%
+* Apples              : 1   (180),   1.4%,   92.6%
+* Mini Bearclaw       : 1   (150),   1.1%,   93.8%
+* Almonds             : 1   (130),   1.0%,   94.7%
+* Milk                : 3   (120),   0.9%,   95.6%
+* Eggs                : 1   (100),   0.8%,   96.4%
+* Plantans            : 1   (100),   0.8%,   97.2%
+* Strawberries        : 1   (100),   0.8%,   97.9%
+* Taquito             : 1   (100),   0.8%,   98.7%
+* Fruit               : 1    (75),   0.6%,   99.2%
+* Lamb                : 1    (50),   0.4%,   99.6%
+* Mandarin            : 1    (50),   0.4%,  100.0%
+```
+
+**Overall**
+* This was a challenging week
+* Managed to pass diet/fitness challenge
+* However, got sick and had lots of poor sleep
+* Wasn't productive at work for most of this week either
+* Very social week nonetheless
+
+**Fitness Challenge**
+* Lifted 3x, Cardio 2x, no jiu-jitsu though
+* Was able to stick to calories, <2000 for most days and one day <2700
+* Definitely felt tough as I started getting sick, but I'm glad I stuck with it
+* Ready to own next week
+
+**Work**
+* For the most part wasn't productive, having a hard time to focus
+* Thursday was an awesome day though, got my head and gear and got things done
+* Will try to push harder at work, I know I can do better
+
+**Personal**
+* Another very social week
+* Saw lots of old friends
+* Something to think about -- feels good to be in touch, but I want more meaning?
+
+**Takeaways**
+* Onwards with the fitness challenege, you can do this!
+* Similarly, get your head in gear with work, push through
+
 ### Day 197 (Sunday): 08/21/16
 Weight: 156.6lb
 
