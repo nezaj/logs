@@ -1,17 +1,13 @@
 ## Fitness Log
 
-### Take-aways
-General:
-* Make sure to eat enough on Jiu-Jitsu days to properly recover next day
-* Don't buy sweets (ice-cream, candy, protein bars) in bulk
-
+### Keys to Success
 Morning:
 * Don't go back to bed after turning off alarm
 * Drink PWO/Coffee right away and get moving
 * Get in a solid workout as the first part of your day
 
 Day:
-* Eat clean, keep calories ~1850 +/- 20%
+* Eat clean, keep calories ~2000 +/- 20%
 * Ship code every working weekday to feel good
 
 Evening:
