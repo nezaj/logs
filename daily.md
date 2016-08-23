@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 56 (Monday): 08/22/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ## Week Review: 08/15/16 - 08/21/16
 **Stats**
 ```

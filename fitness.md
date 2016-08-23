@@ -28,10 +28,34 @@ Exercise:
 Notes:
 *
 
+### Day 198 (Monday): 08/22/16
+Weight: 155.4lb
+
+Diet: 1920, 120g
+* Cottage Cheese (200) + Oatmeal (200) + Fruit (100), 27g
+* Quest Bar (190), 20g
+* Brisket (300) + Bacon (250) + Broccoli (50) + Cornbread (200), 40g
+* Quest Bar (190), 20g
+* Carrots (50)
+* Quest Bar (190), 20g
+
+Exercise: Cardio
+* Embarcadero Run: 10K, 9:20/mi
+
+Notes:
+* Woke up feeling much better, ~85% healthy
+* Solid morning run, legs feel fresher than last time
+* Productive day! Was motivated and asked for help when I needed it
+* -> Get comfortable asking for help, will help me move forward at work
+* Skipped Jiu-Jitsu again since not 100% healthy, will go on Wednesday
+* Spent evening shopping, publishing diff, tidying, finsh laundry
+* Overall good day
+
 ## Week Review: 08/15/16 - 08/21/16
 **Stats**
 ```
 * Diet:         ~1888
+* Weigh-ins:    |||||||
 * Lift:         |||
 * Abs:          |
 * Pull-ups:     ||
