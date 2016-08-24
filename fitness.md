@@ -24,6 +24,30 @@ Exercise:
 Notes:
 *
 
+### Day 199 (Tuesday): 08/23/16
+Weight: 156.4lb
+
+Diet: 1970, 150g
+* Cottage Cheese (200) + Oatmeal (200) + Fruit (100), 27g
+* Quest Bar (190), 20g
+* Dates (250) + Chicken (350) + Veggies (50), 50g
+* Quest Bar (190), 20g
+* Banana (100) + Turkey Jerky (180), 33g
+* 2 Apple (160)
+
+Exercise: Lift
+* Crazy 8s: 3x75x9/9/9 (Clean)
+* Squat: 5x195x5 (Clean)
+* Bench: 5x165x5 (Clean)
+
+Notes:
+* Slept poorly again, must have gotten some REM though because I remember dreaming
+* Went to bed for 15min after waking up, managed to still get up and lift
+* Good workout, feeling strong
+* Starting day productive on shuttle, so far this does feel like a good habit
+* Productive day at work!
+* Chill evening, wrapped up some more chores, did some reading
+
 ### Day 198 (Monday): 08/22/16
 Weight: 155.4lb
 
