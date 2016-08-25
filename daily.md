@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 57 (Wednesday): 08/24/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Needed to cal-up  today
+* Not focused at work, perhaps due to excess sugar and calories
+
 ### Day 57 (Tuesday): 08/23/16 (Clean)
 Mantra:
 * Woke up Early   : Y

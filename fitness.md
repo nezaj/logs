@@ -24,6 +24,30 @@ Exercise:
 Notes:
 *
 
+### Day 200 (Wednesday): 08/24/16
+Weight: 155.4lb
+
+Diet: 2690, 187g
+* Granola (200) + Yogurt (200) + Fruit (100), 27g
+* Quest Bar (190), 20g
+* Cliff Bar (280), 20g
+* Chicken (300) + Steak (200) + Veggies (100), 70g
+* Kellog's Protein Bar (170) + Nature Valley Bar (190), 22g
+* Stringer Waffle (120)
+* Chicken Curry (200) + Rice (200) + Triptip (120) + Chicken (120), 50g
+
+Exercise: Cardio
+Embarcadero Run: 10K
+
+Notes:
+* Slept a little better but still poorly, managed to get up fine
+* Solid run, annoyed by Nike+ app update, need to familarize myself with new UI
+* Good morning breakfast / chats w/ co-workers, feels nice to get to know more ppl
+* Gave a tour to UCLA alums/students and met some more new co-workers
+* Tried additional protein bars and I think the additional sugar was too much
+* Not focused/productive day
+* Ate excess calories and had too much energy in evening, no bueno
+
 ### Day 199 (Tuesday): 08/23/16
 Weight: 156.4lb
 
