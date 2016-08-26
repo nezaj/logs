@@ -24,6 +24,32 @@ Exercise:
 Notes:
 *
 
+### Day 201 (Thursday): 08/25/16
+Weight: 156.8lb
+
+Diet: 3100, 110g
+* Quest Bar (190) + 2 Waffles (250), 20g
+* Popcorn (100)
+* Beef (300) + Chicken (200) + Veggies (100), 50g
+* Quest Bar (190), 20g
+* Hummus Plate (700)
+* 2 Beers (300)
+* Rice Cakes (490) + Cheese (100) + Cottage Cheese (180), 20g
+
+Exercise: Lift
+* Pull-ups 16-20: Day 2 (Clean)
+* Deadlifts: 1x240x5, Bad form on rest (Repeat)
+* OH Press: 5x105x5 (Clean)
+
+Notes:
+* Went to bed earlier last night, okay sleep last night, not best
+* Was hard to motivate self to gym this morning, glad I did it anyhow
+* Pulled my lower back a bit on Deads, no bueno, make sure focused on form
+* Thought about cals, decided to re-adjust fitness challenege a bit, more strict
+* Moderate productive day, watched redux tutorials
+* Fun evening
+* Ended up binging at night, felt stressed about cals maybe? Not sure...
+
 ### Day 200 (Wednesday): 08/24/16
 Weight: 155.4lb
 

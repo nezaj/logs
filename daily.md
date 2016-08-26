@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 58 (Thursday): 08/25/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Another cal-up day, wasn't bad until late night
+
 ### Day 57 (Wednesday): 08/24/16
 Mantra:
 * Woke up Early   : Y
