@@ -24,17 +24,42 @@ Exercise:
 Notes:
 *
 
+### Day 202 (Saturday): 08/27/16
+Weight: 158.8lb
+
+Diet: 3860, 202g
+* Chicken Tenders (600), 60g
+* 6 Cheese (300), 42g
+* 2 Apples (160) + Mandarins (70)
+* Popcorn (660)
+* Chicken Shabu (650), 40g
+* Popcorn (660)
+* Chicken Tenders (600), 60g
+* 2 Apples (160)
+
+Exercise: Lift
+* Crazy 8s: 3x75x9/10/9 (Clean)
+* Squat: 5x200x5 (Clean)
+* Bench: 5x170x5 (Clean)
+
+Notes:
+* Slept well last night, might be due to excess calos? I don't know...
+* Ended up killing all my snacks, definitely overboard with cals
+* Lift felt great though, extra food certainly makes it easier
+* Chill dinner and games in the evening
+* Ended up eating more at night Again
+
 ### Day 201 (Friday): 08/26/16
 Weight: 157.6lb
 
-Diet:  2715, 158g
+Diet: 2715, 158g
 * Quest Bar (190) + Banana (100), 20g
 * Chicken Curry (300) + Chicken (300) + Rice (200), 50g
 * Quest Bar (190), 20g
 * 2 Fiber Cookies (240) + Half Waffle (60)
 * Cliff Bar (280), 20g
 * Carrots (50)
-* Rice Cakes (245) + Cheese (300) + Yogurt (260), 68g
+* Rice Cakes (245) + 6 Cheese (300) + Yogurt (260), 68g
 
 Exercise: Cardio
 * Embarcadero Run: 8mi - 10:03/mi

@@ -10,6 +10,14 @@ Mantra:
 Notes:
 *
 
+### Day 59 (Saturday): 08/27/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Went way over today, no excuse really
+
 ### Day 58 (Friday): 08/26/16
 Mantra:
 * Woke up Early   : Y
