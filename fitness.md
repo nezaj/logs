@@ -24,6 +24,28 @@ Exercise:
 Notes:
 *
 
+### Day 201 (Friday): 08/26/16
+Weight: 157.6lb
+
+Diet:  2715, 158g
+* Quest Bar (190) + Banana (100), 20g
+* Chicken Curry (300) + Chicken (300) + Rice (200), 50g
+* Quest Bar (190), 20g
+* 2 Fiber Cookies (240) + Half Waffle (60)
+* Cliff Bar (280), 20g
+* Carrots (50)
+* Rice Cakes (245) + Cheese (300) + Yogurt (260), 68g
+
+Exercise: Cardio
+* Embarcadero Run: 8mi - 10:03/mi
+
+Notes:
+* Woke up feeling fuller/sluggish due to excess calories
+* Had a harder time getting up but did it
+* Decent run, moving slow at first but picked it up a bunch towards end
+* Not productive day
+* Ended up over-eating at night again
+
 ### Day 201 (Thursday): 08/25/16
 Weight: 156.8lb
 
