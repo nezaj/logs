@@ -5,18 +5,17 @@ Outcomes:
 
 Perfect Week:
 * Weigh myself 7x/week (morning)
-* Eat <2000 calories 7x/week
-* Lift 4x/week
-* Run 3x/week
-* Jiu-Jitsu 3x/week
+* Eat <=1900 calories 5x/week
+* Do not eat more than 2400 calories on any given day
+* Exercise daily
+* Jiu-Jitsu 3x/week, bearing no sickness
 
 Acceptable Week:
 * Weigh myself 5x/week (morning)
-* Eat <2000 calories 5x/week
-* Do not eat more than 2700 calories on any given day
-* Lift 3x/week
-* Run 2x/week
-* Jiu-Jitsu 1x/week
+* Eat <=1900 calories 5x/week
+* Do not eat more than 2400 calories on any given day
+* Exercise 6/7 days of week
+* Jiu-Jitsu 2x/week, bearing no sickness
 
 Lifts:
 * Crazy 8s: 3x85x8
