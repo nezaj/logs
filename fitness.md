@@ -24,6 +24,92 @@ Exercise:
 Notes:
 *
 
+## Week Review: 08/22/16 - 08/28/16
+**Stats**
+```
+* Diet:         ~2389
+* Weigh-ins:    |||||||
+* Lift:         |||
+* Abs:          ||
+* Pull-ups:     |
+* Crazy 8s:     ||
+* Jiu-Jitsu:
+* Cardio:       ||||
+* Rest:
+
+Foods: 40 unique, 84 total, 16725 calories
+* Popcorn           : 3  (1420),   8.5%,    8.5%
+* Quest Bar         : 7  (1330),   8.0%,   16.4%
+* Chicken           : 5  (1270),   7.6%,   24.0%
+* Chicken Tenders   : 2  (1200),   7.2%,   31.2%
+* Burrito           : 1   (800),   4.8%,   36.0%
+* Rice Cakes        : 2   (735),   4.4%,   40.4%
+* Cheese            : 13  (700),   4.2%,   44.6%
+* Hummus Plate      : 1   (700),   4.2%,   48.8%
+* Turkey Sandwhich  : 1   (700),   4.2%,   52.9%
+* Chicken Shabu     : 1   (650),   3.9%,   56.8%
+* Yogurt            : 3   (600),   3.6%,   60.4%
+* Cliff Bar         : 2   (560),   3.3%,   63.8%
+* Chicken Curry     : 2   (500),   3.0%,   66.8%
+* Rice              : 2   (400),   2.4%,   69.1%
+* Cottage Cheese    : 2   (380),   2.3%,   71.4%
+* Apples            : 4   (320),   1.9%,   73.3%
+* Beers             : 2   (300),   1.8%,   75.1%
+* Beef              : 1   (300),   1.8%,   76.9%
+* Dates             : 1   (250),   1.5%,   78.4%
+* Nachos            : 1   (250),   1.5%,   79.9%
+* Veggies           : 3   (250),   1.5%,   81.4%
+* Waffles           : 2   (250),   1.5%,   82.9%
+* Apple             : 3   (240),   1.4%,   84.3%
+* Fiber Cookies     : 2   (240),   1.4%,   85.8%
+* Banana            : 2   (200),   1.2%,   87.0%
+* Bread             : 1   (200),   1.2%,   88.2%
+* Fruit             : 2   (200),   1.2%,   89.4%
+* Granola           : 1   (200),   1.2%,   90.6%
+* Oatmeal           : 1   (200),   1.2%,   91.7%
+* Steak             : 1   (200),   1.2%,   92.9%
+* Nature Valley Bar : 1   (190),   1.1%,   94.1%
+* Turkey Jerky      : 1   (180),   1.1%,   95.2%
+* Kellog            : 1   (170),   1.0%,   96.2%
+* Outshine Bar      : 1   (120),   0.7%,   96.9%
+* Stringer Waffle   : 1   (120),   0.7%,   97.6%
+* Triptip           : 1   (120),   0.7%,   98.3%
+* That              : 1   (100),   0.6%,   98.9%
+* Mandarins         : 1    (70),   0.4%,   99.3%
+* Half Waffle       : 1    (60),   0.4%,   99.7%
+* Carrots           : 1    (50),   0.3%,  100.0%
+```
+**Overall**
+* Another mixed week
+* Started off strong but lost steam towards the end
+* Diet was main culprit, let myself slip and productivity feel
+* Felt very full towards the end of the week too
+
+**Fitness Challenge**
+* This week was a failure
+* Diet from Thursday -> Saturday went off the rails
+* This was due to cravings and eating late at night
+* I also think the poor sleep added up
+* Missed all jiu-jitsu sessions too, although primarily due to sickness
+* Saving grace was that I exercised daily
+* Noticed weight fluctuated up a lot by end of week, hopefully will go back down
+* Re-adjusting cals to 1900/2400, I think this should be enough
+
+**Work**
+* Started off very productive but lost steam by Wednesday
+* This is very related to the poor diet and sleep
+* However, overall was feeling more motivated/focused, will keep up
+
+**Personal**
+* Took some personal at the beginning of the week, felt good
+* Very social again towards end of week
+* Poor diet had me feeling sick towards weekend with skin breakouts too
+* Put up a new sign, number of days since binging
+
+**Takeaways**
+* Stay motivated/focused at work!
+* Keep your eye on the prize with fitness challenge
+
 ### Day 203 (Sunday): 08/28/16
 Weight: 161.4lb
 
@@ -61,6 +147,7 @@ Diet: 3860, 202g
 Exercise: Lift
 * Crazy 8s: 3x75x9/10/9 (Clean)
 * Squat: 5x200x5 (Clean)
+* Abs: 4x13 (Clean)
 * Bench: 5x170x5 (Clean)
 
 Notes:
@@ -68,7 +155,7 @@ Notes:
 * Ended up killing all my snacks, definitely overboard with cals
 * Lift felt great though, extra food certainly makes it easier
 * Chill dinner and games in the evening
-* Ended up eating more at night Again
+* Ended up eating more at night again
 
 ### Day 201 (Friday): 08/26/16
 Weight: 157.6lb
@@ -157,6 +244,7 @@ Exercise: Lift
 * Crazy 8s: 3x75x9/9/9 (Clean)
 * Squat: 5x195x5 (Clean)
 * Bench: 5x165x5 (Clean)
+* Abs: 4x12/13/12/13 (Clean)
 
 Notes:
 * Slept poorly again, must have gotten some REM though because I remember dreaming

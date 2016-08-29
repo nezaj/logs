@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+## Week Review: 08/22/16 - 08/28/16
+**Stats**
+```
+* Cleans          : 2/7
+* Woke up Early   : 5/5
+* Solid Exercise  : 7/7
+* Under 2000      : 2/7
+* Did Good Work   : 3/5
+```
+
 ### Day 60 (Sunday): 08/28/16
 Mantra:
 * Solid Exercise  : Y
@@ -163,7 +173,6 @@ Notes:
 * Under 2000      : 4/7
 * Did Good Work   : 4/5
 ```
-
 **Notes**
 * Overall mixed week
 * Started off slow but felt much better by Wednesday
