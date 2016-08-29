@@ -24,6 +24,27 @@ Exercise:
 Notes:
 *
 
+### Day 203 (Sunday): 08/28/16
+Weight: 161.4lb
+
+Diet: 2390, 114g
+* That's It Bar (100) + Apple (80)
+* Yogurt (140), 24g
+* Outshine Bar (120)
+* Turkey Sandwhich (700) + Bread (200), 50g
+* Nachos (250) + Burrito (800), 40g
+
+Exercise: Cardio
+* Embarcadero Run: 9mi, 10:14/mi
+
+Notes:
+* Woke up early-ish, had another night of great sleep, I'm guessing due to cals
+* Decent run, was taking it easy and then realized running out of time
+* Took train to see family
+* Chill lunch/dinners
+* Researched dieting and insomnia, seems they are related
+* Ordered some melatonin and zma, will experiment with sleep
+
 ### Day 202 (Saturday): 08/27/16
 Weight: 158.8lb
 

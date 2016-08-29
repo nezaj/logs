@@ -10,6 +10,14 @@ Mantra:
 Notes:
 *
 
+### Day 60 (Sunday): 08/28/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Did not budget cals as well, ended up eating over
+
 ### Day 59 (Saturday): 08/27/16
 Mantra:
 * Solid Exercise  : Y
