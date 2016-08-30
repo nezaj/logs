@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 61 (Monday): 08/29/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ## Week Review: 08/22/16 - 08/28/16
 **Stats**
 ```

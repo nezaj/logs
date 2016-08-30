@@ -24,6 +24,34 @@ Exercise:
 Notes:
 *
 
+### Day 204 (Monday): 08/29/16
+Weight: 160.2lb
+
+Diet: 1510, 124g
+* Quest Bar (190) + Banana (100), 20g
+* Beef (150) + Turkey (150) + Veggies (100) + Dried Fruit (150), 40g
+* Quest Bar (190) + Banana (100), 20g
+* Carrots (50)
+* Jerky (250), 44g
+* Apple (80)
+
+Exercise: Cardio, Jiu-Jitsu
+Embarcadero Run: 5mi, 9:01/mi
+
+Notes:
+* First night w/ melatonin, 3mg under tongue. Slept deeper for sure
+* However, didn't fall asleep immediately and awoke a few times in the night
+* Felt a tiny bit groggy in the morning, about the same as usual though
+* Lagged on exercise but managed to get in decent run
+* Missed my shuttle but caught the caltrain, felt good about the hustle
+* A bit of a slow morning, no one else is in. Focusing on getting my stuff done
+* Decent productivity, was getting discouraged but pushed through
+* Stumbled upon right articles and was able to figure things out, felt good
+* --> Take-away here is not get frustrated/give-up, keep pushing!
+* Solid Jiu-Jitsu session, feels good to be back
+* Pushed out my diff for optimistic liking, happy about that!
+* Overall good day and a good start to the week!
+
 ## Week Review: 08/22/16 - 08/28/16
 **Stats**
 ```
