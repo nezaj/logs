@@ -10,7 +10,16 @@ Mantra:
 Notes:
 *
 
-### Day 61 (Monday): 08/29/16
+### Day 62 (Tuesday): 08/30/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
+### Day 61 (Monday): 08/29/16 (Clean)
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y

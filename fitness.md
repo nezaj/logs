@@ -24,6 +24,32 @@ Exercise:
 Notes:
 *
 
+### Day 205 (Tuesday): 08/30/16
+Weight: 157.4lb
+
+Diet: 1895, 133g
+* Quest Bar (190) + Banana (100) + Apple (80), 20g
+* Chicken (300) + Meatballs (300) + Dried Fruit (150) + Veggies (75), 80g
+* Quest Bar (190) + Apple (80), 20g
+* Turkey Jerky (180), 33g
+* Quest Bar (190), 20g
+* Granola (60)
+
+Exercise: Lift
+* Pull-ups 16-20: Day 3 (Clean)
+* Deadlifts: 1x240x5, (bad form)
+* Deadlifts: 4x225x5, (Better form, but repeat)
+* OH Press: 5x105x5 (Clean, getting tougher)
+
+Notes:
+* Second night w/ melatonin, 3mg swallowed. Again deep sleep
+* Again didn't fall asleep right away, didn't wake up though
+* Felt groggy again, but definitely more rested
+* Lagged getting to gym but made it and lifted well
+* Got to work ~11am, focused on doing errands before work
+* Decent productive day, not much code but some good sleuthing/debugging
+* Chill evening, excited for Vegas weekend!
+
 ### Day 204 (Monday): 08/29/16
 Weight: 160.2lb
 
