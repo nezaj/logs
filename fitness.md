@@ -24,6 +24,30 @@ Exercise:
 Notes:
 *
 
+### Day 206 (Wednesday): 08/31/16
+Weight: 156.6lb
+
+Diet: 1900, 190g
+* Dried Fruit (200) + Protein Powder (120), 25g
+* Oatmeal (340) + Flaxseed (200), 22g
+* Yogurt (520), 96g
+* Apple (80) + Cottage Cheese (50), 5g
+* Turkey Balls (350), 42g
+* Carrots (100)
+
+Exercise: Cardio
+* Embarcadero Run: 10k, 10:08/mi
+
+Notes:
+* Took 1mg of melatonin and zma, had trouble falling asleep
+* Woke up ~3am, took another 3mg of melatonin, was able to sleep until ~8:30am
+* Definitely slower start to the day
+* Got in a solid run around noon, had some issues with foot-gear at first
+* Got some bad news about our team at work, will need to find another role
+* Productive w/ non-code stuff and thinking about next steps
+* Got some more chores done, not everything though
+* Chill evening shisha session
+
 ### Day 205 (Tuesday): 08/30/16
 Weight: 157.4lb
 
@@ -2107,7 +2131,9 @@ Notes:
 * Lowered my productivity for sure
 * Chilled in the evening
 
-### Day 136 (Monday): 06/13/16 (155.4lb)
+### Day 136 (Monday): 06/13/16
+Weight: 155.4lb
+
 Diet: 1830, 126g
 * Yogurt (190) + Banana (100), 18g
 * Roast Beef, Salad, Dried Apricots, Cheese, Avocado (850), 60g
@@ -2763,8 +2789,8 @@ Notes:
 
 ### Hiatus (Traveling in Spain/Big Sur) 04/25/16 -> 05/17/16
 
-### 100ish day Review
-* Improved my diet a lot over these three months
+### 100ish day Review: 12/29/15 -> 04/24/16
+* Improved my diet a lot over these months
 * However, still binging occasionally on candy/ice-cream
 * Was much more discplined earlier which helped me cut weight
 * Was not so strict from end of march onwards

@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 63 (Wednesday): 08/31/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Slept poorly previous night, ended up waking up ~8:30am
+
 ### Day 62 (Tuesday): 08/30/16 (Clean)
 Mantra:
 * Woke up Early   : Y
