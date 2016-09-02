@@ -23,59 +23,11 @@ Lifts:
 * Squat: 5x230x5
 * Bench: 5x175x5
 * Deadlift: 5x265x5
-* OH Press: 5x110x5
+* OH Press: 5x110x5 (Complete)
 * Leg Lifts: 3x18
-
-Exercise Plan:
-* Monday: Cardio, Jiu-Jitsu
-* Tuesday: Lift
-* Wednesday: Cardio, Jiu-Jitsu
-* Thursday: Lift
-* Friday: Cardio, Jiu-Jitsu
-* Saturday: Lift
-* Sunday: Lift
 
 Lift Routine:
 1. Crazy 8s or Pullups
 2. Squat or Deadlift
 3. Bench Press or OH Press
 4. Leg Lifts
-
-### Plan Template
-(Monday):
-* Morning Weigh-In  :
-* Cardio            :
-* Under 2000        :
-* Jiu-Jitsu         :
-
-(Tuesday):
-* Morning Weigh-In  :
-* Lift              :
-* Under 2000        :
-
-(Wednesday):
-* Morning Weigh-In  :
-* Cardio            :
-* Under 2000        :
-* Jiu-Jitsu         :
-
-(Thursday):
-* Morning Weigh-In  :
-* Lift              :
-* Under 2000        :
-
-(Friday):
-* Morning Weigh-In  :
-* Cardio            :
-* Under 2000        :
-* Jiu-Jitsu         :
-
-(Saturday):
-* Morning Weigh-In  :
-* Lift              :
-* Under 2000        :
-
-(Sunday):
-* Morning Weigh-In  :
-* Lift              :
-* Under 2000        :
