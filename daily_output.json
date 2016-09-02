@@ -1,6 +1,46 @@
 {
     "wake_up": [
         {
+            "date": "09/02/16",
+            "flag": "N"
+        },
+        {
+            "date": "09/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/31/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/24/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/22/16",
+            "flag": "Y"
+        },
+        {
             "date": "08/19/16",
             "flag": "N"
         },
@@ -214,6 +254,54 @@
         }
     ],
     "cleans": [
+        {
+            "date": "09/02/16",
+            "flag": "N"
+        },
+        {
+            "date": "09/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/31/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/22/16",
+            "flag": "Y"
+        },
         {
             "date": "08/21/16",
             "flag": "N"
@@ -461,6 +549,54 @@
     ],
     "exercise": [
         {
+            "date": "09/02/16",
+            "flag": "N"
+        },
+        {
+            "date": "09/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/28/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/27/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/24/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/22/16",
+            "flag": "Y"
+        },
+        {
             "date": "08/21/16",
             "flag": "N"
         },
@@ -707,6 +843,46 @@
     ],
     "good_work": [
         {
+            "date": "09/02/16",
+            "flag": ""
+        },
+        {
+            "date": "09/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/22/16",
+            "flag": "Y"
+        },
+        {
             "date": "08/19/16",
             "flag": "N"
         },
@@ -881,6 +1057,54 @@
     ],
     "under_2000": [
         {
+            "date": "09/02/16",
+            "flag": "N"
+        },
+        {
+            "date": "09/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/30/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "08/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "08/22/16",
+            "flag": "Y"
+        },
+        {
             "date": "08/21/16",
             "flag": "Y"
         },
@@ -1043,6 +1267,93 @@
     ],
     "notes": [
         {
+            "date": "09/02/16",
+            "values": [
+                "Very tired this morning, ended up skipping out morning workout",
+                "Definitely reached out for some sugar today, didn't overdo it though"
+            ]
+        },
+        {
+            "date": "09/01/16",
+            "values": []
+        },
+        {
+            "date": "08/31/16",
+            "values": [
+                "Slept poorly previous night, ended up waking up ~8:30am"
+            ]
+        },
+        {
+            "date": "08/30/16",
+            "values": []
+        },
+        {
+            "date": "08/29/16",
+            "values": [
+                "",
+                "## Week Review: 08/22/16 - 08/28/16",
+                "**Stats**",
+                "```",
+                "Cleans          : 2/7",
+                "Woke up Early   : 5/5",
+                "Solid Exercise  : 7/7",
+                "Under 2000      : 2/7",
+                "Did Good Work   : 3/5",
+                "```"
+            ]
+        },
+        {
+            "date": "08/28/16",
+            "values": [
+                "Did not budget cals as well, ended up eating over"
+            ]
+        },
+        {
+            "date": "08/27/16",
+            "values": [
+                "Went way over today, no excuse really"
+            ]
+        },
+        {
+            "date": "08/26/16",
+            "values": [
+                "Not focused at work",
+                "Decided to a bunch again at night, not really sure why"
+            ]
+        },
+        {
+            "date": "08/25/16",
+            "values": [
+                "Another cal-up day, wasn't bad until late night"
+            ]
+        },
+        {
+            "date": "08/24/16",
+            "values": [
+                "Needed to cal-up  today",
+                "Not focused at work, perhaps due to excess sugar and calories"
+            ]
+        },
+        {
+            "date": "08/23/16",
+            "values": []
+        },
+        {
+            "date": "08/22/16",
+            "values": [
+                "",
+                "## Week Review: 08/15/16 - 08/21/16",
+                "**Stats**",
+                "```",
+                "Cleans          : 2/7",
+                "Woke up Early   : 3/5",
+                "Solid Exercise  : 5/7",
+                "Under 2000      : 6/7",
+                "Did Good Work   : 2/5",
+                "```"
+            ]
+        },
+        {
             "date": "08/21/16",
             "values": [
                 "Very sick, took a rest day for my body"
@@ -1092,7 +1403,6 @@
                 "Under 2000      : 4/7",
                 "Did Good Work   : 4/5",
                 "```",
-                "",
                 "**Notes**",
                 "Overall mixed week",
                 "Started off slow but felt much better by Wednesday",
