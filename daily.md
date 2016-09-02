@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 64 (Thursday): 09/01/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 63 (Wednesday): 08/31/16
 Mantra:
 * Woke up Early   : N

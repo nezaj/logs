@@ -24,7 +24,30 @@ Exercise:
 Notes:
 *
 
-### Day 206 (Wednesday): 08/31/16
+### Day 208 (Thursday): 09/01/16
+Weight: 156.8lb
+
+Diet: 1855, 147g
+* Quest Bar (190) + Banana (100) + Apple (80) + Fish Oil (10), 20g
+* Nature Valley Bar (200), 10g
+* Chicken (400) + Veggies (100) + Dried Fruit (200), 50g
+* Quest Bar (100) + Jerky (180), 43g
+* Carrots (75) + Quest Bar (180) + Milk (40), 24g
+
+Exercise: Lift
+* Crazy 8s: 3x80x7/7/7 (Clean)
+* Squat: 3x205x5 (Repeat)
+* Bench: 5x175x5 (Clean)
+
+Notes:
+* Took 6mg of melatonin, took some time to fall asleep again, but slept well
+* Woke up early and refreshed, got chores done
+* Solid workout, again feeling refreshed
+* Mediocore productivity, lots of talks and thinking, prepping for action tomorrow
+* First day of RUssian class, very fun!
+* Went to bed shortly after, overall good day
+
+### Day 207 (Wednesday): 08/31/16
 Weight: 156.6lb
 
 Diet: 1900, 190g
@@ -48,7 +71,7 @@ Notes:
 * Got some more chores done, not everything though
 * Chill evening shisha session
 
-### Day 205 (Tuesday): 08/30/16
+### Day 206 (Tuesday): 08/30/16
 Weight: 157.4lb
 
 Diet: 1895, 133g
@@ -63,7 +86,8 @@ Exercise: Lift
 * Pull-ups 16-20: Day 3 (Clean)
 * Deadlifts: 1x240x5, (bad form)
 * Deadlifts: 4x225x5, (Better form, but repeat)
-* OH Press: 5x105x5 (Clean, getting tougher)
+* OH Press: 5x110x5 (Clean, getting tougher)
+* Abs: 4x14 (Not focused, repeat)
 
 Notes:
 * Second night w/ melatonin, 3mg swallowed. Again deep sleep
@@ -74,7 +98,7 @@ Notes:
 * Decent productive day, not much code but some good sleuthing/debugging
 * Chill evening, excited for Vegas weekend!
 
-### Day 204 (Monday): 08/29/16
+### Day 205 (Monday): 08/29/16
 Weight: 160.2lb
 
 Diet: 1510, 124g
@@ -188,7 +212,7 @@ Foods: 40 unique, 84 total, 16725 calories
 * Stay motivated/focused at work!
 * Keep your eye on the prize with fitness challenge
 
-### Day 203 (Sunday): 08/28/16
+### Day 204 (Sunday): 08/28/16
 Weight: 161.4lb
 
 Diet: 2390, 114g
@@ -209,7 +233,7 @@ Notes:
 * Researched dieting and insomnia, seems they are related
 * Ordered some melatonin and zma, will experiment with sleep
 
-### Day 202 (Saturday): 08/27/16
+### Day 203 (Saturday): 08/27/16
 Weight: 158.8lb
 
 Diet: 3860, 202g
@@ -235,7 +259,7 @@ Notes:
 * Chill dinner and games in the evening
 * Ended up eating more at night again
 
-### Day 201 (Friday): 08/26/16
+### Day 202 (Friday): 08/26/16
 Weight: 157.6lb
 
 Diet: 2715, 158g
