@@ -24,6 +24,29 @@ Exercise:
 Notes:
 *
 
+### Day 209 (Friday): 09/02/16
+Weight: 157.0lb
+
+Diet: 2480, 168g
+* Oatmeal (340) + Flaxseed (200) + Protein Powder (120), 47g
+* Bacon (250) + Beef (250) + Turkey (200) + Veggies (150), 90g
+* Quest Bar (190) + Toblorone (190) + Grand Bar (200), 20g
+* Carrots (50) + 2 Apple (160)
+* Turkey Jerky (60), 11g
+* Wine (120)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Took 6mg of melatonin again, fell asleep within 30min, slept well
+* Woke up very tired though, not motivated to run. Skipped morning workout
+* Ended up being slow in general, missed last shuttle and took Caltrain
+* Definitely feeling the "lean", in a pensive mood, thinking about next steps
+* This also reminds me of my Prospoer days where I was strict M-F, got lean then
+* Being strict is tough, but ultimately it does feel good, gotta acclimate myself
+* Setup meetings for next week, not much more to do today
+* Solid Jiu-Jitsu session
+
 ### Day 208 (Thursday): 09/01/16
 Weight: 156.8lb
 

@@ -10,6 +10,18 @@ Mantra:
 Notes:
 *
 
+### Day 65 (Friday): 09/02/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Exhausted from previous day, got up late
+* Very tired this morning, ended up skipping out morning workout
+* Definitely reached out for some sugar today, didn't overdo it though
+
 ### Day 64 (Thursday): 09/01/16 (Clean)
 Mantra:
 * Woke up Early   : Y
