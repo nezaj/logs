@@ -10,6 +10,11 @@ Mantra:
 Notes:
 *
 
+### Day 66 (Saturday): 09/03/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
 ### Day 65 (Friday): 09/02/16
 Mantra:
 * Woke up Early   : N

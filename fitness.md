@@ -24,6 +24,31 @@ Exercise:
 Notes:
 *
 
+### Day 210 (Saturday): 09/03/16
+Weight: 154.2lb
+
+Diet: 1750, 105g
+* Oatmeal (340) + Flaxseed (200) + Cottage Cheese (90), 33g
+* Apple (80) + Dried Fruit (100)
+* Mandarins (280)
+* Cottage Cheese (90), 11g
+* Protein Powder (120), 25g
+* Turkey Balls (300) + Veggies (150), 36g
+
+Exercise: Lift
+* Pull-ups 16-20: Day 4 (Clean)
+* Deadlifts: 5x225x5, (Clean
+* OH Press: 5x115x5 (Clean, def tough)
+
+Notes:
+* Was going to go to Vegas this weekend, but realized i bought wrong tix :(
+* Ended up going back to bed
+* Late start to the day
+* Solid lift session
+* Chilled at home and watched foreign film
+* Chill evening shisha session w/ friends
+* Overall chill day
+
 ### Day 209 (Friday): 09/02/16
 Weight: 157.0lb
 
