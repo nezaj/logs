@@ -24,11 +24,87 @@ Exercise:
 Notes:
 *
 
+## Week Review: 08/29/16 - 09/04/16
+**Stats**
+```
+* Diet:         ~1979
+* Weight:       154.2lb (Sat) -> 160.2lb (Mon)
+* Lift:         |||
+* Abs:          |
+* Jiu-Jitsu:    ||
+* Cardio:       |||
+* Rest:
+
+Foods: 28 unique, 71 total, 13850 calories
+* Family BBQ        : 1  (2400),  17.3%,   17.3%
+* Quest Bar         : 9  (1610),  11.6%,   29.0%
+* Oatmeal           : 3  (1020),   7.4%,   36.3%
+* Dried Fruit       : 5   (800),   5.8%,   42.1%
+* Chicken           : 2   (700),   5.1%,   47.1%
+* Turkey Balls      : 2   (650),   4.7%,   51.8%
+* Apple             : 8   (640),   4.6%,   56.5%
+* Flaxseed          : 3   (600),   4.3%,   60.8%
+* Veggies           : 5   (575),   4.2%,   64.9%
+* Yogurt            : 1   (520),   3.8%,   68.7%
+* Jerky             : 2   (430),   3.1%,   71.8%
+* Banana            : 4   (400),   2.9%,   74.7%
+* Beef              : 2   (400),   2.9%,   77.6%
+* Protein Powder    : 3   (360),   2.6%,   80.2%
+* Turkey            : 2   (350),   2.5%,   82.7%
+* Meatballs         : 1   (300),   2.2%,   84.9%
+* Mandarins         : 1   (280),   2.0%,   86.9%
+* Carrots           : 4   (275),   2.0%,   88.9%
+* Bacon             : 1   (250),   1.8%,   90.7%
+* Turkey Jerky      : 2   (240),   1.7%,   92.4%
+* Cottage Cheese    : 3   (230),   1.7%,   94.1%
+* Grand Bar         : 1   (200),   1.4%,   95.5%
+* Nature Valley Bar : 1   (200),   1.4%,   97.0%
+* Toblorone         : 1   (190),   1.4%,   98.3%
+* Wine              : 1   (120),   0.9%,   99.2%
+* Granola           : 1    (60),   0.4%,   99.6%
+* Milk              : 1    (40),   0.3%,   99.9%
+* Fish Oil          : 1    (10),   0.1%,  100.0%
+```
+**Overall**
+* This felt like a good week, diet was clean and exercise was good
+* This was also a very busy week, lots of things happened
+* Started melatonin, started Russian class, got news about the team, missed Vegas
+* Good sleep, diet, and exercise empowered me to handle these with relative ease
+* Excited about new things, hope I'm not overloaded though
+
+**Fitness Challenge**
+* This week met the "acceptable" criteria
+* Very close to "perfect", missed one Jiu-Jitsu session and a morning workout
+* Executed very well on the diet/calories, feeling great and strong
+* Much better sleep was definitely a big help, haven't sleep this well in awhile
+
+**Work**
+* Big new is that this week is that my team is being disbanded
+* Mon/Tues pushed hard, did good work and felt great about it
+* Weds found out team is being disbanded so had to figure out next steps
+* Weds/Thurs was a bit of haze trying to figure out what to do next
+* Fri had become centered on next steps
+* In general felt good about work this week. Feel like I executed on what I could
+
+**Personal**
+* Started taking melatonin this week, definitely provides me great sleep
+* Also felt lean throughout the week due to lower calories, made me feel clean
+* Had my first Russian class on Thursday, went very well and I'm excited
+* Will definitely need to put effort into Russian!
+* Ended up not going to Vegas due to mistake on my part
+* Feels okay though, ended up chilling with family and friends. Felt nice
+* Overall another chill/social week
+
+**Takeaways**
+* Stay lean and commited to fitness challenege, really helps your other aspects
+* Drive forward at work, try to be close to making a decision by Friday
+* Make time to study Russian, you will get what you put into it
+
 ### Day 211 (Sunday): 09/04/16
 Weight: 154.4lb
 
 Diet: 2400, 150g
-* Family BBQ, (2400), 150g
+* Family BBQ (2400), 150g
 
 Exercise: Cardio
 * Embarcadero Run: 10k, 9:09/mi
@@ -110,7 +186,7 @@ Notes:
 * Woke up early and refreshed, got chores done
 * Solid workout, again feeling refreshed
 * Mediocore productivity, lots of talks and thinking, prepping for action tomorrow
-* First day of RUssian class, very fun!
+* First day of Russian class, very fun!
 * Went to bed shortly after, overall good day
 
 ### Day 207 (Wednesday): 08/31/16

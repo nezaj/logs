@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+## Week Review: 08/29/16 - 09/04/16
+**Stats**
+```
+* Cleans          : 4/7
+* Woke up Early   : 3/5
+* Solid Exercise  : 6/7
+* Under 2000      : 5/7
+* Did Good Work   : 5/5
+```
+
 ### Day 67 (Sunday): 09/04/16
 Mantra:
 * Solid Exercise  : Y

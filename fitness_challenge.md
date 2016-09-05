@@ -8,7 +8,7 @@ Perfect Week:
 * Eat <=1900 calories 5x/week
 * Do not eat more than 2400 calories on any given day
 * Exercise daily
-* Jiu-Jitsu 3x/week, bearing no sickness
+* Jiu-Jitsu 3x/week, bearing no sickness / serious events
 
 Acceptable Week:
 * Weigh myself 5x/week (morning)
