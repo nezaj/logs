@@ -10,6 +10,14 @@ Mantra:
 Notes:
 *
 
+### Day 67 (Sunday): 09/04/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Big BBQ with family, pretty sure went over 2000cal
+
 ### Day 66 (Saturday): 09/03/16 (Clean)
 Mantra:
 * Solid Exercise  : Y

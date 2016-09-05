@@ -24,6 +24,23 @@ Exercise:
 Notes:
 *
 
+### Day 211 (Sunday): 09/04/16
+Weight: 154.4lb
+
+Diet: 2400, 150g
+* Family BBQ, (2400), 150g
+
+Exercise: Cardio
+* Embarcadero Run: 10k, 9:09/mi
+
+Notes:
+* 6mg of melatonin, slept great again
+* Solid morning run
+* Fun BBQ with family
+* Chill evening with friends
+* Studied Russian throughout train rides, feeling motivated
+* Another chill day
+
 ### Day 210 (Saturday): 09/03/16
 Weight: 154.2lb
 
@@ -37,10 +54,11 @@ Diet: 1750, 105g
 
 Exercise: Lift
 * Pull-ups 16-20: Day 4 (Clean)
-* Deadlifts: 5x225x5, (Clean
+* Deadlifts: 5x225x5, (Clean)
 * OH Press: 5x115x5 (Clean, def tough)
 
 Notes:
+* 6mg of melatonin, slept great
 * Was going to go to Vegas this weekend, but realized i bought wrong tix :(
 * Ended up going back to bed
 * Late start to the day
