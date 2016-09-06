@@ -24,6 +24,31 @@ Exercise:
 Notes:
 *
 
+### Day 212 (Monday): 09/05/16
+Weight: 156.4lb
+
+Diet: 1905, 116g
+* Oatmeal (340) + Flaxseed (200) + Cottage Cheese (45), 26g
+* Mandarins (210)
+* Protein Powder (120) + Fish Oil (10), 25g
+* Seaweed (60) + Rice Cakes (120) + Popcorn (110)
+* Chicken Tenders (400) + Veggies (150), 40g
+* Yogurt (120) + Carrots (20), 25g
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 3x80x7/8/7 (Clean)
+* Squat: 5x205x5 (Clean)
+* Bench: 5x175x5 (Clean, but repeat)
+
+Notes:
+* 6mg melatonin, slept well again. I think this is the right dose
+* Lazy morning, felt a bit anxious
+* Finally did random chores and a little russian practice
+* Solid lift session, felt very strong
+* Bought lots of groceries, very happy to shop at TJs again
+* Solid Jiu-Jitsu session, focusing more on my top-game, getting ready for comp
+* Overall another good day
+
 ## Week Review: 08/29/16 - 09/04/16
 **Stats**
 ```

@@ -10,6 +10,11 @@ Mantra:
 Notes:
 *
 
+### Day 67 (Monday, Labor Day): 09/05/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
 ## Week Review: 08/29/16 - 09/04/16
 **Stats**
 ```

@@ -21,10 +21,10 @@ Lifts:
 * Crazy 8s: 3x85x8
 * Pull-ups: 30 reps
 * Squat: 5x230x5
-* Bench: 5x175x5
+* Bench: 5x175x5 (Complete)
 * Deadlift: 5x265x5
 * OH Press: 5x110x5 (Complete)
-* Leg Lifts: 3x18
+* Leg Lifts: 4x18
 
 Lift Routine:
 1. Crazy 8s or Pullups
