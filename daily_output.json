@@ -255,6 +255,18 @@
     ],
     "cleans": [
         {
+            "date": "09/05/16",
+            "flag": "N"
+        },
+        {
+            "date": "09/04/16",
+            "flag": "N"
+        },
+        {
+            "date": "09/03/16",
+            "flag": "N"
+        },
+        {
             "date": "09/02/16",
             "flag": "N"
         },
@@ -548,6 +560,18 @@
         }
     ],
     "exercise": [
+        {
+            "date": "09/05/16",
+            "flag": "Y"
+        },
+        {
+            "date": "09/04/16",
+            "flag": "Y"
+        },
+        {
+            "date": "09/03/16",
+            "flag": "Y"
+        },
         {
             "date": "09/02/16",
             "flag": "N"
@@ -844,7 +868,7 @@
     "good_work": [
         {
             "date": "09/02/16",
-            "flag": ""
+            "flag": "Y"
         },
         {
             "date": "09/01/16",
@@ -1057,6 +1081,18 @@
     ],
     "under_2000": [
         {
+            "date": "09/05/16",
+            "flag": ""
+        },
+        {
+            "date": "09/04/16",
+            "flag": "N"
+        },
+        {
+            "date": "09/03/16",
+            "flag": ""
+        },
+        {
             "date": "09/02/16",
             "flag": "N"
         },
@@ -1267,8 +1303,23 @@
     ],
     "notes": [
         {
+            "date": "09/05/16",
+            "values": []
+        },
+        {
+            "date": "09/04/16",
+            "values": [
+                "Big BBQ with family, pretty sure went over 2000cal"
+            ]
+        },
+        {
+            "date": "09/03/16",
+            "values": []
+        },
+        {
             "date": "09/02/16",
             "values": [
+                "Exhausted from previous day, got up late",
                 "Very tired this morning, ended up skipping out morning workout",
                 "Definitely reached out for some sugar today, didn't overdo it though"
             ]
