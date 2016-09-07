@@ -24,6 +24,32 @@ Exercise:
 Notes:
 *
 
+### Day 213 (Tuesday): 09/06/16
+Weight: 154.2lb
+
+Diet: 2395, 128g
+* Cottage Cheese (180) + Oatmeal (300) + Strawberries (75), 32g
+* Quest Bar (190), 20g
+* Apple (80)
+* Chicken (300) + Curry (250) + Rice (200) + Pork Bun (100), 50g
+* Quest Bar (190), 20g
+* 2 Sun Cups (240), 6g
+* Sushi (250) + Carrots (75)
+* Seaweed (25)
+
+Exercise: Cardio
+* Embarcadero Run: 10k, 9:08/mi
+
+Notes:
+* 6mg melatonin, had a hard time falling asleep, felt very active from JiuJitsu
+* Solid run, was groggy in the morning and felt great once I started running
+* Lower energy afterwards though, needed some extra cals
+* Chill day at work, talked with two teams, feeling excited about next steps
+* Pushed on getting dev setup for k12, feeling good
+* Chill evening, watched some foreign films
+* Practiced more Russian before bed, got the alphabet down!
+* Overall good day!
+
 ### Day 212 (Monday): 09/05/16
 Weight: 156.4lb
 

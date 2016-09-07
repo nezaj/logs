@@ -10,6 +10,16 @@ Mantra:
 Notes:
 *
 
+### Day 69 (Tuesday): 09/06/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Feeling low energy today, ended eating more cals, felt much better after
+
 ### Day 68 (Monday, Labor Day): 09/05/16 (Clean)
 Mantra:
 * Solid Exercise  : Y
