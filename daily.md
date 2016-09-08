@@ -10,6 +10,18 @@ Mantra:
 Notes:
 *
 
+### Day 70 (Wednesday): 09/07/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Had dentist appointment in AM and was too lazy to lift early
+* Ended up over-doing snacks and then decided to eat more
+* Not focused day, don't let Wednesdays go to waste!
+
 ### Day 69 (Tuesday): 09/06/16
 Mantra:
 * Woke up Early   : Y

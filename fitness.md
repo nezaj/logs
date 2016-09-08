@@ -24,6 +24,33 @@ Exercise:
 Notes:
 *
 
+### Day 214 (Wednesday): 09/07/16
+Weight: 155.6lb
+
+Diet: 3165, 193g
+* Rice Cakes (120) + Oatmeal (340) + Flaxseed (200), 20g
+* Protein Powder (120), 25g
+* Carrots (25)
+* Turkey Balls (350) + Veggies (150), 42g
+* Apples (160)
+* Yogurt (360), 66g
+* Popcorn (600) + Seaweed (30)
+* Mandarins (150) + Rice Cakes (120)
+* Chicken Tenders (440), 40g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* 6mg melatonin, slept better last night, was exhausted before bed
+* Woke up feeling a bit tired though
+* Skipped morning workout to do chores/emails, will make up
+* Dentist appointment to remove crown
+* Ended up over-snacking afterwards
+* Not focused day, wasn't able to get much done
+* --> Really need to push hard on WFH days to get things done
+* Solid Jiu-Jitsu session
+* Overall not a productive day, but felt much better after BJJ
+
 ### Day 213 (Tuesday): 09/06/16
 Weight: 154.2lb
 
