@@ -24,6 +24,26 @@ Exercise:
 Notes:
 *
 
+### Day 215 (Thursday): 09/08/16
+Weight: 156.6lb
+
+Diet: 830, 80g
+* Chicken (200) + Salmon (150) + Veggies (100), 40g
+* Quest Bar (190), 20g
+* Quest Bar (190), 20g
+
+Exercise: Lift
+* Pull-ups 16-20: Day 5 (Clean, Easy)
+* Deadlifts: 5x235x5, (Clean)
+* OH Press: 1x120x5 4x115x5 (Clean)
+
+Notes:
+* 6mg melatonin, slept pretty well. Woke up once middle of night, but slept deep
+* Solid morning lift
+* Productive day, sat with K12 team. Felt like I could jump in the code easily
+* Russian in the evening, I'm definitely feeling excited about it
+* Low calorie day to make up for previous day binge
+
 ### Day 214 (Wednesday): 09/07/16
 Weight: 155.6lb
 
