@@ -24,6 +24,37 @@ Exercise:
 Notes:
 *
 
+### Day 216 (Tuesday): 09/13/16
+Weight: 158.8lb
+
+Diet: 1875, 187g
+* Quest Bar (190), 20g
+* Turkey (300) + Tomatoes (50) + Strawberries (75), 45g
+* Quest Bar (190) + Banana (100), 20g
+* Beef Jerky (180), 33g
+* Quest Bar (190) + Milk (80), 27g
+* Yogurt (190) + Carrots (50), 18g
+* Quest Bar (190) + Milk (40), 24g
+* Carrots (50)
+
+Exercise: Cardio
+* Stairmaster: 30mi
+
+Notes:
+* Weighed in heavy this morning from gastronomic weekend
+* Thankfully did Jiu-Jitsu last night so feeling much more cleansed
+* Similarly, slept hard, 10hrs+, caught up on some sleep
+* Solid morning workout, feeling good for the day
+* Productive day
+* Finished chores in the evening
+
+### Hiatus (Bday/Vegas weekend) 09/09/16 -> 09/12/16
+* Weight: 154.0lb
+* Ate a bunch of sugar and excess calories over this weekend
+* Had lots of fun though with friends and family
+* Overall I'm glad my desire for sugar isn't as strong anymore
+* Feeling motivated to train hard for my upcoming Jiu-Jitsu Tourney
+
 ### Day 215 (Thursday): 09/08/16
 Weight: 156.6lb
 

@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 72 (Tuesday): 09/13/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
+### Hiatus (Bday/Vegas weekend) 09/09/16 -> 09/12/16
+
 ### Day 71 (Thursday): 09/08/16 (Clean)
 Mantra:
 * Woke up Early   : Y

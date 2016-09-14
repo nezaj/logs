@@ -1,6 +1,6 @@
 ### 10 Week Fitness Plan (08/14/16 -> 10/23/2016)
 Outcomes:
-* Cut down to 145lb
+* Cut down to 150lb
 * Hit strength numbers
 
 Perfect Week:
