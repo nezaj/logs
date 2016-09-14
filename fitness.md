@@ -48,8 +48,38 @@ Notes:
 * Productive day
 * Finished chores in the evening
 
-### Hiatus (Bday/Vegas weekend) 09/09/16 -> 09/12/16
+### Day 216 (Monday): 09/12/16
+Weight: N/A
+
+Diet: 2260, 122g
+* Vegas Buffet (1500), 60g
+* Chicken Tenders (400) + Rice Cakes (240) + Yogurt (120), 62g
+
+Notes:
+* No real log, came back from Vegas
+* Did go to Jiu-Jitsu, felt great after
+* Passed out hard and slept well!
+
+## Week Review: 09/05/16 - 09/11/16 (Bday/Vegas Weekend)
+**Stats**
+```
+* Diet:         ~2900
+* Weight:       154.2lb (Tues) -> 156.6lb (Thurs)
+* Lift:         ||
+* Jiu-Jitsu:    ||
+* Cardio:       |||
+* Rest:
+```
+**Overall**
+* Short log week due to bday/Vegas trip
+* Calories were all over the place this week, no bueno
+* This will be my last big splash with cals until my JiuJitsu tourney
+* Will re-evaluate calories/training after
+
+### Hiatus (Bday/Vegas weekend) 09/09/16 -> 09/11/16
 * Weight: 154.0lb
+* Calorie Average: ~4000, yea I ate a ton
+* Cardio/Stairmaster Friday morning
 * Ate a bunch of sugar and excess calories over this weekend
 * Had lots of fun though with friends and family
 * Overall I'm glad my desire for sugar isn't as strong anymore
