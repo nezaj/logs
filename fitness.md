@@ -111,7 +111,7 @@ Diet: 1905, 116g
 Exercise: Lift, Jiu-Jitsu
 * Crazy 8s: 3x80x7/8/7 (Clean)
 * Squat: 5x205x5 (Clean)
-* Bench: 5x175x5 (Clean, but repeat)
+* Bench: 5x185x5 (Clean, but repeat)
 
 Notes:
 * 6mg melatonin, slept well again. I think this is the right dose
