@@ -24,6 +24,26 @@ Exercise:
 Notes:
 *
 
+### Day 217 (Tuesday): 09/14/16
+Weight: 157.6lb
+
+Diet: 1880, 147g
+* Oatmeal (150) + Flaxseed (100) + Granola (150), 15g
+* Quest Bar (190) + Carrots (50), 20g
+* Chicken (480) + Pork (400), 70g
+* Quest Bar (190) + Carrots (50), 20g
+* Turkey Jerky (120), 22g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* 6mg melatonin, slept very well last night but went to bed late very late
+* Tired and groggy in the morning, ended up missing morning workout
+* Seem a little unfocused this morning, finally getting things like logs done tho
+* Not very productive
+* Solid Jiu-Jitsu session
+* Great shisha session with large crew
+
 ### Day 216 (Tuesday): 09/13/16
 Weight: 158.8lb
 
