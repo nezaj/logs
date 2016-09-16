@@ -24,7 +24,27 @@ Exercise:
 Notes:
 *
 
-### Day 217 (Tuesday): 09/14/16
+### Day 218 (Thursday): 09/15/16
+Weight: 155.8lb
+
+Diet: 1500, 158g
+* Quest Bar (190) + Yogurt (190) + Fish Oil (10), 38g
+* Turkey (300) + Tomatoes (100) + Fruit (50), 50g
+* Quest Bar (190) + Banana (100), 20g
+* Quest Bar (190) + Turkey Jerky (180), 50g
+* Carrots (50)
+
+Exercise: Rest Day
+
+Notes:
+* 6mg melatonin, slept great again last night, but went to bed late again
+* Forgot to set alarm, woke up refreshed but no time for morning workout
+* Noticing I'm wasting lots of little in-between, want to clean this up
+* Very productive day!
+* Great Russian class, felt like I was able to absorb myself
+* Stayed up later working, made breakthrough but went to bed late again
+
+### Day 217 (Wednesday): 09/14/16
 Weight: 157.6lb
 
 Diet: 1880, 147g
