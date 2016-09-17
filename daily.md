@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 75 (Friday): 09/16/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Went to bed late, and snoozed alarm
+* Skipped morning workout to come to work earlier, important work day
+
 ### Day 74 (Thursday): 09/15/16
 Mantra:
 * Woke up Early   : N

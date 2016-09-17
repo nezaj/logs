@@ -24,6 +24,28 @@ Exercise:
 Notes:
 *
 
+### Day 219 (Friday): 09/16/16
+Weight: 155.6lb
+
+Diet: 1830, 196g
+* Quest Bar (190) + Yogurt (190), 38g
+* Chicken (400) + Avocado (150) + Veggies (100), 65g
+* Quest Bar (190) + Carrots (50), 20g
+* Quest Bar (190) + Turkey Jerky (180), 53g
+* Quest Bar (190), 20g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* 6mg melatonin, another night of great sleep
+* Went to bed very late though, turned off alarm and fell asleep again
+* Been snoozing the alarm too much lately, break the habit, get up and going
+* Missed my shuttle again, cal-training to work. Feeling productive though!
+* Very productive day, pushed diff out with messenger bot integration
+* Felt a little mentally tired afterwards, definitely pushed hard this week
+* Solid JiuJitsu session
+* Fun evneing ou at Jones
+
 ### Day 218 (Thursday): 09/15/16
 Weight: 155.8lb
 
