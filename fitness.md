@@ -24,10 +24,29 @@ Exercise:
 Notes:
 *
 
+### Day 221 (Sunday): 09/18/16
+Weight: 156.8lb
+
+Diet: 0, 0g
+* Fasted (0)
+
+Exercise: Cardio
+* Half Marathon
+
+Notes:
+* Slept poorly due to late night binge, woke up with full/bloated stomach
+* Decided I wouldnt end up fasting for the day
+* Solid half marathon run. Headed into Safeway ~10mi though to buy powerade
+* Chill coffee date afterwards
+* Another chill coffee session with Stepan afterwards
+* Bacchata class in the evening
+* Action-packed day, definitely good for keeping mind off food
+* Feeling real hungry at night but staying strong, overall good day!
+
 ### Day 220 (Saturday): 09/17/16
 Weight: 154.6lb
 
-Diet: 3110, 136g
+Diet: 4110, 136g
 * Protein Powder (120), 25g
 * Granola (300) + Fruit (200) + Yogurt (200), 20g
 * Apple (80)

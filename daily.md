@@ -10,7 +10,14 @@ Mantra:
 Notes:
 *
 
-### Day 75 (Saturday): 09/17/16
+### Day 77 (Sunday): 09/18/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
+### Day 76 (Saturday): 09/17/16
 Mantra:
 * Solid Exercise  : Y
 * Under 2000      : N
