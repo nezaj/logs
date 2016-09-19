@@ -64,6 +64,32 @@ Foods: 27 unique, 62 total, 13505 calories
 * Fish Oil        : 1    (10),   0.1%,  100.0%
 * Fasted          : 1     (0),   0.0%,  100.0%
 ```
+**Overall**
+* Bit of a mixed week
+* Coming back from Vegas definitely took me some time to recover
+* Solid w/ Jiu-Jitsu but skipped most morning workouts
+* Productive work week, pushed myself a chose a new team!
+* Pushed myself with fitness challenge after binge, definitely feeling proud
+
+**Fitness Challenge**
+* Did not execute well on fitness challenege this week
+* Main issue was binge at the end and skipping morning workouts
+* However, I did fast on Sunday to make up for damage, proud I stuck with it
+
+**Work**
+* Productive week
+* Worked hard and felt like I pushed myself
+* Ended up choosing a new team! Excited to be part of Recruiting Products
+
+**Personal**
+* Overall good week personally
+* Did a good job of recovering from Vegas and jumping back into routine
+* Got all my chores done
+* Made time for friends, family, and a bit of dating too
+
+**Takeaways**
+* Keep eye on the prize with fitness challenege
+* Keep pushing at work
 
 ### Day 221 (Sunday): 09/18/16
 Weight: 156.8lb
@@ -76,7 +102,7 @@ Exercise: Cardio
 
 Notes:
 * Slept poorly due to late night binge, woke up with full/bloated stomach
-* Decided I wouldnt end up fasting for the day
+* Decided I would fast for the day
 * Solid half marathon run. Headed into Safeway ~10mi though to buy powerade
 * Chill coffee date afterwards
 * Another chill coffee session with Stepan afterwards
@@ -127,7 +153,7 @@ Notes:
 * Very productive day, pushed diff out with messenger bot integration
 * Felt a little mentally tired afterwards, definitely pushed hard this week
 * Solid JiuJitsu session
-* Fun evneing ou at Jones
+* Fun evening out at Jones
 
 ### Day 218 (Thursday): 09/15/16
 Weight: 155.8lb
@@ -144,7 +170,7 @@ Exercise: Rest Day
 Notes:
 * 6mg melatonin, slept great again last night, but went to bed late again
 * Forgot to set alarm, woke up refreshed but no time for morning workout
-* Noticing I'm wasting lots of little in-between, want to clean this up
+* Noticing I'm wasting lots of little time in-between, want to clean this up
 * Very productive day!
 * Great Russian class, felt like I was able to absorb myself
 * Stayed up later working, made breakthrough but went to bed late again
