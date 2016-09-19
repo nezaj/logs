@@ -24,6 +24,47 @@ Exercise:
 Notes:
 *
 
+## Week Review: 09/12/16 - 09/18/16
+**Stats**
+```
+* Diet:         ~1922
+* Weight:       154.6lb (Sat) -> 158.8lb (Tue)
+* Lift:         |
+* Abs:
+* Jiu-Jitsu:    |||
+* Cardio:       ||
+* Rest:         |
+
+Foods: 27 unique, 62 total, 13505 calories
+* Quest Bar       : 13 (2470),  18.3%,   18.3%
+* Vegas Buffet    : 1  (1500),  11.1%,   29.4%
+* BJ Ice Cream    : 1  (1300),   9.6%,   39.0%
+* Party Snacks    : 1  (1300),   9.6%,   48.6%
+* Yogurt          : 7  (1250),   9.3%,   57.9%
+* Chicken         : 2   (880),   6.5%,   64.4%
+* Turkey          : 2   (600),   4.4%,   68.9%
+* Turkey Jerky    : 3   (480),   3.6%,   72.4%
+* Granola         : 2   (450),   3.3%,   75.7%
+* Carrots         : 8   (430),   3.2%,   78.9%
+* Chicken Tenders : 1   (400),   3.0%,   81.9%
+* Pork            : 1   (400),   3.0%,   84.9%
+* Fruit           : 2   (250),   1.9%,   86.7%
+* Protein Powder  : 2   (240),   1.8%,   88.5%
+* Rice Cakes      : 1   (240),   1.8%,   90.3%
+* Banana          : 2   (200),   1.5%,   91.7%
+* Beef Jerky      : 1   (180),   1.3%,   93.1%
+* Avocado         : 1   (150),   1.1%,   94.2%
+* Oatmeal         : 1   (150),   1.1%,   95.3%
+* Tomatoes        : 2   (150),   1.1%,   96.4%
+* Milk            : 2   (120),   0.9%,   97.3%
+* Flaxseed        : 1   (100),   0.7%,   98.0%
+* Veggies         : 1   (100),   0.7%,   98.8%
+* Apple           : 1    (80),   0.6%,   99.4%
+* Strawberries    : 1    (75),   0.6%,   99.9%
+* Fish Oil        : 1    (10),   0.1%,  100.0%
+* Fasted          : 1     (0),   0.0%,  100.0%
+```
+
 ### Day 221 (Sunday): 09/18/16
 Weight: 156.8lb
 
@@ -53,7 +94,7 @@ Diet: 4110, 136g
 * Yogurt (240) + Carrots (80) + Protein Powder (120), 69g
 * Yogurt (120) + Carrots (50), 22g
 * Party Snacks (1300)
-* B&J Ice Cream (1300)
+* BJ Ice Cream (1300)
 
 Exercise: Lift
 * Crazy 8s: 3x80x8/8/8 (Clean)
@@ -158,6 +199,8 @@ Weight: N/A
 Diet: 2260, 122g
 * Vegas Buffet (1500), 60g
 * Chicken Tenders (400) + Rice Cakes (240) + Yogurt (120), 62g
+
+Exercise: Jiu-Jitsu
 
 Notes:
 * No real log, came back from Vegas
