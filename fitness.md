@@ -24,6 +24,29 @@ Exercise:
 Notes:
 *
 
+### Day 220 (Saturday): 09/17/16
+Weight: 154.6lb
+
+Diet: 3110, 136g
+* Protein Powder (120), 25g
+* Granola (300) + Fruit (200) + Yogurt (200), 20g
+* Apple (80)
+* Yogurt (240) + Carrots (80) + Protein Powder (120), 69g
+* Yogurt (120) + Carrots (50), 22g
+* Party Snacks (1300)
+* B&J Ice Cream (1300)
+
+Exercise: Lift
+* Crazy 8s: 3x80x8/8/8 (Clean)
+* Bench: 1x185x4, 4x180x5
+
+Notes:
+* No melatonin, went to bed late and slept very well
+* Shorter workout, felt tough but was good
+* Good brunch with Stepan
+* Went to buddy's party and totally over-did it
+* Ended up indulging in extra calories after
+
 ### Day 219 (Friday): 09/16/16
 Weight: 155.6lb
 

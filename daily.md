@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 75 (Saturday): 09/17/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Overate at friends party
+* Ended up indulging in ice cream afterwards :(
+
 ### Day 75 (Friday): 09/16/16
 Mantra:
 * Woke up Early   : N
