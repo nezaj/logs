@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 78 (Monday): 09/19/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Slept very poorly, no energy for morning exercise
+* Fasted previous day and extremely hungry today
+
 ## Week Review: 09/13/16 - 09/18/16
 **Stats**
 ```

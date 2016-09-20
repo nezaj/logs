@@ -24,6 +24,31 @@ Exercise:
 Notes:
 *
 
+### Day 222 (Monday): 09/19/16
+Weight: 153.4lb
+
+Diet: 3040, 168g
+* Apple (80) + Rice Cake (60) + Dried Fruit (90)
+* Quest Bar (190) + Yogurt (190), 38g
+* Apple (80)
+* Chicken (400) + Avocado (250) + Veggies (50), 80g
+* Quest Bar (190) + Cashews (200) + Milk (40), 28g
+* Turkey Jerky (120), 22g
+* Candy (500)
+* Cookies (400) + Candy (200)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Got only 2 hours of sleep, extremely hungry at night
+* Ended up being productive in the middle of the night
+* Totally missed workout tho, no energy
+* Super hungry today, ended up grabbing a bunch of sugar
+* Productive day, little slow at first but picked up
+* Grabbed more sugar before heading out, honestly, felt like I ndeeded it
+* Very solid Jiu-Jitsu session
+* Worked after Jiu-Jitsu, not the best idea imo. Was productive though
+
 ## Week Review: 09/12/16 - 09/18/16
 **Stats**
 ```
