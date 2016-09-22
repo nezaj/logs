@@ -10,6 +10,26 @@ Mantra:
 Notes:
 *
 
+### Day 79 (Wednesday): 09/21/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
+### Day 79 (Tuesday): 09/20/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Missed morning workout to get into work
+* Binged at night, not enough  mental strength perhaps
+
 ### Day 78 (Monday): 09/19/16
 Mantra:
 * Woke up Early   : Y

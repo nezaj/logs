@@ -24,6 +24,54 @@ Exercise:
 Notes:
 *
 
+### Day 224 (Wednesday): 09/21/16
+Weight: 158.0lb
+
+Diet: 530, 72g
+* Protein Powder (120) + Dried Fruit (90), 25g
+* Yogurt (120) + Protein Powder (120) + Apple (80), 47g
+
+Exercise: Lift, Jiu-Jitsu
+* Pull-ups: 5 x 11/15/18/18/24 (hands ripped, swinging too much)
+* Squats: 5x205x5 (Clean)
+* OH Press: 5x115x5 (Push-pressed a couple times, Repeat)
+
+Notes:
+* Slept poorly due to over-eating, again you know the issue with eating late
+* Worked from home today
+* Was able to get a solid lift in, felt great afterwards
+* However, callouses opened during pull-ups, focus on good form!
+* Dentist appointment went well
+* Solid russian study session after
+* Solid Jiu-Jitsu session
+* Noticing I'm wasting more time here and there browsing things like FB
+* Ended up mostly fasting today, ate a bit in evening to prevent extreme hunger
+* Overall good day
+
+### Day 223 (Tuesday): 09/20/16
+Weight: 155.4lb
+
+Diet: 2910, 253g
+* Quest Bar (190), 20g
+* Bacon (280) + Turkey (200) + Avocado (200) + Veggies (50), 80g
+* Quest Bar (190) + 2 Cookie (240), 20g
+* Turkey Jerky (180), 33g
+* Carrots (50)
+* Quest Bar (190), 20g
+* Rice Cakes (300) + Chicken Tenders (850), 80g
+
+Exercise: Rest Day
+
+Notes:
+* Slept well but woke up tired, do not be staying up late working, bad habit
+* Missed morning workout again to be on-time for work
+* Productive shuttle ride though, wrapped up the diff from previous night
+* Very productive day
+* Ended up binging again in the evening, started with rice cakes and went down
+* No junk food today which is some saving grace?
+* -> One take-away from this is that doing full fasts can be very rough
+* -> Be careful and have some food or else risk breaking mental strength
+
 ### Day 222 (Monday): 09/19/16
 Weight: 153.4lb
 
