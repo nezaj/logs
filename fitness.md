@@ -24,6 +24,29 @@ Exercise:
 Notes:
 *
 
+### Day 225 (Thursday): 09/22/16
+Weight: 156.0lb
+
+Diet: 1530, 147g
+* Quest Bar (190) + Milk/Coffee (80), 27g
+* Chicken (300) + Roast Beef (200) + Dried Fruit (200) + Salad (100), 75g
+* Quest Bar (190) + Milk/Coffee (80), 27g
+* Yogurt (190), 18g
+
+Exercise: Cardio
+* Embarcadero Run: 10K, ~10:00/mi
+
+Notes:
+* 6mg melatonin, slept poorly, mind too active
+* Ended up falling asleep around 3:30am, had some crazy dreams
+* Snoozed alaram twice until 7:45am
+* Decent run, did pimsleur while running, worked out well
+* Not productive on shuttle, spent too much time on groups
+* Semi-productive at work, no code, lots of meetings, but good context
+* Very productive on shuttle to Russian
+* Good class, was definitely feeling tired towards end, felt like I pushed well
+* Overall good day
+
 ### Day 224 (Wednesday): 09/21/16
 Weight: 158.0lb
 

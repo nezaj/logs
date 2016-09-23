@@ -10,6 +10,15 @@ Mantra:
 Notes:
 *
 
+### Day 80 (Thursday): 09/22/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 79 (Wednesday): 09/21/16 (Clean)
 Mantra:
 * Woke up Early   : Y
