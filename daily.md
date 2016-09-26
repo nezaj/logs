@@ -10,15 +10,28 @@ Mantra:
 Notes:
 *
 
+## Week Review: 09/19/16 - 09/25/16
+**Stats**
+```
+* Cleans          : 3/7
+* Woke up Early   : 5/5
+* Solid Exercise  : 4/7
+* Under 2000      : 4/7
+* Did Good Work   : 5/5
+```
+
 ### Day 83 (Sunday): 09/25/16 (Clean)
 Mantra:
 * Solid Exercise  : Y
 * Under 2000      : Y
 
-### Day 82 (Saturday): 09/24/16 (Clean)
+### Day 82 (Saturday): 09/24/16
 Mantra:
-* Solid Exercise  : Y
+* Solid Exercise  : N
 * Under 2000      : Y
+
+Notes:
+* Missed workout due to move-in
 
 ### Day 81 (Friday): 09/23/16
 Mantra:

@@ -24,6 +24,90 @@ Exercise:
 Notes:
 *
 
+
+## Week Review: 09/19/16 - 09/25/16
+**Stats**
+```
+* Diet:         ~2106
+* Weight:       153.4lb (Mon) -> 158.0lb (Wed)
+* Lift:         ||
+* Abs:
+* Jiu-Jitsu:    |||
+* Cardio:       ||
+* Rest:         ||
+
+Foods: 33 unique, 73 total, 14740 calories
+* Chicken Tenders : 2  (1730),  11.7%,   11.7%
+* Quest Bar       : 9  (1710),  11.6%,   23.3%
+* Chicken         : 3  (1060),   7.2%,   30.5%
+* Cookies         : 3   (990),   6.7%,   37.2%
+* Yogurt          : 6   (940),   6.4%,   43.6%
+* Candy           : 2   (700),   4.7%,   48.4%
+* Turkey Jerky    : 3   (480),   3.3%,   51.6%
+* Avocado         : 2   (450),   3.1%,   54.7%
+* Veggies         : 4   (400),   2.7%,   57.4%
+* Apple           : 5   (400),   2.7%,   60.1%
+* Bread           : 1   (400),   2.7%,   62.8%
+* Bruschetta      : 1   (400),   2.7%,   65.5%
+* Dried Fruit     : 3   (380),   2.6%,   68.1%
+* Steak           : 1   (380),   2.6%,   70.7%
+* Protein Powder  : 3   (360),   2.4%,   73.1%
+* Nuts            : 1   (350),   2.4%,   75.5%
+* Sandwhiches     : 1   (350),   2.4%,   77.9%
+* Granola         : 1   (300),   2.0%,   79.9%
+* Rice Cakes      : 1   (300),   2.0%,   82.0%
+* Roast Beef      : 2   (300),   2.0%,   84.0%
+* Bacon           : 1   (280),   1.9%,   85.9%
+* Milk            : 4   (280),   1.9%,   87.8%
+* Twix            : 1   (250),   1.7%,   89.5%
+* Banana          : 2   (200),   1.4%,   90.8%
+* Carrots         : 3   (200),   1.4%,   92.2%
+* Cashews         : 1   (200),   1.4%,   93.6%
+* Fruits          : 1   (200),   1.4%,   94.9%
+* Turkey          : 1   (200),   1.4%,   96.3%
+* Wine            : 1   (150),   1.0%,   97.3%
+* Berries         : 1   (120),   0.8%,   98.1%
+* Pastries        : 1   (120),   0.8%,   98.9%
+* Salad           : 1   (100),   0.7%,   99.6%
+* Rice Cake       : 1    (60),   0.4%,  100.0%
+```
+**Overall**
+* Another mixed week
+* Jiu-Jitsu was great this week, really happy about that
+* Feeling good about lifting rhythm too, getting it back after last week
+* Also very happy about work productivity
+* Socially, things were great as well
+* However, was unsatisfied with my fitness challenege performance
+* Zig-zagging of calories definitely took a toll mentally
+* Gotta keep clean to have a great week
+
+**Fitness Challenge**
+* Overall poor week for fitness challenege
+* My calories were all over the place, too much zig-zagging
+* Previous Sunday fast hurt me, used up a lot of willpower
+* Ended up overdoing on sungar throughout the week
+* FElt myself craving binging on the weekend too, was lucky to keep it at bay
+* Main way I did that was by just being social and hanging with others
+* Got back into lifting though after missing some days last week, feeling good
+* Jiu-Jitsu was amazing this week, my game is improving a lot
+
+**Work**
+* Another very productive week
+* Worked hard again, pushed myself, felt good
+* However, not happy I stayed up late one night and missed morning workouts
+* ALso felt like losing steam towards end of week, gotta keep good balance
+* Excited to be starting new project this week
+
+**Personal**
+* Another great week socially
+* Only downer was my personal dis-satisfaction with fitness challenege
+* Noticed I'm wasting a bunch of time sporadically, something to keey an eye on
+* Otherwise met bunch of friends, family, and moved into my new apartment
+
+**Takeaways**
+* -> Remember, I can't compete if I don't make weight!
+* -> Keep up momentum with work
+
 ### Day 228 (Sunday): 09/25/16
 Diet: 1380, 50g
 * Apple (80) + Berries (120)
@@ -70,9 +154,9 @@ Diet: 3490, 277g
 * Quest Bar (190), 20g
 * Carrots (100)
 * Apple (80) + Yogurt (120) + Wine (150), 22g
-* Twix (250) + Tenders (880), 80g
+* Twix (250) + Chicken Tenders (880), 80g
 
-Exercise: Lift
+Exercise: Lift, Jiu-Jitsu
 * Crazy 8s: 3x80x8/9/8 (Clean)
 * Squats: 4x185x5 (Light, was taking it easy)
 * Bench: 5185x5/5/5/4/5 (Ugly towards end, repeat!)
@@ -230,7 +314,7 @@ Foods: 27 unique, 62 total, 13505 calories
 * Bit of a mixed week
 * Coming back from Vegas definitely took me some time to recover
 * Solid w/ Jiu-Jitsu but skipped most morning workouts
-* Productive work week, pushed myself a chose a new team!
+* Productive work week, pushed myself and chose a new team!
 * Pushed myself with fitness challenge after binge, definitely feeling proud
 
 **Fitness Challenge**
