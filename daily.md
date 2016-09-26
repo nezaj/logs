@@ -10,6 +10,26 @@ Mantra:
 Notes:
 *
 
+### Day 83 (Sunday): 09/25/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+### Day 82 (Saturday): 09/24/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+### Day 81 (Friday): 09/23/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Ended up binging late night after some greens
+
 ### Day 80 (Thursday): 09/22/16 (Clean)
 Mantra:
 * Woke up Early   : Y

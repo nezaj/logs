@@ -24,6 +24,72 @@ Exercise:
 Notes:
 *
 
+### Day 228 (Sunday): 09/25/16
+Diet: 1380, 50g
+* Apple (80) + Berries (120)
+* Steak (380) + Veggies (200) + Bread (400), 50g
+* 2 Banana (200)
+
+Exercise: Cardio
+* Embarcadero Run: 10k, 9:26/mi
+
+Notes:
+* Feeling Zen in the morning, good thing calories were lower previous day
+* Good morning Shisha session with Alex
+* Fun Russian session with Gma
+* Yummy family lunch
+* Another chill evening session with Stepan and Sep
+* Overall good and relaxing day
+
+### Day 227 (Saturday): 09/24/16
+Diet: 1850, 55g
+* Granola (300) + Yogurt (200) + Fruits (200), 25g
+* Carrots (50)
+* Sandwhiches (350) + Nuts (350) + Bruschetta (400), 30g
+
+Exercise: Rest Day
+
+Notes:
+* Woke up feeling groggy, otherwise slept great
+* Spent the whole day moving-in, was pretty exhausting
+* Was good to chill though with Stepan and Sep
+* Fun evening chilling with Danya
+* Definitely had some hunger pains again, but rode through it and felt great
+* Exhausting day, but was very fun
+
+### Day 226 (Friday): 09/23/16
+Weight: 155.6lb
+
+Diet: 3490, 277g
+* Protein Powder (120) + Yogurt (120), 47g
+* Pastries (120)
+* Quest Bar (190), 20g
+* Chicken (360) + Roast Beef (100) + Veggies (100), 70g
+* Turkey Jerky (180), 33g
+* Cookies (350) + Milk/Coffee (80), 7g
+* Quest Bar (190), 20g
+* Carrots (100)
+* Apple (80) + Yogurt (120) + Wine (150), 22g
+* Twix (250) + Tenders (880), 80g
+
+Exercise: Lift
+* Crazy 8s: 3x80x8/9/8 (Clean)
+* Squats: 4x185x5 (Light, was taking it easy)
+* Bench: 5185x5/5/5/4/5 (Ugly towards end, repeat!)
+
+Notes:
+* 6mg melatonin, great sleep. Was really tired already though
+* Woke up groggy though, lately thinking I should stop melatonin
+* It does give deeper sleep, but at expense of sluggish morning
+* I think I don't need it as much lately
+* Solid lift, felt good control
+* Productive morning at work
+* Slowing down a bit around afternoon though, will pick up!
+* FInished day strong
+* Solid Jiu-Jitsu session
+* Celebrated move w/ Friday night
+* Ended up binging after some greens
+
 ### Day 225 (Thursday): 09/22/16
 Weight: 156.0lb
 
@@ -77,7 +143,7 @@ Weight: 155.4lb
 Diet: 2910, 253g
 * Quest Bar (190), 20g
 * Bacon (280) + Turkey (200) + Avocado (200) + Veggies (50), 80g
-* Quest Bar (190) + 2 Cookie (240), 20g
+* Quest Bar (190) + Cookies (240), 20g
 * Turkey Jerky (180), 33g
 * Carrots (50)
 * Quest Bar (190), 20g
