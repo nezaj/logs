@@ -25,6 +25,26 @@ Notes:
 *
 
 
+### Day 229 (Monday): 09/26/16
+Diet: 1945, 134g
+* Avocado (300) + Oatmeal (150) + Strawberries (75), 10g
+* Quest Bar (190) + Milk/Coffe (80), 27g
+* 2 Chicken (480) + Avocado (300) + Veggies (100), 70g
+* Quest Bar (190) + Milk/Coffee (80), 27g
+
+Exercise: Lift, Jiu-Jitsu
+* Pull-ups 16-20: Day 8 (Clean)
+* OH Press: 5x115x5 (Ugly, transition to RPT)
+
+Notes:
+* Woke up early and feeling good
+* Room is still a mess, ended up leaving for gym late, got a quicker workout in
+* Productive shuttle ride, updated logs from weekend and did review
+* Very productive till about 3:30pm, block by SEV and feeling tired
+* Solid Jiu-Jitsu session
+* Productive evening, unloaded clothes and set-up desk
+* Went to bed late though
+
 ## Week Review: 09/19/16 - 09/25/16
 **Stats**
 ```

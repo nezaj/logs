@@ -10,6 +10,13 @@ Mantra:
 Notes:
 *
 
+### Day 83 (Monday): 09/26/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
 ## Week Review: 09/19/16 - 09/25/16
 **Stats**
 ```
