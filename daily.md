@@ -10,6 +10,17 @@ Mantra:
 Notes:
 *
 
+### Day 84 (Tuesday): 09/27/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Binged on sugar again, I'm thinking might be good to re-introduce it
+* Need to think about this more though
+
 ### Day 83 (Monday): 09/26/16 (Clean)
 Mantra:
 * Woke up Early   : Y

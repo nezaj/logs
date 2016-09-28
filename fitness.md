@@ -25,7 +25,32 @@ Notes:
 *
 
 
+### Day 230 (Tuesday): 09/27/16
+Weight: 153.6lb
+
+Diet: 3420, 129g
+* Quest Bar (190) + Banana (100) + Milk/Coffee (80), 27g
+* Yogurt (190), 18g
+* Chicken (480) + Avocado (300) + Veggies (100), 70g
+* Madeline (100) + Ice Cream (250) + Cookie (200)
+* Bacon (150) + Candy (240) + Milk (80), 7g
+* 4 Cookies (480) + 4 Waffles (400) + Milk (80), 7g
+
+Exercise: Cardio
+* Embarcadero Run: 10K
+
+Notes:
+* Woke up early, not super sleepy even though went to bed late
+* Decided to do evening run today after dinner, finished chores in morning
+* Chill bus ride talking with Jacky
+* Productive day, got login flow working by EOD for both iOS and Android
+* Binged on sugar though, really wanted some and didn't stop myself
+* Oddly enough, I felt like it might be a good thing? Not sure yet..
+* Solid evening run
+
 ### Day 229 (Monday): 09/26/16
+Weight: 155.0lb
+
 Diet: 1945, 134g
 * Avocado (300) + Oatmeal (150) + Strawberries (75), 10g
 * Quest Bar (190) + Milk/Coffe (80), 27g
