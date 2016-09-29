@@ -13,16 +13,23 @@ Goal Weigh-Ins:
 Perfect Week:
 * Weigh myself 7x/week (morning)
 * Eat <=1900 calories 5x/week
-* Do not eat more than 2400 calories on any given day
+* Average <= 1900 calories/week
 * Exercise daily
 * Jiu-Jitsu 3x/week, bearing no sickness / serious events
 
 Acceptable Week:
 * Weigh myself 5x/week (morning)
 * Eat <=1900 calories 5x/week
-* Do not eat more than 2400 calories on any given day
+* Average <= 2100 calories/week
 * Exercise 6/7 days of week
 * Jiu-Jitsu 2x/week, bearing no sickness
+
+Weekday Diet: 1800
+* 10:00am: Protein Snack (200) + Fruit (100)
+* 12:00pm: Lunch (800)
+* 2:00pm: Protein Snack (200) + Fruit (100)
+* 3:30pm: Protein Snack (200) + Fruit (100)
+* 5:00pm: Carrots (100)
 
 Lifts:
 * Crazy 8s: 3x85x8
