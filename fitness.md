@@ -25,6 +25,28 @@ Notes:
 *
 
 
+### Day 231 (Wednesday): 09/28/16
+Weight: 154.4lb
+
+Diet: 490, 85g
+* Protein Powder (120), 25g
+* Yogurt (200) + Carrots (50), 35g
+* Protein Powder (120), 25g
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 3x80x9/9/9 (Clean)
+* Deadlift: 5x225x5 (Clean, hand still injured, but decent)
+* Bench: 5185x5 (Better, begin RPT)
+
+Notes:
+* Woke up early, snoozed a bit but feeling good
+* Decided to WFH, productive morning, hunting bugs
+* Solid lift in the afternoon
+* Decent productivity after lift
+* Solid Jiu-Jitsu session
+* Banged out some Russian HW in the evening
+* Overall, good day
+
 ### Day 230 (Tuesday): 09/27/16
 Weight: 153.6lb
 
@@ -47,6 +69,7 @@ Notes:
 * Binged on sugar though, really wanted some and didn't stop myself
 * Oddly enough, I felt like it might be a good thing? Not sure yet..
 * Solid evening run
+* Unloaded more things in the evening for the apartment
 
 ### Day 229 (Monday): 09/26/16
 Weight: 155.0lb
@@ -69,6 +92,7 @@ Notes:
 * Solid Jiu-Jitsu session
 * Productive evening, unloaded clothes and set-up desk
 * Went to bed late though
+* Overall, good day
 
 ## Week Review: 09/19/16 - 09/25/16
 **Stats**

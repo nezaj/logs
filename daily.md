@@ -10,7 +10,14 @@ Mantra:
 Notes:
 *
 
-### Day 84 (Tuesday): 09/27/16 (Clean)
+### Day 85 (Wednesday): 09/28/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+### Day 84 (Tuesday): 09/27/16
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
