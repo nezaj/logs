@@ -25,6 +25,30 @@ Notes:
 *
 
 
+### Day 232 (Thursday): 09/29/16
+Weight: 152.6lb (First Milestone!)
+
+Diet: 1540, 148g
+* Mandarins (100) + Protein Powder (120), 25g
+* Turkey (300) + Roast Beef (100) + Croissant (200) + Dried Fruit (150), 70g
+* Veggies (100)
+* Quest Bar (190) + Banana (100), 20g
+* Turkey Jerky (180), 33g
+
+Exercise: Cardio
+* Embaracdero Run: 5K
+
+Notes:
+* Woke up early, snoozed for ~30min
+* Decided to go to work later, did some more Russian HW in morning
+* Okay morning run, was definitely feeling lower energy, did half
+* Glad I went out and ran though, kinda didn't want to, good at I did anyway
+* Semi-productive day. Finished messenger integration, tooled my dotfiles
+* Finished productive, put up diff for automation, pinged oncalls
+* Solid Russian class, was feeling tired but still absorbed a bunch
+* Chill evening catching up with friends
+* Overall good day
+
 ### Day 231 (Wednesday): 09/28/16
 Weight: 154.4lb
 
@@ -40,6 +64,7 @@ Exercise: Lift, Jiu-Jitsu
 
 Notes:
 * Woke up early, snoozed a bit but feeling good
+* Keeping calories low today to make up for previous day
 * Decided to WFH, productive morning, hunting bugs
 * Solid lift in the afternoon
 * Decent productivity after lift

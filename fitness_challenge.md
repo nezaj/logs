@@ -24,11 +24,11 @@ Acceptable Week:
 * Exercise 6/7 days of week
 * Jiu-Jitsu 2x/week, bearing no sickness
 
-Weekday Diet: 1800
-* 10:00am: Protein Snack (200) + Fruit (100)
-* 12:00pm: Lunch (800)
-* 2:00pm: Protein Snack (200) + Fruit (100)
-* 3:30pm: Protein Snack (200) + Fruit (100)
+Weekday Diet: 1800, 140g
+* 10:00am: Protein Snack (200) + Fruit (100), 20g
+* 12:00pm: Lunch (800), 70g
+* 2:00pm: Protein Snack (200) + Fruit (100), 30g
+* 3:30pm: Protein Snack (200) + Fruit (100), 20g
 * 5:00pm: Carrots (100)
 
 Lifts:
