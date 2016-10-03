@@ -24,6 +24,87 @@ Exercise:
 Notes:
 *
 
+## Week Review: 09/26/16 - 10/02/16
+**Stats**
+```
+* Diet:         ~2339, 115g
+* Weight:       152.6lb (Thu) -> 155.0lb (Mon)
+* Lift:         ||
+* Abs:
+* Jiu-Jitsu:    |||
+* Cardio:       ||||
+* Rest:
+
+Foods: 30 unique, 70 total, 16375 calories
+* Crap           : 1  (4000),  24.4%,   24.4%
+* Quest Bar      : 6  (1140),   7.0%,   31.4%
+* Ice Cream      : 2  (1000),   6.1%,   37.5%
+* Chicken        : 3   (960),   5.9%,   43.4%
+* Avocado        : 3   (900),   5.5%,   48.9%
+* Yogurt         : 4   (780),   4.8%,   53.6%
+* Protein Powder : 6   (720),   4.4%,   58.0%
+* Healthy food   : 1   (700),   4.3%,   62.3%
+* Turkey         : 2   (700),   4.3%,   66.6%
+* Flaxseed       : 3   (600),   3.7%,   70.2%
+* Cookies        : 4   (480),   2.9%,   73.2%
+* Bacon          : 2   (450),   2.7%,   75.9%
+* Waffles        : 4   (400),   2.4%,   78.4%
+* Veggies        : 4   (400),   2.4%,   80.8%
+* Milk           : 5   (400),   2.4%,   83.2%
+* Turkey Jerky   : 2   (360),   2.2%,   85.4%
+* Cookie         : 2   (320),   2.0%,   87.4%
+* Candy          : 1   (240),   1.5%,   88.9%
+* Twix           : 1   (240),   1.5%,   90.3%
+* Croissant      : 1   (200),   1.2%,   91.5%
+* Banana         : 2   (200),   1.2%,   92.8%
+* PB Bar         : 1   (200),   1.2%,   94.0%
+* Apple          : 2   (160),   1.0%,   95.0%
+* Carrots        : 2   (150),   0.9%,   95.9%
+* Dried Fruit    : 1   (150),   0.9%,   96.8%
+* Oatmeal        : 1   (150),   0.9%,   97.7%
+* Madeline       : 1   (100),   0.6%,   98.3%
+* Mandarins      : 1   (100),   0.6%,   98.9%
+* Roast Beef     : 1   (100),   0.6%,   99.5%
+* Strawberries   : 1    (75),   0.5%,  100.0%
+```
+**Overall**
+* Mixed week again entirely due to diet. Everything else was great
+* Weekdays were good, but was definitely getting tired
+* Ended up vegging for most of the weekend, I needed to recover
+* Fitness was off, zig-zagging of calories was no good
+* Jiu-Jitsu was solid again, tournament game is improving well
+* Work was also solid again, lots of productivity, keep pushing!
+* Social was again good, saw lots of friends
+
+**Fitness Challenge**
+* Overall another failure week for the fitness challenge
+* I binged three times this week, all preceded/followed by "fasts"
+* Zig-zagging of calories took heavier toll on me this week
+* Impacted my energy levels and workouts
+* Was unable to lift/run as hard this week
+* The key is to keep those calories steady
+* Furthermore, average calories this week is too high.
+* ~1900 is the goal for next three weeks to make weight
+
+**Work**
+* Very good week at work
+* Pretty much completed all infra related to setting up standalone app
+* Completed messenger integration
+* Noticed was losing steam though towards end of week, gotta keep pushing
+* Worked a bit on the weekend (not super happy about that) but made good progress
+
+**Personal**
+* Another very social week
+* Saw lots of groups of friends which felt great
+* Pushed hard on Russian HW and finished it all
+* Feel like I was a bit better on not wasting time, should stay vigilant
+* Starting to feel like I need to actively invest time in meeting women
+
+**Takeaways**
+* Zig-zagging of calories is not sustainable, hurts performance and energy
+* Keep calories consistent, make weight for tournament
+* Keep pushing hard at work
+* Start doing Abs first thing in the gym, haven't done them in ages
 
 ### Day 235 (Sunday): 10/02/16
 Weight: 153.6lb
@@ -101,7 +182,7 @@ Notes:
 * Woke up early, snoozed for ~30min
 * Decided to go to work later, did some more Russian HW in morning
 * Okay morning run, was definitely feeling lower energy, did half
-* Glad I went out and ran though, kinda didn't want to, good at I did anyway
+* Glad I went out and ran though, kinda didn't want to, glad I did anyway
 * Semi-productive day. Finished messenger integration, tooled my dotfiles
 * Finished productive, put up diff for automation, pinged oncalls
 * Solid Russian class, was feeling tired but still absorbed a bunch
@@ -238,8 +319,8 @@ Foods: 33 unique, 73 total, 14740 calories
 * Overall poor week for fitness challenege
 * My calories were all over the place, too much zig-zagging
 * Previous Sunday fast hurt me, used up a lot of willpower
-* Ended up overdoing on sungar throughout the week
-* FElt myself craving binging on the weekend too, was lucky to keep it at bay
+* Ended up overdoing on sugar throughout the week
+* Felt myself craving binging on the weekend too, was lucky to keep it at bay
 * Main way I did that was by just being social and hanging with others
 * Got back into lifting though after missing some days last week, feeling good
 * Jiu-Jitsu was amazing this week, my game is improving a lot
@@ -248,7 +329,7 @@ Foods: 33 unique, 73 total, 14740 calories
 * Another very productive week
 * Worked hard again, pushed myself, felt good
 * However, not happy I stayed up late one night and missed morning workouts
-* ALso felt like losing steam towards end of week, gotta keep good balance
+* Also felt like losing steam towards end of week, gotta keep good balance
 * Excited to be starting new project this week
 
 **Personal**

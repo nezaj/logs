@@ -7,6 +7,15 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+## Week Review: 09/26/16 - 10/02/16
+**Stats**
+```
+* Cleans          : 4/7
+* Woke up Early   : 5/5
+* Solid Exercise  : 6/7
+* Under 2000      : 4/7
+* Did Good Work   : 5/5
+```
 
 ### Day 89 (Sunday): 10/02/16 (Clean)
 Mantra:
