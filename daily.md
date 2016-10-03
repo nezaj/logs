@@ -49,12 +49,16 @@ Mantra:
 * Did Good Work   : Y
 * Under 2000      : Y
 
+Notes:
+
 ### Day 85 (Wednesday): 09/28/16 (Clean)
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
 * Did Good Work   : Y
 * Under 2000      : Y
+
+Notes:
 
 ### Day 84 (Tuesday): 09/27/16
 Mantra:
@@ -74,6 +78,8 @@ Mantra:
 * Did Good Work   : Y
 * Under 2000      : Y
 
+Notes:
+
 ## Week Review: 09/19/16 - 09/25/16
 **Stats**
 ```
@@ -88,6 +94,8 @@ Mantra:
 Mantra:
 * Solid Exercise  : Y
 * Under 2000      : Y
+
+Notes:
 
 ### Day 82 (Saturday): 09/24/16
 Mantra:
@@ -251,6 +259,8 @@ Notes:
 Mantra:
 * Solid Exercise  : Y
 * Under 2000      : Y
+
+Notes:
 
 ## Week Review: 08/29/16 - 09/04/16
 **Stats**
