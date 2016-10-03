@@ -1,4 +1,6 @@
 ## Daily Mantra Log
+Notes to self:
+* Don't forget to include "Notes:" for clean days for parseMantra
 
 ### Day
 Mantra:
@@ -21,6 +23,8 @@ Mantra:
 Mantra:
 * Solid Exercise  : Y
 * Under 2000      : Y
+
+Notes:
 
 ### Day 88 (Saturday): 10/01/16
 Mantra:
