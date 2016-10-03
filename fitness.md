@@ -25,15 +25,74 @@ Notes:
 *
 
 
+### Day 235 (Sunday): 10/02/16
+Weight: 153.6lb
+
+Diet: 1160, 117g
+* Yogurt (200) + Protein Powder (120), 43g
+* Flaxseed (200), 8g
+* Flaxseed (200) + Protein Powder (120), 33g
+* Flaxseed (200) + Protein Powder (120), 33g
+
+Exercise: Cardio
+* Embarcadero Run: 10mi
+
+Notes:
+* Solid morning run
+* Lazy afternoon, got a solid nap in
+* Watched Zootopia with Sep, very cute movie
+* Productive evening coding session
+
+### Day 234 (Saturday): 10/01/16
+Weight: 153.7lb
+
+Diet: 4700
+* Healthy food (700)
+* Crap (4000)
+
+Exercise: Cardio
+* Embarcadero Run: 5K
+
+Notes:
+* Fun morning, Stepan leaving and had lots of guests
+* Chill run / arcade session with Sep
+* Binged hard at friend's party in the evening
+* Chill evening hanging with Jacky and Sep
+
+### Day 233 (Friday): 09/30/16
+Weight: 153.4lb
+
+Diet: 2940, 186g
+* Quest Bar (190) + Apple (80), 20g
+* Turkey (400) + Bacon (300) + Veggies (100), 85g
+* Twix (240)
+* Turkey Jerky (180), 33g
+* Yogurt (190), 18g
+* Quest Bar (190), 20g
+* Cookie (120) + PB Bar (200), 10g
+* Ice Cream (750)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up early, but felt really tired so snoozed for 1hr
+* Low energy, decided to skip morning workout and set up scale instead
+* Chill bus ride, became productive very quickly
+* Solid morning working session
+* Decent productivity
+* Was feeling hungry all day, gave in towards the end
+* Solid Jiu-Jitsu session
+
 ### Day 232 (Thursday): 09/29/16
 Weight: 152.6lb (First Milestone!)
 
-Diet: 1540, 148g
+Diet: 1720, 148g
 * Mandarins (100) + Protein Powder (120), 25g
 * Turkey (300) + Roast Beef (100) + Croissant (200) + Dried Fruit (150), 70g
 * Veggies (100)
 * Quest Bar (190) + Banana (100), 20g
 * Turkey Jerky (180), 33g
+* Apple (80) + Carrots (100)
 
 Exercise: Cardio
 * Embaracdero Run: 5K

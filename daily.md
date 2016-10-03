@@ -7,8 +7,31 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+
+### Day 89 (Sunday): 10/02/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+### Day 88 (Saturday): 10/01/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
 Notes:
-*
+* Binged hard at Vi's party
+
+### Day 87 (Friday): 09/30/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Binged on sugar again, felt physically bad after
+* Makes me think re-introducing sugar is not good idea
+* Need to stay strong and break sugar habit again
 
 ### Day 86 (Thursday): 09/29/16 (Clean)
 Mantra:
