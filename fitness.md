@@ -24,6 +24,24 @@ Exercise:
 Notes:
 *
 
+### Day 236 (Monday): 10/03/16
+Weight: 153.4lb
+
+Diet: 1360, 108g
+* Yogurt (190) + Apple (80), 18g
+* Chicken (400) + Avocado (300) + Veggies (100), 70g
+* Quest Bar (190) + Banana (100), 20g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up early, snoozed for 1:30 though, was pretty tired
+* Skipped morning workout since short on time
+* Updated logs / weekly review on shuttle ride
+* Productive day, put up two diffs, got basic ListView up
+* Solid Jiu-Jitsu session
+* Feeling a bit anxious in the evening with CMB, gotta re-focus
+
 ## Week Review: 09/26/16 - 10/02/16
 **Stats**
 ```

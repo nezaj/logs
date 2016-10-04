@@ -9,6 +9,16 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 90 (Monday): 10/03/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Woke up late and skipped morning workout
+
 ## Week Review: 09/26/16 - 10/02/16
 **Stats**
 ```
