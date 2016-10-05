@@ -24,13 +24,37 @@ Exercise:
 Notes:
 *
 
+### Day 237 (Tuesday): 10/04/16
+Weight: 154.0lb
+
+Diet: 1730, 128g
+* Yogurt (190) + Apple (80), 18g
+* Turkey (400) + Pretzel (300) + Veggies (100), 70g
+* Quest Bar (190) + Banana (100), 20g
+* Quest Bar (190) + Carrots (100), 20g
+* Apple (80)
+
+Exercise: Rest Day
+
+Notes:
+* Slept poorly last night despite taking 6mg melatonin
+* Woke up early but snoozed for an 1:30 again
+* Skipped morning workout again
+* Chill shuttle ride, caught up a bit with Jacky
+* Decent productive day, fixed automation bug and started exploring RN navigation
+* Chill family evening
+* Felt way less anxious in evening, remembered how lucky/exciting to be in SF
+* Went to bed with a great attitude, day ended well
+
 ### Day 236 (Monday): 10/03/16
 Weight: 153.4lb
 
-Diet: 1360, 108g
+Diet: 1740, 141g
 * Yogurt (190) + Apple (80), 18g
 * Chicken (400) + Avocado (300) + Veggies (100), 70g
 * Quest Bar (190) + Banana (100), 20g
+* Turkey Jerky (180) + Banana (100), 33g
+* Carrots (100)
 
 Exercise: Jiu-Jitsu
 
