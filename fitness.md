@@ -24,6 +24,30 @@ Exercise:
 Notes:
 *
 
+### Day 238 (Wednesday): 10/05/16
+Weight: 153.4lb
+
+Diet: 2060, 171g
+* Yogurt (190) + Apple (80), 18g
+* Chicken (400) + Avocado (300) + Bacon (150) + Veggies (50), 80g
+* Quest Bar (190) + Banana (100), 20g
+* Turkey Jerky (180) + Apple (80), 33g
+* Quest Bar (190), 20g
+* Fruit (150)
+
+Exercise: Cardio
+* Embarcadero Run: 5K
+
+Notes:
+* Hard time falling asleep again, but slept well. Took 6mg melatonin and ZMA
+* Fun and easy morning group run
+* Chill shuttle ride chatting with Jacky
+* Producitive day, ended up over-working though
+* Purposefully took day off from Jiu-Jitsu, slight twinge in shoulder
+* Worked more in the evening, got things done
+* Was busy with project thoughts at night, be careful to not overdo it
+* Overall okay day, pushed hard and felt exhausted
+
 ### Day 237 (Tuesday): 10/04/16
 Weight: 154.0lb
 

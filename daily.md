@@ -9,6 +9,17 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 92 (Wednesday): 10/05/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Ate slightly over, definitely wanted more sugar
+* One thing that helped was subbing a fake sugar Red Bull
+
 ### Day 91 (Tuesday): 10/04/16
 Mantra:
 * Woke up Early   : Y
