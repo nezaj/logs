@@ -9,6 +9,17 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 93 (Thursday): 10/06/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Snoozed alarm again, no bueno
+* Brian visited me on campus, I over-indulged on sugar
+
 ### Day 92 (Wednesday): 10/05/16
 Mantra:
 * Woke up Early   : Y

@@ -24,6 +24,32 @@ Exercise:
 Notes:
 *
 
+### Day 239 (Thursday): 10/06/16
+Weight: 153.4lb
+
+Diet: 2435, 108g
+* Yogurt (190) + Apple (80), 18g
+* Chicken (400) + Bacon (75) + Plantains (300), 70g
+* Ice Cream (250) + Cookies (400)
+* Carrots (50) + Quest Bar (190), 20g
+* 2 Toblerone (500)
+
+Exercise: Cardio
+* Stairmaster: 25min
+
+Notes:
+* Woke up at 6:15 but snoozed for 1:30, this has happened a lot now
+* -> Goal for next week, do not snooze, get up on time
+* Not enough time to lift again, managed to squeeze in a stairmaster
+* Feeling excited for the day, put on my orange pants
+* Productive day
+* Bryan came for a visit, was fun but had a little work snafu
+* Ended up snacking on sugar and then went overboard
+* Solid Russian class
+* Worked late in the evening
+* Worked a lot today, been pushing hard this week, might be too much
+* Feeling okay today, definitely overworked
+
 ### Day 238 (Wednesday): 10/05/16
 Weight: 153.4lb
 
