@@ -25,10 +25,33 @@ Notes:
 *
 
 
+### Day 241 (Saturday): 10/08/16
+Weight: 151.4lb (2nd Milestone!)
+
+Diet: 1150, 35g
+* Yogurt (200) + Granola (400), 20g
+* Truffles (150)
+* Salami (50)
+* Chicken (100) + Beef (50), 15g
+* Flaxseed (200)
+
+Exercise: Cardio
+* Skateboard: 7.6mi, 1 hr
+
+Notes:
+* Caught up with Stepan in the AM
+* Skated 7.6mi in the morning
+* Fun brunch + chill session with Jiu-Jitsu crew
+* Fun Dolores park and zombie run adventure
+* Got some truffle time, did a great job of controlling munchies
+* Great live show by Adam K and Soha
+* Stomach pain late at night, way too low cals, snacked a bit and felt great
+* Overall action packed day
+
 ### Day 240 (Friday): 10/07/16
 Weight: 153.2lb
 
-Diet: 2585
+Diet: 2585, 90g
 * Carrots (100)
 * Chicken (400) + Avocado (300) + Veggies (100) + Bacn (225), 70g
 * Quest Bar (190), 20g
