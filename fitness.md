@@ -24,14 +24,41 @@ Exercise:
 Notes:
 *
 
+
+### Day 240 (Friday): 10/07/16
+Weight: 153.2lb
+
+Diet: 2585
+* Carrots (100)
+* Chicken (400) + Avocado (300) + Veggies (100) + Bacn (225), 70g
+* Quest Bar (190), 20g
+* Candy (320) + Ice Cream (250) + Bacon (100)
+* Waffles (200) + Candy (150) + Pizza (250)
+
+Exercise: Cardio, Jiu-Jitsu
+* Stairmaster: 30min
+
+Notes:
+* Woke up 6:30 but snoozed again
+* Managed to squeeze in another stairmaster
+* Took later shuttle today, decided to do some morning chores
+* Productive shuttle ride
+* Tried doing a mini-fast today but ended up binging on sugar
+* Had the "fuck it feeling"
+* Mostly productive day, definitely burnt out from week though
+* No more output after 4pm, pretty much maxed out this week
+* Very solid Jiu-Jitsu session, rolled for 3 hours!
+* Great evening chilling with jiu-jitsu crew
+
 ### Day 239 (Thursday): 10/06/16
 Weight: 153.4lb
 
-Diet: 2435, 108g
+Diet: 2615, 108g
 * Yogurt (190) + Apple (80), 18g
 * Chicken (400) + Bacon (75) + Plantains (300), 70g
 * Ice Cream (250) + Cookies (400)
 * Carrots (50) + Quest Bar (190), 20g
+* Waffle (100) + KitKat (80)
 * 2 Toblerone (500)
 
 Exercise: Cardio

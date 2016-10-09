@@ -9,6 +9,17 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 94 (Friday): 10/07/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Snoozed alarm again
+* Tried doing mini-fast but ended up indulging again
+
 ### Day 93 (Thursday): 10/06/16
 Mantra:
 * Woke up Early   : N
