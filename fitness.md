@@ -25,6 +25,20 @@ Notes:
 *
 
 
+### Day 242 (Sunday): 10/09/16
+Weight: 150.2lb
+
+Diet: 1120, 51g
+* Oatmeal (300) + Flaxseed (200), 18g
+* Protein Powder (120), 25g
+* Candy (300) + Flaxseed (200), 8g
+
+Exercise:
+
+Notes:
+* Lazy day, woke up late and bought a bunch of things off amazon
+* Did not get any real chores done, oh well, kinda low energy from previous day
+
 ### Day 241 (Saturday): 10/08/16
 Weight: 151.4lb (2nd Milestone!)
 
