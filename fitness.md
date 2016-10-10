@@ -25,6 +25,91 @@ Notes:
 *
 
 
+## Week Review: 10/03/16 - 10/09/16
+**Stats**
+```
+* Diet:         ~2189, 112g
+* Sugar:        3400, Awful
+* Weight:       150.2lb (Sun) -> 154.0lb (Tue)
+* Lift:
+* Abs:
+* Jiu-Jitsu:    ||
+* Cardio:       ||||
+* Rest:         ||
+
+Foods: 34 unique, 74 total, 15320 calories
+* Chicken        : 5  (1700),  11.1%,   11.1%
+* Quest Bar      : 7  (1330),   8.7%,   19.8%
+* Dark Chocolate : 2  (1000),   6.5%,   26.3%
+* Yogurt         : 5   (960),   6.3%,   32.6%
+* Avocado        : 3   (900),   5.9%,   38.4%
+* Steak          : 1   (800),   5.2%,   43.7%
+* Candy          : 3   (770),   5.0%,   48.7%
+* Flaxseed       : 3   (600),   3.9%,   52.6%
+* Ice Cream      : 2   (500),   3.3%,   55.9%
+* Toblerone      : 2   (500),   3.3%,   59.1%
+* Apple          : 6   (480),   3.1%,   62.3%
+* Banana         : 4   (400),   2.6%,   64.9%
+* Cookies        : 1   (400),   2.6%,   67.5%
+* Granola        : 1   (400),   2.6%,   70.1%
+* Sides          : 1   (400),   2.6%,   72.7%
+* Turkey         : 1   (400),   2.6%,   75.3%
+* Turkey Jerky   : 2   (360),   2.3%,   77.7%
+* Carrots        : 4   (350),   2.3%,   80.0%
+* Veggies        : 4   (350),   2.3%,   82.2%
+* Bacon          : 3   (325),   2.1%,   84.4%
+* Oatmeal        : 1   (300),   2.0%,   86.3%
+* Plantains      : 1   (300),   2.0%,   88.3%
+* Pretzel        : 1   (300),   2.0%,   90.2%
+* Pizza          : 1   (250),   1.6%,   91.9%
+* Bacn           : 1   (225),   1.5%,   93.3%
+* Waffles        : 1   (200),   1.3%,   94.6%
+* Fruit          : 1   (150),   1.0%,   95.6%
+* Truffles       : 1   (150),   1.0%,   96.6%
+* Protein Powder : 1   (120),   0.8%,   97.4%
+* Wine           : 1   (120),   0.8%,   98.2%
+* Waffle         : 1   (100),   0.7%,   98.8%
+* KitKat         : 1    (80),   0.5%,   99.3%
+* Beef           : 1    (50),   0.3%,   99.7%
+* Salami         : 1    (50),   0.3%,  100.0%
+```
+**Overall**
+* Mixed week but mostly good!
+* Due to snoozing and injuries, missed all my lift sessions
+* Calories were not as zig-zagging, overall on the higher end
+* Ate way too much sugar this week
+* Jiu Jitsu is going very well
+* Very productive with work, but may have overdone it.
+* Very social and fun week, especially over the weekend
+* Feeling great on Monday
+
+**Fitness Challenge**
+* Results are mixed
+* On on hand, I missed all my lifts, overdid it on sugar and calories
+* On the other hand, I did a ton of cardio and it looks like it balanced out
+* Dropped as low as 150.2lb on Sunday, on track to make weight
+* Came up with new metric of sugar consumption, idea here is to use gradient
+* Feeling good about the tournament, need to be careful about injury
+
+**Work**
+* Very productive week
+* Deployed iOS mobile outreach
+* Implemented app navigation
+* Stubbed feed and candidate screens
+* Generated roadmap up to alpha release
+* However, worked a bit too much last week, was burnt out by Friday
+* Will tone down hours this week but stay focused on delivering
+
+**Personal**
+* Very social week
+* Hung with family, jiu-jitsu crew, and adventured on weekend
+* Didn't do Russian HW this week but made up for it in class
+* Re-charged during the weekend and feeling motivated for this next week
+
+**Takeaways**
+* Don't work as many hours this week
+* Okay to have some sugar, but don't go beyond gradient. Aim for <1000 this week
+
 ### Day 242 (Sunday): 10/09/16
 Weight: 150.2lb
 

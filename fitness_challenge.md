@@ -57,5 +57,5 @@ Good Week:
 * Okay      : <= 2000
 * Over      : <= 2500
 * Bad       : <= 3000
-* Awful     : <= 4000
-* Binge     : > 4000
+* Awful     : <= 3500
+* Binge     : > 3500
