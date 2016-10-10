@@ -28,16 +28,22 @@ Notes:
 ### Day 242 (Sunday): 10/09/16
 Weight: 150.2lb
 
-Diet: 1120, 51g
+Diet: 3440, 111g
 * Oatmeal (300) + Flaxseed (200), 18g
 * Protein Powder (120), 25g
 * Candy (300) + Flaxseed (200), 8g
+* Wine (120) + Dark Chocolate (200)
+* Steak (800) + Sides (400), 60g
+* Dark Chocolate (800)
 
-Exercise:
+Exercise: Rest day
 
 Notes:
 * Lazy day, woke up late and bought a bunch of things off amazon
 * Did not get any real chores done, oh well, kinda low energy from previous day
+* Bought a ton of stuff
+* Great family dinner at Alexander's Steakhouse
+* Indulged in dark chocolate gift
 
 ### Day 241 (Saturday): 10/08/16
 Weight: 151.4lb (2nd Milestone!)

@@ -11,10 +11,12 @@ Mantra:
 
 ### Day 96 (Sunday): 10/09/16
 Mantra:
-* Solid Exercise  :
-* Under 2000      : Y
+* Solid Exercise  : N
+* Under 2000      : N
 
 Notes:
+* Felt too lazy to exercise
+* Indulged in calories with family today
 
 ### Day 95 (Saturday): 10/08/16 (Clean)
 Mantra:
