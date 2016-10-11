@@ -9,6 +9,16 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 97 (Monday): 10/10/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Binged hard on Nutella at night, literally have no excuse
+
 ## Week Review: 10/03/16 - 10/09/16
 **Stats**
 ```

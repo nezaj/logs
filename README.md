@@ -25,6 +25,21 @@ Notes:
 *
 
 
+### Day 243 (Monday): 10/10/16
+Weight: N/A
+
+Diet:
+* Yogurt (190), 18g
+* Quest Bar (190), 20g
+
+Exercise: Cardio
+* Embarcadero Run: 10k
+
+Notes:
+* Woke up super early, feeling good
+* Amazing run, definitely feeling happy rush from extra chocolate
+* High energy shuttle ride, fun talk with Jacky
+
 ## Week Review: 10/03/16 - 10/09/16
 **Stats**
 ```
