@@ -24,13 +24,43 @@ Exercise:
 Notes:
 *
 
+### Day 244 (Tuesday): 10/11/16
+Weight: N/A
+
+Diet: 3940, 75g
+* Yogurt (190), 18g
+* Candy (320) + Sugar Waffle (100)
+* 2 Cookie (240) + Milk (80), 7g
+* Bacon (350) + Rice (250) + Chicken (250) + Fruit (150), 50g
+* Cheese (200) + Ice Cream (300)
+* Sugar Waffles (200) + Madeline (100) + Cookie (120)
+* Sugar Waffles (200) + 2 Cookie (240) + Sour Patch (350)
+* Dark Chocolate (400)
+
+Exercise: Cardio
+* Embarcadero Run: 10k
+
+Notes:
+* Woke up super early again, feeling chill and full from previous night
+* Caught up on some team and work stuff in the early morning
+* CHill run
+* Missed shuttle by a bit, decided to just chill and take Lyft instead
+* Productive Lyft ride
+* Productive day at work, definitely feeling more tired though
+* Stayed in the office until around 7:30pm
+* Chill send-off for Sep
+* Had some chocolate last night, ended up throwing the rest out
 
 ### Day 243 (Monday): 10/10/16
 Weight: N/A
 
-Diet:
+Diet: 3980, 78g
 * Yogurt (190), 18g
 * Quest Bar (190), 20g
+* Ribs (200) + Brisket (250) + Mac n Cheese (100) + Cornbread (150), 40g
+* Ice Cream (300)
+* Tofu and Veggies (650)
+* Dark Chocolate (200 + Nutella (1500) + Bread and Hummus (350)
 
 Exercise: Cardio
 * Embarcadero Run: 10k
@@ -39,6 +69,10 @@ Notes:
 * Woke up super early, feeling good
 * Amazing run, definitely feeling happy rush from extra chocolate
 * High energy shuttle ride, fun talk with Jacky
+* Chill lunch with Sep who came from a visit
+* Productive day
+* Chill dinner / evening chilling with Vi
+* Binged hard on Nutella at night, literally have no excuse
 
 ## Week Review: 10/03/16 - 10/09/16
 **Stats**

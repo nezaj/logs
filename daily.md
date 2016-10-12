@@ -9,6 +9,16 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 98 (Tuesday): 10/11/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Fuck-it attitude again today, binged hard
+
 ### Day 97 (Monday): 10/10/16
 Mantra:
 * Woke up Early   : Y
