@@ -24,6 +24,26 @@ Exercise:
 Notes:
 *
 
+### Day 245 (Wednesday): 10/12/16
+Weight: N/A
+
+Diet: 3800, 164g
+* Flaxseed (200) + Turkey Balls (300), 44g
+* Fogo de Chao (2000), 120g
+* BJ Ice Cream (1300)
+
+Exercise: Cardio
+* Stairmaster: 1hr
+
+Notes:
+* Woke up early to see Sep off and then fell asleep
+* Definitely felt full in the morning
+* Pushed hard on stairmaster, made me feel better for sure
+* WFH today, mediocore productivty
+* Very fun evening with Jiu-Jitsu crew to see Sasha off
+* Ended up indulging once more in ice cream, I really wanted it
+* I think this is the last one, I'm ready to push for tournament
+
 ### Day 244 (Tuesday): 10/11/16
 Weight: N/A
 
@@ -43,7 +63,7 @@ Exercise: Cardio
 Notes:
 * Woke up super early again, feeling chill and full from previous night
 * Caught up on some team and work stuff in the early morning
-* CHill run
+* Chill run
 * Missed shuttle by a bit, decided to just chill and take Lyft instead
 * Productive Lyft ride
 * Productive day at work, definitely feeling more tired though
@@ -60,7 +80,7 @@ Diet: 3980, 78g
 * Ribs (200) + Brisket (250) + Mac n Cheese (100) + Cornbread (150), 40g
 * Ice Cream (300)
 * Tofu and Veggies (650)
-* Dark Chocolate (200 + Nutella (1500) + Bread and Hummus (350)
+* Dark Chocolate (200) + Nutella (1500) + Bread and Hummus (350)
 
 Exercise: Cardio
 * Embarcadero Run: 10k

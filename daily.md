@@ -9,6 +9,17 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 99 (Wednesday): 10/12/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Fogo de Chao dinner + BJ Ice cream
+* I think this is the last overage before the tournament
+
 ### Day 98 (Tuesday): 10/11/16
 Mantra:
 * Woke up Early   : Y
