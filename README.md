@@ -24,6 +24,24 @@ Exercise:
 Notes:
 *
 
+### Day 246 (Thursday): 10/13/16
+Weight: 155.5lb
+
+Diet: 880, 90g
+* Chicken (300) + Veggies (100) + Fruit (100), 50g
+* Quest Bar (190), 20g
+* Quest Bar (190), 20g
+
+Exercise: Cardio
+* Embarcadero Run: 10k
+
+Notes:
+* Woke up ~7:30am, definitely feeling full from previous day
+* Chill morning run
+* Mediocore productivity in morning
+* Decent productivity, brain is definitely getting fried though
+* Stayed for half of Russian, needed to go home early and sleep
+
 ### Day 245 (Wednesday): 10/12/16
 Weight: N/A
 
