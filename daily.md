@@ -9,6 +9,15 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 101 (Friday): 10/14/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 100 (Thursday): 10/13/16 (Clean)
 Mantra:
 * Woke up Early   : Y

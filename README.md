@@ -24,6 +24,28 @@ Exercise:
 Notes:
 *
 
+### Day 247 (Friday): 10/14/16
+Weight: 154.2lb
+
+Diet: 1680, 151g
+* Yogurt (190), 18g
+* Beef (450) + Mac n Cheese (200) + Bacon (200), 60g
+* Quest Bar (190), 20g
+* Apple (80) + Quest Bar (190), 20g
+* Turkey Jerky (180), 33g
+
+Exercise: Cardio, Jiu-Jitsu
+* Stairmaster: 1 hr
+
+Notes:
+* Slept very well, around 9 hours of solid sleep
+* Great morning stairmaster workout
+* Feeling more relaxed today, will get done whatever I can get done
+* Feeling more productive today, mind is working better
+* Long meeting end of day, but lots of good work was done :)
+* Solid Jiu-Jitsu session
+* Very fun evening chilling with Jiu-Jitsu crew
+
 ### Day 246 (Thursday): 10/13/16
 Weight: 155.5lb
 
