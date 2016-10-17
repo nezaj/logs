@@ -24,6 +24,99 @@ Exercise:
 Notes:
 *
 
+## Week Review: 10/10/16 - 10/16/16
+**Stats**
+```
+* Diet:         ~2510, 110g
+* Sugar:        5870, Binge
+* Weight:       152.8lb (Sat) -> 155.5lb (Wed)
+* Lift:
+* Abs:
+* Jiu-Jitsu:    |
+* Cardio:       |||||||
+* Rest:
+
+Foods: 36 unique, 54 total, 17570 calories
+* Fogo de Chao     : 1  (2000),  11.4%,   11.4%
+* Nutella          : 1  (1500),   8.5%,   19.9%
+* BJ Ice Cream     : 1  (1300),   7.4%,   27.3%
+* Birthday Lunch   : 1  (1000),   5.7%,   33.0%
+* Quest Bar        : 5   (950),   5.4%,   38.4%
+* Hot Pot          : 1   (850),   4.8%,   43.3%
+* Chicken Fajitas  : 1   (800),   4.6%,   47.8%
+* Tofu and Veggies : 1   (650),   3.7%,   51.5%
+* Cookie           : 5   (600),   3.4%,   54.9%
+* Dark Chocolate   : 2   (600),   3.4%,   58.3%
+* Ice Cream        : 2   (600),   3.4%,   61.8%
+* Yogurt           : 3   (570),   3.2%,   65.0%
+* Bacon            : 2   (550),   3.1%,   68.1%
+* Chicken          : 2   (550),   3.1%,   71.3%
+* Beef             : 1   (450),   2.6%,   73.8%
+* Sugar Waffles    : 2   (400),   2.3%,   76.1%
+* Bread and Hummus : 1   (350),   2.0%,   78.1%
+* Sour Patch       : 1   (350),   2.0%,   80.1%
+* Candy            : 1   (320),   1.8%,   81.9%
+* Mac n Cheese     : 2   (300),   1.7%,   83.6%
+* Turkey Balls     : 1   (300),   1.7%,   85.3%
+* Brisket          : 1   (250),   1.4%,   86.7%
+* Fruit            : 2   (250),   1.4%,   88.2%
+* Rice             : 1   (250),   1.4%,   89.6%
+* Protein Powder   : 2   (240),   1.4%,   91.0%
+* Cheese           : 1   (200),   1.1%,   92.1%
+* Chips            : 1   (200),   1.1%,   93.2%
+* Flaxseed         : 1   (200),   1.1%,   94.4%
+* Ribs             : 1   (200),   1.1%,   95.5%
+* Turkey Jerky     : 1   (180),   1.0%,   96.5%
+* Cornbread        : 1   (150),   0.9%,   97.4%
+* Madeline         : 1   (100),   0.6%,   98.0%
+* Sugar Waffle     : 1   (100),   0.6%,   98.5%
+* Veggies          : 1   (100),   0.6%,   99.1%
+* Apple            : 1    (80),   0.5%,   99.5%
+* Milk             : 1    (80),   0.5%,  100.0%
+```
+**Overall**
+* Mixed week, culprits were poor diet and overworking
+* Felt like a very long week
+* Didn't make time for Russian again, will change this
+* Binged in the beginning of the week and overworked myself
+* Cleaned up diet/work habits Thurs -> Sun, feeling much much better
+* Overworked, but produced a lot. Been productive 5 weeks in a row, feels good
+* Hyper social week, felt nice but perhaps a little tiring
+* Looking forward to BJJ tournament next weekend!
+
+**Fitness Challenge**
+* This was a bad week overall
+* Binged three days straight Mon -> Wed
+* Cleaned it up a lot Thu -> Sun, but not quite enough to make up for damage
+* Went hard on Cardio this week to try to make for damage
+* Took Mon/Wed off to rest shoulder for BJJ competition
+* Came in on Friday to see Sasha off though
+* Cutting it close with weigh-in, I will be good if I eat clean this next week
+
+**Work**
+* Very productive week  but overworked for sure
+* Felt burnout on Thursday
+* Came in with much better attitude on Friday
+* I think it's great I'm passionate about my project, but must be careful
+* I'm doing well and being productive, no need to push myself to extremes
+* Keep work fun
+* In any case, commited a bunch of design work for Candidate View
+* App is looking good, keep driving the project forward!
+
+**Personal**
+* Hyper social week, full of parties, good-byes, and chilling
+* Hung with Sep on Monday at FB and saw him off Tuesday
+* Hung with Vi on Monday
+* Saw Sasha off on Wednesday at Fogo
+* Hung with BJJ crew Friday and all of Saturday
+* Hung with Pop on Sunday
+* Didn't finish my Russian HW again this week tho, must make time this week
+
+**Takeaways**
+* Don't overwork, keep work fun, you're doing a great job, five weeks strong!
+* Eat clean, tournament is next week, make weight and kick ass!
+* Make time for Russian HW, you won't progress studying 1x/week
+
 ### Day 249 (Sunday): 10/16/16
 Weight: 153.2lb
 

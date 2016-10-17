@@ -9,6 +9,16 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+## Week Review: 10/10/16 - 10/16/16
+**Stats**
+```
+* Cleans          : 4/7
+* Woke up Early   : 5/5
+* Solid Exercise  : 7/7
+* Under 2000      : 4/7
+* Did Good Work   : 5/5
+```
+
 ### Day 103 (Sunday): 10/16/16 (Clean)
 Mantra:
 * Solid Exercise  : Y
