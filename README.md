@@ -27,7 +27,7 @@ Notes:
 ## Week Review: 10/10/16 - 10/16/16
 **Stats**
 ```
-* Diet:         ~2510, 110g
+* Diet:         ~2614, 117g
 * Sugar:        5870, Binge
 * Weight:       152.8lb (Sat) -> 155.5lb (Wed)
 * Lift:
@@ -36,43 +36,47 @@ Notes:
 * Cardio:       |||||||
 * Rest:
 
-Foods: 36 unique, 54 total, 17570 calories
-* Fogo de Chao     : 1  (2000),  11.4%,   11.4%
-* Nutella          : 1  (1500),   8.5%,   19.9%
-* BJ Ice Cream     : 1  (1300),   7.4%,   27.3%
-* Birthday Lunch   : 1  (1000),   5.7%,   33.0%
-* Quest Bar        : 5   (950),   5.4%,   38.4%
-* Hot Pot          : 1   (850),   4.8%,   43.3%
-* Chicken Fajitas  : 1   (800),   4.6%,   47.8%
-* Tofu and Veggies : 1   (650),   3.7%,   51.5%
-* Cookie           : 5   (600),   3.4%,   54.9%
-* Dark Chocolate   : 2   (600),   3.4%,   58.3%
-* Ice Cream        : 2   (600),   3.4%,   61.8%
-* Yogurt           : 3   (570),   3.2%,   65.0%
-* Bacon            : 2   (550),   3.1%,   68.1%
-* Chicken          : 2   (550),   3.1%,   71.3%
-* Beef             : 1   (450),   2.6%,   73.8%
-* Sugar Waffles    : 2   (400),   2.3%,   76.1%
-* Bread and Hummus : 1   (350),   2.0%,   78.1%
-* Sour Patch       : 1   (350),   2.0%,   80.1%
-* Candy            : 1   (320),   1.8%,   81.9%
-* Mac n Cheese     : 2   (300),   1.7%,   83.6%
-* Turkey Balls     : 1   (300),   1.7%,   85.3%
-* Brisket          : 1   (250),   1.4%,   86.7%
-* Fruit            : 2   (250),   1.4%,   88.2%
-* Rice             : 1   (250),   1.4%,   89.6%
-* Protein Powder   : 2   (240),   1.4%,   91.0%
-* Cheese           : 1   (200),   1.1%,   92.1%
-* Chips            : 1   (200),   1.1%,   93.2%
-* Flaxseed         : 1   (200),   1.1%,   94.4%
-* Ribs             : 1   (200),   1.1%,   95.5%
-* Turkey Jerky     : 1   (180),   1.0%,   96.5%
-* Cornbread        : 1   (150),   0.9%,   97.4%
-* Madeline         : 1   (100),   0.6%,   98.0%
-* Sugar Waffle     : 1   (100),   0.6%,   98.5%
-* Veggies          : 1   (100),   0.6%,   99.1%
-* Apple            : 1    (80),   0.5%,   99.5%
-* Milk             : 1    (80),   0.5%,  100.0%
+Foods: 40 unique, 58 total, 18300 calories
+* Fogo de Chao     : 1  (2000),  10.9%,   10.9%
+* Nutella          : 1  (1500),   8.2%,   19.1%
+* BJ Ice Cream     : 1  (1300),   7.1%,   26.2%
+* Birthday Lunch   : 1  (1000),   5.5%,   31.7%
+* Quest Bar        : 5   (950),   5.2%,   36.9%
+* Hot Pot          : 1   (850),   4.6%,   41.5%
+* Chicken Fajitas  : 1   (800),   4.4%,   45.9%
+* Tofu and Veggies : 1   (650),   3.6%,   49.5%
+* Dark Chocolate   : 2   (600),   3.3%,   52.7%
+* Ice Cream        : 2   (600),   3.3%,   56.0%
+* Cookie           : 5   (600),   3.3%,   59.3%
+* Yogurt           : 3   (570),   3.1%,   62.4%
+* Bacon            : 2   (550),   3.0%,   65.4%
+* Chicken          : 2   (550),   3.0%,   68.4%
+* Beef             : 1   (450),   2.5%,   70.9%
+* Sugar Waffles    : 2   (400),   2.2%,   73.1%
+* Bread and Hummus : 1   (350),   1.9%,   75.0%
+* Sour Patch       : 1   (350),   1.9%,   76.9%
+* Candy            : 1   (320),   1.7%,   78.6%
+* Turkey Balls     : 1   (300),   1.6%,   80.3%
+* Mac n Cheese     : 2   (300),   1.6%,   81.9%
+* Granola          : 1   (300),   1.6%,   83.6%
+* Beef Jerky       : 1   (280),   1.5%,   85.1%
+* Brisket          : 1   (250),   1.4%,   86.4%
+* Fruit            : 2   (250),   1.4%,   87.8%
+* Rice             : 1   (250),   1.4%,   89.2%
+* Protein Powder   : 2   (240),   1.3%,   90.5%
+* Flaxseed         : 1   (200),   1.1%,   91.6%
+* Cheese           : 1   (200),   1.1%,   92.7%
+* Chips            : 1   (200),   1.1%,   93.8%
+* Ribs             : 1   (200),   1.1%,   94.9%
+* Turkey Jerky     : 1   (180),   1.0%,   95.8%
+* Cornbread        : 1   (150),   0.8%,   96.7%
+* Madeline         : 1   (100),   0.5%,   97.2%
+* Strawberries     : 1   (100),   0.5%,   97.8%
+* Sugar Waffle     : 1   (100),   0.5%,   98.3%
+* Veggies          : 1   (100),   0.5%,   98.9%
+* Apple            : 1    (80),   0.4%,   99.3%
+* Milk             : 1    (80),   0.4%,   99.7%
+* Carrots          : 1    (50),   0.3%,  100.0%
 ```
 **Overall**
 * Mixed week, culprits were poor diet and overworking
@@ -120,9 +124,11 @@ Foods: 36 unique, 54 total, 17570 calories
 ### Day 249 (Sunday): 10/16/16
 Weight: 153.2lb
 
-Diet: 1120, 85g
+Diet: 1850, 135g
 * Protein Powder (120), 25g
 * Chicken Fajitas (800) + Chips (200), 60g
+* Beef Jerky (280), 44g
+* Strawberries (100) + Granola (300) + Carrots (50), 6g
 
 Exercise: Cardio
 * Stairmaster: 1hr
