@@ -1,4 +1,4 @@
-## Fitness Log
+## Daily Log
 
 ### Keys to Success
 Morning:
