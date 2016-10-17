@@ -24,6 +24,39 @@ Exercise:
 Notes:
 *
 
+### Day 249 (Sunday): 10/16/16
+Weight: 153.2lb
+
+Diet: 1120, 85g
+* Protein Powder (120), 25g
+* Chicken Fajitas (800) + Chips (200), 60g
+
+Exercise: Cardio
+* Stairmaster: 1hr
+
+Notes:
+* Woke up feeling great, not eatling late feels good the next morning
+* Hung out with dad in the afternoon, pretty chill
+* Doing some errands in the evening
+
+### Day 248 (Satuday): 10/15/16
+Weight: 152.8lb
+
+Diet: 1970, 130g
+* Protein Powder (120), 25g
+* Birthday Lunch (1000), 20g
+* Hot Pot (850), 85g
+
+Exercise: Cardio
+* Embarcadero Run: 10k
+
+Notes:
+* Woke up earlyish, felt a little slugish in the morning
+* Solid morning run, felt much much better after
+* Fun birthday lunch for Anisa and kicking it with BJJ crew
+* Kicked it for whole day with BJJ folk, definitely a long but chill day
+* Feeling hungry late at night but went bed, felt right
+
 ### Day 247 (Friday): 10/14/16
 Weight: 154.2lb
 
