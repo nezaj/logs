@@ -24,6 +24,34 @@ Exercise:
 Notes:
 *
 
+### Day 250 (Monday): 10/17/16
+Weight: 154.2lb
+
+Diet: 4790, 140g
+* Granola (500) + Apple (80) + Rice Cake (60) + Carrots (40), 10g
+* Quest Bar (190), 20g
+* Chicken (150) + Beef (300) + Veggies (100) + Bacon (210), 60g
+* Chocolate Almonds (80) + Milk/Coffee (80), 8g
+* Jerky (180) + Madelines (200), 33g
+* Ice Cream (500) + Cookie (250) + Nutella (600)
+* Mac n Cheese (350) + Brisket (200)
+* Twix (250) + Strawberries (50) + Granola (300) + Rice Cake (120), 9g
+
+Exercise: Cardio
+* Embarcadero Run: 10k
+
+Notes:
+* Slept well but woke up feeling heavy, probably shouldn't have eaten at night
+* A bit lazy waking up, but got up within 30min and had a chill run
+* Had a delciious breakfast and feel great
+* --> Should start having a more proper breakfast again instead of snacks
+* Productive day
+* Feeling hungry though for sure
+* Had another fuck-it moment, felt stressed about the project
+* Specifically, felt like I knew I had to do something hard and shyed away from it
+* Feeling stressed about JiuJitsu weight in the evening
+* Realized I should just move up in weight class, would make it way less stressful
+
 ## Week Review: 10/10/16 - 10/16/16
 **Stats**
 ```

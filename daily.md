@@ -9,6 +9,16 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+### Day 101 (Monday): 10/17/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Felt very stressed with work + Jiu-Jitsu and binged hard today
+
 ## Week Review: 10/10/16 - 10/16/16
 **Stats**
 ```
