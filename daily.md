@@ -9,6 +9,20 @@ Mantra:
 * Ate Clean       :
 * Did Good Work   :
 
+Notes:
+
+### Day 102 (Tuesday): 10/18/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Skipped morning workout, feeling burnt out
+* Very unproductive day, not focused and too much sugar
+* Second-day binge, as is common in the past
+
 ### Day 101 (Monday): 10/17/16
 Mantra:
 * Woke up Early   : Y

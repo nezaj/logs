@@ -24,6 +24,21 @@ Exercise:
 Notes:
 *
 
+### Day 251 (Tuesday): 10/18/16
+Weight: N/A
+
+Diet: 5000
+* Crap (5000)
+
+Exercise: Rest Day
+
+Notes:
+* Skipped morning workout, felt burnout
+* Feeling better in morning for moving up weight class in Jiu-Jitsu
+* However, still stressed for work
+* Not a productive day, ended up overdoing on sugar again
+* Fell asleep early
+
 ### Day 250 (Monday): 10/17/16
 Weight: 154.2lb
 
