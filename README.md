@@ -24,6 +24,30 @@ Exercise:
 Notes:
 *
 
+### Day 252 (Wednesday): 10/19/16
+Weight: N/A
+
+Diet: 1810, 176g
+* Yogurt (240) + Apple (80), 44g
+* Flaxseed (200) + Rice Cakes (120) + Strawberries (80), 12g
+* Carrots (50) + Protein Powder (120), 25g
+* Apple (80) + Cottage Cheese (80), 10g
+* Yogurt (240), 44g
+* Flaxseed (400), 16g
+* Protein Powder (120), 25g
+
+Exercise: Cardio, Jiu-Jitsu
+* Stairmaster: 1hr
+
+Notes:
+* Slept for ~12 hours, feeling much better this morning
+* Solid stairmaster session, feeling more normal
+* Chill convo with Stepan, was nice to catch up
+* Getting productive by afternoon
+* Wrote up a solid dex to get engineers on-boarded
+* Solid Jiu-Jitsu session, felt great after
+* Finished folding laundry and went to bed
+
 ### Day 251 (Tuesday): 10/18/16
 Weight: N/A
 

@@ -11,6 +11,15 @@ Mantra:
 
 Notes:
 
+### Day 103 (Wednesday): 10/19/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 102 (Tuesday): 10/18/16
 Mantra:
 * Woke up Early   : Y
