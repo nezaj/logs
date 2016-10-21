@@ -11,6 +11,18 @@ Mantra:
 
 Notes:
 
+### Day 104 (Thursday):
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Snoozed for 2 hours
+* Had to catch up on Russian, got no work done
+* Snacked late night and went over calories
+
 ### Day 103 (Wednesday): 10/19/16 (Clean)
 Mantra:
 * Woke up Early   : Y

@@ -24,6 +24,37 @@ Exercise:
 Notes:
 *
 
+### Day 253 (Thursday): 10/20/16
+Weight: 153.4lb
+
+Diet:  2290, 150g
+* Cottage Cheese (240) + Berries (160), 30g
+* Flaxseed (200) + Rice Cakes (180), 8g
+* Apple (80) + Flaxseed (200), 8g
+* Yogurt (120) + Carrots (80), 22g
+* Rice Cakes (180)
+* Protein Powder (120), 25g
+* Yogurt (120) + Carrots (80) + Bread (120), 22g
+* Protein Drink (170) + Rice Cakes (120), 35g
+* Berries (120)
+
+Exercise: Lift
+* Crazy 8s: 3x75x8/8/8 (Clean)
+* Squats: 1x135x8, 1x185x5, 4x205x5 (Clean)
+* Abs: 5x10
+
+Notes:
+* Snoozed in the morning for 2 hours
+* Chill morning, made breakfast, thought deeply about MOBOR, updated logs
+* Slogging away at Russian, moving kinda slow
+* Solid lift session in the afternoon, first one in 3 weeks!!
+* Managed to get all Russian HW done
+* Great Russian class, was productive and focused throughout
+* Ultimately, got no work done today though
+* Hung with Jiu-Jitsu crew to say good-byes to Delwin, very chill
+* Ended up late-night snacking, not too much damage but still no bueno
+* Overall okay day, feeling recovered and ready for work
+
 ### Day 252 (Wednesday): 10/19/16
 Weight: N/A
 
