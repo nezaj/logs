@@ -11,7 +11,17 @@ Mantra:
 
 Notes:
 
-### Day 104 (Thursday):
+### Day 105 (Friday): 10/21/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Snoozed for 45min
+
+### Day 104 (Thursday): 10/20/16
 Mantra:
 * Woke up Early   : N
 * Solid Exercise  : Y

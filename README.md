@@ -24,6 +24,29 @@ Exercise:
 Notes:
 *
 
+### Day 254 (Friday): 10/21/16
+Weight: 155.4lb
+
+Diet: 1620, 121g
+* Yogurt (190) + Apple (80), 18g
+* Turkey Breast (100) + Chicken (400) + Mac n Cheese (150), 50g
+* Turkey Jerky (180) + Banana (100), 33g
+* Quest Bar (190), 20g
+* Carrots (80)
+* Beer (150)
+
+Exercise: Cardio, Jiu-Jitsu
+* Stairmaster: 23min/no-hands
+
+Notes:
+* Snoozed for 45min
+* Hustled to get in a quick workout, no-hands stairmaster is rough!
+* Chill shuttle ride with Jacky
+* Productive morning despite blocked by infra issues
+* Productive day overall, however, need to be more prepared for Friday meetings
+* Solid Jiu Jitsu session
+* Fun evening with Kaiwan and crew
+
 ### Day 253 (Thursday): 10/20/16
 Weight: 153.4lb
 
