@@ -24,6 +24,48 @@ Exercise:
 Notes:
 *
 
+
+### Day 256 (Sunday): 10/23/16 (Jiu-Jitsu competition)
+Weight: N/A
+
+Diet: 5000
+* Healthy food (2500)
+* Crap food (2500)
+
+Exercise: Cardio
+* South Bay run: 10k
+
+Notes:
+* Had some trouble sleeping, definitely due to overeating
+* Today was finally the comp!
+* Lost my first match on points, bummer for sure, need to work on stand-up game
+* Ended up being a long day, driving to SC, waiting to fight, and then exhausted
+* Was good chilling with Jon, talked about bunch of stuff
+* Ended up eating sweets late at night, felt like indulging
+* Interestingly enough, ended up not coming close to finishing all the sweets
+* Ended up throwing rest out, feels like I'm over getting it
+
+### Day 255 (Saturday): 10/22/16
+Weight: 152.5lb
+
+Diet: 2800, 85g
+* Flaxseed (200) + Protein Powder (120), 33g
+* Cottage Cheese (240) + Berries (120), 30g
+* Seaweed (60)
+* Flaxseed (200) + Apple (80)
+* Yogurt (120) + Carrots (80), 22g
+* Home food (1500)
+
+Exercise: Cardio
+* Embarcadero run: 40min
+
+Notes:
+* Woke up ~10:00am, slept very well
+* Wanted to code today, very productive
+* Got a quick run in, felt good
+* Took the caltrain home in prep for the tournament
+* Was nice to see parents, ended up overeating though
+
 ### Day 254 (Friday): 10/21/16
 Weight: 155.4lb
 

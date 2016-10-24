@@ -11,6 +11,22 @@ Mantra:
 
 Notes:
 
+### Day 107 (Sunday): 10/23/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Again overate at night, wanted one more indulgence
+
+### Day 106 (Saturday): 10/22/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Overate at night, thought might be good to have extra cals for tourney
+
 ### Day 105 (Friday): 10/21/16
 Mantra:
 * Woke up Early   : N
