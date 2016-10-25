@@ -11,6 +11,16 @@ Mantra:
 
 Notes:
 
+### Day 108 (Monday): 10/24/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Snoozed for 45min, gotta work on this for sure
+
 ### Day 107 (Sunday): 10/23/16
 Mantra:
 * Solid Exercise  : Y

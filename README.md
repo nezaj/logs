@@ -25,6 +25,26 @@ Notes:
 *
 
 
+### Day 257 (Monday): 10/24/16
+Weight: N/A
+
+Diet: 1920, 65g
+* Apple (80)
+* Brisket (350) + Mac n Cheese (300) + Corn Bread (250), 35g
+* Quest Bar (190), 20g
+* Panut Butter (250) + Hazelnuts (250) + Pizza (250), 10g
+
+Exercise: Cardio
+* Stairmaster: 45min
+
+Notes:
+* Snoozed for ~45min, definitely feeling full from previous day
+* Great stairmaster session, made me feel much more alive
+* Unproductive shuttle-ride, ended up texting people instead, felt chill though
+* Overall productive day, was good working with Austen
+* Came home late and worked more, didn't do my chores as planned
+* Ended up as a kinda meh day, was productive but my energy levels were off
+
 ### Day 256 (Sunday): 10/23/16 (Jiu-Jitsu competition)
 Weight: N/A
 
