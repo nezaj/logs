@@ -25,6 +25,26 @@ Notes:
 *
 
 
+### Day 258 (Tuesday): 10/25/16
+Weight: 156.5lb
+
+Diet: 2140, 152g
+* Apple (80)
+* Yogurt (190), 18g
+* Chicken (400) + Bacon (200) + Avocado (200) + Tomato (50), 60g
+* Cheese (200) + Roast Beef (200) + Apple (80), 30g
+* Special K Bar (170), 12g
+* Quest Bar (190) + Cheese (180), 32g
+
+Exercise: Cardio
+* Embarcadero Run: 5.75mi
+
+Notes:
+* Snoozed for ~90min, tired from staying up late
+* Productive work day, got native modules working
+* Solid evening run
+* Went to bed earlyish, felt pretty tired
+
 ### Day 257 (Monday): 10/24/16
 Weight: N/A
 
@@ -43,6 +63,7 @@ Notes:
 * Unproductive shuttle-ride, ended up texting people instead, felt chill though
 * Overall productive day, was good working with Austen
 * Came home late and worked more, didn't do my chores as planned
+* Went to bed late, ~12am
 * Ended up as a kinda meh day, was productive but my energy levels were off
 
 ### Day 256 (Sunday): 10/23/16 (Jiu-Jitsu competition)

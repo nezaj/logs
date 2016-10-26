@@ -11,6 +11,17 @@ Mantra:
 
 Notes:
 
+### Day 109 (Tuesday): 10/25/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Snoozed for 90min, went to bed late and no energy
+* Went slightly over on calories
+
 ### Day 108 (Monday): 10/24/16
 Mantra:
 * Woke up Early   : N
