@@ -25,6 +25,26 @@ Notes:
 *
 
 
+### Day 259 (Wednesday): 10/26/16
+Weight: 155.0lb
+
+Diet: 2040, 107g
+* Apple (80)
+* Cottage Cheese (240) + Berries (100) + Flaxseed (200), 42g
+* Gyro (550) + Milk Tea (350) 30g
+* Seaweed (60) + Carrots (80) + Rice Cakes (120)
+* Fruit bar (90) + Protein Drink (170), 35g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up at 6:30am and then snoozed till 9:00am... wow
+* Dentist and haircut appointments in AM
+* Fun morning/afternoon, did some shopping, got yummy food, did chores
+* Solid Jiu-Jitsu session, visited Jon's gym
+* Kick it with Howard crew in the evening, very chill
+* Overall fun day
+
 ### Day 258 (Tuesday): 10/25/16
 Weight: 156.5lb
 

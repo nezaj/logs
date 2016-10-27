@@ -11,6 +11,18 @@ Mantra:
 
 Notes:
 
+### Day 110 (Wednesady): 10/26/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Snoozed for 2.5hrs today, not sure what to make of this...
+* Ended up doing no work today
+* Slightly over calories again, doesn't feel like a biggie though
+
 ### Day 109 (Tuesday): 10/25/16
 Mantra:
 * Woke up Early   : N
