@@ -11,6 +11,18 @@ Mantra:
 
 Notes:
 
+### Day 111 (Thursday): 10/27/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Woke up ~8:15am
+* Did personal chores in morning and skipped workout again
+* Ended up going over calories once more, this time on purpose for all-nighter
+
 ### Day 110 (Wednesady): 10/26/16
 Mantra:
 * Woke up Early   : N

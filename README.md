@@ -25,6 +25,30 @@ Notes:
 *
 
 
+### Day 260 (Thursday): 10/27/16
+Weight: 151.2lb
+
+Diet: 2370, 118g
+* Oatmeal (340) + Flaxseed (200), 28g
+* Apple (80)
+* Quest Bar (190), 20g
+* Beef (200) + Chicken (200) + Tofu (150) + Curry (150) + Veggies (50), 50g
+* Banana (100)
+* Quest Bar (190), 20g
+* 2 Waffles (200) + Cookie (120)
+* Rice Cake (60)
+* Fruit Bar (90) + Strawberries (50)
+
+Exercise: Rest Day
+
+Notes:
+* Woke up ~8:15am, went to bed kinda late so not surprised
+* Did a few personal chores in morning, taking later shuttle to work
+* Worked a lot today and pushed very very hard.
+* Finished native iOS and Android implemntentaions for mail, sweet!
+* Stayed up very late to finish full RN flow and plan for tomorrow's demo
+* Long day
+
 ### Day 259 (Wednesday): 10/26/16
 Weight: 155.0lb
 
