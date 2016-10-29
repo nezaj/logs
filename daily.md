@@ -11,6 +11,17 @@ Mantra:
 
 Notes:
 
+### Day 112 (Friday): 10/28/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Woke up ~9:20am, not surprising since I went to bed ~4am
+* Skipped morning workout again to make it to work on time
+
 ### Day 111 (Thursday): 10/27/16
 Mantra:
 * Woke up Early   : N

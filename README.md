@@ -25,6 +25,28 @@ Notes:
 *
 
 
+### Day 261 (Friday): 10/28/16
+Weight: 155.0lb
+
+Diet: 1430, 38g
+* Yogurt (190) + Quest Bar (200), 38g
+* Banana (100)
+* Banana (100) + Carrots (60)
+* Cake (550)
+* Carrots (30)
+* Beer (100) + Vodka (100)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up ~9:20am, again not surprising since I went to bed at 4am
+* Lots of traffic this morning, ended up ubering with co-workers, chill start
+* Got to office ~12:00pm, sprinted to land diffs for demo, very productive
+* Demoed today, went very well!
+* Fun HH with React Native folk
+* Happy to delivered proudct, feeling like rest is well deserverd
+* Solid Jiu-Jitsu session
+
 ### Day 260 (Thursday): 10/27/16
 Weight: 151.2lb
 
