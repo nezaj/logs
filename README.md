@@ -44,6 +44,26 @@ Notes:
 * Very solid Jiu-Jitsu class, so glad I went, definitely feel amazing after
 * Worked a bit in the evening to get slides done, the final push for launch
 
+### Day 262 (Saturday): 10/29/16
+Weight: 151.6lb
+
+Diet: 3540, 65g
+* Apple (80) + Fruit (90) + Protein Shake (170), 35g
+* Granola (200) + Fruit (100) + Yogurt (200), 25g
+* Cliff Bar (280)
+* Seaweed (60) + Granola (100) + Carrots (50), 5g
+* Late night snacks (2200)
+
+Exercise: Cardio
+* Embarcadero Run: 6mi
+
+Notes:
+* Woke up ~11:30am
+* Chill brunch with Theo about FB
+* Did some grocery shopping with Giff and laundry
+* Hung out with Giff in evening
+* Went to pong-o-ween with Kaiwan, very fun night
+
 ### Day 261 (Friday): 10/28/16
 Weight: 155.0lb
 

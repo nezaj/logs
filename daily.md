@@ -22,6 +22,14 @@ Notes:
 * Snoozed alarm at 6:15am, didn't get up until 9:40am...
 * No time for morning workout, did some tabata pushups though
 
+### Day 113 (Saturday): 10/29/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Had some late night snacks
+
 ### Day 112 (Friday): 10/28/16
 Mantra:
 * Woke up Early   : N
