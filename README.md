@@ -25,6 +25,25 @@ Notes:
 *
 
 
+### Day 264 (Monday): 10/31/16
+Weight: 155.4lb
+
+Diet: 1440, 40g
+* Apple (80)
+* Ribs (400) + Mac n Cheese (250) + Corn Bread (250), 40g
+* Apple (80)
+* Quest (190) + Yogurt (190), 38g
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up ~9:40am, went to bed way too late last night so not surprising
+* Semi-productive shuttle ride
+* Productive morning
+* Productive day, pushed hard on several things, got the app icons in
+* Very solid Jiu-Jitsu class, so glad I went, definitely feel amazing after
+* Worked a bit in the evening to get slides done, the final push for launch
+
 ### Day 261 (Friday): 10/28/16
 Weight: 155.0lb
 
