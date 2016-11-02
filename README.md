@@ -44,6 +44,8 @@ Notes:
 * Very solid Jiu-Jitsu class, so glad I went, definitely feel amazing after
 * Worked a bit in the evening to get slides done, the final push for launch
 
+### SKIP Day 114 (Sunday): 10/30/16:
+
 ### Day 262 (Saturday): 10/29/16
 Weight: 151.6lb
 

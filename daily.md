@@ -22,6 +22,8 @@ Notes:
 * Snoozed alarm at 6:15am, didn't get up until 9:40am...
 * No time for morning workout, did some tabata pushups though
 
+### SKIP Day 114 (Sunday): 10/30/16:
+
 ### Day 113 (Saturday): 10/29/16
 Mantra:
 * Solid Exercise  : Y
