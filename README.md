@@ -25,10 +25,35 @@ Notes:
 *
 
 
+### Day 265 (Tuesday): 11/01/16
+Weight: N/A
+
+Diet: 2770, 149g
+* Apple (80)
+* Chicken Breast (350) + Bacon (300) + Avocado (200) + Veggies (50), 70g
+* Apple (80)
+* Yogurt (100) + Carrots (60), 17g
+* Sol (850) + Beer (150), 40g
+* Turkey Jerky (120), 22g
+* Carrots (30)
+* Rice Cakes (240) + Seaweed (60) + Fruit (100)
+
+Exercise: Rest day
+
+Notes:
+* Woke up ~6:40am, started working on slides by 7am
+* Worked in slides on shuttle all the way up to demo 11am
+* Aside, took ~5hours to get slides right including pandoc/reveal setup, wow
+* Internal presentation went great, people seemed impressed with slides and excited
+* Felt very chill after
+* Took care of misc tasks, booked tix for LA, Israel and did FSA election, woot
+* Nice team dinner in the evening
+* Came home late and didn't work, felt good, snacked and watched black mirror
+
 ### Day 264 (Monday): 10/31/16
 Weight: 155.4lb
 
-Diet: 1440, 40g
+Diet: 1440, 78g
 * Apple (80)
 * Ribs (400) + Mac n Cheese (250) + Corn Bread (250), 40g
 * Apple (80)
@@ -42,7 +67,7 @@ Notes:
 * Productive morning
 * Productive day, pushed hard on several things, got the app icons in
 * Very solid Jiu-Jitsu class, so glad I went, definitely feel amazing after
-* Worked a bit in the evening to get slides done, the final push for launch
+* Worked ~1hr at night to get slides done, the final push for launch
 
 ### SKIP Day 114 (Sunday): 10/30/16:
 

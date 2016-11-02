@@ -11,6 +11,17 @@ Mantra:
 
 Notes:
 
+### Day 116 (Tuesday): 11/01/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+* Snoozed alarm at 6:15am, didn't get up until 9:40am...
+* No time for morning workout, did some tabata pushups though
+
 ### Day 115 (Monday): 10/31/16
 Mantra:
 * Woke up Early   : N
