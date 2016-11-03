@@ -25,6 +25,34 @@ Notes:
 *
 
 
+### Day 266 (Wednesday): 11/02/16
+Weight: N/A
+
+Diet: 1440, 75g
+* Yogurt (100) + Banana (100) + Granola (150), 17g
+* Banana (100) + PB (200), 8g
+* Beef (300) + Plantains (300), 30g
+* Quest Bar (190), 20g
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 3x80x8/8/8 (Clean)
+* Squats: 2x135x8, 5x185x5 (Clean)
+* Abs: 4x10
+* Bench: 5x135x5 (Clean)
+
+Notes:
+* Woke up very early, 5:40am
+* Was thinking about work and stomach unsettled from late night snack
+* Realized I'm over-thinking and need to relax
+* Got my first gym work out in for the feek, felt great
+* Managed to catch the 8:45 shuttle, first time in over week
+* Very productive day, fixed lots of small bugs, double login for real this time, and requested iOS device
+* Something to think about btw, maybe have a separate Work section?
+* Ended up working on shuttle ride home, not happy about that, need to disconnect
+* Solid Jiu Jitsu session
+* Grabbed some shisha, nice and chill
+* Went to bed way late though
+
 ### Day 265 (Tuesday): 11/01/16
 Weight: N/A
 
