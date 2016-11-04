@@ -25,6 +25,29 @@ Notes:
 *
 
 
+### Day 267 (Thursday): 11/03/16
+Weight: 154.2lb
+
+Diet: 1790, 112g
+* Yogurt (100), 17g
+* Chicken Breasts (250) + Bacon (350) + Avocado (250) + Pineapple (150), 50g
+* Quest Bar (190), 20g
+* Banana (100) + PB (200), 8g
+* Yogurt (100), 17g
+* Carrots (100)
+
+Exercise: Cardio
+* Embarcadero Run: 4.2mi
+
+Notes:
+* Woke up at 6:45am but then snoozed for ~2hrs, very tired from going to bed late
+* Solid run, even if I had to cut it short
+* Ample time to get dressed and make shuttle, was nice to not run like always
+* Excited to start working on shuttle, productive ride
+* Mediocore productive day, felt very low energy in afternoon, maybe too much bacon
+* Solid Russian class
+* Watched an episode of Black Mirror and then bed, hard time falling asleep though
+
 ### Day 266 (Wednesday): 11/02/16
 Weight: N/A
 

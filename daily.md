@@ -11,6 +11,17 @@ Mantra:
 
 Notes:
 
+### Day 118 (Thursday): 11/03/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : Y
+
+Notes:
+* Snoozed for ~2hrs, hard to wake up early when going to bed late
+* Mediocore productive day, felt very low energy in afternoon, maybe too much bacon
+
 ### Day 117 (Wednesday): 11/02/16 (Clean)
 Mantra:
 * Woke up Early   : Y
