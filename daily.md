@@ -11,12 +11,23 @@ Mantra:
 
 Notes:
 
+### Day 119 (Friday): 11/04/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Snoozed for ~2hrs again, again fell asleep late
+* Went slightly over, was proud didn't eat late night after though
+
 ### Day 118 (Thursday): 11/03/16
 Mantra:
 * Woke up Early   : N
 * Solid Exercise  : Y
 * Did Good Work   : N
-* Under 2000      : Y
+j Under 2000      : Y
 
 Notes:
 * Snoozed for ~2hrs, hard to wake up early when going to bed late
@@ -39,19 +50,17 @@ Mantra:
 * Under 2000      : Y
 
 Notes:
-* Snoozed alarm at 6:15am, didn't get up until 9:40am...
-* No time for morning workout, did some tabata pushups though
+* Woke up late again and
 
 ### Day 115 (Monday): 10/31/16
 Mantra:
-* Woke up Early   : N
+* Woke up Early   : Y
 * Solid Exercise  : N
 * Did Good Work   : Y
 * Under 2000      : Y
 
 Notes:
-* Snoozed alarm at 6:15am, didn't get up until 9:40am...
-* No time for morning workout, did some tabata pushups though
+* Worked in morning instead of working out, needed to push tho get things done
 
 ### SKIP Day 114 (Sunday): 10/30/16:
 

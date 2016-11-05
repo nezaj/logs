@@ -25,6 +25,33 @@ Notes:
 *
 
 
+### Day 268 (Friday): 11/04/16
+Weight: 153.8lb
+
+Diet: 2000, 147g
+* Yogurt (100) + Banana (100), 17g
+* Por loin (350) + Fried Chicken (250) + Corn Bread (300), 60g
+* Froyo + Cone (350)
+* Apple (80) + Quest Bar (190) + Yogurt (100), 37g
+* Turkey Jerky (180), 33g
+* Beer (150)
+
+Exercise: Cardio, Jiu-Jitsu
+* Stairmaster: 55min
+
+Notes:
+* Woke up 6:15 alarm, snoozed till 8:30am again
+* Felt tired in bed, didn't fall asleep until 1amish
+* Perhaps I should consider simply coming to work later? Might be better?
+* Going to bed very early is definitely annoying
+* Shuttle time can be used for working too -- something to think about
+* Solid stairmaster workout, feeling so much better
+* Again, feel excited to work, this is good
+* Productive morning
+* Another productive day, got a new team member too
+* Okay Jiu-Jitsu session, was a bit low energy
+* Saw Kap Slap at Ruby in the evening, good set, good fun
+
 ### Day 267 (Thursday): 11/03/16
 Weight: 154.2lb
 
