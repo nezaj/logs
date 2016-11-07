@@ -11,6 +11,22 @@ Mantra:
 
 Notes:
 
+### Day 121 (Sunday): 11/06/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Went over calories once more, three days in a row now
+
+### Day 120 (Saturday): 11/05/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Went over calories again, mostly healthy food though, definitely over-snacked
+
 ### Day 119 (Friday): 11/04/16
 Mantra:
 * Woke up Early   : N

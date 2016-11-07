@@ -25,10 +25,53 @@ Notes:
 *
 
 
+### Day 270 (Sunday): 11/06/16
+Weight: 154.6lb
+
+Diet: 2450, 119g
+* Protein Powder (120) + Yogurt (240) + Carrots (40), 69g
+* Taro Milk Tea (400)
+* Family Dinner (1500), 50g
+* Wine (150)
+
+Exercise: Lift
+
+Notes:
+* Woke up earlyish today, ~8am thanks to daylight savings
+* Solid lift in the morning
+* Folded laundry and packed for LA, was pretty efficent
+* Caltrained to South Bay, got to catch up with sis and pop
+* Hung with Danya for a couple of hours, mostly just watched TV
+* Hung out with family in the evening, lots of good food
+* Arrived at airport 2 hours before domestic flight, feeling super full
+* Read up on California propositions while drinking wine, feeling good for sure
+
+### Day 269 (Saturday): 11/05/16
+Weight: 152.0lb
+
+Diet: 2500, 65g
+* Apple (80) + Protein Powder (120), 25g
+* Rice Cakes (120)
+* Peruvian food (1000), 40g
+* Shortbread Cookies (150) + Truffle (50)
+* Apple (80) + Rice Cakes (360) + Seaweed (60)
+* Fruit (300)
+* 2 Fruit Bar (180)
+
+Exercise: Cardio
+* Stairmaster: 1hr
+
+Notes:
+* Woke up ~11:15am, not enough time for morning workout before lunch
+* Lunch with Kam/Kaiwan, very chill
+* Hung at Dolores Park after
+* Feeling lazy, went home, ate food, watched some black mirror
+* Evening stairmaster session, feel great afterwards
+
 ### Day 268 (Friday): 11/04/16
 Weight: 153.8lb
 
-Diet: 2000, 147g
+Diet: 2150, 147g
 * Yogurt (100) + Banana (100), 17g
 * Por loin (350) + Fried Chicken (250) + Corn Bread (300), 60g
 * Froyo + Cone (350)
