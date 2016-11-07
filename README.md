@@ -25,16 +25,112 @@ Notes:
 *
 
 
+## Week Review: 10/31/16 - 11/06/16
+**Stats**
+```
+* Diet:         ~2220, ~106g
+* Sugar:        1950, Okay
+* Weight:       152.0lb (Fri) -> 155.4lb (Mon)
+* Lift:         ||
+* Abs:          ||
+* Jiu-Jitsu:    |||
+* Cardio:       |||
+* Rest:         |
+
+Foods: 38 unique, 71 total, 15540 calories
+* Family Dinner      : 1  (1500),   9.7%,    9.7%
+* Yogurt             : 8  (1030),   6.6%,   16.3%
+* Peruvian food      : 1  (1000),   6.4%,   22.7%
+* Sol                : 1   (850),   5.5%,   28.2%
+* Cookies            : 1   (750),   4.8%,   33.0%
+* Rice Cakes         : 3   (720),   4.6%,   37.6%
+* Bacon              : 2   (650),   4.2%,   41.8%
+* Quest Bar          : 3   (570),   3.7%,   45.5%
+* Apple              : 7   (560),   3.6%,   49.1%
+* Corn Bread         : 2   (550),   3.5%,   52.6%
+* Avocado            : 2   (450),   2.9%,   55.5%
+* Fruit              : 2   (400),   2.6%,   58.1%
+* Banana             : 4   (400),   2.6%,   60.7%
+* PB                 : 2   (400),   2.6%,   63.3%
+* Ribs               : 1   (400),   2.6%,   65.8%
+* Taro Milk Tea      : 1   (400),   2.6%,   68.4%
+* Chicken Breast     : 1   (350),   2.3%,   70.7%
+* Froyo              : 1   (350),   2.3%,   72.9%
+* Por loin           : 1   (350),   2.3%,   75.2%
+* Beef               : 1   (300),   1.9%,   77.1%
+* Beer               : 2   (300),   1.9%,   79.0%
+* Plantains          : 1   (300),   1.9%,   81.0%
+* Turkey Jerky       : 2   (300),   1.9%,   82.9%
+* Chicken Breasts    : 1   (250),   1.6%,   84.5%
+* Fried Chicken      : 1   (250),   1.6%,   86.1%
+* Mac n Cheese       : 1   (250),   1.6%,   87.7%
+* Snickers           : 1   (250),   1.6%,   89.3%
+* Protein Powder     : 2   (240),   1.5%,   90.9%
+* Carrots            : 4   (230),   1.5%,   92.3%
+* Quest              : 1   (190),   1.2%,   93.6%
+* Fruit Bar          : 2   (180),   1.2%,   94.7%
+* Granola            : 1   (150),   1.0%,   95.7%
+* Pineapple          : 1   (150),   1.0%,   96.7%
+* Shortbread Cookies : 1   (150),   1.0%,   97.6%
+* Wine               : 1   (150),   1.0%,   98.6%
+* Seaweed            : 2   (120),   0.8%,   99.4%
+* Truffle            : 1    (50),   0.3%,   99.7%
+* Veggies            : 1    (50),   0.3%,  100.0%
+
+```
+**Overall**
+* Good week
+* Was productive at work, finished final push for alpha
+* Feeling way less stressed/anxious this week, calories were much better too
+* Managed to lift 2x this week, first time in ages
+* Was very social too, team dinner, shisha, Ruby, Danya, Family
+
+**Fitness Challenge**
+* Good week for fitness challenge
+* Calories were much lower than last three weeks
+* However, cals were still higher than what I'd like, should aim for <2k
+* Positive side, ate way less sugar this week, feel good about that
+* Got 2x lift sessions, felt strong
+* Solid Jiu-Jitsu for the week too, little low energy on Friday though
+* Feel like I'm back on track
+
+**Work**
+* Another productive week
+* Shipped alpha mobile outreach! Feel very proud
+* Fixed a bunch of bugs from initial feedback
+* Outlined roadmap for beta release
+* Got another engineer working on the project, feeling great about that
+* However, noticed I was definitely over-worked these last few weeks
+* Had to force myself to not work in the evenings
+* Even now I find myself thinking too much about work, this is no bueno
+* WIll work towards re-gaining balance
+
+**Personal**
+* Social week again
+* Had a team dinner for alpha release, really liked that
+* Also made time for shisha, ruby skye, and family
+* Noticing I've been neglecting Russian though, primarily due to work
+* Want to study Russian again, at least 2x a week
+
+**Takeaways**
+* Great job delivering alpha, now don't burn-out and take it easier
+* Keep up with solid diet and lifting
+
 ### Day 270 (Sunday): 11/06/16
 Weight: 154.6lb
 
-Diet: 2450, 119g
+Diet: 3450, 119g
 * Protein Powder (120) + Yogurt (240) + Carrots (40), 69g
 * Taro Milk Tea (400)
 * Family Dinner (1500), 50g
 * Wine (150)
+* Snickers (250) + Cookies (750)
 
 Exercise: Lift
+* Crazy 8s: 3x80x8/9/8 (Clean)
+* Squats: 2x135x8, 3x205x5 (Clean)
+* Abs: 4x10
+* Bench: 1x135x5, 3x155x5 (Clean)
 
 Notes:
 * Woke up earlyish today, ~8am thanks to daylight savings
@@ -67,6 +163,7 @@ Notes:
 * Hung at Dolores Park after
 * Feeling lazy, went home, ate food, watched some black mirror
 * Evening stairmaster session, feel great afterwards
+* Watched another episode of Black Mirror, went to bed early
 
 ### Day 268 (Friday): 11/04/16
 Weight: 153.8lb
@@ -74,7 +171,7 @@ Weight: 153.8lb
 Diet: 2150, 147g
 * Yogurt (100) + Banana (100), 17g
 * Por loin (350) + Fried Chicken (250) + Corn Bread (300), 60g
-* Froyo + Cone (350)
+* Froyo (350)
 * Apple (80) + Quest Bar (190) + Yogurt (100), 37g
 * Turkey Jerky (180), 33g
 * Beer (150)
@@ -137,7 +234,7 @@ Notes:
 * Woke up very early, 5:40am
 * Was thinking about work and stomach unsettled from late night snack
 * Realized I'm over-thinking and need to relax
-* Got my first gym work out in for the feek, felt great
+* Got my first gym work out in for the week, felt great
 * Managed to catch the 8:45 shuttle, first time in over week
 * Very productive day, fixed lots of small bugs, double login for real this time, and requested iOS device
 * Something to think about btw, maybe have a separate Work section?
@@ -163,7 +260,7 @@ Exercise: Rest day
 
 Notes:
 * Woke up ~6:40am, started working on slides by 7am
-* Worked in slides on shuttle all the way up to demo 11am
+* Worked on slides on shuttle all the way up to demo 11am
 * Aside, took ~5hours to get slides right including pandoc/reveal setup, wow
 * Internal presentation went great, people seemed impressed with slides and excited
 * Felt very chill after
