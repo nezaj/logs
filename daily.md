@@ -11,7 +11,7 @@ Mantra:
 
 Notes:
 
-### Day 122 (Saturday): 11/07/16
+### Day 122 (Monday): 11/07/16
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
