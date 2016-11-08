@@ -11,6 +11,26 @@ Mantra:
 
 Notes:
 
+### Day 122 (Saturday): 11/07/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Went over with FBLA snacks, too much sugar
+
+## Week Review: 10/31/16 - 11/06/16
+**Stats**
+```
+* Cleans          : 1/7
+* Woke up Early   : 2/5
+* Solid Exercise  : 5/7
+* Under 2000      : 4/7
+* Did Good Work   : 4/5
+```
+
 ### Day 121 (Sunday): 11/06/16
 Mantra:
 * Solid Exercise  : Y
@@ -43,7 +63,7 @@ Mantra:
 * Woke up Early   : N
 * Solid Exercise  : Y
 * Did Good Work   : N
-j Under 2000      : Y
+* Under 2000      : Y
 
 Notes:
 * Snoozed for ~2hrs, hard to wake up early when going to bed late

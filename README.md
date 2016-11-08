@@ -24,6 +24,27 @@ Exercise:
 Notes:
 *
 
+### Day 271 (Monday): 11/07/16
+Weight: N/A
+
+Diet: 2720
+* Bacon (250) + Waffle (120) + Parfait (350) + Pie (200)
+* Butterfingers (250) + Malt Balls (250)
+* Steak strips (300) + Fruit (100) + Veggies (50)
+* Malt Balls (700) + Trail Mix (300)
+* Oreo Shake (850)
+
+Exercise: Cardio
+* LA Run: 1hr
+
+Notes:
+* Woke up early today, in LA!
+* Solid morning run, feeling full though from previous night sugar
+* Working in FBLA office today, they have so many different snacks
+* Definitely over-doing it on sugar, not feeling good, time to stop
+* Productive day at work
+* Grabbed dinner with team and watched movie, very fun
+* Fun day, but definitely overdid it on calories
 
 ## Week Review: 10/31/16 - 11/06/16
 **Stats**
