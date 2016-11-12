@@ -24,6 +24,8 @@ Exercise:
 Notes:
 *
 
+### Hiatus (Work trip LA) 11/08/16 -> 11/11/16
+
 ### Day 271 (Monday): 11/07/16
 Weight: N/A
 

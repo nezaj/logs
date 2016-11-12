@@ -11,6 +11,8 @@ Mantra:
 
 Notes:
 
+### Hiatus (Work trip LA) 11/08/16 -> 11/11/16
+
 ### Day 122 (Monday): 11/07/16
 Mantra:
 * Woke up Early   : Y
