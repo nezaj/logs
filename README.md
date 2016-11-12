@@ -25,6 +25,12 @@ Notes:
 *
 
 ### Hiatus (Work trip LA) 11/08/16 -> 11/11/16
+* Went to LA for work
+* Ran every day of the week (5x in total, including Monday 11/07/16)
+* However, ate tons of excess sugar, pretty much everyday
+* Extra sugar definitely made me feel a bit sick
+* However, I also felt pretty relaxed this trip, found myself enjoying beers
+* Overall was fun
 
 ### Day 271 (Monday): 11/07/16
 Weight: N/A
