@@ -11,6 +11,8 @@ Mantra:
 
 Notes:
 
+### Hiatus (Work trip weekend) 11/12/16 -> 11/13/16
+
 ### Hiatus (Work trip LA) 11/08/16 -> 11/11/16
 
 ### Day 122 (Monday): 11/07/16

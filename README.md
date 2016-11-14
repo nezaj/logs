@@ -24,6 +24,15 @@ Exercise:
 Notes:
 *
 
+### Hiatus (Work trip weekend) 11/12/16 -> 11/13/16
+* Went to beach on Saturday, hung with Kaiwan and crew, pretty chill
+* Finished chores on Sunday, caught up on sleep, grabbed dinner with Giff
+* Pensive weekend, needed to re-think things
+* Feel like I've recovered from overwork
+* Ready to focus on fundamentals again
+* This month's focus is getting back into routine until Israel trip (one month)
+* Areas of interest are fitness, friends/family, hobbies, and work
+
 ### Hiatus (Work trip LA) 11/08/16 -> 11/11/16
 * Went to LA for work
 * Ran every day of the week (5x in total, including Monday 11/07/16)
