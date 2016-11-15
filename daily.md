@@ -11,6 +11,15 @@ Mantra:
 
 Notes:
 
+### Day 123 (Monday): 11/14/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Hiatus (Work trip weekend) 11/12/16 -> 11/13/16
 
 ### Hiatus (Work trip LA) 11/08/16 -> 11/11/16

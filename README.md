@@ -24,6 +24,33 @@ Exercise:
 Notes:
 *
 
+### Day 272 (Monday): 11/14/16
+Weight: N/A
+
+Diet: 1840, 173g
+* Protein Powder (120) + Yogurt (120), 47g
+* Beef (300) + Chicken (120) + Pasta (200), 60g
+* PB (200), 8g
+* PB (200) + Yogurt (100) + Cookie (220) + Snickers (80), 25g
+* Turkey Jerky (180), 33g
+
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 3x80x9/9/9 (Repeat)
+* Squats (3s): 4x135x8 (Clean)
+* Abs: 4x10 (Repeat)
+* Bench: 3x165x5 (Clean)
+
+Notes:
+* Woke up ~6:40am, didn't snooze, felt well rested
+* Finished folding laundry
+* Nice chat with Stepan in the morning, good to have him back
+* Solid lift session in the morning
+* Head is feeling more clear
+* Productive day, got rage-shake working, set-up meetings, things are moving
+* Solid Jiu-Jitsu session
+* Went to bed early
+* Overall, good day
+
 ### Hiatus (Work trip weekend) 11/12/16 -> 11/13/16
 * Went to beach on Saturday, hung with Kaiwan and crew, pretty chill
 * Finished chores on Sunday, caught up on sleep, grabbed dinner with Giff
