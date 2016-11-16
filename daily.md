@@ -16,9 +16,10 @@ Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
 * Did Good Work   : Y
-* Under 2000      : Y
+* Under 2000      : N
 
 Notes:
+* Had friends over for dinner / snacks and went over
 
 ### Day 123 (Monday): 11/14/16 (Clean)
 Mantra:
