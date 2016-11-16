@@ -11,6 +11,15 @@ Mantra:
 
 Notes:
 
+### Day 124 (Tuesday): 11/15/16 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Day 123 (Monday): 11/14/16 (Clean)
 Mantra:
 * Woke up Early   : Y

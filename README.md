@@ -24,6 +24,28 @@ Exercise:
 Notes:
 *
 
+### Day 273 (Tuesday): 11/15/16
+Weight: 156.4
+
+Diet: 1930, 126g
+* Quest Bar (190), 20g
+* Apple (80)
+* Chicken (480) + Pineapple (80) + Avocado (200) + Tomato (50), 65g
+* PB (200) + Banana (100) + Chocolate (80), 8g
+* Apple (80)
+* Carrots (60) + Turkey Jerky (180), 33g
+* Wine (150)
+
+Exercise: Cardio
+* Embarcadero Run (w/ Vest): 5.0mi
+
+Notes:
+* Woke up early, lazed in bed a bit but got up soon
+* Solid morning run
+* Productive shuttle ride
+* Productive day!
+* Chill evening
+
 ### Day 272 (Monday): 11/14/16
 Weight: N/A
 
