@@ -24,6 +24,34 @@ Exercise:
 Notes:
 *
 
+### Day 274 (Wednesday): 11/16/16
+Weight: N/A
+
+Diet: 2730, 157g
+* Protein Powder (120), 25g
+* Yogurt (240), 44g
+* PB (200), 8g
+* Chicken (300) + Salmon (300) + Tofu (200), 70g
+* Cornbread (120)
+* Waffle (130) + Cookie (120)
+* Ice Cream (400) + Nutella (300) + PB (300), 12g
+
+Exercise: Lift, Jiu-Jitsu
+* Pull-ups: 10/12/10 (Clean?)
+* Squats (3s): 3x145x8, (Clean)
+* Abs: 3x10/8/10
+* OH Press: 3x95x5 (Clean)
+
+Notes:
+* Woke ~7am, ended up lazing in bed for a bit but not too long
+* Solid lift session, started weights back low, will ramp up
+* Chill morning, caught up with Stepan a bit
+* Productive shuttle ride
+* Slow afternoon, ate too much food too
+* Picked up steam around 3pm, made some good progress on rel-eng
+* Solid Jiu-Jitsu session
+* Chill evening
+
 ### Day 273 (Tuesday): 11/15/16
 Weight: 156.4
 
@@ -45,6 +73,7 @@ Notes:
 * Productive shuttle ride
 * Productive day!
 * Chill evening with friends
+* Went to bed early
 * Overall chill day
 
 ### Day 272 (Monday): 11/14/16

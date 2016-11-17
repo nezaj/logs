@@ -11,7 +11,17 @@ Mantra:
 
 Notes:
 
-### Day 124 (Tuesday): 11/15/16 (Clean)
+### Day 125 (Wednesday): 11/16/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Gave in to craving and totally over-did it
+
+### Day 124 (Tuesday): 11/15/16
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : Y
