@@ -11,6 +11,16 @@ Mantra:
 
 Notes:
 
+### Day 126 (Thursday): 11/17/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Again, had people over in the evening and went over
+
 ### Day 125 (Wednesday): 11/16/16
 Mantra:
 * Woke up Early   : Y
@@ -19,7 +29,7 @@ Mantra:
 * Under 2000      : N
 
 Notes:
-* Gave in to craving and totally over-did it
+* Gave in to craving at work and totally over-did it
 
 ### Day 124 (Tuesday): 11/15/16
 Mantra:

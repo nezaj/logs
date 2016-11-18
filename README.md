@@ -24,6 +24,31 @@ Exercise:
 Notes:
 *
 
+### Day 275 (Thursday): 11/17/16
+Weight: 155.2
+
+Diet: 2900, 247g
+* Protein Shake (170), 33g
+* Turkey Jerky (180), 33g
+* Chicken (400) + Avocado (200) + Pineapple (150) + Tomato (50), 70g
+* PB (200) + Banana (100), 8g
+* Carrots (60)
+* Quest Bar (190), 20g
+* Jerky (60) + Seaweed (60), 11g
+* Strawberries (100) + Raspberries (80) + Meatballs (600) + Chips (300), 72g
+
+Exercise: Cardio
+* Stairmaster: 1hr
+
+Notes:
+* Woke up ~7:30am, lazed a bit but not too much
+* Solid stairmaster session, felt great
+* Semi-productive shuttle ride, unfortunately blocked on several things
+* Great lunch with Hesham, fun to catch up
+* Productive day, got MOBOR working on iOS, fixed iOS alert bug, put up dex
+* Skipped Russian class, didn't feel like going since I didn't do any HW
+* Fun evening chilling with Stepan and his buddy Kai
+
 ### Day 274 (Wednesday): 11/16/16
 Weight: N/A
 
@@ -49,6 +74,7 @@ Notes:
 * Productive shuttle ride
 * Slow afternoon, ate too much food too
 * Picked up steam around 3pm, made some good progress on rel-eng
+* As an aside, hit 6 months at FB today
 * Solid Jiu-Jitsu session
 * Chill evening
 
