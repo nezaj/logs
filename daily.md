@@ -11,6 +11,16 @@ Mantra:
 
 Notes:
 
+### Day 126 (Friday): 11/18/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : Y
+* Under 2000      : N
+
+Notes:
+* Snacked at night after going out again
+
 ### Day 126 (Thursday): 11/17/16
 Mantra:
 * Woke up Early   : Y

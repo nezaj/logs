@@ -24,6 +24,31 @@ Exercise:
 Notes:
 *
 
+### Day 276 (Friday): 11/18/16
+Weight: N/A
+
+Diet: 2350, 133g
+* Protein Powder (120) + Cottage Cheese (160), 53g
+* Ramen (850), 30g
+* Turkey Jerky (180), 33g
+* Carrots (60) + Yogurt (100), 17g
+* Pineapple Cake (200) + Chips (600) + Apple (80)
+
+Exercise: Cardio
+* Embarcadero Run: 5mi
+
+Notes:
+* Woke up ~8:15am, didn't laze much in bed but still kinda late
+* Skipped weighing self again because of extra calories from last night
+* -> Don't skip weigh-ins, the number will be what it will be
+* Didn't have time for lift but got a run in, felt great
+* Also, had a positive interaction with neighbor during run, felt nice
+* Productive day, set up first release for iOS, configured a bunch for Android
+* Solid Jiu-Jitsu session
+* Feeling motivated about MOBOR, I can see the impact it can have for our org
+* Chilled with Kaiwan in the evening, good times
+* Ended up snacking at night due to greens, thankfully didn't overdo it though
+
 ### Day 275 (Thursday): 11/17/16
 Weight: 155.2
 
