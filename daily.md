@@ -11,6 +11,16 @@ Mantra:
 
 Notes:
 
+## Week Review: 11/14/16 - 11/20/16
+**Stats**
+```
+* Cleans          : 2/7
+* Woke up Early   : 5/5
+* Solid Exercise  : 7/7
+* Under 2000      : 2/7
+* Did Good Work   : 5/5
+```
+
 ### Day 128 (Sunday): 11/20/16 (Clean)
 Mantra:
 * Solid Exercise  : Y

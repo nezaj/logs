@@ -24,6 +24,102 @@ Exercise:
 Notes:
 *
 
+## Week Review: 11/14/16 - 11/20/16
+**Stats**
+```
+* Diet:         ~2354, ~149g
+* Sugar:        ~1390, Good
+* Weight:       ||, 156.4lb (Tue) -> 155.2 (Thu)
+* Lift:         ||
+* Abs:          |||
+* Jiu-Jitsu:    |||
+* Cardio:       ||||
+* Rest:
+
+Foods: 46 unique, 83 total, 16480 calories
+* Chicken         : 4  (1300),   7.9%,    7.9%
+* Chips           : 3  (1300),   7.9%,   15.8%
+* PB              : 6  (1300),   7.9%,   23.7%
+* Ramen           : 1   (850),   5.2%,   28.8%
+* Egg tarts       : 2   (800),   4.9%,   33.7%
+* Yogurt          : 5   (800),   4.9%,   38.5%
+* Chicken Tenders : 2   (770),   4.7%,   43.2%
+* Turkey Jerky    : 4   (720),   4.4%,   47.6%
+* Meatballs       : 1   (600),   3.6%,   51.2%
+* Apple           : 5   (480),   2.9%,   54.1%
+* Avocado         : 2   (400),   2.4%,   56.6%
+* Ice Cream       : 1   (400),   2.4%,   59.0%
+* Quest Bar       : 2   (380),   2.3%,   61.3%
+* Protein Powder  : 3   (360),   2.2%,   63.5%
+* Fruits          : 1   (350),   2.1%,   65.6%
+* Cookie          : 2   (340),   2.1%,   67.7%
+* Protein Shake   : 2   (340),   2.1%,   69.7%
+* Pineapple       : 3   (330),   2.0%,   71.7%
+* Beef            : 1   (300),   1.8%,   73.5%
+* Nutella         : 1   (300),   1.8%,   75.4%
+* Oatmeal         : 1   (300),   1.8%,   77.2%
+* Pineapple Cake  : 2   (300),   1.8%,   79.0%
+* Salmon          : 1   (300),   1.8%,   80.8%
+* Turkey Balls    : 1   (300),   1.8%,   82.6%
+* Flaxseed        : 1   (200),   1.2%,   83.9%
+* Banana          : 2   (200),   1.2%,   85.1%
+* Pasta           : 1   (200),   1.2%,   86.3%
+* Tofu            : 1   (200),   1.2%,   87.5%
+* Carrots         : 3   (180),   1.1%,   88.6%
+* Berries         : 1   (160),   1.0%,   89.6%
+* Cottage Cheese  : 1   (160),   1.0%,   90.5%
+* Beer            : 1   (150),   0.9%,   91.4%
+* Veggies         : 1   (150),   0.9%,   92.4%
+* Waffle          : 1   (130),   0.8%,   93.1%
+* Cornbread       : 1   (120),   0.7%,   93.9%
+* Seaweed         : 2   (120),   0.7%,   94.6%
+* Rice Cakes      : 1   (120),   0.7%,   95.3%
+* Fruit           : 1   (120),   0.7%,   96.1%
+* Pineaapple cake : 1   (100),   0.6%,   96.7%
+* Strawberries    : 1   (100),   0.6%,   97.3%
+* Tomato          : 2   (100),   0.6%,   97.9%
+* Chocolate       : 1    (80),   0.5%,   98.4%
+* Raspberries     : 1    (80),   0.5%,   98.8%
+* Snickers        : 1    (80),   0.5%,   99.3%
+* Jerky           : 1    (60),   0.4%,   99.7%
+* Wine            : 1    (50),   0.3%,  100.0%
+```
+**Overall**
+* Good week, getting back into good habits and work-life balance
+* Felt like fitness, work, and social was good
+* Only downside was excess calories, would have been a flawless week otherwise
+* Feeling very relaxed in general, very low anxiety
+* Feeling like I'm getting back to my grove
+* Feeling good and confident about myself
+* Looking forward to continuing good work/life balance next week
+
+**Fitness Challenge**
+* Worked out 7/7 days!
+* First week doing 3x lifts and 3x abs in a long time!
+* 3x Jiu-Jitsu sessions too, feel like my guard game is getting strong
+* Lower sugar intake too this week
+* However, calories were still high, almost entirely due to late-night snacking
+* -> Stick to IF regimine, don't eat past 8hr mark
+* Also, skipped several weigh-ins, no bueno
+* -> Do regular weigh-ins, you can't improve what you don't track!
+
+**Work**
+* Solid week
+* Enabled rage-shake, fixed reach-out bugs for iOS and Android
+* Made progress on release engineering
+* Thought a bunch of future / vision of project, feeling motivated
+* Started coming to work ~11am, I think I like this better
+
+**Personal**
+* Very social week
+* Good to have Stepan back, got to catch up a bunch
+* Had people over 3x this week, definitely fun, perhaps a bit much though?
+* Did no Russian HW again this week, feeling less motivated about that
+
+**Takeaways**
+* Stick to IF regime, don't eat past 8hr mark
+* Do regular weigh-ins, you can't improve what you don't track!
+
 ### Day 278 (Sunday): 11/20/16
 Weight: N/A
 
@@ -84,7 +180,7 @@ Diet: 2350, 133g
 * Carrots (60) + Yogurt (100), 17g
 * Pineapple Cake (200) + Chips (600) + Apple (80)
 
-Exercise: Cardio
+Exercise: Cardio, Jiu-Jitsu
 * Embarcadero Run: 5mi
 
 Notes:
