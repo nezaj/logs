@@ -24,6 +24,56 @@ Exercise:
 Notes:
 *
 
+### Day 278 (Sunday): 11/20/16
+Weight: N/A
+
+Diet: 1680, 84g
+* Seaweed (60) + Rice Cakes (120)
+* Chicken Tenders (440), 40g
+* Apple (160)
+* Egg tarts (400)
+* Yogurt (240) + Berries (160) + Pineapple (100), 44g
+
+Exercise: Cardio
+* Embarcadero Run (w/ Vest): 5.5mi
+
+Notes:
+* Woke up ~10am
+* Binged on Netflix all day, very lazy
+* Got an evening run in though, felt great
+* Weighted runs is deifnitely taxing, felt exhausted after and went to bed early
+* Overall lazy Sunday
+
+### Day 277 (Saturday): 11/19/16
+Weight: N/A
+
+Diet: 2700, 123g
+* Oatmeal (300) + Flaxseed (200), 24g
+* Protein Shake (170), 33g
+* Apple (80)
+* Turkey Balls (300) + Chicken Tenders (330), 66g
+* Veggies (150) + Fruit (120)
+* Beer (150)
+* Egg tarts (400) + Chips (400) + Pineapple Cake (100)
+
+Exercise: Lift
+* Pull-ups: 4x12
+* Incline Press: 3x55x8
+* Incline Flys: 2x25x8, 2x30x8
+* Abs: Leg-lifts, 4x10
+* Crazy-8s: 3x80x9/10/9 (tough)
+* Skulls: 3x80x9/10/9 (tough)
+
+Notes:
+* Woke up ~9:00am, feeling lazy
+* Watched some Netflix in the morning, felt nice to chill
+* Solid lift session around noon, feeling great after
+* First mini Jiu-Jitsu session with Stepan, was fun
+* Solid lunch wtih Stepan after
+* Hosted friends in evening
+* Went to bar afterwards to hang
+* Ended up late-night snacking again
+
 ### Day 276 (Friday): 11/18/16
 Weight: N/A
 

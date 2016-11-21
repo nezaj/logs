@@ -11,6 +11,21 @@ Mantra:
 
 Notes:
 
+### Day 128 (Sunday): 11/20/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
+### Day 127 (Saturday): 11/19/16
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* More late night snacking
+
 ### Day 126 (Friday): 11/18/16
 Mantra:
 * Woke up Early   : Y
