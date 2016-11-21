@@ -1,6 +1,130 @@
 {
     "wake_up": [
         {
+            "date": "11/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/15/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/07/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/04/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/03/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/02/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/01/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/21/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/20/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/12/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/07/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/05/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/04/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/03/16",
+            "flag": "Y"
+        },
+        {
             "date": "09/30/16",
             "flag": "Y"
         },
@@ -322,6 +446,174 @@
         }
     ],
     "cleans": [
+        {
+            "date": "11/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/19/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/17/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/16/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/15/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/07/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/05/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/04/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/03/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/02/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/01/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/31/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/29/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/24/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/23/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/22/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/21/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/20/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/17/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/15/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/12/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/11/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/10/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/09/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/08/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/07/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/05/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/04/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/03/16",
+            "flag": "N"
+        },
         {
             "date": "10/02/16",
             "flag": "Y"
@@ -721,6 +1013,174 @@
     ],
     "exercise": [
         {
+            "date": "11/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/15/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/07/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/06/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/05/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/04/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/03/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/02/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/01/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/31/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/29/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/28/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/26/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/24/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/23/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/22/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/15/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/12/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/09/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/08/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/07/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/06/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/05/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/04/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/03/16",
+            "flag": "N"
+        },
+        {
             "date": "10/02/16",
             "flag": "Y"
         },
@@ -1119,6 +1579,130 @@
     ],
     "good_work": [
         {
+            "date": "11/18/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/15/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/07/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/04/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/03/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/02/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/28/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/27/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/25/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/24/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/20/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/17/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/12/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/11/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/10/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/07/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/06/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/05/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/04/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/03/16",
+            "flag": "Y"
+        },
+        {
             "date": "09/30/16",
             "flag": "Y"
         },
@@ -1400,6 +1984,174 @@
         }
     ],
     "under_2000": [
+        {
+            "date": "11/20/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/19/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/17/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/16/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/15/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/07/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/05/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/04/16",
+            "flag": "N"
+        },
+        {
+            "date": "11/03/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/02/16",
+            "flag": "Y"
+        },
+        {
+            "date": "11/01/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/31/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/29/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/28/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/27/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/26/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/25/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/24/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/23/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/22/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/21/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/20/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/19/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/18/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/17/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/16/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/15/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/14/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/13/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/12/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/11/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/10/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/09/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/08/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/07/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/06/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/05/16",
+            "flag": "N"
+        },
+        {
+            "date": "10/04/16",
+            "flag": "Y"
+        },
+        {
+            "date": "10/03/16",
+            "flag": "Y"
+        },
         {
             "date": "10/02/16",
             "flag": "Y"
@@ -1714,6 +2466,304 @@
         }
     ],
     "notes": [
+        {
+            "date": "11/20/16",
+            "values": []
+        },
+        {
+            "date": "11/19/16",
+            "values": [
+                "More late night snacking"
+            ]
+        },
+        {
+            "date": "11/18/16",
+            "values": [
+                "Snacked at night after going out again"
+            ]
+        },
+        {
+            "date": "11/17/16",
+            "values": [
+                "Again, had people over in the evening and went over"
+            ]
+        },
+        {
+            "date": "11/16/16",
+            "values": [
+                "Gave in to craving at work and totally over-did it"
+            ]
+        },
+        {
+            "date": "11/15/16",
+            "values": [
+                "Had friends over for dinner / snacks and went over"
+            ]
+        },
+        {
+            "date": "11/14/16",
+            "values": [
+                "",
+                "### Hiatus (Work trip weekend) 11/12/16 -> 11/13/16",
+                "",
+                "### Hiatus (Work trip LA) 11/08/16 -> 11/11/16"
+            ]
+        },
+        {
+            "date": "11/07/16",
+            "values": [
+                "Went over with FBLA snacks, too much sugar",
+                "",
+                "## Week Review: 10/31/16 - 11/06/16",
+                "**Stats**",
+                "```",
+                "Cleans          : 1/7",
+                "Woke up Early   : 2/5",
+                "Solid Exercise  : 5/7",
+                "Under 2000      : 4/7",
+                "Did Good Work   : 4/5",
+                "```"
+            ]
+        },
+        {
+            "date": "11/06/16",
+            "values": [
+                "Went over calories once more, three days in a row now"
+            ]
+        },
+        {
+            "date": "11/05/16",
+            "values": [
+                "Went over calories again, mostly healthy food though, definitely over-snacked"
+            ]
+        },
+        {
+            "date": "11/04/16",
+            "values": [
+                "Snoozed for ~2hrs again, again fell asleep late",
+                "Went slightly over, was proud didn't eat late night after though"
+            ]
+        },
+        {
+            "date": "11/03/16",
+            "values": [
+                "Snoozed for ~2hrs, hard to wake up early when going to bed late",
+                "Mediocore productive day, felt very low energy in afternoon, maybe too much bacon"
+            ]
+        },
+        {
+            "date": "11/02/16",
+            "values": []
+        },
+        {
+            "date": "11/01/16",
+            "values": [
+                "Woke up late again and"
+            ]
+        },
+        {
+            "date": "10/31/16",
+            "values": [
+                "Worked in morning instead of working out, needed to push tho get things done",
+                "",
+                "### SKIP Day 114 (Sunday): 10/30/16:"
+            ]
+        },
+        {
+            "date": "10/29/16",
+            "values": [
+                "Had some late night snacks"
+            ]
+        },
+        {
+            "date": "10/28/16",
+            "values": [
+                "Woke up ~9:20am, not surprising since I went to bed ~4am",
+                "Skipped morning workout again to make it to work on time"
+            ]
+        },
+        {
+            "date": "10/27/16",
+            "values": [
+                "Woke up ~8:15am",
+                "Did personal chores in morning and skipped workout again",
+                "Ended up going over calories once more, this time on purpose for all-nighter"
+            ]
+        },
+        {
+            "date": "10/26/16",
+            "values": [
+                "Snoozed for 2.5hrs today, not sure what to make of this...",
+                "Ended up doing no work today",
+                "Slightly over calories again, doesn't feel like a biggie though"
+            ]
+        },
+        {
+            "date": "10/25/16",
+            "values": [
+                "Snoozed for 90min, went to bed late and no energy",
+                "Went slightly over on calories"
+            ]
+        },
+        {
+            "date": "10/24/16",
+            "values": [
+                "Snoozed for 45min, gotta work on this for sure"
+            ]
+        },
+        {
+            "date": "10/23/16",
+            "values": [
+                "Again overate at night, wanted one more indulgence"
+            ]
+        },
+        {
+            "date": "10/22/16",
+            "values": [
+                "Overate at night, thought might be good to have extra cals for tourney"
+            ]
+        },
+        {
+            "date": "10/21/16",
+            "values": [
+                "Snoozed for 45min"
+            ]
+        },
+        {
+            "date": "10/20/16",
+            "values": [
+                "Snoozed for 2 hours",
+                "Had to catch up on Russian, got no work done",
+                "Snacked late night and went over calories"
+            ]
+        },
+        {
+            "date": "10/19/16",
+            "values": []
+        },
+        {
+            "date": "10/18/16",
+            "values": [
+                "Skipped morning workout, feeling burnt out",
+                "Very unproductive day, not focused and too much sugar",
+                "Second-day binge, as is common in the past"
+            ]
+        },
+        {
+            "date": "10/17/16",
+            "values": [
+                "Felt very stressed with work + Jiu-Jitsu and binged hard today",
+                "",
+                "## Week Review: 10/10/16 - 10/16/16",
+                "**Stats**",
+                "```",
+                "Cleans          : 4/7",
+                "Woke up Early   : 5/5",
+                "Solid Exercise  : 7/7",
+                "Under 2000      : 4/7",
+                "Did Good Work   : 5/5",
+                "```"
+            ]
+        },
+        {
+            "date": "10/16/16",
+            "values": []
+        },
+        {
+            "date": "10/15/16",
+            "values": []
+        },
+        {
+            "date": "10/14/16",
+            "values": []
+        },
+        {
+            "date": "10/13/16",
+            "values": []
+        },
+        {
+            "date": "10/12/16",
+            "values": [
+                "Fogo de Chao dinner + BJ Ice cream",
+                "I think this is the last overage before the tournament"
+            ]
+        },
+        {
+            "date": "10/11/16",
+            "values": [
+                "Fuck-it attitude again today, binged hard"
+            ]
+        },
+        {
+            "date": "10/10/16",
+            "values": [
+                "Binged hard on Nutella at night, literally have no excuse",
+                "",
+                "## Week Review: 10/03/16 - 10/09/16",
+                "**Stats**",
+                "```",
+                "Cleans          : 1/7",
+                "Woke up Early   : 3/5",
+                "Solid Exercise  : 4/7",
+                "Under 2000      : 3/7",
+                "Did Good Work   : 5/5",
+                "```"
+            ]
+        },
+        {
+            "date": "10/09/16",
+            "values": [
+                "Felt too lazy to exercise",
+                "Indulged in calories with family today"
+            ]
+        },
+        {
+            "date": "10/08/16",
+            "values": []
+        },
+        {
+            "date": "10/07/16",
+            "values": [
+                "Snoozed alarm again",
+                "Tried doing mini-fast but ended up indulging again"
+            ]
+        },
+        {
+            "date": "10/06/16",
+            "values": [
+                "Snoozed alarm again, no bueno",
+                "Brian visited me on campus, I over-indulged on sugar"
+            ]
+        },
+        {
+            "date": "10/05/16",
+            "values": [
+                "Ate slightly over, definitely wanted more sugar",
+                "One thing that helped was subbing a fake sugar Red Bull"
+            ]
+        },
+        {
+            "date": "10/04/16",
+            "values": [
+                "Again woke up late, skipped morning workout"
+            ]
+        },
+        {
+            "date": "10/03/16",
+            "values": [
+                "Woke up late and skipped morning workout",
+                "",
+                "## Week Review: 09/26/16 - 10/02/16",
+                "**Stats**",
+                "```",
+                "Cleans          : 4/7",
+                "Woke up Early   : 5/5",
+                "Solid Exercise  : 6/7",
+                "Under 2000      : 4/7",
+                "Did Good Work   : 5/5",
+                "```"
+            ]
+        },
         {
             "date": "10/02/16",
             "values": []
