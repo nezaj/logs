@@ -24,6 +24,31 @@ Exercise:
 Notes:
 *
 
+### Day 279 (Monday): 11/21/16
+Weight: 157.2lb
+
+Diet: 1650, 113g
+* Cottage Cheese (160) + Berries (80) + Pineapple (60), 28g
+* Fries (150) + Beef (350) + Chicken (200) + Chili (200), 60g
+* Yogurt (100), 17g
+* Banana (100) + PB (200), 8g
+* Carrots (50)
+
+Exercise: Jiu-Jitsu
+
+Notes:
+* Woke up ~7:30am, got up pretty quick
+* Did some minor chores on computer first, not enough time for workout
+* Felt like taking a day off from morning exercise anyhow, did chores instead
+* Did weekly review during shuttle ride
+* Not productive morning/afternoon, not focused
+* Got some work done from 3pm onwards, but overall didn't get much done today
+* Productive shuttle ride home
+* Solid Jiu-Jitsu session
+* Surfed web for ~1hr after
+* Went to bed early
+* Overall okay day
+
 ## Week Review: 11/14/16 - 11/20/16
 **Stats**
 ```
@@ -84,6 +109,7 @@ Foods: 46 unique, 83 total, 16480 calories
 * Jerky           : 1    (60),   0.4%,   99.7%
 * Wine            : 1    (50),   0.3%,  100.0%
 ```
+
 **Overall**
 * Good week, getting back into good habits and work-life balance
 * Felt like fitness, work, and social was good

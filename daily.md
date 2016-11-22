@@ -11,6 +11,17 @@ Mantra:
 
 Notes:
 
+### Day 129 (Monday): 11/21/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Did Good Work   : N
+* Under 2000      : Y
+
+Notes:
+* Skipped morning workout, wanted a break and did chores instead
+* Wasn't focused for most of day, didn't get much done :(
+
 ## Week Review: 11/14/16 - 11/20/16
 **Stats**
 ```
