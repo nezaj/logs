@@ -24,6 +24,47 @@ Exercise:
 Notes:
 *
 
+### Day 281 (Wednesday): 11/23/16
+Weight: N/A
+
+Diet: 2440, 92g
+* Rice Cakes (240) + Berries (160) + Yogurt (120), 22g
+* Chicken Tenders (440), 40g
+* Chicken Tenders (330), 30g
+* Calzone (850) + Beer (300)
+
+Exercise: Cardio, Jiu-Jitsu
+
+Notes:
+* Woke up ~9am
+* Another not productive day, ended up working from home
+* Solid Jiu-Jitsu session with John
+* Headed to south bay for concert with Vi, very fun
+
+### Day 280 (Tuesday): 11/22/16
+Weight: 157.0lb
+
+Diet: 3110, 197g
+* Protein Powder (120) + Cottage Cheese (160), 53g
+* Quest Bar (190) + Milk (80), 27g
+* FB Lunch (1000), 70g
+* Yogurt (100), 17g
+* Chicken (200), 30g
+* Cookies (220) + PB (200) + Reeses (200) + Candy (200)
+* Seaweed (120) + Rice Cakes (120) + Fruit (200)
+
+Exercise: Lift
+* Crazy 8s: 3x80x10/10/10 (Repeat)
+* Squats (3s): 4x155x8 (Clean)
+* Bench: 3x170x5 (Clean)
+
+Notes:
+* Didn't really record today
+* Solid lift session
+* Not productive at work
+* Totally over-did calories with snacking at work and eating at night
+* Grabbed shisha and hosted Mark in evening, very chill
+
 ### Day 279 (Monday): 11/21/16
 Weight: 157.2lb
 

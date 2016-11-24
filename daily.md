@@ -11,6 +11,29 @@ Mantra:
 
 Notes:
 
+### Day 131 (Wednesday): 11/23/16
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Definitely overslept today
+* Computer bricked, couldn't get work done :(
+* Did lots of exercise today so went a bit over, felt okay though
+
+### Day 130 (Tuesday): 11/22/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Did Good Work   : N
+* Under 2000      : N
+
+Notes:
+* Not productive day, had to upgrade OSX and killed rest of my day
+* Oversnacked and ate at night with guests
+
 ### Day 129 (Monday): 11/21/16
 Mantra:
 * Woke up Early   : Y
