@@ -11,6 +11,16 @@ Mantra:
 
 Notes:
 
+### Hiatus (Thanksgiving weekend) 11/25/16 -> 11/26/16
+
+### Day 132 (Thursday): 11/24/16 (Thanksgiving)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Definitely went over calories during TG dinner
+
 ### Day 131 (Wednesday): 11/23/16
 Mantra:
 * Woke up Early   : N

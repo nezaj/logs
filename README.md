@@ -24,6 +24,28 @@ Exercise:
 Notes:
 *
 
+### Hiatus (Thanksgiving weekend) 11/25/16 -> 11/26/16
+
+### Day 282 (Thursday): 11/24/16 (Thanksgiving)
+Weight: N/A
+
+Diet: 3850
+* Noodle Soup (850)
+* Thanksgiving Dinner (3000)
+
+Exercise: Lift
+* Squats (3s): 3x165x8 (Clean)
+* OH Press: 3x105x5 (Clean)
+* Incline Bench: 3x135x5 (Clean)
+* Abs: 4x10 (Clean)
+
+Notes:
+* Woke up ~9am
+* Solid lift session
+* Chilling at Starbucks after, catching up logs, gonna hang with pop after
+* Chilled with pop a bit
+* Fun thanksgiving dinner with family
+
 ### Day 281 (Wednesday): 11/23/16
 Weight: N/A
 
