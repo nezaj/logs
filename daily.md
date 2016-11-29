@@ -11,6 +11,22 @@ Mantra:
 
 Notes:
 
+### Day 134 (Monday): 11/28/16
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Under 2000      : N
+
+Notes:
+* Let loose at work, definitely went over
+
+### Day 133 (Sunday): 11/27/16 (Clean)
+Mantra:
+* Solid Exercise  : Y
+* Under 2000      : Y
+
+Notes:
+
 ### Hiatus (Thanksgiving weekend) 11/25/16 -> 11/26/16
 
 ### Day 132 (Thursday): 11/24/16 (Thanksgiving)

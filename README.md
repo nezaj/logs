@@ -24,6 +24,52 @@ Exercise:
 Notes:
 *
 
+### Day 284 (Monday): 11/28/16
+Weight: 156.2lb
+
+Diet: 2430, 83g
+* Yogurt (120) + Protein Powder (120), 47g
+* Cheese (80), 8g
+* Rice (200) + Beef (300) + Fruit (150), 20g
+* PB (250) + Nutella (250) + Ice Cream (500) + Cookie (300)
+* Cheese (80) + Fruit Bar (90), 8g
+
+Exercise: Cardio
+* Embarcadero Run (w/ Vest): 5.5mi, 10:19/mi
+
+Notes:
+* Woke up ~9am, feeling great, didn't eat late night day before
+* Solid morning lift session
+* Chill brunch with friends
+* Wrapping up some chores in the afternoon
+* Fun mini jiu-jitsu session with Stepan
+* Wrapped more chores with cleaning, laundry, and groceries
+
+### Day 283 (Sunday): 11/27/16
+Weight: N/A
+
+Diet: 2000, 156g
+* Granola Brunch (700), 40g
+* Protein Powder (120) + Seaweed (60) + Flaxseed (200), 33g
+* Apple (80)
+* Chicken Tenders (330) + Turkey Balls (240), 58g
+* Veggies (150)
+* Protein Powder (120), 25g
+
+Exercise: Lift
+* Crazy 8s: 3x85x6/6/6 (Repeat)
+* Squats (3s): 3x175 (Clean)
+* Abs: 2x10, 2x7 (Clean)
+* Bench Press: 3x175x5 (Clean)
+
+Notes:
+* Woke up ~9am, feeling great, didn't eat late night day before
+* Solid morning lift session
+* Chill brunch with friends
+* Wrapping up some chores in the afternoon
+* Fun mini jiu-jitsu session with Stepan
+* Wrapped more chores with cleaning, laundry, and groceries
+
 ### Hiatus (Thanksgiving weekend) 11/25/16 -> 11/26/16
 
 ### Day 282 (Thursday): 11/24/16 (Thanksgiving)
