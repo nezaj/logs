@@ -11,6 +11,8 @@ Mantra:
 
 Notes:
 
+### Hiatus (End of year) 11/29/16 -> 01/02/17
+
 ### Day 134 (Monday): 11/28/16
 Mantra:
 * Woke up Early   : Y

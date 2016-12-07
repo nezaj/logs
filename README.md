@@ -24,6 +24,8 @@ Exercise:
 Notes:
 *
 
+### Hiatus (End of year) 11/29/16 -> 01/02/17
+
 ### Day 284 (Monday): 11/28/16
 Weight: 156.2lb
 
