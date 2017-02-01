@@ -7,15 +7,35 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
-### Day 2 (Wednesday): 01/26/17
-Weight: 156.0
+### Day 7 (Wednesday): 02/01/17
+Weight: N/A
+Exercise: Cardio, Stairmaster: 1hr, 11-16/17
 
-Exercise: Cardio
-* Stairmaster: 1hr, 11-16
+### Day 6 (Tuesday): 01/31/17
+Weight: N/A
+Exercise: Lift
+* Crazy 8s: 3x85x9/9/9 (Clean)
+* Pull-ups 26-30: Day 5 (Clean)
+* Tabata Push-ups: 8 rounds (Complete)
+
+### Day 5 (Monday): 01/30/17
+Weight: N/A
+Exercise: Cardio, Half Run, ~2.7mi
+
+### Day 4 (Saturday): 01/28/17
+Weight: N/A
+Exercise: Cardio, Run: ~7.5mi
+
+### Day 3 (Friday): 01/27/17
+Weight: 156.8
+Exercise: Morning rest, Jiu-Jitsu
+
+### Day 2 (Thursday): 01/26/17
+Weight: 156.0
+Exercise: Cardio, Stairmaster: 1hr, 11-16
 
 ### Day 1 (Wednesday): 01/25/17
 Weight: N/A
-
 Exercise: Lift
 * Crazy 8s: 3x85x8/9/8 (Clean)
 * Pull-ups 26-30: Day 4 (Clean)
