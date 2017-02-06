@@ -7,6 +7,20 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Day 9 (Monday): 02/06/17
+Weight: N/A
+Exercise: Cardio, NY Run, 4.5mi
+
+### Day 8 (Sunday): 02/05/17
+Weight: N/A
+Exercise: Lift
+* Crazy 8s: 3x85x9/10/9 (Clean)
+* Pull-ups 26-30: Day 6 (Repeat)
+* Tabata Push-ups: 8 rounds (Complete)
+
+### NO LOG: 02/02/17 -> 02/04/17
+
+
 ### Day 7 (Wednesday): 02/01/17
 Weight: N/A
 Exercise: Cardio, Stairmaster: 1hr, 11-16/17
