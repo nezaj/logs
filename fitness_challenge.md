@@ -7,6 +7,18 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Day 15 (Sunday): 02/12/17
+Weight: N/A
+Exercise: Cardio, Treadmill, 45min
+
+### Day 14 (Saturday): 02/11/17
+Weight: N/A
+Exercise: Cardio, Treadmill, 40min
+
+### Day 13 (Friday): 02/10/17
+Weight: N/A
+Exercise: Jiu-Jitsu, 2hr
+
 ### Day 12 (Thursday): 02/09/17
 Weight: N/A
 Exercise: Rest
