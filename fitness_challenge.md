@@ -7,6 +7,14 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Day 17 (Tuesday): 02/14/17
+Weight: N/A
+Exercise: Cardio, Stairmaster, 40min
+
+### Day 16 (Monday): 02/13/17
+Weight: N/A
+Exercise: Rest
+
 ### Day 15 (Sunday): 02/12/17
 Weight: N/A
 Exercise: Cardio, Treadmill, 45min
@@ -46,7 +54,6 @@ Exercise: Lift
 * Tabata Push-ups: 8 rounds (Complete)
 
 ### NO LOG: 02/02/17 -> 02/04/17
-
 
 ### Day 7 (Wednesday): 02/01/17
 Weight: N/A
