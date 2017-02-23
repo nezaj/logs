@@ -7,6 +7,47 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Day 26 (Thursday): 02/23/17
+Weight: 154.4
+Exercise: Lift
+* Crazy 8s: 3x90x6/6/6 (Clean)
+* Pull-ups 26-30: Day 6 (Complete)
+* Tabata Push-ups: 8 rounds (Complete)
+
+### Day 25 (Wednesday): 02/22/17
+Weight: 155.2
+Exercise: Cardio, Jiu-Jitsu
+* Treadmill, 60min
+
+### Day 24 (Tuesday): 02/21/17
+Weight: N/A
+Exercise: Cardio, Treadmill, 40min
+
+### Day 23 (Monday): 02/20/17
+Weight: N/A
+Exercise: Cardio, Treadmill, 40min
+
+### Day 22 (Sunday): 02/19/17
+Weight: N/A
+Exercise: Cardio, Outdoor Run, 60min
+
+### Day 21 (Saturday): 02/18/17
+Weight: N/A
+Exercise: Cardio, Treadmill, 60min
+
+### Day 20 (Friday): 02/17/17
+Weight: N/A
+Exercise: Cardio, Treadmill, 40min
+
+### Day 19 (Thursday): 02/16/17
+Weight: N/A
+Exercise: Cardio, Treadmill, 40min
+
+### Day 18 (Wednesday): 02/15/17
+Exercise: Lift
+* Crazy 8s: 3x90x6/6/6 (Clean)
+* Pull-ups 26-30: Day 6 (Repeat)
+
 ### Day 17 (Tuesday): 02/14/17
 Weight: N/A
 Exercise: Cardio, Stairmaster, 40min
