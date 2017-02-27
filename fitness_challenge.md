@@ -7,6 +7,26 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Day 30 (Monday): 02/27/17
+Weight: N/A
+Exercise: Lift
+* Crazy 8s: 3x90x6/7/6 (Clean)
+* Pull-ups 26-30: Day 7 (Repeat)
+* Tabata Push-ups: 2 rounds (Injured hand?)
+* Leg Lifts: 1x12
+
+### Day 29 (Sunday): 02/26/17
+Weight: N/A
+Exercise: Cardio, Santa Cruz Run, 5.5mi
+
+### Day 28 (Saturday): 02/25/17
+Weight: N/A
+Exercise: Rest
+
+### Day 27 (Friday): 02/24/17
+Weight: 156.2
+Exercise: Cardio, Embarcadero Run, 3mi
+
 ### Day 26 (Thursday): 02/23/17
 Weight: 154.4
 Exercise: Lift
