@@ -7,9 +7,19 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Jan/Feb (31 Days) Review
+* Lift: 7
+* Cardio: 18
+* Rest: 3
+* No Log: 3
+
+### Day 31 (Tuesday): 02/28/17
+Weight: 154.8
+Exercise: Cardio, Treadmill, 40min
+
 ### Day 30 (Monday): 02/27/17
 Weight: N/A
-Exercise: Lift
+Exercise: Lift, Jiu-Jitsu
 * Crazy 8s: 3x90x6/7/6 (Clean)
 * Pull-ups 26-30: Day 7 (Repeat)
 * Tabata Push-ups: 2 rounds (Injured hand?)
