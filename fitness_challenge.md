@@ -7,6 +7,16 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Day 33 (THursday): 03/02/17
+Weight: N/A
+Exercise: Lift/Cardio
+* Crazy 8s: 3x90x7/7/7 (Repeat)
+* Treadmill: 30min
+
+### Day 32 (Wednesday): 03/01/17
+Weight: 154.4
+Exercise: Cardio, Treadmill, 40min
+
 ### Jan/Feb (31 Days) Review
 * Lift: 7
 * Cardio: 18
@@ -16,6 +26,12 @@
 ### Day 31 (Tuesday): 02/28/17
 Weight: 154.8
 Exercise: Cardio, Treadmill, 40min
+Diet: 1660, 167g
+* 2 Yogurt (200), 34g
+* Carrots + Celery (60)
+* Lunch (1000), 80g
+* Muscle Milk Bar (200), 19g
+* 2 Yogurt (200), 34g
 
 ### Day 30 (Monday): 02/27/17
 Weight: N/A
