@@ -7,6 +7,21 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Day 36 (Sunday): 03/05/17
+Weight: N/A
+Exercise: Lift
+* Crazy 8s: 3x90x7/7/7 (Clean)
+* Pull-ups 26-30: Day 7 (Clean)
+* Leg Lifts: 4x13
+
+### Day 35 (Saturday): 03/04/17
+Weight: N/A
+Exercise: Cardio, Embarcadero Run, 5.5mi
+
+### Day 34 (Friday): 03/03/17
+Weight: N/A
+Exercise: Jiu-Jitsu
+
 ### Day 33 (THursday): 03/02/17
 Weight: N/A
 Exercise: Lift/Cardio
