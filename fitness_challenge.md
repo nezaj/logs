@@ -7,6 +7,28 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Day 41 (Friday): 03/10/17
+Weight: N/A
+Exercise: Cardio, Jiu-Jitsu
+* Embarcadero Run: 5.5mi
+
+### Day 40 (Thursday): 03/09/17
+Weight: N/A
+Exercise: Cardio, Treadmill, 30min
+
+### Day 39 (Wednesday): 03/08/17
+Weight: N/A
+Exercise: Jiu Jitsu
+
+### Day 38 (Tuesday): 03/07/17
+Weight: N/A
+Exercise: Rest Day
+
+### Day 37 (Monday): 03/06/17
+Weight: N/A
+Exercise: Cardio,
+* Treadmill, 40min
+
 ### Day 36 (Sunday): 03/05/17
 Weight: N/A
 Exercise: Lift
