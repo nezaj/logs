@@ -1,4 +1,4 @@
-## Daily Log
+## Fitness Log: 2016
 
 ### Keys to Success
 Morning:

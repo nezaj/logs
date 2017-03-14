@@ -1,4 +1,4 @@
-## Daily Mantra Log
+## Daily Mantra Log: 2016
 Notes to self:
 * Don't forget to include "Notes:" for clean days for parseMantra
 

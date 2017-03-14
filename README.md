@@ -6,9 +6,25 @@
 * Push-ups: 200x/daily
 * Abs: 4x30
 
+### Keys to Success
+Morning:
+* Don't go back to bed after turning off alarm
+* Drink PWO/Coffee right away and get moving
+* Get in a solid workout as the first part of your day
+
+Day:
+* Eat clean, keep calories ~2000 +/- 20%
+* Ship code every working weekday to feel good
+
+Evening:
+* Don't eat late, make up calories the next day
+* Be in bed by 11pm if you have work the next day
+
 ### Day 44 (Monday): 03/13/17
 Weight: N/A
+
 Exercise: Jiu-Jitsu
+
 Diet: 1750, 140g
 * Brisket (400) + Chicken (300) + MacNCheese (250) + Corn Bread (250), 80g
 * Frozen Berries (150) + Yogurt (200) + Cottage Cheese (200), 60g
