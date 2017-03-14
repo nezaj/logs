@@ -1,11 +1,29 @@
 # Fitness Goals:
 * Start: 01/22/17
-* End: 04/16/17 (12 weeks)
 * Weight: 144.0lb, morning
 * Crazy 8s: 3x100x8
-* Pull-ups: 40+ reps
+* Pull-ups: 50+ reps
 * Push-ups: 200x/daily
 * Abs: 4x30
+
+### Day 44 (Monday): 03/13/17
+Weight: N/A
+Exercise: Jiu-Jitsu
+Diet: 1750, 140g
+* Brisket (400) + Chicken (300) + MacNCheese (250) + Corn Bread (250), 80g
+* Frozen Berries (150) + Yogurt (200) + Cottage Cheese (200), 60g
+
+### Day 43 (Sunday): 03/12/17
+Weight: N/A
+Exercise: Cardio, Embarcadero Run, 3.0mi
+
+### Day 42 (Saturday): 03/11/17
+Weight: N/A
+Exercise: Lift
+* Crazy 8s: 3x90x7/7/7 (Clean)
+* Pull-ups 26-30: Day 8 (Repeat)
+* Tabata Push-ups: 8 rounds (Complete)
+* Leg Lifts: 4x14
 
 ### Day 41 (Friday): 03/10/17
 Weight: N/A
