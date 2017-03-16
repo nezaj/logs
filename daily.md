@@ -11,12 +11,23 @@ Mantra:
 
 Notes:
 
+### Day 3 (Wednesday): 03/15/17
+Mantra:
+* Woke up Early   : N
+* Solid Exercise  : N
+* Ate Clean       : Y
+* Did Good Work   : Y
+
+Notes:
+* Not enough sleep from previous night, lounged in bed
+* Missed morning workout
+
 ### Day 2 (Tuesday): 03/14/17
 Mantra:
 * Woke up Early   : Y
 * Solid Exercise  : N
-* Ate Clean       :
-* Did Good Work   :
+* Ate Clean       : Y
+* Did Good Work   : Y
 
 Notes:
 * Didn't wake up early enough for morning exercise

@@ -20,6 +20,41 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 45 (Wednesday): 03/15/17
+Exercise: Rest Day
+
+Diet: 2050, 104g
+* Pork Belly (400) + Meatballs (150) + Chicken (250) + Rice (250), 50g
+* Quest Bar (200), 20g
+* Veggies (50)
+* Yougrt (200), 34g
+* Beer (150)
+* Rice (200) + Fried Catfish (200)
+
+Notes:
+* Woke up tired, not motivated enough to work out in morning
+* Much more producitive day
+* UCLA HH event / dinner in the evening
+* Got guitar, watched a few videos at night
+* Went to bed ~12am
+
+### Day 44 (Tuesday): 03/14/17
+Weight: 158.6
+
+Exercise: Rest Day
+
+Diet: 2100, 124g
+* Chicken (400) + Bacon (300) + Chili (200) + Veggies (100), 80g
+* Yogurt (200), 34g
+* Veggies (50)
+* Stone Rice Bowl (850), 10g
+
+Notes:
+* Restarting detailed logs / notes today
+* Mediocore productivity at work
+* Dinner/Movie in the evening
+* Went to bed ~12:30am
+
 ### Day 44 (Monday): 03/13/17
 Weight: N/A
 
