@@ -11,6 +11,15 @@ Mantra:
 
 Notes:
 
+### Day 4 (Thursday): 03/16/17 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Ate Clean       : Y
+* Did Good Work   : Y
+
+Notes:
+
 ### Day 3 (Wednesday): 03/15/17
 Mantra:
 * Woke up Early   : N

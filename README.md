@@ -20,6 +20,27 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 46 (Thursday): 03/16/17
+Exercise: Cardio
+* Treadmill: 45min
+
+Diet: 2310, 121g
+* Chicken (400) + Avocado (200) + Bacon (300) + Chili (200), 70g
+* Apple (100)
+* Veggies (60)
+* Yogurt (100), 17g
+* Yogurt (200), 34g
+* Apple (200)
+* Raspberries (160)
+* Strawberries (150)
+* Rice Cakes (240)
+
+Notes:
+* Solid morning run
+* Productive day at work
+* Tired towards end of day, ended up surfing web and watching Indian movie
+* Over-snacked a bit in evening
+
 ### Day 45 (Wednesday): 03/15/17
 Exercise: Rest Day
 
