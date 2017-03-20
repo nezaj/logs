@@ -20,6 +20,29 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Weekly Review
+* Overall great week
+* Felt like I ate much cleaner -> feeling clean
+* Lots of activities
+* Lots of intospection, feeling more positive
+* Feeling excited for upcoming week!
+
+### Day 47 (Friday): 03/17/17
+Exercise: Rest
+
+Diet: 2260, 80g
+* Lunch (1000), 60g
+* Veggies (60)
+* Wine (150)
+* Indian Food (600) + Wine (150), 20g
+* Alcohol (300)
+
+Notes:
+* Lazy morning
+* Feeling pensive again, but mind feels clean
+* Decent work productivty
+* FUn evening with Nana, family, and Danya
+
 ### Day 46 (Thursday): 03/16/17
 Exercise: Cardio
 * Treadmill: 45min

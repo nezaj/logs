@@ -11,6 +11,16 @@ Mantra:
 
 Notes:
 
+### Day 5 (Friday): 03/17/17
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Ate Clean       : Y
+* Did Good Work   : Y
+
+Notes:
+* Lazy feel this morning, skipped out on workout
+
 ### Day 4 (Thursday): 03/16/17 (Clean)
 Mantra:
 * Woke up Early   : Y
