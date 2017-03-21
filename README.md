@@ -20,6 +20,24 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 48 (Monday): 03/20/17
+Exercise: Stretch, Cardio, Jiu-Jitsu
+* 20min stretch (first one in forever!)
+* Treadmill: 30min (low energy)
+
+Diet: 2760, 171g
+* Chicken (600) + Bacon (400) + Avocado (150) + Pineapple (200), 100g
+* Muscle Milk Bar (200), 15g
+* Luna Bar (180), 8g
+* Veggies (60)
+* Berries (160) + Rice Cakes (240) + Cheese (480) + Fruit Bar (100), 48g
+
+Notes:
+* Slept a lot last night, woke up a bit low energy but still worked out
+* Productive at work
+* Solid Jiu-Jitsu
+* Guitar a bit, very hungry at night though and over-snacked
+
 ### Weekly Review
 * Overall great week
 * Felt like I ate much cleaner -> feeling clean

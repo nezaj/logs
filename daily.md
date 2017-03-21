@@ -11,6 +11,16 @@ Mantra:
 
 Notes:
 
+### Day 6 (Monday): 03/20/17
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Ate Clean       : N
+* Did Good Work   : Y
+
+Notes:
+* Oversnacked at night
+
 ### Day 5 (Friday): 03/17/17
 Mantra:
 * Woke up Early   : Y
