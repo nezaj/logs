@@ -11,6 +11,17 @@ Mantra:
 
 Notes:
 
+### Day 7 (Tuesday): 03/21/17
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : N
+* Ate Clean       : N
+* Did Good Work   : Y
+
+Notes:
+* Did a half workout in the AM
+* Overate at movies
+
 ### Day 6 (Monday): 03/20/17
 Mantra:
 * Woke up Early   : Y

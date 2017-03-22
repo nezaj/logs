@@ -20,6 +20,23 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 49 (Tuesday): 03/21/17
+Exercise: Semi-Lift
+* Crazy 8s: 3x90x8/8/8 (Clean)
+* Tabata Push-ups: 8 rounds (Complete)
+
+Diet: 3150, 10g
+* Mac N Cheese (350) + Brisket (500) + Cornbread (250), 50g
+* Bacon (450) + PB/Chocolate Sandwhich (500), 10g
+* Popcorn (800) + Ice Cream (300)
+
+Notes:
+* Tired in the morning, got half workout in
+* Productive shuttle ride though
+* Feeling definitely lower energy and hungry, had a huge lunch at work
+* Productive day
+* Went to movies with team in evening
+
 ### Day 48 (Monday): 03/20/17
 Exercise: Stretch, Cardio, Jiu-Jitsu
 * 20min stretch (first one in forever!)
