@@ -20,7 +20,25 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 50 (Wednesday): 03/22/17
+Exercise: Cardio, Jiu-Jitsu
+* Embarcadero Run, 5.6mi
+
+Diet: 520, 25g
+* Strawberries (150)
+* Apple (100)
+* Protein Shake (120), 25g
+* Strawberries (150)
+
+Notes:
+* Solid morning run
+* WFH, productive day
+* Solid Jiu-Jitsu session
+* Chill evening watched Netflix
+
 ### Day 49 (Tuesday): 03/21/17
+Weight: 157.2 (-1.4)
+
 Exercise: Semi-Lift
 * Crazy 8s: 3x90x8/8/8 (Clean)
 * Tabata Push-ups: 8 rounds (Complete)
