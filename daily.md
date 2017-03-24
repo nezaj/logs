@@ -11,6 +11,15 @@ Mantra:
 
 Notes:
 
+### Day 9 (Thursday): 03/23/17 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Ate Clean       : Y
+* Did Good Work   : Y
+
+Notes:
+
 ### Day 8 (Wednesday): 03/22/17 (Clean)
 Mantra:
 * Woke up Early   : Y

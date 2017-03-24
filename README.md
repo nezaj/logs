@@ -20,6 +20,27 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 51 (Thursday): 03/23/17
+Exercise: Stretch, Legs
+* Stretch
+* Leg Curls: 3x80x8/8/8 (Clean)
+* Leg Extensions: 3x95x8/8/8 (Clean)
+* Leg Press: 3x215x8/8/8 (Clean)
+
+Diet: 2670, 152g
+* Chicken (450) + Rice (200) + Tofu (200) + Ground Pork (150), 70g
+* Veggies (50)
+* Muscle Milk Bar (200), 15g
+* Fiber Cookie (120)
+* Yogurt (100), 17g
+* Chips (400) + Tampiqueno (800), 50g
+
+Notes:
+* Woke up feeling good
+* First leg day in awhile
+* Productive work day
+* Fun dinner / shisha with friends in evening
+
 ### Day 50 (Wednesday): 03/22/17
 Exercise: Cardio, Jiu-Jitsu
 * Embarcadero Run, 5.6mi
