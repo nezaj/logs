@@ -20,6 +20,18 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 52 (Friday): 03/24/17
+Exercise: Jiu-Jitsu
+
+Diet: 1390, 86g
+* Falafel (500) + Brisket (400), 40g
+* Baybel Cheese (200) + Kitkat (50), 20g
+* Baybel Cheese (140) + Yogurt (120), 26g
+
+Notes:
+* Woke up feeling a bit full, was in pensive mode so skipped morning workout
+* Fun shuttle ride catching up with Stepan
+
 ### Day 51 (Thursday): 03/23/17
 Exercise: Stretch, Legs
 * Stretch

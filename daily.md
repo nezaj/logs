@@ -11,6 +11,25 @@ Mantra:
 
 Notes:
 
+## Week Review: 03/20/17 - 03/24/17
+**Stats**
+```
+* Cleans          : 4/5
+* Woke up Early   : 5/5
+* Solid Exercise  : 4/5
+* Ate Clean       : 3/5
+* Did Good Work   : 5/5
+```
+
+### Day 10 (Friday): 03/24/17 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Ate Clean       : Y
+* Did Good Work   : Y
+
+Notes:
+
 ### Day 9 (Thursday): 03/23/17 (Clean)
 Mantra:
 * Woke up Early   : Y
