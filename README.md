@@ -20,10 +20,31 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 53 (Tuesday): 03/28/17
+Weight: 157.8lb
+
+Exercise: Cardio, Embarcadero RUn, 5.5mi
+
+Diet: 1810, 120g
+* Brisket (400) + Mac N Cheese (250) + Cornbread (250), 40g
+* Cheese (140), 14g
+* Veggies (50) + Yogurt (100), 17g
+* PB (200), 8g
+* Kitkat (150)
+* Yogurt (100), 17g
+* Cheese (70), 7g
+* Yogurt (100), 17g
+
+Notes:
+* Woke up feeling good, solid morning run
+* Slow productivity in the morning
+* Helped Gary in evening
+* Relaxed in evening, wathced some anime, caught up with Stepan
+
 ### Day 52 (Friday): 03/24/17
 Exercise: Jiu-Jitsu
 
-Diet: 1390, 86g
+Diet: 1490, 86g
 * Falafel (500) + Brisket (400), 40g
 * Baybel Cheese (200) + Kitkat (50), 20g
 * Baybel Cheese (140) + Yogurt (120), 26g
