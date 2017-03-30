@@ -20,6 +20,23 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 54 (Wednesday): 03/29/17
+Exercise: Jiu-Jitsu
+
+Diet: 1740, 110g
+* Rice (300) + Brisket (250) + Pork (250) + Tofu (100), 50g
+* Cheese (140), 10g
+* PB (200), 8g
+* PB (200) + Banana (100), 8g
+* Yogurt (200), 34g
+
+Notes:
+* Felt tired in AM, lounged in bed and missed workout
+* Somewhat product day, not much code but good progress on ideas / feedback
+* EOD work felt good, came up with a new project
+* Solid Jiu-Jitsu session
+* Chill evening will anime
+
 ### Day 53 (Tuesday): 03/28/17
 Weight: 157.8lb
 
