@@ -11,6 +11,15 @@ Mantra:
 
 Notes:
 
+### Day 13 (Thursday): 03/30/17 (Clean)
+Mantra:
+* Woke up Early   : Y
+* Solid Exercise  : Y
+* Ate Clean       : Y
+* Did Good Work   : Y
+
+Notes:
+
 ### Day 12 (Wednesday): 03/29/17 (Clean)
 Mantra:
 * Woke up Early   : Y

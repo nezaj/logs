@@ -20,6 +20,19 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 55 (Thursday): 03/30/17
+Exercise: Cardio, Embarcadero RUn, 5.5mi
+
+Diet: 2100, 90g
+* Rice (200) + Brisket (300) + Tofu (300) + Dumplings (300), 60g
+* Mee Goreng (1000), 30g
+
+Notes:
+* Felt good waking up in AM
+* Solid morning run
+* Decent productive day
+* Fun evening @ Color Me Mine
+
 ### Day 54 (Wednesday): 03/29/17
 Exercise: Jiu-Jitsu
 
