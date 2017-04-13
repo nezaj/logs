@@ -20,8 +20,28 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 56 (Wednesday): 04/12/17
+Weight: 155.0lb
+
+Exercise: Lift, Jiu-Jitsu
+* Pull-ups 26-30: Day 9 (Clean)
+
+Diet: 1415, 112g
+* Rice (200) + Chicken (450) + Eggplant (100) + Spinach (50), 70g
+* SB Coffee (15)
+* PB (200) + Banana (100), 8g
+* Yogurt (200), 34g
+
+Notes:
+* Restarting logs again
+* Stomach still hurts a bit from food poisoning
+* Not enough time for full workout, still got pull-ups in
+* Productive work day
+* Decent Jiu-Jitsu session
+* Chiil hookah session with Stepan
+
 ### Day 55 (Thursday): 03/30/17
-Exercise: Cardio, Embarcadero RUn, 5.5mi
+Exercise: Cardio, Embarcadero Run, 5.5mi
 
 Diet: 2100, 90g
 * Rice (200) + Brisket (300) + Tofu (300) + Dumplings (300), 60g
@@ -51,9 +71,9 @@ Notes:
 * Chill evening will anime
 
 ### Day 53 (Tuesday): 03/28/17
-Weight: 157.8lb
+Weight: 157.8lb (+0.6)
 
-Exercise: Cardio, Embarcadero RUn, 5.5mi
+Exercise: Cardio, Embarcadero Run, 5.5mi
 
 Diet: 1810, 120g
 * Brisket (400) + Mac N Cheese (250) + Cornbread (250), 40g
@@ -220,7 +240,7 @@ Notes:
 * Went to bed ~12am
 
 ### Day 44 (Tuesday): 03/14/17
-Weight: 158.6
+Weight: 158.6 (Initial)
 
 Exercise: Rest Day
 

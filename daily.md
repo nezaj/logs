@@ -11,6 +11,25 @@ Mantra:
 
 Notes:
 
+### Day 14 (Wednesday): 04/12/17 (Clean)
+Mantra:
+* AM Exercise     : Y
+* >=1 Diff        : Y
+* Ate Clean       : Y
+* Jiu-Jitsu       : Y
+
+Notes:
+
+## Week Review: 03/28/17 - 03/30/17
+**Stats**
+```
+* Cleans          : 3/3
+* Woke up Early   : 3/3
+* Solid Exercise  : 3/3
+* Ate Clean       : 3/3
+* Did Good Work   : 2/3
+```
+
 ### Day 13 (Thursday): 03/30/17 (Clean)
 Mantra:
 * Woke up Early   : Y
