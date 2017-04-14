@@ -20,8 +20,33 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 57 (Thursday): 04/13/17
+Weight: 153.6lb
+
+Exercise: N/A
+
+Diet: 2690, 101g
+* Coffee (15)
+* PB (200) + Cheese (70), 13g
+* Carrots (20)
+* Rice (400) + Chicken (400) + Pork Belly (300), 70g
+* Luna bar (180)
+* 2 Apple (200)
+* Coffee (15)
+* Cheese (140) + PB (200), 18g
+* Frozen Berries (100)
+* Oatmeal (250) + Flaxseed (200), 10g
+
+Notes:
+* Woke up tired/low-energy, probably drained from evening Shisha
+* Finished up chores in the morning instead of working out
+* Feeling chill this morning at work
+* Felt ache-y after lunch, low work productivity
+* Went to founder's social event with Stepan
+* Chilled in evening
+
 ### Day 56 (Wednesday): 04/12/17
-Weight: 155.0lb
+Weight: 154.8lb
 
 Exercise: Lift, Jiu-Jitsu
 * Pull-ups 26-30: Day 9 (Clean)

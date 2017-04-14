@@ -2,18 +2,17 @@
 Notes to self:
 * Don't forget to include "Notes:" for clean days for parseMantra
 
-### Day
+### Day 15 (Thursday): 04/13/17
 Mantra:
-* Woke up Early   :
-* Solid Exercise  :
-* Ate Clean       :
-* Did Good Work   :
+* Exercise        : N
+* >=1 Diff        : N
+* Ate Clean       : Y
 
 Notes:
 
 ### Day 14 (Wednesday): 04/12/17 (Clean)
 Mantra:
-* AM Exercise     : Y
+* Exercise        : Y
 * >=1 Diff        : Y
 * Ate Clean       : Y
 * Jiu-Jitsu       : Y

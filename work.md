@@ -6,12 +6,15 @@
 
 ### Day 2 (Thursday): 04/13/17
 Checklist:
-* Diff/Day:
-* Productivity:
+* Diff/Day      : No
+* Productivity  : Low
 
-Diffs:
+Diffs: N/A
 
 Notes:
+* Did some digging around today on Elastic indexing but not actual diffs
+* Was feeling very tired/achey after lunch, stomach is still a bit off
+* Idea: Try to fix at least one bug for diff/day
 
 ### Day 1 (Wednesday): 04/12/17
 Checklist:

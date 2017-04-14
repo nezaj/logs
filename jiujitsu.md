@@ -5,7 +5,6 @@
 * Make extra sure to eat clean day of class (good protein/carb/fats)
 * Visualize 1-2 techniques you want to work on for that class
 
-
 ### Day 1 (Wednesday): 04/12/17
 Checklist:
 * Quality               : Ok
