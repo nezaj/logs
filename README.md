@@ -1,4 +1,6 @@
-# Fitness Goals:
+# Fitness Log: 2017
+
+### Fitness Goals:
 * Start: 01/22/17
 * Weight: 144.0lb, morning
 * Crazy 8s: 3x100x8
@@ -19,6 +21,21 @@ Day:
 Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
+
+### Day 58 (Friday): 04/14/17
+Exercise: Jiu-Jitsu
+
+Diet: 1810, 78g
+* Turkey Jerky (180), 33g
+* 2 Falafel (1200), 20g
+* Cheese (70) + Yogurt (200), 25g
+* Juice (260)
+
+Notes:
+* Fell asleep late and woke up late, skipped morning work out again
+* Feeling relaxed this morinng again
+* Overdid it on the falafels a bit, tasted great though
+* Wasn't overly hungry today
 
 ### Day 57 (Thursday): 04/13/17
 Weight: 153.6lb

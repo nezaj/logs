@@ -4,6 +4,20 @@
 * Diff a day
 * Eat clean at work
 
+### Day 3 (Friday): 04/14/17
+Checklist:
+* Diff/Day      : Yes
+* Productivity  : Low
+
+Diffs:
+* D4893687: [COMET] Don't show former employees in add reviewer type-ahead
+
+Notes:
+* Good team discussions today
+* Fun team lunch
+* Feeling better about work
+* Fixed bug as oncall
+
 ### Day 2 (Thursday): 04/13/17
 Checklist:
 * Diff/Day      : No
