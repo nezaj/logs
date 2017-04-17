@@ -3,6 +3,16 @@
 Notes to self:
 * Don't forget to include "Notes:" for clean days for parseMantra
 
+### Day 18 (Sunday): 04/16/17
+Mantra:
+* Exercise        : Y
+* Ate Clean       : Y
+
+Notes:
+* Solid AM workout
+* Nice lunch with dim sum crew today
+* Great Jiu-Jitsu session in the evening
+
 ### Day 17 (Saturday): 04/15/17
 Mantra:
 * Exercise        : Y
@@ -11,6 +21,7 @@ Mantra:
 Notes:
 * Good brunch in AM with Kaiwen
 * Getting chores done
+* Fun evening @ Mr. Smith's
 
 ### Day 16 (Friday): 04/14/17
 Mantra:

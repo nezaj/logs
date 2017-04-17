@@ -22,6 +22,21 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 60 (Sunday): 04/16/17
+Exercise: Lift, Jiu-Jitsu
+* Crazy 8s: 3x85x9/9/9 (Clean)
+* Pull-ups 31-35: Day 1 (Clean)
+
+Diet: 1500, 30g
+* Dim Sum (1300), 40g
+* Frozen Berries (100)
+* Carrots (100)
+
+Notes:
+* Good mini-lift sessino
+* Made me realize even more how I can modularize my workouts
+* Solid jiu-jitsu in evening @ apt
+
 ### Day 59 (Saturday): 04/15/17
 Exercise: Cardio, Embarcadero Run: 5.5mi
 

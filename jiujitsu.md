@@ -5,6 +5,18 @@
 * Make extra sure to eat clean day of class (good protein/carb/fats)
 * Visualize 1-2 techniques you want to work on for that class
 
+### Day 3 (Sunday): 04/16/17 (Bonus)
+Checklist:
+* Quality               : Solid
+* Ate clean beforehand  : Yes
+* Prepared technique    : Yes, Cross-choke from Mount
+* Practiced technique   : Yes
+
+Notes:
+* Did a bonus evening session at home
+* Reviewed triangle technique with Vinh, went over three variations
+* Solid ~3.5hrs practice
+
 ### Day 2 (Friday): 04/14/17
 Checklist:
 * Quality               : Solid
