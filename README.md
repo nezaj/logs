@@ -22,6 +22,22 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 59 (Saturday): 04/15/17
+Exercise: Cardio, Embarcadero Run: 5.5mi
+
+Diet: 2600, 30g
+* Protein Powder (120) + Flaxseed (200), 30g
+* Strawberries (80) + Mandarins (200)
+* Calamari (450) + Snickers (250)
+* Bento Box (1200)
+* Frozen Berries (100)
+
+Notes:
+* Solid morning run
+* Def feeling hungry in the AM, was able to snack a bit
+* Ate some candy, but savored it, felt good
+* Big dinner with friends
+
 ### Day 58 (Friday): 04/14/17
 Exercise: Jiu-Jitsu
 

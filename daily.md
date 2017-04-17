@@ -1,6 +1,16 @@
-## Daily Mantra Log: 2017
+# Daily Review Log: 2017
+
 Notes to self:
 * Don't forget to include "Notes:" for clean days for parseMantra
+
+### Day 17 (Saturday): 04/15/17
+Mantra:
+* Exercise        : Y
+* Ate Clean       : Y
+
+Notes:
+* Good brunch in AM with Kaiwen
+* Getting chores done
 
 ### Day 16 (Friday): 04/14/17
 Mantra:
@@ -10,6 +20,8 @@ Mantra:
 * Jiu-Jitsu       : Y
 
 Notes:
+* Overall chill day
+* Felt good at work, JiuJitsu, and catching up with buds in evening
 
 ### Day 15 (Thursday): 04/13/17
 Mantra:
