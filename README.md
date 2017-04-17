@@ -22,15 +22,57 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Week Review: 04/10/17 - 04/16/17
+**Overall:** 13/16 -- Good
+
+Exercise:
+* **Overall:** 3/5 -- Okay
+* Skipped several morning workouts
+* Mostly due to low energy in the morning
+* And this is because of food poisoning / poor sleep
+* However, good progress on pull-ups, finally training 31-35 bucket
+* Feeling like modularizing workouts is good if not enough time for 1 hour
+* -> Goal: Lift 4x this week
+
+Diet:
+* **Overall:** 5/5 -- Great
+* Average Cals: 2093
+* Ate out a bit but was overall clean, no binges, great job!
+
+Jiu-Jitsu:
+* **Overall:** 3/3 -- Great
+* Worked cross-choke from mount this week, felt pretty good
+* Will continue working this choke next week
+
+Work:
+* **Overall:** 2/3 -- Okay
+* Bit more productive this week but not overly so
+* Still looking to find my passion project
+* Will keep pushing on this front
+
+Personal:
+* Restarted serious logging efforts this week
+* Feels right to be getting back into old habits
+* Had food poisoning at beginning of week, not fun
+* Felt lots of loves this week from family, friends, co-workers
+* Still thinking about how to improve work motivation
+* Haven't started working on personal projects yet
+* -> Goal: Start outlining work to be done for interview camp
+
+Goals to keep in mind for next week:
+* Exercise: Lift 4x this week
+* Personal: Start outlining work to be done for interview camp
+
 ### Day 60 (Sunday): 04/16/17
 Exercise: Lift, Jiu-Jitsu
 * Crazy 8s: 3x85x9/9/9 (Clean)
 * Pull-ups 31-35: Day 1 (Clean)
 
-Diet: 1500, 30g
+Diet: 1950, 70g
 * Dim Sum (1300), 40g
 * Frozen Berries (100)
 * Carrots (100)
+* Yogurt (300) + Raspberries (150), 40g
 
 Notes:
 * Good mini-lift sessino
