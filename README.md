@@ -1,4 +1,4 @@
-# Fitness Log: 2017
+# Daily Log: 2017
 
 ### Fitness Goals:
 * Start: 01/22/17
@@ -6,7 +6,7 @@
 * Crazy 8s: 3x100x8
 * Pull-ups: 50+ reps
 * Push-ups: 200x/daily
-* Abs: 4x30
+* Abs: Six Pack
 
 ### Keys to Success
 Morning:
@@ -21,6 +21,46 @@ Day:
 Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
+
+### Day 61 (Monday): 04/17/17
+Overall: Okay
+
+Daily:
+* Exercise        : N
+* Productive Work : Y
+* Ate Clean       : N
+
+Weight: 155.4lb
+
+Exercise: N/A
+
+Diet: 3440, 101g
+* Cheese (140) + Muscle Milk (200), 25g
+* Muffin (100) + Banana Pastry (150)
+* Reese's PB (100) + Ghilaredili (100) + Chocolate Almonds (100)
+* Rice (400) + Beef (250) + Chicken (250), 50g
+* Ice Cream (600) + Snickers (100)
+* Cheese (140) + Juice (260), 10g
+* Yogurt (200) + Berries (100), 26g
+* Snickers (250)
+
+Jiu-Jitsu:
+* Quality               : Okay
+* Ate clean beforehand  : No, but not too bad
+* Prepared technique    : Cross-choke from mount, Triangle from guard
+* Practiced technique   : Yes, a little
+
+Notes:
+* Woke up ~8:15am, felt very tired last night
+* Slow morning, skipped morning workout
+* Hosted visitors @ work, pretty chill
+* Feeling low energy today so loaded up in sugar
+* Ended up loading up on calories in general today
+* No diffs today, but very productive product planning for mobile claims app
+* Jiu-Jitsu was packed, didn't get to spar as intensely as I would have liked
+* Feeling hungry after class, decided to indulge
+* Relaxed in the evening
+* Looking back, I ate too much sweets today, ~1500cals in sugar
 
 ### Week Review: 04/10/17 - 04/16/17
 **Overall:** 13/16 -- Good
