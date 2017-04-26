@@ -22,8 +22,44 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 62 (Tuesday): 04/25/17
+Overall: Good day
+
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       : Y
+
+Weight: 153.8lb
+
+Exercise: Cardio
+* Embarcadero Run, 3.5mi
+
+Diet: 1890, 143g
+* Juice (260) + Yogurt (100), 17g
+* Chicken (200) + Kotleti (225) + Veggies (75), 50g
+* Veggies (50)
+* Cheese (160), 12g
+* Apple (100) + Yogurt (100), 17g
+* Cheese (140) + Eggs (140), 22g
+* Cheese (140) + Apple (100) + Salami (100), 15g
+
+Jiu-Jitsu: N/A
+
+Side-Project: N/A
+
+Notes:
+* Restarting logs after poor showing last week
+* Dragged myself to get up in the morning, lagged a bit so shorter workout
+* Still sick, but feeling better phyiscally/mentally
+* Productive morning meetings, feeling more pumped for work again
+* Starting MPK eating challenege today
+* Didn't get as much code done today
+* Chill evening shisha session with Stepan
+
 ### Day 61 (Monday): 04/17/17
-Overall: Okay
+Overall: Okay day
 
 Daily:
 * Exercise        : N
