@@ -22,6 +22,43 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 63 (Wednesday): 04/26/17
+Overall: Okay day
+
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       : Y
+
+Weight: 153.0lb
+
+Exercise: Lower Body
+* Stretch: 15min
+* Smith Squats: 3x140x10 (Clean)
+* Leg Curls: 5x80x|8, 9, 8, 9, 8| (Clean)
+* Leg Lifts: 5x95x|8, 9, 8, 9, 8| (Clean)
+* Calf Push: 5x215x|8, 9, 8, 9, 8| (Clean)
+
+Diet: 1450, 123g
+* Eggs (140) + Juice (260), 12g
+* Grilled Chicken (250) + Veggies (150), 50g
+* Cheese (140), 12g
+* Cheese (210), 15g
+* Yogurt (200) + Banana (100), 34g
+
+Jiu-Jitsu: N/A, still sick
+
+Side-Project:
+* Created an account on TradeKing!
+
+Notes:
+* Did a good job of waking up early and lifting straight-away
+* Good leg workout, feels nice to be back at it
+* Nose is very stuffy today, very annoying
+* Low productivity at work
+* Signed up for TK
+
 ### Day 62 (Tuesday): 04/25/17
 Overall: Good day
 
@@ -45,7 +82,7 @@ Diet: 1890, 143g
 * Cheese (140) + Eggs (140), 22g
 * Cheese (140) + Apple (100) + Salami (100), 15g
 
-Jiu-Jitsu: N/A
+Jiu-Jitsu: N/A, sick
 
 Side-Project: N/A
 
