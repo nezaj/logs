@@ -40,12 +40,15 @@ Exercise: Lower Body
 * Leg Lifts: 5x95x|8, 9, 8, 9, 8| (Clean)
 * Calf Push: 5x215x|8, 9, 8, 9, 8| (Clean)
 
-Diet: 1450, 123g
+Diet: 1950, 143g
 * Eggs (140) + Juice (260), 12g
 * Grilled Chicken (250) + Veggies (150), 50g
 * Cheese (140), 12g
 * Cheese (210), 15g
 * Yogurt (200) + Banana (100), 34g
+* Berries (100)
+* Cheese (140) + Salami (160), 20g
+* Carrots (100)
 
 Jiu-Jitsu: N/A, still sick
 
