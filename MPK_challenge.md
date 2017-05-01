@@ -4,6 +4,16 @@ This will be a diary of what I eat at MPK. Until further notice, I am committing
 Start Date: 04/25/17
 Start Weight: 153.8lb
 
+### Day 3 (Friday): 04/28/17
+Diet: 1420, 155g
+* Yogurt (100), 17g
+* Veggies (100) + Tofu (100) + Turkey (350), 70g
+* Yogurt (200) + Banana (100), 34g
+* Cheese (140) + Veggies (50), 14g
+* Cheese (280), 20g
+
+### WFH/Jury Duty (Thursday): 04/27/17
+
 ### Day 2 (Wednesday): 04/26/17
 Diet: 1450, 123g
 * Eggs (140) + Juice (260), 12g

@@ -22,6 +22,43 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 64 (Friday): 04/28/17
+Overall: Okay day
+
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       : N
+
+Weight: N/A
+
+Exercise: Cardio
+* Embarcadero Run, 3.0mi
+* Embarcadero Run, 5.5mi
+
+Diet: 3480, 225g
+* Yogurt (100), 17g
+* Veggies (100) + Tofu (100) + Turkey (350), 70g
+* Yogurt (200) + Banana (100), 34g
+* Cheese (140) + Veggies (50), 14g
+* Cheese (280), 20g
+* Apple (100)
+* Cliff bars (750) + Nuts (750) + Cheese (140) + Salami (320), 90g
+
+Jiu-Jitsu: N/A, sick
+
+Side-Project: N/A
+
+Notes:
+* Woke up a little late today, turned alarms off
+* Only had 30min for a run, got it in anyhow
+* Feeling relaxed at work again
+* Not productive at work again
+* Ran in evening, felt good but became insanely hungry
+* Watched Indian movie w/ Stepan in evening
+* Gave in to hunger, oversnacked at night
+
 ### Day 63 (Wednesday): 04/26/17
 Overall: Okay day
 
