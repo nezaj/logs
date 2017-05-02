@@ -22,6 +22,47 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 65 (Monday): 05/01/17
+Overall: Good day
+
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       : Y
+
+Weight: 155.2
+
+Exercise: Upper
+* Pull-ups 31-35: Day 2 (Clean)
+
+Diet: 2120, 215g
+* Chicken (360) + Veggies (150), 72g
+* Yogurt (200) + Banana (100), 34g
+* Cheese (210), 15g
+* Juice (130)
+* Apple (100)
+* Yogurt (200) + Banana (100), 34g
+* Cheese (140) + Salami (80), 18g
+* Yogurt (250) + Berries (100), 42g
+
+Jiu-Jitsu:
+* Quality               : Okay
+* Ate clean beforehand  : Yes
+* Prepared technique    : No?
+* Practiced technique   : No?
+
+Side-Project: N/A
+
+Notes:
+* Woke up feeling good, happy didn't eat late at night
+* Felt lazy to do workout but managed to get some pull-ups in, happy about that
+* Relaxing morning shuttle ride, and feeling chill at work, getting ready to pick up pace
+* Not productive with work
+* Decennt Jiu-Jitsu session but made me realize I need to roll differently with white belts
+* Need to focus more on trying new things instead of just trying to win
+* Against upper belts, that's where I bring my A-game.
+
 ### Day 64 (Friday): 04/28/17
 Overall: Okay day
 

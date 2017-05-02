@@ -4,6 +4,15 @@ This will be a diary of what I eat at MPK. Until further notice, I am committing
 Start Date: 04/25/17
 Start Weight: 153.8lb
 
+### Day 4 (Monday): 05/01/17
+Diet: 1550, 155g
+* Chicken (360) + Veggies (150), 72g
+* Yogurt (200) + Banana (100), 34g
+* Cheese (210), 15g
+* Juice (130)
+* Apple (100)
+* Yogurt (200) + Banana (100), 34g
+
 ### Day 3 (Friday): 04/28/17
 Diet: 1420, 155g
 * Yogurt (100), 17g
