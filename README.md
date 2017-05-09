@@ -22,6 +22,45 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 66 (Monday): 05/08/17
+Overall: Good day
+
+Daily:
+* Wake up early   : N
+* Exercise        : N
+* Productive work : N
+* Ate Clean       : Y
+
+Weight: 159.4
+
+Exercise: Jiu-Jitsu
+* Jiu-Jitsu, solid session
+
+Diet: 2350, 210g
+* Chicken (250) + Veggies (150) + Honeydew (50), 50g
+* Cheese (70), 6g
+* Yogurt (200) + Banana (100), 34g
+* Cheese (70), 6g
+* Apple (100) + Eggs (140), 12g
+* Turkey Jerky (240), 44g
+* Seeds (200), 8g
+* Mandarins (100)
+* Granola (100) + Yogurt (200), 34g
+* Cheese (280), 20g
+* Apple (100)
+
+Side-Project:
+* Doing more research on trading -- feeling closer to start trading
+
+Notes:
+* Woke up tired today, lounged in bed too long for morning workout
+* Pigged out this weekend and the scaled showed, I think there is a lot of water weight though, can get this back down by end of week
+* Feeling much more pumped today, definitely in a good mood
+* Overall not productive at work
+* Good Jiu-Jitsu session
+* Hung w/ Stepan in evening, ended up over-snacking a bit, chill time though
+* Stayed up late looking into Yoga studios, may seriously check them out
+
 ### Day 65 (Monday): 05/01/17
 Overall: Good day
 
