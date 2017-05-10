@@ -22,6 +22,38 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 67 (Tuesday): 05/09/17
+Overall: Okay
+
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       : Y
+
+Weight: N/A
+
+Exercise: Cardio
+* Embarcadero Run, 6.0mi
+
+Diet: 2550, 90g
+* Flax Granola (1200), 25g
+* Salami (500), 35g
+* 6 Cheese (400), 30g
+* 2 Apples (200)
+* Cherries (250)
+
+Side-Project:
+* Lots of research on Yoga, will look into picking up a class after SD
+* Moved Tk -> Ally, realizing I need to ask myself what info do I need/want to make trades
+
+Notes:
+* Woke up late this morning, stayed up way too late looking at Yoga info
+* Ended up WFH, wasn't very productive and totally oversnacked
+* Watched too much Netflix, ended up napping mid day
+* Went on an early evening run, felt much better after
+* Grabbed shisha with Stepan, ended the day on a chill note
+
 ### Day 66 (Monday): 05/08/17
 Overall: Good day
 
