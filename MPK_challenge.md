@@ -4,6 +4,16 @@ This will be a diary of what I eat at MPK. Until further notice, I am committing
 Start Date: 04/25/17
 Start Weight: 153.8lb
 
+### Day 2 (Wednesday): 05/10/17
+Diet: 1670, 180g
+* Eggs (140), 12g
+* Turkey (250) + Veggies (100) + Melon (100), 50g
+* Banana (100)
+* Turkey Jerky (240), 44g
+* Cheese (140), 12g
+* Quest Bar (200), 20g
+* Yogurt (200) + Granola (200), 42g
+
 ### Day 1 (Monday): 05/08/17
 Diet: 1370, 152g
 * Chicken (250) + Veggies (150) + Honeydew (50), 50g

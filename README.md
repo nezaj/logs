@@ -22,6 +22,46 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 68 (Wednesday): 05/10/17
+Overall: Okay
+
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       : Y
+
+Weight: N/A
+
+Exercise: Upper Body
+* Crazy 8s: 3x90/7/8/7 (Clean)
+* Tabata Push-ups: 10 Rounds (Clean)
+* Leg-lifts: 4x15 (CLean)
+
+Diet: 2620, 234g
+* Eggs (140), 12g
+* Turkey (250) + Veggies (100) + Melon (100), 50g
+* Banana (100)
+* Turkey Jerky (240), 44g
+* Cheese (140), 12g
+* Quest Bar (200), 20g
+* Yogurt (200) + Granola (200), 42g
+* Salami (240) + Berries (100) + Cheese (140), 30g
+* Apple (100) + Berries (100) + Cheese (270), 24g
+
+Jiu-Jitsu:
+* Solid session, got to roll a bunch today
+
+Side-Project:
+* Read up on wash-sales, I understand the 30 days tax-loss harvesting rule, not fully understanding the cost-basis though, something to look into again more deeply
+
+Notes:
+* Got out of bed ~710, did a couple chores in the AM
+* Solid lift session, no pull-ups though but still feeling zen
+* Not productive again at work, will be turning this around
+* Great Jiu-Jitsu session
+* Good talk w/ Stepan in evening about work, feeling more pumped
+
 ### Day 67 (Tuesday): 05/09/17
 Overall: Okay
 
