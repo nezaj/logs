@@ -22,7 +22,25 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
-### Day 69 (Monday): 05/30/17
+### Day 70 (Wednesday): 05/31/17
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       : Y
+
+Exercise: Cardio, Jiu-Jitsu
+* Treadmill, 6.57mi, 1hr
+
+Diet: 1770, 151g
+* Oats (300) + Flaxseed (200), 20g
+* Yogurt (200) + Cherries (100), 34g
+* Turkey Balls (450), 54g
+* Mixed Berries (100)
+* Protein Powder (120), 25g
+* Veggies (150) + Turkey Balls (150), 18g
+
+### Day 69 (Tuesday): 05/30/17 (Clean)
 Daily:
 * Wake up early   : Y
 * Exercise        : Y
