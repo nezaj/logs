@@ -22,6 +22,23 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 69 (Monday): 05/30/17
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive work : Y
+* Ate Clean       : Y
+
+Exercise: Yoga
+* 30 Days of Yoga -- Day 3
+
+Diet: 1770, 157g
+* Cheese (140) + Eggs (140), 24g
+* Rice (250) + Noodles (250) + Chicken (120) + Beef (120) + Veggies (100), 40g
+* Quest Bar (200) + Cheese (70), 26g
+* Turkey Jerky (180), 33g
+* Yogurt (200), 34g
+
 ### Day 68 (Wednesday): 05/10/17
 Overall: Okay
 
