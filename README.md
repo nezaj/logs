@@ -22,6 +22,23 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 71 (Thursday): 06/01/17
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       : Y
+
+Exercise: Yoga
+* 30 Days of Yoga -- Day 4
+
+Diet: 1770, 150g
+* Strawberries (50) + Cheese (140) + Cookie (100) + Gummies (100), 12g
+* Apple (100)
+* Beef (150) + Chicken (120) + Turkey (240) + Veggies (100) + Cheese (250), 102g
+* Yogurt (200) + Banana (200), 34g
+* Carrots (20)
+
 ### Day 70 (Wednesday): 05/31/17
 Daily:
 * Wake up early   : Y
