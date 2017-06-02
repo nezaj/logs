@@ -22,6 +22,22 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 72 (Friday): 06/02/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive work : N
+* Ate Clean       :
+
+Exercise:
+
+Diet: 1120, 85g
+* Oats (300) + Flaxseed (200), 20g
+* Pistachios (200), 6g
+* Protein Powder (120), 25g
+* Strawberries (100)
+* Yogurt (200), 34g
+
 ### Day 71 (Thursday): 06/01/17
 Daily:
 * Wake up early   : Y
