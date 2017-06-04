@@ -27,16 +27,24 @@ Daily:
 * Wake up early   : N
 * Exercise        : Y
 * Productive work : N
-* Ate Clean       :
+* Ate Clean       : N
 
-Exercise:
+Exercise: Cardio
+* Treadmill, ~6mi, 8:30/pace
 
-Diet: 1120, 85g
+Diet: 5220, 198g
 * Oats (300) + Flaxseed (200), 20g
 * Pistachios (200), 6g
 * Protein Powder (120), 25g
 * Strawberries (100)
 * Yogurt (200), 34g
+* Pistachios (350), 10g
+* Jerky (280), 44g
+* Sunflower Butter (2000)
+* Salami (320), 24g
+* Muffins (400)
+* Cheese (450), 35g
+* Apples (300)
 
 ### Day 71 (Thursday): 06/01/17
 Daily:
