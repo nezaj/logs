@@ -22,6 +22,21 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 73 (Saturday): 06/03/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Relaxed         : Y
+* Ate Clean       : Y
+
+Exercise: Run + Swim
+* 15min run + 15min swim Fiserman's Wharf
+
+Diet: 440, 6g
+* Wine (120)
+* Absinthe (150)
+* Carrots (100) + Cheese (70), 6g
+
 ### Day 72 (Friday): 06/02/17
 Daily:
 * Wake up early   : N
