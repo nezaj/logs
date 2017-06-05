@@ -22,6 +22,20 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 74 (Sunday): 06/04/17
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Relaxed         : Y
+* Ate Clean       : Y
+
+Exercise: Cardio, Jiu-Jitsu
+* Embarcadero Run, 6mi
+
+Diet: 1120, 6g
+* Cherries (150) + Cheese (70), 6g
+* Paella (500) + Tapas (250) + Beer (150)
+
 ### Day 73 (Saturday): 06/03/17
 Daily:
 * Wake up early   : N
