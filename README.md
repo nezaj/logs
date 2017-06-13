@@ -22,6 +22,22 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 75 (Monday): 06/12/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Jiu-Jitsu
+
+Diet: 1370, 121g
+* Yogurt (100), 17g
+* Pulled Pork (250) + Chicken (250) + Guacomole (250), 60g
+* Fruit Juice (130)
+* Turkey Jerky (240), 44g
+* Strawberries (100) + Veggies (50)
+
 ### Week Review: 05/30/17 - 06/04/17 (6 Days)
 Daily:
 * Cleans            : 1/6
