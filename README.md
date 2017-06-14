@@ -22,6 +22,24 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 76 (Tuesday): 06/13/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Cardio
+* Embarcadero Run: 5.5mi
+
+Diet: 1870, 118g
+* Strawberries (150)
+* Oats (300) + Flaxseed (200), 20g
+* Carrots (150)
+* Turkey Balls (450), 54g
+* Cottage Cheese (320), 44g
+* Drinks (300)
+
 ### Day 75 (Monday): 06/12/17
 Daily:
 * Wake up early   : N
