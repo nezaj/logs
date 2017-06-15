@@ -22,6 +22,22 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 77 (Wednesday): 06/14/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Jiu-Jitsu
+
+Diet: 1820, 132g
+* Strawberries (150)
+* Yogurt (100) + Cheese (70), 22g
+* Pork Roast (400) + Veggies (150) + Rice (250), 40g
+* Pollo Asada (300) + Carne Asada (300), 70g
+* Strawberries (100)
+
 ### Day 76 (Tuesday): 06/13/17
 Daily:
 * Wake up early   : N
