@@ -22,6 +22,59 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 76 (Tuesday): 06/13/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Cardio
+* Embarcadero Run: 5.5mi
+
+Diet: 1870, 118g
+* Strawberries (150)
+* Oats (300) + Flaxseed (200), 20g
+* Carrots (150)
+* Turkey Balls (450), 54g
+* Cottage Cheese (320), 44g
+* Drinks (300)
+
+### Day 75 (Monday): 06/12/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Jiu-Jitsu
+
+Diet: 1370, 121g
+* Yogurt (100), 17g
+* Pulled Pork (250) + Chicken (250) + Guacomole (250), 60g
+* Fruit Juice (130)
+* Turkey Jerky (240), 44g
+* Strawberries (100) + Veggies (50)
+
+### Week Review: 05/30/17 - 06/04/17 (6 Days)
+Daily:
+* Cleans            : 1/6
+* Wake up early     : 4/6
+* Exercise          : 6/6
+* Productive Work   : 1/4
+* Relaxed           : 2/2
+* Ate Clean         : 5/6
+
+Exercise: 6pts
+* Cardio            : 4
+* Jiu-Jitsu         : 2
+* Lift              : 0
+* Yoga              : 2
+
+Diet:
+* Average Cals      : 2012
+* Average Protein   : 111g
+
 ### Day 74 (Sunday): 06/04/17
 Daily:
 * Wake up early   : Y
@@ -43,8 +96,8 @@ Daily:
 * Relaxed         : Y
 * Ate Clean       : Y
 
-Exercise: Run + Swim
-* 15min run + 15min swim Fiserman's Wharf
+Exercise: Cardio
+* Run + Swim , 15min run + 15min swim Fiserman's Wharf
 
 Diet: 440, 6g
 * Wine (120)
