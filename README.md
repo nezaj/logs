@@ -22,7 +22,33 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
-### Day 81 (Sunday): 06/18/17
+### Week Review: 06/12/17 - 06/18/17 (7 Days)
+Daily:
+* Cleans            : 2/7
+* Wake up early     : 0/5
+* Exercise          : 7/7
+* Productive Work   : 5/5
+* Ate Clean         : 7/7
+
+Exercise: 6.5pts
+* Cardio            : 3
+* Jiu-Jitsu         : 3
+* Lift              : 2
+* Yoga              : 0
+
+Diet:
+* Average Cals      : <2000 (Estimate)
+* Average Protein   : >100g (Estimate)
+
+Notes:
+* Overall this was a great
+* I ate clean and felt clean
+* Did lots of lifting, jiu-jitsu, and cardio
+* Was productive at work
+* Had lots of fun with friends
+* Had lots of fun with family
+
+### Day 81 (Sunday): 06/18/17 (Clean)
 Daily:
 * Exercise        : Y
 * Ate Clean       : Y
@@ -31,7 +57,7 @@ Daily:
 Exercise: Cardio
 * Moutain View Run, ~5mi
 
-### Day 80 (Saturday): 06/17/17
+### Day 80 (Saturday): 06/17/17 (Clean)
 Daily:
 * Exercise        : Y
 * Ate Clean       : Y
