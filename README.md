@@ -22,6 +22,55 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 81 (Sunday): 06/18/17
+Daily:
+* Exercise        : Y
+* Ate Clean       : Y
+* Fun Day         : Y
+
+Exercise: Cardio
+* Moutain View Run, ~5mi
+
+### Day 80 (Saturday): 06/17/17
+Daily:
+* Exercise        : Y
+* Ate Clean       : Y
+* Fun Day         : Y
+
+Exercise: Lift
+* Crazy 8s: 2x100/7/7 + 1x90x10
+* Leg-lifts: 4x17 (CLean, repeat)
+* Deep Push-ups: 50
+
+### Day 79 (Friday): 06/16/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Cardio
+* Embarcadero Run, ~5.5mi
+
+### Day 78 (Thursday): 06/15/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Lift
+* Crazy 8s: 3x95/6/7/6 (Clean)
+* Leg-lifts: 4x17 (CLean, repeat)
+* Deep Tabata Push-ups: 6 Rounds (Clean, repeat)
+
+Diet: 1860, 140g
+* Oats (300) + Flaxseed (200), 20g
+* Strawberries (100)
+* Veggies (150) + Turkey Balls (450), 54g
+* Yogurt (360), 66g
+* Veggies + Fruits (300)
+
 ### Day 77 (Wednesday): 06/14/17
 Daily:
 * Wake up early   : N
