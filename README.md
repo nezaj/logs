@@ -22,12 +22,49 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 83 (Tuesday): 06/20/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : N
+* Ate Clean       : Y
+
+Exercise: Cardio
+* Embarcadero Run, ~5.5mi
+
+Diet: 2460, 84g
+* Oats (300) + Flaxseed (200), 20g
+* Cherries (270) + Strawberries (150)
+* Turkey Jerky (320), 44g
+* Chinese Food (800), 20g
+* Beer (150)
+* Cherries (270)
+
+### Day 82 (Monday): 06/19/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : N
+* Ate Clean       : Y
+
+Exercise: Jiu-Jitsu
+
+Diet: 2120, 210g
+* Plums (100)
+* Turkey Jerky (240), 30g
+* Cheese (70), 6g
+* Rice (200) + Chicken (100) + Roast Beef (200) + Veggies (150), 40g
+* Quest Bar (200), 20g
+* Yogurt (200), 34g
+* Chicken Skewers (560), 90g
+* Carrots (100)
+
 ### Week Review: 06/12/17 - 06/18/17 (7 Days)
 Daily:
 * Cleans            : 2/7
 * Wake up early     : 0/5
 * Exercise          : 7/7
-* Productive Work   : 5/5
+* Productive Work   : 4/5
 * Ate Clean         : 7/7
 
 Exercise: 6.5pts
@@ -72,7 +109,7 @@ Exercise: Lift
 Daily:
 * Wake up early   : N
 * Exercise        : Y
-* Productive Work : Y
+* Productive Work : N
 * Ate Clean       : Y
 
 Exercise: Cardio
