@@ -22,6 +22,23 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 85 (Thursday): 06/22/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Yoga
+* 30 Days of Yoga -- Day 6
+
+Diet: 1390, 112g
+* Cheese (70), 6g
+* Beef (250) + Chicken (250) + Avocado (250) + Veggies (100), 60g
+* Quest Bar (200), 20g
+* Quest Bar (200), 20g
+* Cheese (70), 6g
+
 ### Day 84 (Wednesday): 06/21/17
 Daily:
 * Wake up early   : N
