@@ -22,6 +22,24 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 84 (Wednesday): 06/21/17
+Daily:
+* Wake up early   : N
+* Exercise        : Y
+* Productive Work : N
+* Ate Clean       : Y
+
+Exercise: Cardio
+* Embarcadero Run, ~5.5mi
+
+Diet: 2070, 74g
+* Oats (300) + Flaxseed (200), 20g
+* Strawberries (50)
+* Cherries (270)
+* Carrots (50)
+* Turkey Balls (450), 54g
+* Hot Pot (750)
+
 ### Day 83 (Tuesday): 06/20/17
 Daily:
 * Wake up early   : N
@@ -32,10 +50,11 @@ Daily:
 Exercise: Cardio
 * Embarcadero Run, ~5.5mi
 
-Diet: 2460, 84g
+Diet: 2580, 106g
 * Oats (300) + Flaxseed (200), 20g
 * Cherries (270) + Strawberries (150)
 * Turkey Jerky (320), 44g
+* Yogurt (120), 22g
 * Chinese Food (800), 20g
 * Beer (150)
 * Cherries (270)
