@@ -2,10 +2,10 @@
 
 ### Fitness Goals:
 * Start: 01/22/17
-* Weight: 144.0lb, morning
+* Weight: 140.0lb, morning
 * Crazy 8s: 3x100x8
 * Pull-ups: 50+ reps
-* Push-ups: 200x/daily
+* Push-ups: 100x Clean
 * Abs: Six Pack
 
 ### Keys to Success
