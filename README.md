@@ -22,6 +22,28 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 87 (Thursday): 07/13/17
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : N
+
+Exercise: Cardio
+* Treadmill, 30min, 7:47/mi pace
+
+Diet: 2980, 173g
+* Cheese (140) + Apple (80), 12g
+* Turkey (450) + Veggies (150), 80g
+* Quest Bar (200), 20g
+* Banana (100)
+* Turkey Jerky (180), 33g
+* Snacks (350)
+* Mi Lindu Peru (800)
+* Salami (500), 30g
+
+### NO LOG (Peru/Vacation): 06/24/17 -> 07/12/17
+
 ### Day 86 (Friday): 06/23/17
 Daily:
 * Wake up early   : N
