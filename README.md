@@ -22,6 +22,30 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
+### Day 88 (Wednesday): 07/20/17
+Weight: 152.8lb
+
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive Work : Y
+* Ate Clean       : Y
+
+Exercise: Lift
+* Crazy 8s: 1x95x6/6/6 + 2x90x6/6/6 (Reoeat @ 90)
+* Low/Slow Push-ups: 60
+* Leg-lifts: 3x16 (Do 17s next)
+
+Diet: 2580, 192g
+* Apple (80) + Cheese (70), 6g
+* Beef (350) + Chicken (250) + Rice (200), 85g
+* Cheese (140), 12g
+* Quest Bar (200), 20g
+* Turkey Jerky (240), 44g
+* Beer (150) + Calamari (250) + Pork Ribs (250) + Paella (400), 25g
+
+### NO LOG: 07/14/17 -> 07/19/17
+
 ### Day 87 (Thursday): 07/13/17
 Daily:
 * Wake up early   : Y
