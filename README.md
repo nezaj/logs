@@ -22,7 +22,27 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if you have work the next day
 
-### Day 88 (Wednesday): 07/20/17
+### Day 89 (Friday): 07/21/17
+Weight: 152.8lb
+
+Daily:
+* Wake up early   : Y
+* Exercise        : Y
+* Productive Work : N
+* Ate Clean       : Y
+
+Exercise: Cardio, Yoga, Jiu-Jitsu
+* Treadmill, 20min
+* 30 Days of Yoga -- Day 7
+
+Diet: 2160, 102g
+* Apple (80) + Cheese (140), 12g
+* Rice (250) + Chicken (250) + Beef (250) + Tofu (250), 70g
+* Quest Bar (200), 20g
+* Fruit Juice (260)
+* Chips (500)
+
+### Day 88 (Thursday): 07/20/17
 Weight: 152.8lb
 
 Daily:
