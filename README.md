@@ -1,10 +1,12 @@
 # Daily Log: 2017
 
 ### Fitness Goals:
-* Start: 01/22/17
-* Weight: 140.0lb, morning
+* Weight: 145.0lb, morning
+* Squats: 3x275x5
+* Bench: 3x225x5
+* OH Press: 3x135x5
 * Crazy 8s: 3x100x8
-* Pull-ups: 50+ reps
+* Pull-ups: 30x Clean
 * Push-ups: 100x Clean
 * Abs: Six Pack
 
