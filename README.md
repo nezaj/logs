@@ -20,16 +20,53 @@ Evening:
 
 ### Day 1 (Wednesday): 05/03/18
 Daily:
-* Wake up early   : X
-* Exercise        :
-* Cleared Actions :
-* Ate Clean       :
+* Morning Routine : X
+* Exercise        : Y
+* Cleared Actions : X
+* Ate Clean       : X
+* Evening Routine : N
 
-Exercise: Cardio, Yoga, Jiu-Jitsu
-* Treadmill, 20min
-* 30 Days of Yoga -- Day 7
+Morning Routine:
+* Coffee/PWO      : X
+* Meditate        : X
+* Make Actions    : X
+* Exercise        : Y
+* Shower          : X
+* Deoderant       : X
+* Brush teeth     : X
+* Floss           : X
+* Mouthwash       : X
+* Face wipe       : X
+* Face moisturize : X
 
-Diet:
+Evening Routine:
+* Shower          : N
+* Deoderant       : Y
+* Brush teeth     : Y
+* Floss           : Y
+* Mouthwash       : Y
+* Face wipe       : Y
+* Face moisturize : Y
+* Meditate        : N
+* Add Log Notes   : N
+* Push Logs       : N
+
+Exercise: Lift: Push Day
+* Push Workout
+    * BB Bench Press: 1x45x10, 1x135x8, 3x155x5 (tough, increase)
+    * BB Incline Press: 1x45x8, 1x95x8, 3x105x8 (good, increase)
+    * BB OH Press: 1x45x8, 3x95x5 (rough, repeat)
+    * Dips + Triangle Push-ups: 3x8 (tired, increase)
+    * Abs - Leg Lifts: 3x8 (okay, legs can go higher)
+* First push workout in a long time
+* Felt weak but was good to be back, I feel like I'll get back in the groove soon
+
+Diet: 2340, 116g
 * 2 Croissants (500)
 * 3 Servings PB (600), 24g
 * Apple (80)
+* Protein Powder (120), 25g
+* PB (400) + Pasta (300), 16g
+* Apple (80)
+* Carrots (100)
+* Yogurt (250), 51g
