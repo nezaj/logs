@@ -18,7 +18,15 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if next day is a working day
 
-### Day 1 (Wednesday): 05/03/18
+### Day 2 (Thursday): 05/03/18
+Exercise: Lift: Pull Day
+* Pull Workout
+    * Pull-ups: 8, 11, 6, 6, 8 (tough)
+    * Crazy 8s: 3x60x8/8/8 (tough)
+    * BB Bent over rows: 3x60x8 (easy)
+    * Hangs: 3x25 seconds (tough)
+
+### Day 1 (Wednesday): 05/02/18
 Daily:
 * Morning Routine : X
 * Exercise        : Y
