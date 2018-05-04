@@ -27,38 +27,6 @@ Exercise: Lift: Pull Day
     * Hangs: 3x25 seconds (tough)
 
 ### Day 1 (Wednesday): 05/02/18
-Daily:
-* Morning Routine : X
-* Exercise        : Y
-* Cleared Actions : X
-* Ate Clean       : X
-* Evening Routine : N
-
-Morning Routine:
-* Coffee/PWO      : X
-* Meditate        : X
-* Make Actions    : X
-* Exercise        : Y
-* Shower          : X
-* Deoderant       : X
-* Brush teeth     : X
-* Floss           : X
-* Mouthwash       : X
-* Face wipe       : X
-* Face moisturize : X
-
-Evening Routine:
-* Shower          : N
-* Deoderant       : Y
-* Brush teeth     : Y
-* Floss           : Y
-* Mouthwash       : Y
-* Face wipe       : Y
-* Face moisturize : Y
-* Meditate        : N
-* Add Log Notes   : N
-* Push Logs       : N
-
 Exercise: Lift: Push Day
 * Push Workout
     * BB Bench Press: 1x45x10, 1x135x8, 3x155x5 (tough, increase)
@@ -68,13 +36,3 @@ Exercise: Lift: Push Day
     * Abs - Leg Lifts: 3x8 (okay, legs can go higher)
 * First push workout in a long time
 * Felt weak but was good to be back, I feel like I'll get back in the groove soon
-
-Diet: 2340, 116g
-* 2 Croissants (500)
-* 3 Servings PB (600), 24g
-* Apple (80)
-* Protein Powder (120), 25g
-* PB (400) + Pasta (300), 16g
-* Apple (80)
-* Carrots (100)
-* Yogurt (250), 51g
