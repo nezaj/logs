@@ -18,6 +18,25 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if next day is a working day
 
+### Day 5 (Sunday): 05/06/18
+Exercise: Lift, Push Day
+* Skill Work
+    * 20min Handstand work
+* Push Workout
+    * BB Bench Press: 1x160x5, 2x155x5 (tough, increase)
+    * BB Incline Press: 3x110x5 (good, increase)
+    * BB OH Press: 3x95x5/4/4 (rough, repeat)
+    * Abs - Leg Lifts: 3x9 (better)
+
+### Day 4 (Saturday): 05/05/18
+Exercise: Rest Day
+
+### Day 3 (Friday): 05/04/18
+Exercise: Lift: Leg day
+* Leg Workout
+    * Back Squats: 3x205x5 (Good)
+    * Front Squats: 2x135x3, 1x105x5
+
 ### Day 2 (Thursday): 05/03/18
 Exercise: Lift: Pull Day
 * Pull Workout
