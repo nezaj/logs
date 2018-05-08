@@ -18,6 +18,15 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if next day is a working day
 
+### Day 6 (Monday): 05/07/18
+Exercise: Lift, Pull Day
+* Skill Work
+    * Handsstands: 30min Handstand work
+* Pull Workout
+    * Pull-ups: 5x6/9/6/6/9 (tough)
+    * Crazy-8s: 3x60x8 (better)
+    * Hangs: 4x40s (tough)
+
 ### Day 5 (Sunday): 05/06/18
 Exercise: Lift, Push Day
 * Skill Work
