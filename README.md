@@ -18,6 +18,14 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if next day is a working day
 
+### Day 7 (Tuesday): 05/08/18
+Exercise: Handstands + Jiu-Jitsu
+* Skill Work
+    * Handsstands: 30min
+* Jiu-Jitsu
+    * Visited a local gym for the first time
+    * Good vibe, got to see some different stuff which was neat
+
 ### Day 6 (Monday): 05/07/18
 Exercise: Lift, Pull Day
 * Skill Work
