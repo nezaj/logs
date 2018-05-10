@@ -18,6 +18,15 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if next day is a working day
 
+### Day 9 (Thursday): 05/10/18
+Exercise: Lift: Leg day
+* Leg Workout
+    * Back Squats: 3x200x5 (Good)
+    * Front Squats: 1x120x5 (Good)
+
+### Day 8 (Wednesday): 05/09/18
+Exercise: Rest Day
+
 ### Day 7 (Tuesday): 05/08/18
 Exercise: Handstands + Jiu-Jitsu
 * Skill Work
@@ -51,8 +60,8 @@ Exercise: Rest Day
 ### Day 3 (Friday): 05/04/18
 Exercise: Lift: Leg day
 * Leg Workout
-    * Back Squats: 3x205x5 (Good)
-    * Front Squats: 2x135x3, 1x105x5
+    * Back Squats: 3x195x5 (Good)
+    * Front Squats: 2x135x3, 1x115x5
 
 ### Day 2 (Thursday): 05/03/18
 Exercise: Lift: Pull Day
