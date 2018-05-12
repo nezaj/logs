@@ -18,6 +18,14 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if next day is a working day
 
+### Day 10 (Friday): 05/11/18
+Exercise: Wrestling
+* Wrestling
+    * Visited a another local gym
+    * Their schedule online wasn't up-to-date and ended up doing wrestling instead
+    * Was different experience but interesting
+    * Will come again for a BJJ session
+
 ### Day 9 (Thursday): 05/10/18
 Exercise: Lift: Leg day
 * Leg Workout
