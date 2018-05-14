@@ -18,6 +18,14 @@ Evening:
 * Don't eat late, make up calories the next day
 * Be in bed by 11pm if next day is a working day
 
+### Day 12 (Sunday): 05/13/18
+Exercise: Hand-stands
+* Hand-stands: 50mins
+
+### Day 11 (Saturday): 05/12/18
+Exercise: Jiu-Jitsu
+* Jiu-Jtsu: 2hrs open mat
+
 ### Day 10 (Friday): 05/11/18
 Exercise: Wrestling
 * Wrestling
