@@ -1,23 +1,33 @@
 # Fitness Log
 
-### Day 1 (Thursday): 11/08/18
-Exercise: Yoga, Tumbling
-* Yoga, 35min
-    * Did this on my own in apartment gym, felt very nice and relaxed
-* Tumbling, 1.5hr
-    * Good class, worked on front-tucks, good progress
-    * Also progressed on backwards roll, improved shoulder and arm positioning
-    * Shoulders felt much more rested, not sore like previous day
+### 11/15/18 (Thursday)
+Exercise: Cardio, Tumbling
+* Cardio
+    * 12min stretch
+    * 30min run -- up to 6.5mph and 1.5 incline
+    * One gambatta cycle afterwards
+    * Overall felt good
+* Tumbling
+    * Great class, worked on lots of skills
+    * First time consistently hitting front tucks
 
-Diet: 2140, 118g
-* Protein Shake: Fruits (100) + Veggies (100) + Protein (240) + Flaxseed (200) + Oatmeal (150), 64g
-* Cereal (500)
-* Turkey Balls (450), 54g
-* Strawberries (100)
-* Cherries (300)
+Diet: 1910, 109g
+* Shake (590), 32g
+* Beef (580), 38g + Pasta (420), 16g + Veggies (100)
+* Carrots (100)
+* Yogurt (120), 22g
 
-Notes:
-* Trying to restart log
-* Goal is to restart exercise/diet logging habit
-* Starting new routine
-* Overall more productive day
+### 11/14/18 (Wednesday)
+Exercise: Lift
+* Lift
+    * Bench: 2x135x8, 3x155x5
+    * Squat: 3x135x8
+    * Curls: 3x60x8
+    * Leg-Lifts: 4x8
+    * First day back, took less than 1hr, felt good
+
+Diet: 1090, 95g
+* Yogurt (240) + Berries (150), 44g
+* Breaded Chicken (480), 40g
+* Ice Cream (70), 7g
+* Carrots (150)
