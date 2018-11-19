@@ -1,5 +1,51 @@
 # Fitness Log
 
+### 11/17/18 (Saturday)
+Exercise: Yoga
+* Yoga
+    * First class in awhile
+    * Was okay, felt nice to do something easier for body
+
+Diet: 2440, 92g
+* Ice Cream (70), 7g
+* Breaded Chicken (170), 17g
+* Yogurt Parfait (600), 20g
+* Falafel (200) + Pita (800) + Knafe (150) + Halva (150), 20g
+* Turkey Balls (280), 28g
+* Mangos (100)
+
+Notes:
+* Logan came over today
+* Overall whole day was a chill hang
+
+### 11/16/18 (Friday)
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * Overhead Press: 3x95x5 (good)
+    * Squats: 3x140x5 (good)
+    * Pull-ups: 3x8 (tough, repeat)
+    * Leg-Lifts: 2x10 (tough)
+* Jiu-Jitsu
+    * Shoulder still hurt a bit
+    * Feeling more active though
+    * Playing around more with passing knee shield
+    * Found that pushing/jumping right knee forward (if there left leg is on top) can be quite effective
+
+Diet: 1710, 156g
+* Breaded Chicken (510), 51g
+* Yogurt (120), 22g
+* Veggies (100)
+* Ice Cream (160), 14g
+* Breadked Chicken (340), 34g
+* Apple (80)
+* Enlightened Ice Cream (400), 35g
+
+Notes:
+* Overall good day
+* Went out w/ Kaiwen in the evening
+* Noticed got hungry late night, ate extra ice creams
+* Will try to be better about that in the future
+
 ### 11/15/18 (Thursday)
 Exercise: Cardio, Tumbling
 * Cardio
