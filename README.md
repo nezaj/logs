@@ -1,5 +1,43 @@
 # Fitness Log
 
+### 11/19/19 (Monday)
+Weight: 160.8lb
+
+Exercise: Lift
+* Squats: 3x145x5 (easy)
+* Bench: 3x155x6 (good)
+* Curls: 3x60x8 (good but tough)
+* Leg Lifts: 3x10 (tough)
+
+Diet: 1680, 162g
+* Breaded Chicken (600), 55g
+* Greek Yogurt (240), 46g
+* Carrots (100)
+* Cheese (70), 7g
+* Ice Cream (70), 6g
+* Cheese (210), 21g
+* Ice Cream (150), 13g
+* Cheese (140), 12g
+* Apple (100)
+
+Notes:
+* A bit of a lazy day
+* Had a great workout in the morning though
+
+### 11/18/18 (Sunday)
+Weight: 159.6lb
+
+Exercise: Yoga
+* Great class, really enjoyed Sunday Flow
+
+Diet: 1910, 103g
+* Shake (640), 19g
+* Ice Cream (80), 7g
+* Braded Chicken (600), 55g
+* Cheese (160), 16g
+* French Fries (330), 6g
+* Carrots (100)
+
 ### 11/17/18 (Saturday)
 Exercise: Yoga
 * Yoga
