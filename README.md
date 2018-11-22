@@ -1,6 +1,47 @@
 # Fitness Log
 
-### 11/19/19 (Monday)
+### 11/21/18 (Wednesday)
+Exercise: N/A
+
+Diet: 1950, 155g
+* Ice Cream (160), 14g
+* Cheese (280), 28g
+* Apple (100)
+* Cheese (210), 21g
+* Breaded Chicken (480), 48g
+* Carrots (200)
+* Apple (100)
+* Cheese (420), 42g
+
+### 11/20/18 (Tuesday)
+Weight: 160.0lb
+
+Exercise: Cardio, Tumbling
+* Cardio
+    * Stretch: 12min
+    * Run: 30min, 6.0 - 6.5mph, 0 - 1.5inc (tough run)
+    * Little cool down
+* Tumbling
+    * Decent class
+    * Felt comfy going after front tucks
+    * Did first backsprings on mat, but arms need more lockout
+
+Diet: 2780, 185g
+* Turkey Balls (480), 48g
+* Ice Cream (140), 12g
+* Cheese (70), 7g
+* Chicken Nuggets (500), 45g
+* Fries (440)
+* Apple (100)
+* Cheese (700), 40g
+* Cheese (70), 7g
+* Ice Cream (280), 28g
+
+Notes:
+* Cardio: Would have been better to do at least one Gambetta after running
+* Tumbling: Make sure to eat fruit/shake before class for energy/alertness
+
+### 11/19/18 (Monday)
 Weight: 160.8lb
 
 Exercise: Lift
