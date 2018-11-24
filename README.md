@@ -1,5 +1,36 @@
 # Fitness Log
 
+### 11/23/18 (Friday)
+Weight: 160.8lb
+
+Exercise: Cardio
+* Cardio
+    * 6min warm-up stretch
+    * 30min, 6.2mph, 1.0 inc -- felt okay
+    * 12min cool-down stretch
+
+Diet: 1740, 137g
+* Breaded Chicken (510), 48g
+* Yogurt (120) + Apple (100), 23g
+* Carrots (100)
+* Breaded Chicken (510), 48g
+* Cheese (150), 18g
+* Apple (100)
+* Strawberries (150)
+
+### 11/22/18 (Thursday) -- Thanksgiving!
+Weight: 160.0lb
+
+Exercise: Lift
+* Lift
+    * OH Press: 3x100x5 (easy)
+    * Squat: 3x150x5 (easy)
+    * Pull-Ups: 3x8 (decent)
+
+Diet: 1930, 92g
+* Shake (730), 52g
+* Thanksgiving Dinner (1200), 40g
+
 ### 11/21/18 (Wednesday)
 Exercise: N/A
 
