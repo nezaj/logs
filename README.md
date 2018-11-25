@@ -1,13 +1,29 @@
 # Fitness Log
 
+### 11/24/18 (Saturday)
+Weight: 161.2lb
+
+Exercise: Yoga
+* Okay class, wasn't able to get into a deep flow
+* Felt good after though to have released some muscle tension
+
+Diet: 1600, 128g
+* Breaded Chicken (510), 51g
+* Turkey Balls (250), 25g
+* Cheese (50), 6g
+* Carrots (100)
+* Strawberries (150)
+* Breaded Chicken (340), 34g
+* Cheese (100), 12g
+* Carrots (100)
+
 ### 11/23/18 (Friday)
 Weight: 160.8lb
 
 Exercise: Cardio
-* Cardio
-    * 6min warm-up stretch
-    * 30min, 6.2mph, 1.0 inc -- felt okay
-    * 12min cool-down stretch
+* 6min warm-up stretch
+* 30min, 6.2mph, 1.0 inc -- felt okay
+* 12min cool-down stretch
 
 Diet: 1740, 137g
 * Breaded Chicken (510), 48g
