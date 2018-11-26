@@ -1,5 +1,21 @@
 # Fitness Log
 
+### 11/25/18 (Sunday)
+Weight: 159.0lb
+
+Exercise: Yoga
+* Solid class, felt like a great workout
+
+Diet: 1830, 150g
+* Turkey Balls (530), 53g
+* Cheese (100), 12g
+* Carrots (50)
+* Strawberries (150)
+* Greek Yogurt (120), 23g
+* Beef (580), 38g
+* Veggies (100)
+* Cheese (200), 24g
+
 ### 11/24/18 (Saturday)
 Weight: 161.2lb
 
