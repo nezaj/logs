@@ -1,5 +1,73 @@
 # Fitness Log
 
+### 11/28/18 (Wednesday)
+Weight: 157.8lb
+
+Exercise: Cardio, Jiu-Jitsu
+* Cardio
+    * Wasn't able to stretch properly before due to gx class in stretch area
+    * 30min, 6.4mph, 1.0 inc -- felt okay
+    * Didn't stretch after either -- noticed ITB felt tight after
+* Jiu-Jitsu
+    * Good class
+    * Got to work on knee shield passing
+    * Felt energetic and active
+
+Diet: 1530, 126g
+* Breaded Chicken (510), 51g
+* Cheese (100), 12g
+* Apple (100)
+* Carrots (100)
+* Breaded Chicken (510), 51g
+* Cheese (100), 12g
+* Fruit (100)
+
+### 11/27/18 (Tuesday)
+Weight: 157.6lb
+
+Exercise: Lift, Tumbling
+* Lift
+    * Bench: 3x1655x5 (good)
+    * Curls: 3x60x9 (almost, repeat)
+    * Squats: 3x165x5 (good)
+    * Leg-Lifts: 3x10 (okay)
+* Tumbling
+    * Excellent class
+    * Landed front hand-springs on tumble track consistently
+    * Very consistent in back hand-springs!
+    * Continue solidifying front hand-spring, back hand-spring, front-tuck
+    * Begin exploring the BACK TUCK!
+
+Diet: 2000, 148g
+* Cheese (100), 12g
+* Shake (730), 52g
+* Baked Chicken Breasts (390), 72g
+* French Fries (330)
+* Tomatoe Sauce (50)
+* Oiled Vegetables (200)
+* Cheese (100), 12g
+* Carrots (100)
+
+### 11/26/18 (Monday)
+Weight: 157.2lb
+
+Exercise: Jiu-Jitsu
+* Decent class
+* I think calories have been low for awhile so noticed was fatigued easily
+* Think more about what you want to study / review before and in class
+
+Diet: 1950, 165g
+* Cheese (200), 24g
+* Nuggets (600), 54g
+* Apple (100)
+* Carrots (50)
+* Breaded Chicken (340), 34g
+* Cheese (150), 18g
+* Protein Poweder (90), 19g
+* Cheese (100), 12g
+* Yogurt (120), 22g
+* Berries (100)
+
 ### 11/25/18 (Sunday)
 Weight: 159.0lb
 
