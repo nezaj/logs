@@ -1,5 +1,23 @@
 # Fitness Log
 
+### 11/30/18 (Friday)
+Weight: 157.8lb
+
+Exercise: Lift
+* Squats: 3x170x5 (good)
+* Pull-ups: 3x10 (tough, repeat)
+* OH Press: 3x105x5 (good)
+
+Diet: 2200, 124g
+* Yogurt (240), 46g
+* Berries (100)
+* Ramen (750), 15g
+* Gyoza (250)
+* Breaded Chicken (510), 51g
+* Cheese (100), 12g
+* Apple (100)
+* Mango (50)
+
 ### 11/29/18 (Thursday)
 Weight: N/A
 
@@ -9,11 +27,13 @@ Exercise: Tumbling
 * Consistency is still not there, but at least I know movements
 * Gotta just drill more I suppose
 
-Diet: 1590, 121g
+Diet: 2290, 166g
 * Breaded Chicken (510), 51g
 * Apple (200)
 * Cheese (150), 18g
 * Shake (730), 52g
+* Chicken (600), 45g
+* Salad (100)
 
 ### 11/28/18 (Wednesday)
 Weight: 157.8lb
