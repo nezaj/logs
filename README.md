@@ -1,5 +1,20 @@
 # Fitness Log
 
+### 11/29/18 (Thursday)
+Weight: N/A
+
+Exercise: Tumbling
+* Solid class,
+* Worked on more hand-spring and a couple of front-tucks
+* Consistency is still not there, but at least I know movements
+* Gotta just drill more I suppose
+
+Diet: 1590, 121g
+* Breaded Chicken (510), 51g
+* Apple (200)
+* Cheese (150), 18g
+* Shake (730), 52g
+
 ### 11/28/18 (Wednesday)
 Weight: 157.8lb
 
