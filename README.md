@@ -1,5 +1,58 @@
 # Fitness Log
 
+### 12/02/18 (Monday)
+Weight: 159.0lb
+
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * Squats: 3x175x5 (good)
+    * Bench: 3x170x5 (good)
+    * Curls: 3x60x9 (good)
+    * Leg-Lifts: 3x10 (okay)
+* Jiu-Jitsu
+    * Solid class
+    * Feeling back in the flow of things
+    * Got to work more on guard passing
+    * Want to focus on trying new things on lower level belts
+
+Diet: 1550, 151g
+* Apple (100)
+* Cheese (200), 24g
+* Breaded Chicken (510), 51g
+* Yogurt (240), 46g
+* Apple (100)
+* Mango (150)
+* Cheese (250), 30g
+
+### 12/02/18 (Sunday)
+Weight: 158.6lb
+
+Exercise: Yoga
+* Really good class
+* Nice mix of mindfulness/workout
+
+Diet: 1975,  117g
+* Shake (680), 33g
+* Jerky (320), 44g
+* Strawberries (75)
+* Apple (100)
+* Chicken Vermcili Noodles (800), 40g
+* Carrots (100)
+
+### 12/01/18 (Saturday)
+Weight: 157.6lb
+
+Exercise: Yoga
+* Good class
+* Was able to work up a good sweat
+
+Diet: 2260, 126g
+* Chicken Fajitas (1000), 50g
+* Chips/Guac (300)
+* Apple (100)
+* Shake (350), 25g
+* Breaded Chicken (510), 51g
+
 ### 11/30/18 (Friday)
 Weight: 157.8lb
 
