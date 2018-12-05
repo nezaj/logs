@@ -1,6 +1,23 @@
 # Fitness Log
 
-### 12/02/18 (Monday)
+### 12/04/18 (Tuesday)
+Weight: N/A
+
+Exercise: Tumbling
+* Another solid class, got to review lots of skills
+* Lightly touched on the back-tuck today
+
+Diet: 1710, 131g
+* Shake (680), 33g
+* Breaded Chicken (510), 51g
+* Berries (50)
+* Carrots (50)
+* Apple (100)
+* Cheese (100), 12g
+* Yogurt (120), 23g
+* Cheese (100), 12g
+
+### 12/03/18 (Monday)
 Weight: 159.0lb
 
 Exercise: Lift, Jiu-Jitsu
@@ -9,11 +26,10 @@ Exercise: Lift, Jiu-Jitsu
     * Bench: 3x170x5 (good)
     * Curls: 3x60x9 (good)
     * Leg-Lifts: 3x10 (okay)
-* Jiu-Jitsu
+* Jiu-Jitdu
     * Solid class
-    * Feeling back in the flow of things
     * Got to work more on guard passing
-    * Want to focus on trying new things on lower level belts
+    * Want to focus on try new things on lower belts
 
 Diet: 1550, 151g
 * Apple (100)
