@@ -1,5 +1,42 @@
 # Fitness Log
 
+### 12/10/18 (Monday)
+Weight: N/A
+
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * Bench: 3x180x5 (good)
+    * Curls: 3x60x10 (almost, repeat)
+    * Squats: 3x185x5 (good)
+    * Leg-Lifts: 3x10 (okay)
+* Jiu-Jitsu
+    * Good class
+    * Felt decent energy
+
+Diet: 1840, 121g
+* Breaded Chicken (510), 51g
+* Cheese (200), 24g
+* Apple (100)
+* Cheese (300), 15g
+* Crackers (200)
+* Cheese (100), 12g
+* Kiwis (200)
+* Crackers (150)
+* Protein Powder (90), 19g
+
+### 12/05/18 (Wednesday)
+Weight: N/A
+
+Exercise: N/A
+
+Diet: 2720, 183g
+* Breaded Chicken (510), 51g
+* Cheese (100), 12g
+* Apple (200)
+* Cheese (200), 24g
+* Breaded Chicken (510), 51g
+* Cheese (1200), 45g
+
 ### 12/04/18 (Tuesday)
 Weight: N/A
 
