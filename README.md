@@ -1,5 +1,26 @@
 # Fitness Log
 
+### 12/11/18 (Tuesday)
+Weight: 160.0lb
+
+Exercise: Cardio
+* ~30min run
+* Ran from apt -> start of GG Park and back
+* Very chill run
+* Knee felt good
+
+Diet: 2250, 113g
+* Cheese (100), 12g
+* Apple (100)
+* Cheese (100), 12g
+* Turkey Balls (450), 45g
+* Apple (100)
+* Strawberries (150)
+* Cheese (100), 12g
+* Lebanese (850), 20g
+* Cheese (150), 12g
+* Kiwi (150)
+
 ### 12/10/18 (Monday)
 Weight: N/A
 
