@@ -1,5 +1,30 @@
 # Fitness Log
 
+### 12/12/18 (Wednesday)
+Weight: N/A
+
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * Pull-ups: 3x10 (repeat)
+    * OH Press: 3x110x5 (good)
+    * Leg-Lifts: 3x10 (okay)
+    * Leg Extensions: 3x100x10 (good)
+    * Leg Curls: 3x100x10 (good)
+* Jiu-Jitsu
+    * Solid class
+    * Did a good job working on passing knee shield
+    * Better at shoving knee but also moving between knee-cutter
+    * Feel like I internalized X-Pass more
+    * Was great rolling w/ Ralston too, seeing how he attacks from guard
+
+Diet: 1700, 152g
+* Apple (100)
+* Cheese (100), 12g
+* Shake (820), 58g
+* Turkey Balls (450), 45g
+* Cheese (100), 12g
+* Protein Powder (130), 25g
+
 ### 12/11/18 (Tuesday)
 Weight: 160.0lb
 
