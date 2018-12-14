@@ -1,5 +1,32 @@
 # Fitness Log
 
+### 12/13/18 (Thursday)
+Weight: 158.6lb
+
+Exercise: Cardio, Tumbling
+* Cardio
+    * 30min, trademill -> up to 6.4mph
+    * ~10min stretching, nice warm-up
+    * Solid run, knee didn't hurt much afterwards
+* Tumbling
+    * Solid class
+    * Went backwards a bit on back hand-spring
+    * Felt comfortable on front tuck
+    * Explored back-tuck
+    * Realizing more about my punch front, try to be better at:
+        * Hurdle off left leg then punching with forward step
+
+Diet: 2120, 170g
+* Cheese (100), 12g
+* Apple (100)
+* Cheese (100), 12g
+* Shake (800), 62g
+* Fries (330)
+* Baked Chicken Breasts (390), 72g
+* Cheese (100), 12g
+* Carrots (100)
+* Apple (100)
+
 ### 12/12/18 (Wednesday)
 Weight: N/A
 
