@@ -1,5 +1,31 @@
 # Fitness Log
 
+### 12/14/18 (Friday)
+Weight: 158.2lb
+
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * Squats: 3x190x5 (good)
+    * Bench: 3x185x5 (okay, repeat)
+    * Curls: 3x60x10 (good)
+    * Leg-Lifts: 3x10 (okay)
+* Jiu-Jitsu
+    * Great class
+    * Tons of rolls
+    * Got to see a lot of techniques for guard passing
+    * Moving legs around to get past guard
+    * Using guilttone hold on knee shield
+
+Diet: 2530, 177g
+* Ice Cream (150), 14g
+* Breaded Chicken (510), 51g
+* Carrots (50)
+* Strawberries (150)
+* Ice Cream (210), 19g
+* Breaded Chicken (510), 51g
+* Cheese (100), 12g
+* Chicken Briyani (850), 30g
+
 ### 12/13/18 (Thursday)
 Weight: 158.6lb
 
