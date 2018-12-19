@@ -1,5 +1,68 @@
 # Fitness Log
 
+### 12/18/18 (Tuesday)
+Weight: 158.8lb
+
+Exercise: Tumbling
+* Tumbling
+    * Another excellent class
+    * Did a bunch more back tucks
+    * Comfortable with back hand-springs, front-tucks
+    * Worked on trying to connect round-off to back-handspring
+
+Diet: 1810, 146g
+* Apple (100)
+* Mangos (100)
+* Breaded Chicken (1020), 102g
+* Greek Yogurt (240), 44g
+* Apple (200)
+* Chocolate Tea (150)
+
+### 12/17/18 (Monday)
+Weight: N/A
+
+Exercise: Cardio, Jiu-Jitsu
+* Cardio
+    * ~35min run to Panhandle/GG Park
+    * Very chill run, more or less found the wiggle
+* Jiu-Jitsu
+    * Solid class
+    * Great energy levels
+
+Diet: N/A
+
+### 12/16/18 (Sunday)
+Weight: N/A
+
+Exercise: Yoga
+* Yoga
+    * Another solid Sunday morning class
+    * This one felt very intense, was great to do
+
+Diet: 2060, 112g
+* Yogurt (120), 22g
+* Berries (100)
+* Turkey Sandwhich (560), 30g
+* Edamame (300), 30g
+* Beef Donburi (750), 30g
+* Marshmellow Bar (230)
+
+### 12/15/18 (Saturday)
+Weight: 160.2lb
+
+Exercise: Yoga, Tumbling
+* Yoga
+    * Excellent class, very tough
+    * Went to Yoga Tree Stanyan location
+* Tumbling
+    * Excellent open gym session
+    * Had a ton of fun and tried all the skills
+    * Did my first back tuck!
+
+Diet: 2250, 80g
+* Misc (1000), 50g
+* Dim Sum (1250), 30g
+
 ### 12/14/18 (Friday)
 Weight: 158.2lb
 
