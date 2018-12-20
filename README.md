@@ -1,5 +1,28 @@
 # Fitness Log
 
+### 12/19/18 (Wednesday)
+Weight: 158.6lb
+
+Exercise: Tumbling
+* Tumbling
+    * Chill morning class
+    * Was good to review some basics
+    * Worked on improving my round-off
+    * Realized I need to tighten up my front hand-spring as well
+    * In general next goal is to tighten skills for connections
+* Jiu-Jitsu
+    * Great class, so much rolling
+    * I think I need to focus on a direction more
+    * Was doing better at passing guard, but lost some focus
+    * Realizing I need to expand my passing and attacking game
+    * Being too passive unfortunately
+    * Had a great dinner w/ the crew afterwards
+
+Diet: 2400, 137g
+* Shake (700), 37g
+* Meatballs (500), 50g
+* Pork-chop (1200), 50g
+
 ### 12/18/18 (Tuesday)
 Weight: 158.8lb
 
@@ -29,7 +52,8 @@ Exercise: Cardio, Jiu-Jitsu
     * Solid class
     * Great energy levels
 
-Diet: N/A
+Diet: 2000, 130g
+* Misc (2000), 130g
 
 ### 12/16/18 (Sunday)
 Weight: N/A
