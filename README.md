@@ -1,5 +1,19 @@
 # Fitness Log
 
+### 12/30/18 (Sunday)
+Weight: 156.8lb
+
+Exercise: Cardio
+* Am currently sick so it was a tough run
+* Total run was ~35min
+
+Diet: 2550, 123g
+* Shake (700), 37g
+* Sushi (800), 40g
+* Cheese (50), 6g
+* Apple (200)
+* Korean BBQ (800), 40g
+
 ### 12/19/18 (Wednesday)
 Weight: 158.6lb
 
