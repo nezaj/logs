@@ -1,5 +1,22 @@
 # Fitness Log
 
+### 12/31/18 (Monday)
+Weight: 159.0lb
+
+Exercise: Cardio
+* Good session, felt much easier than yesterday
+* 12min stretch beforehand
+* Ran ~6.0mph for 30min
+
+Diet: 2040, 103g
+* Protein Shake (130), 25g
+* Breaded Chicken (510), 51g
+* Apple (100)
+* Cheese (100), 12g
+* Clam Chowder (800)
+* Plumots (200)
+* Proscuitto (200), 15g
+
 ### 12/30/18 (Sunday)
 Weight: 156.8lb
 
@@ -7,7 +24,8 @@ Exercise: Cardio
 * Am currently sick so it was a tough run
 * Total run was ~35min
 
-Diet: 2550, 123g
+Diet: 2680, 148g
+* Protein Shake (130), 25g
 * Shake (700), 37g
 * Sushi (800), 40g
 * Cheese (50), 6g
