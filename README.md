@@ -1,5 +1,23 @@
 # Fitness Log
 
+### 01/01/19 (Tuesday)
+Weight: 158.8lb
+
+Exercise: Lift
+* Bench: 3x180x5 (repeat)
+* Curls: 3x70x6 (good)
+* Dips: 3x12 (easy)
+* Leg-Lifts: 3x10 (okay)
+* Leg Extensions: 3x10x100 (easy)
+* Leg Curls: 3x10x100 (easy)
+
+Diet: 1980, 80g
+* Shake (830), 52g
+* Apple (100)
+* Carrots (100)
+* Seasame Crackers (800), 10g
+* Cheese (150), 18g
+
 ### 12/31/18 (Monday)
 Weight: 159.0lb
 
