@@ -1,5 +1,37 @@
 # Fitness Log
 
+### 01/03/19 (Thursday)
+Weight: 157.8lb
+
+Exercise: Tumbling
+
+Diet: 2510, 148g
+* Cheese (100), 12g
+* Apple (100)
+* Breaded Chicken (510), 51g
+* Oatmeal (300)
+* Cheese (300), 36g
+* Turkey Balls (500), 50g
+* Apple (200)
+* Dates (500)
+
+### 01/02/19 (Wednesday)
+Weight: 158.2lb
+
+Exercise: Tumbling
+* Decent class
+* Was a bit stiff and sore
+* Was nice to be focusing on connecting round-off to back-handspring
+* Definitely need to rep my front hand-springs
+* Back tucks also need work
+
+Diet: 2150, 79g
+* Shake (700), 37g
+* Ramen (1200), 30g
+* Cheese (100), 12g
+* Carrots (50)
+* Apple (100)
+
 ### 01/01/19 (Tuesday)
 Weight: 158.8lb
 
