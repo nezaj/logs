@@ -1,5 +1,23 @@
 # Fitness Log
 
+### 01/05/19 (Saturday)
+Weight: 156.6lb
+
+Exercise: Tumbling
+* Open Gym class
+* Noticed didn't eat enough before class
+* Wasn't as energetic as I could have been
+* Still was good for about 45min
+* Noticed was feeling a bit burnout out (did some sort of tumbling W-Sa)
+
+Diet: 2460, 63g
+* Cookie (200)
+* Scone (250)
+* Cottage Cheese (270), 33g
+* Dates (240)
+* German Food (1000), 30g
+* Ice Cream (500)
+
 ### 01/04/19 (Friday)
 Weight: 160.0lb
 
