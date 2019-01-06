@@ -1,5 +1,22 @@
 # Fitness Log
 
+### 01/04/19 (Friday)
+Weight: 160.0lb
+
+Exercise: Cardio
+* Ran for ~35min
+* Did a bunch of handstands + karate for 15min
+
+Diet: 1300, 90g
+* Greek Yogurt (240), 44g
+* Dates (360)
+* Apple (100)
+* Carrots (50)
+* Cheese (100), 12g
+* Cheese (100), 12g
+* Cheese (250), 10g
+* Cheese (100), 12g
+
 ### 01/03/19 (Thursday)
 Weight: 157.8lb
 
