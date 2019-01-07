@@ -1,5 +1,14 @@
 # Fitness Log
 
+### 01/06/19 (Sunday)
+Weight: 157.6lb
+
+Exercise: N/A
+
+Diet: 1910, 82g
+* Turkey Sandwhich (710), 42g
+* Peruvian Food (1200), 40g
+
 ### 01/05/19 (Saturday)
 Weight: 156.6lb
 
