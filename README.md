@@ -1,5 +1,39 @@
 # Fitness Log
 
+### 01/08/19 (Tuesday)
+Weight: N/A
+
+Exercise: Cardio
+* Ran for ~35min, to start of GG and back
+* Felt great!
+
+Diet: 1180, 67g
+* Cheese (100), 12g
+* Lunch (500), 10g
+* Cheese (100), 12g
+* Cottage Cheese (180), 33g
+* Apricots (300)
+
+### 01/07/19 (Monday)
+Weight: N/A
+
+Exercise: Lift
+* Squats: 3x185x5 (easy)
+* Bench: 3x185x5 (almost clean, repeat)
+* Curls: 3x70x6/7/6 (good)
+* Dips: 3x12
+
+Diet: 3030, 137g
+* Yogurt (120), 22g
+* Apricots (200)
+* Lunch (500), 10g
+* Coconut Water (200)
+* Breaded Chicken (510), 51g
+* Sushi (800), 30g
+* Cheese (200), 24g
+* Oatmeal (300)
+* Apricots (200)
+
 ### 01/06/19 (Sunday)
 Weight: 157.6lb
 
