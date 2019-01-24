@@ -1,5 +1,38 @@
 # Fitness Log
 
+### 01/23/19 (Wednesday)
+Weight: N/A
+
+Exercise: Lift
+* OH Press: 3x105x5 (good)
+* Squats: 3x190x5 (good)
+* Pull-up: 1x10
+
+Diet: N/A
+
+### 01/22/19 (Tuesday)
+Weight: N/A
+
+Exercise: Cardio, Tumbling
+* Cardio: 35min run
+* Tumbling:
+    * Decent class, getting to roll through lots of skilss
+    * Consistent on my front hand-springs now which is nice
+
+Diet: N/A
+
+### 01/21/19 (Monday)
+Weight: 154.8
+
+Exercise: Lift
+* Bench: 3x175x5 (good)
+* Squats: 3x185x5 (easy)
+* Curls: 3x70x6 (good)
+* Dips: 3x12
+* Leg-Lifts: 3x10 (okay, aim for higher legs)
+
+Diet: N/A
+
 ### 01/08/19 (Tuesday)
 Weight: N/A
 
