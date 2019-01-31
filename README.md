@@ -1,5 +1,60 @@
 # Fitness Log
 
+### 01/30/19 (Wednesday)
+Weight: N/A
+
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * OH Press: 3x110x8 (good)
+    * Pull-ups: 3x10 (repeat)
+    * Leg-Curls: 3x100x8 (easy)
+    * Leg-Extensions: 3x100x8 (easy)
+    * Leg-lifts: 3x10 (good)
+* Jiu-Jitsu
+    * Solid class, reviewed getting knee out from half-guard
+    * Work on guillotine from half-guard
+    * Did lots of leg-locks and leg attacks, very interesting!
+    * Tapped out Phil via ezequiel -- first tap on him ever :)
+
+Diet: N/A
+
+### 01/29/19 (Tuesday)
+Weight: N/A
+
+Exercise: Cardio, Tumbling
+* Cardio: ~35min run
+* Tumbling
+    * Great class, doing solid on front tucks
+    * Did several back tucks too -- feeling good
+    * Next things to work on is getting back-hand springs and back-tucks on mat
+    * Still gotta keep working on front hand-springs
+
+Diet: N/A
+
+### 01/28/19 (Monday)
+Weight: N/A
+
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * Bench: 3x185x5 (repeat)
+    * Squats: 3x195x5 (good)
+    * Curls: 3x60x7 (full ROM, good)
+    * Leg-Lifts: 3x10
+* Jiu-Jitsu: Solid class, not much to say
+
+Diet: N/A
+
+### 01/27/19 (Sunday)
+Weight: 156.8
+
+Exercise: Cardio
+* Run: Apt -> Ocean Beach, ~5mi
+* Felt good, wasn't tough and leg didn't hurt much
+
+Diet: 950, 52g
+* Dates (120)
+* Shake (830), 52g
+
 ### 01/23/19 (Wednesday)
 Weight: N/A
 
