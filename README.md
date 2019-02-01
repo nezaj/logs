@@ -1,5 +1,25 @@
 # Fitness Log
 
+### 01/31/19 (Thursday)
+Weight: 153.0
+
+Exercise: Cardio, Tumbling
+* Cardio: 35min run
+* Tumbling
+    * Good class, worked on a bunch of front-tucks and lay-outs
+    * Pretty good at these -- next thing to work on is back-tumbling
+    * Next class want to focus on back-hand spring and back-tuck
+    * Goal is to land these on the floor!
+
+Diet: 2240, 122g
+* Shake (830), 52g
+* Dates (240)
+* Greek Yogurt (120), 22g
+* Cheese (150), 18g
+* Beer (200)
+* Soup (350)
+* Sandwhich (350), 30g
+
 ### 01/30/19 (Wednesday)
 Weight: N/A
 
