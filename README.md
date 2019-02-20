@@ -1,5 +1,29 @@
 # Fitness Log
 
+### 02/18/19 (Monday)
+Exercise: Cardio, Jiu-Jitsu
+* Cardio
+    * Ran from 24hr Fitness -> Ocean Beach
+    * Second extended run in awhile
+    * Little tough on leg, but not the worst
+* Jiu-Jitsu
+
+Diet: 2440, 169g
+* Apples (300)
+* Cheese (400), 48g
+* Turkey Meatballs (450), 50g
+* French Fries (500)
+* Protein Powder (120), 25g
+* Cheese (100), 12g
+* Yogurt (120), 22g
+* Carrots (150)
+* Nuts (300), 12g
+
+Notes:
+* Restarting logs again
+* Goal is be mindful of fitness and diet
+* Paying special attention to diet/nutrition
+
 ### 01/31/19 (Thursday)
 Weight: 153.0
 
