@@ -1,5 +1,41 @@
 # Fitness Log
 
+### 03/20/19 (Wednesday)
+Weight: N/A
+
+Exercise: Lift, Jiu-Jitsu
+* Lift: Back/Shoulders
+    * Warm-up jog
+    * 12min stretch
+    * Pull-ups: 12-15 range, Day 1 (pass)
+    * OH Press: 1x95x8, 3x115x5/5/4 (repeat)
+* Jiu-Jitsu
+    * First class again in awhile (post shoulder injury)
+    * Reviewed leg drag, really liked it, will try to look for it when opponent's feet is on hips
+    * Really sore from lifitng yesterday and today
+    * Got some good rolls in, but was exhausted
+    * Next Goals: With lower belts keep playing with open gaurd + sweeps + transition into guard + attacks from guard. With upper belts, be more active about passing gaurds, breaking grips, and not get stuck in half-gaurd
+
+Diet: N/A
+
+### 03/19/19 (Tuesday)
+Weight: N/A
+
+Exercise: Lift, Gymnastics
+* Lift: Leg Day
+    * Warm-up jog
+    * 12min stretch
+    * Squats: 2x135x8, 5x185x5 (good)
+    * Gambetta Circuit: 4 rounds, half reps (repeat)
+* Gymnastics
+    * First class in awhile (post shoulder injury)
+    * Hit several front handsprings, felt good
+    * Hit a couple front tucks
+    * Hit lots of back tucks, doing it off a panel
+    * Next Goals: Let's focus on back hand-springs and back-tucks on the floor
+
+Diet: N/A
+
 ### 02/18/19 (Monday)
 Exercise: Cardio, Jiu-Jitsu
 * Cardio
