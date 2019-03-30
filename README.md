@@ -1,5 +1,26 @@
 # Fitness Log
 
+### 03/29/19 (Friday)
+Weight: 159.0lb
+
+Exercise: Tricking
+* Tricking
+    * First time trying this class
+    * Was fun, reminded me of martial arts
+* Jiu-Jitsu
+    * Back after one week off from being sick
+    * Felt nice to flow through some techniques
+    * Was happy to get a tap on Phil, second time now
+    * In general want to work on being more active in open gaurd
+    * Want to work on sweeps and/or forcing people into my closed gaurd
+    * For attacking on the top, want to become better at getting the back
+
+Diet: 1590, 149g
+* Shake (750), 55g
+* Yogurt (240), 44g
+* Apple (100)
+* Turkey Balls (500), 50g
+
 ### 03/20/19 (Wednesday)
 Weight: N/A
 
