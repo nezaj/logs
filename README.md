@@ -1,6 +1,18 @@
 # Fitness Log
 
 ### 03/29/19 (Friday)
+Weight: 156.6lb
+
+Exercise: Rest Day
+
+Diet: 2270, 136g
+* Shake (750), 55g
+* Salami + Cheese (1000), 60g
+* Butter Chicken (270), 21g
+* Carrots (100)
+* Dates (150)
+
+### 03/29/19 (Friday)
 Weight: 159.0lb
 
 Exercise: Tricking
