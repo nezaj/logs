@@ -1,6 +1,19 @@
 # Fitness Log
 
-### 03/29/19 (Friday)
+### 03/31/19 (Sunday)
+Weight: N/A
+
+Exercise: Rest Day
+
+Diet: 2440, 139g
+* Dates (120)
+* Breaded Chicken (500), 37g
+* Cheese (500), 30g
+* Salami (500), 30g
+* Yogurt (120), 22g
+* Soul Food (750), 20g
+
+### 03/30/19 (Saturday)
 Weight: 156.6lb
 
 Exercise: Rest Day
