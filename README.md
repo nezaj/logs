@@ -1,5 +1,21 @@
 # Fitness Log
 
+### 04/03/19 (Wednesday)
+Weight: 158.0lb
+
+Exercise: N/A
+
+Diet: 2280, 163g
+* Greek Yogurt (240), 44g
+* Mangos (100)
+* Breaded Chicken (400), 40g
+* Apple (100)
+* Protein Powder (120), 25g
+* Chicken Tikka Masala (300), 20g
+* Potatoes (270)
+* Strawberries (150)
+* Cheese (600), 50g
+
 ### 03/31/19 (Sunday)
 Weight: N/A
 
