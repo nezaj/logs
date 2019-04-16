@@ -1,5 +1,67 @@
 # Fitness Log
 
+### 04/15/19 (Monday)
+Weight: 157.4lb
+
+Morning Check-list:
+* Weigh-in:     Y
+* Workout:      Y
+* Floss:        Y
+* Update logs:  N
+
+Night Check-list:
+* Floss: Y
+* 11pm bedtime: N
+* Push logs: Y
+
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * Bench: 3x155x5 (easy)
+    * Curls: 3x60x7 (easy)
+    * Dips: 3x8 (easy)
+    * Leg-Lifts: 3x8 (tough)
+    * Gambeta Leg Routine: 4 sets
+* Jiu-Jitsu
+    * Chill class, didn't do too much sparring
+    * Got to review some good technique about going from side control to back
+    * Want to focus on getting solid seat-belt grip + back-takes
+    * Also went over cool ezequiel choke from side-control / back
+
+Diet: 2060, 122g
+* Shake (750), 55g
+* Meatballs + Couscous + Veggies (750), 30g
+* Greek Yogurt (260), 28g
+* Granola (300), 8g
+
+Notes:
+* Overall chill Monday
+* Was tough waking up early, need to make sure I get proper sleep
+* Good gym session in the morning, definitely made me feel good throughout the day
+* Good day at work, lots to learn, very excited and eager. Feels good
+* Great Jiu-Jitsu class, glad Plamen was okay after Friday. Feeling good on bjj progress
+* Looking to do some reflections tonight!
+
+### 04/14/19 (Sunday)
+Weight: 156.6lb
+
+Morning Check-list:
+* Weigh-in:     Y
+* Workout:      Y
+* Floss:        N
+* Update logs:  Y
+
+Exercise: Yoga
+* Went to yoga garden for first time
+* Had amazing class, very easy to get to as well
+* Will definitely make the effort to go here 3x/week
+
+Diet: 1750, 85g
+* Shake (750), 55g
+* GoT Snacks (1000), 30g
+
+Notes:
+* Trying to reset this again
+
 ### 04/03/19 (Wednesday)
 Weight: 158.0lb
 
