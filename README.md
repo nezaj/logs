@@ -1,5 +1,40 @@
 # Fitness Log
 
+### 04/16/19 (Tuesday)
+Weight: 156.6lb
+
+Morning Check-list:
+* Weigh-in:     Y
+* Workout:      Y
+* Floss:        Y
+* Update logs:  Y
+
+Night Check-list:
+* Floss: Y
+* 11pm bedtime: N
+* Push logs: Y
+
+Exercise: Yoga
+* Went to Hatha Flow class
+* Was very chill
+* Maybe even too chill?
+* Heard the teacher was a sub for another guy who is high energy
+* Will give it a shot once more
+
+Diet: 2320, 103g
+* Cheese (120), 10g
+* Shake (600), 48g
+* Lunch (500), 25g
+* Boba (250)
+* Ramen (850), 20g
+
+Notes:
+* Good day overall
+* Still very excited with work
+* Rolled w/ grappling crew for first time at Airbnb, very fun
+* Got some more 1:1s with team-members, feeling good
+* Great hang session with Kam + Logan in the evening
+
 ### 04/15/19 (Monday)
 Weight: 157.4lb
 
