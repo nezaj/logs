@@ -1,9 +1,53 @@
 # Fitness Log
 
 ### 04/16/19 (Tuesday)
+Weight: 156.4lb
+
+Morning Check-list: (Clean)
+* Weigh-in:     Y
+* Workout:      Y
+* Floss:        Y
+* Update logs:  Y
+
+Night Check-list:
+* Floss: Y
+* 11pm bedtime: N
+* Push logs: N
+
+Exercise: Lift, Jiu-Jitsu
+* Lift
+    * Pull-ups: 10-15, Day 2 (pass)
+    * OH Press: 3x105x5 (okay)
+    * Squats: 3x190x5 (good)
+    * Captain Chairs: 3x10 (good)
+* Jiu-Jitsu
+    * Solid class, worked over some basic knee escape
+    * Realize I have a hard time making that work in sparring
+    * Probably because my technique is off, that's a good basic one to drill
+    * Good rolls with Vinh + Plamen, almost got Vinh
+    * With Plamen (and Branko too) I realize my guard game is passive if the guy is much bigger than me
+    * Something to think about, how can I make my guard game more active? (Kimura? Oomoplata?)
+
+Diet: 2750, 191g
+* Shake (650), 58g
+* Lunch (750), 20g
+* Apple (100)
+* Tempeh (450), 45g
+* Cheese (240), 24g
+* Yogurt (260), 28g
+* Granola (300), 16g
+
+Notes:
+* Solid gym workout this morning!
+* Chill day at work, lots of presentations
+* Noticed I was hungry and tired, needed more calories
+* Good Jiu-Jitsu session
+* Watched some startup talks at night, felt inspired
+
+### 04/16/19 (Tuesday)
 Weight: 156.6lb
 
-Morning Check-list:
+Morning Check-list: (Clean)
 * Weigh-in:     Y
 * Workout:      Y
 * Floss:        Y
@@ -21,9 +65,9 @@ Exercise: Yoga
 * Heard the teacher was a sub for another guy who is high energy
 * Will give it a shot once more
 
-Diet: 2320, 103g
+Diet: 2370, 103g
 * Cheese (120), 10g
-* Shake (600), 48g
+* Shake (650), 48g
 * Lunch (500), 25g
 * Boba (250)
 * Ramen (850), 20g
@@ -62,11 +106,11 @@ Exercise: Lift, Jiu-Jitsu
     * Want to focus on getting solid seat-belt grip + back-takes
     * Also went over cool ezequiel choke from side-control / back
 
-Diet: 2060, 122g
+Diet: 2060, 130g
 * Shake (750), 55g
 * Meatballs + Couscous + Veggies (750), 30g
 * Greek Yogurt (260), 28g
-* Granola (300), 8g
+* Granola (300), 16g
 
 Notes:
 * Overall chill Monday
