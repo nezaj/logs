@@ -1,6 +1,46 @@
 # Fitness Log
 
-### 04/16/19 (Tuesday)
+### 04/17/19 (Thursday)
+Weight: 156.8lb
+
+Morning Check-list: (Clean)
+* Weigh-in:     Y
+* Workout:      Y
+* Floss:        Y
+* Update logs:  Y
+
+Night Check-list: (Clean)
+* Floss:         Y
+* 11pm bedtime:  Y
+* Push logs:     Y
+
+Exercise: Yoga, Tumble
+* Yoga
+    * Chill Hatha class
+    * Felt like a deep stretch which was nice
+    * Will try power yoga next week and compare
+* Tumble
+    * Class started off well!
+    * Was hitting multiple front hand-springs which felt great
+    * Last front-hand spring though I twisted a bit and heard knee pop
+    * Had to ice leg and was pretty hurt :(
+
+Diet: 2230, 188g
+* Cheese (180), 15g
+* Shake (650), 58g
+* Lunch (800), 60g
+* Cheese (300), 25g
+* Turkey Balls (300), 30g
+
+Notes:
+* Able to wake up ~6am today, but def very tired in AM due to going to bed late
+* Chill yoga session in the morning
+* Felt energized and relaxed throughout the day which was nice
+* Fun day at work
+* First time to gymnastics in 1.5 weeks, got injured though which sucks
+* Hope I feel better in AM
+
+### 04/16/19 (Wednesday)
 Weight: 156.4lb
 
 Morning Check-list: (Clean)
@@ -43,6 +83,7 @@ Notes:
 * Noticed I was hungry and tired, needed more calories
 * Good Jiu-Jitsu session
 * Watched some startup talks at night, felt inspired
+* Went to bed ~12am
 
 ### 04/16/19 (Tuesday)
 Weight: 156.6lb
