@@ -1,6 +1,33 @@
 # Fitness Log
 
-### 04/17/19 (Thursday)
+### 04/22/19 (Monday)
+Weight: 156.4lb
+
+Morning Check-list: (Clean)
+* Weigh-in: Y
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss: N
+* 11pm bedtime: N
+* Push logs: N
+
+Exercise: N/A (injured)
+
+Diet: 2000, 90g
+* Rice (400) + Chicken (300) + Salad (200), 50g
+* Banana (100)
+* Nuts (300), 10g
+* Yams (250) + Meat (450), 30g
+
+Notes:
+* Knee feeling better today, can more or less fully walk on it, still some pain on right side though
+* Chill day at work, got to spend more time with the team which was nice
+* Read a bunch more of stuff for work in the evening
+* Stayed up way too late and got poor sleep
+
+### 04/18/19 (Thursday)
 Weight: 156.8lb
 
 Morning Check-list: (Clean)
@@ -40,7 +67,7 @@ Notes:
 * First time to gymnastics in 1.5 weeks, got injured though which sucks
 * Hope I feel better in AM
 
-### 04/16/19 (Wednesday)
+### 04/17/19 (Wednesday)
 Weight: 156.4lb
 
 Morning Check-list: (Clean)
