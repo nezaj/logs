@@ -1,5 +1,36 @@
 # Fitness Log
 
+### 04/23/19 (Tuesday)
+Weight: 155.0lb
+
+Morning Check-list: (Clean)
+* Weigh-in: Y
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss: Y
+* 11pm bedtime: N
+* Push logs: Y
+
+Exercise:
+* Walk to work (~35min)
+* Walk from work (~35min)
+
+Diet: 2350, 88g
+* Yogurt (200), 20g
+* Oatmeal (150), 8g
+* Lunch (850), 30g
+* Cashews (300), 10g
+* Dinner (550), 20g
+* Shot (100)
+* Berries (200)
+
+Notes:
+* Overall chill day, first day leg did not hurt!
+* Getting a bit antsy with all the doc reading, I'm itching to code
+* Great evening hang session with Kaiwen for his bday
+
 ### 04/22/19 (Monday)
 Weight: 156.4lb
 
@@ -13,13 +44,15 @@ Night Check-list:
 * 11pm bedtime: N
 * Push logs: N
 
-Exercise: N/A (injured)
+Exercise:
+* Walk from work
 
-Diet: 2000, 90g
+Diet: 2150, 90g
 * Rice (400) + Chicken (300) + Salad (200), 50g
 * Banana (100)
-* Nuts (300), 10g
+* Cashews (300), 10g
 * Yams (250) + Meat (450), 30g
+* Strawberries (150)
 
 Notes:
 * Knee feeling better today, can more or less fully walk on it, still some pain on right side though
