@@ -1,5 +1,36 @@
 # Fitness Log
 
+### 04/28/19 (Sunday)
+Weight: 155.2lb
+
+Morning Check-list:
+* Weigh-in: Y
+* Floss: N
+* Update logs: N
+
+Night Check-list: (Clean)
+* Floss: Y
+* 11pm bedtime: Y
+* Push logs: Y
+
+Exercise: Yoga
+* Did Hatha Yoga class, 1hr 45min
+* Knee was definitely hurting throughout, but felt much better towards the end
+* In general can say I'm not a big fan of hatha, moves a bit too slow for me
+* Would love to do Vinyasa/Power, but my knee needs more time
+
+Diet: 1720, 122g
+* Shake (650), 58g
+* Rice (230)
+* Turkey Balls (300), 30g
+* Nuts (400), 12g
+* Greek Yogurt (120), 22g
+
+Notes:
+* Very lazy Sunday, spent most of my time watching Netflix + GoT
+* Glad to be able to do yoga again though, feels good to be moving around
+* Did weekly retro before bed, was nice to reflect, feel more centered for tomorrow!
+
 ### 04/23/19 (Tuesday)
 Weight: 155.0lb
 
