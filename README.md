@@ -1,5 +1,37 @@
 # Fitness Log
 
+### 04/29/19 (Monday)
+Weight: 155.6lb
+
+Morning Check-list: (Clean)
+* Weigh-in: Y
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss: Y
+* 11pm bedtime: Y
+* Push logs: Y
+
+Exercise: Lift
+* Bench: 3x155x5 (easy)
+* Crazy 8s + Tri-Extensions: 3x60x8 (good)
+* OH Press: 3x95x5 (good)
+* Captain Chair: 3x10 (good)
+
+Diet: 2500, 120g
+* Shake (700), 60g
+* Lunch (750), 30g
+* Chocolate Espresso Beans (500)
+* Dinner (550), 30g
+
+Notes:
+* Woke up with right leg feeling more inflamed than yesterday
+* Was able to get my first lift in since injury which was nice
+* However, leg is surprisingly bothersome today, was distracting during lifting
+* Chill day at work, more 1:1s and getting ramped up
+* Took it easy in the evening
+
 ### 04/28/19 (Sunday)
 Weight: 155.2lb
 
