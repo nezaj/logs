@@ -1,14 +1,81 @@
 # Fitness Log
 
+### 05/02/19 (Thursday)
+Weight: 157.2lb
+
+Morning Check-list:
+* Weigh-in: Y
+* Exercise: N
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss: N
+* 11pm bedtime: N
+* Push logs: N
+
+Exercise:
+
+Diet: N/A
+
+Notes:
+* Took Advil PM last night and slept really well!
+
+### 05/01/19 (Wednesday)
+Weight: 155.2lb
+
+Morning Check-list:
+* Weigh-in: Y
+* Exercise: N
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss: N
+* 11pm bedtime: N
+* Push logs: N
+
+Exercise: N/A
+
+Diet: N/A
+
+Notes:
+* Slept poorly again last night -- more leg inflammation + pain
+
+### 04/30/19 (Tuesday)
+Weight: 153.6lb
+
+Morning Check-list:
+* Weigh-in: Y
+* Exercise: N
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss: N
+* 11pm bedtime: N
+* Push logs: N
+
+Exercise: N/A
+
+Diet: N/A
+
+Notes:
+* Didn't sleep well due to leg pain, notice it gets irritated/inflamed at night
+* Decided to pass on yoga as well, I think it's actually making things better
+* Overall decent day, did lots of writing and reflecting on career goals
+* Met up with mark in the evening!
+
 ### 04/29/19 (Monday)
 Weight: 155.6lb
 
 Morning Check-list: (Clean)
 * Weigh-in: Y
+* Exercise: Y
 * Floss: Y
 * Update logs: Y
 
-Night Check-list:
+Night Check-list: (Clean)
 * Floss: Y
 * 11pm bedtime: Y
 * Push logs: Y
