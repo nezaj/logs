@@ -1,5 +1,61 @@
 # Fitness Log
 
+### 05/07/19 (Tuesday)
+Weight: 155.2lb
+
+Morning Check-list: (Clean)
+* Weigh-in: Y
+* Exercise: Y
+* Floss: Y
+* Update logs: Y
+
+Night Check-list: (Clean)
+* Floss: Y
+* 11pm bedtime: Y
+* Push logs: Y
+
+Exercise: Yoga
+* First Power Yoga class today
+* Felt pretty much similar to a Vinyasa flow class
+* Glad that wasn't painful in leg anymore, although some positions still stiff
+* Noticed that the more I got into a breathing flow, the more enjoyable it was
+
+Diet: 2500, 138g
+* Shake (650), 58g
+* Lunch (850), 40g
+* Dinner (1000), 40g
+
+Notes:
+* Was flaky on logging last week due to several factors (poor sleep, no gym, etc), getting back in flow again
+* Woke up right away at 6am today which was great
+* However, if going to do 6:30 yoga I think it's better to wake up 5:45am to not rush
+* Great day at work, got to go deeper in the code, was pretty happy to spend most of day in editor
+* Fun evening, got to catch up with Vi, Kai, Mark, and Stepan
+* Overall great day :)
+
+### 05/03/19 (Friday)
+Weight: 156.8lb
+
+Morning Check-list:
+* Weigh-in: Y
+* Exercise: N
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss:
+* 11pm bedtime:
+* Push logs:
+
+Exercise:
+
+Diet: N/A
+
+Notes:
+* Went to bed late last night, hard to fall asleep
+* I think this may be due to excess coffee -- will limit to two a day
+* On plus side was able to sleep w/o Advil!
+
 ### 05/02/19 (Thursday)
 Weight: 157.2lb
 
