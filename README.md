@@ -1,5 +1,39 @@
 # Fitness Log
 
+### 05/08/19 (Tuesday)
+Weight: N/A
+
+Morning Check-list:
+* Weigh-in: N
+* Exercise: Y
+* Floss: Y
+* Update logs: Y
+
+Night Check-list: (Clean)
+* Floss: Y
+* 11pm bedtime: Y
+* Push logs: Y
+
+Exercise: Lift
+* Crazy 8s: 3x60x10 (good)
+* Tri Extensions: 3x60x10 (good)
+* Incline Bench: 3x135x5 (good)
+* Pull-ups 9-11: Day 3 (good)
+
+Diet: 2800, 80g
+* Shake (700), 40g
+* Lunch (750), 20g
+* Cookies (600)
+* Dinner (750), 20g
+
+Notes:
+* Woke up feeling normal, not too tired, not too energized
+* Had weird dreams two nights in a row now, last night may related to late night hookah?
+* Was able to gym w/o distracting pain, however, squatting very uncomfy
+* Productive day at work, feeling more and more comfortable with codebase
+* Fun day too, very social with co-workers and friends
+* Overall great day
+
 ### 05/07/19 (Tuesday)
 Weight: 155.2lb
 
