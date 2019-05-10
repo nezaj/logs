@@ -1,6 +1,39 @@
 # Fitness Log
 
-### 05/08/19 (Tuesday)
+### 05/09/19 (Thursday)
+Weight: N/A
+
+Morning Check-list:
+* Weigh-in: N
+* Exercise: Y
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss: N
+* 11pm bedtime: Y
+* Push logs: N
+
+Exercise: Yoga
+* Another Power Yoga class
+* Liked this one better than Tuesday, made me sweat more
+* Leg is feeling better and better, although definitely not perfect
+
+Diet: 2900, 120g
+* Shake (700), 40g
+* Lunch (750), 40g
+* Dinner (750), 40g
+* Apple (200)
+* Chocolate (500)
+
+Notes:
+* Woke up feeling mostly normal again, almost went back to sleep, gotta be mindful of getting up right away
+* Read a nice essay by Charlie Munger in the AM
+* Morning yoga was great
+* Overall great day at work
+* Felt pretty tired at night
+
+### 05/08/19 (Wednesday)
 Weight: N/A
 
 Morning Check-list:
