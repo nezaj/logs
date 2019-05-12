@@ -1,5 +1,27 @@
 # Fitness Log
 
+### 05/10/19 (Friday)
+Weight: 157.6
+
+Morning Check-list:
+* Weigh-in: N
+* Exercise: N
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss: N
+* 11pm bedtime: Y
+* Push logs: N
+
+Exercise: N/A
+
+Diet: N/A
+
+Notes:
+* Woke up groggy, decided to skip out on workout
+* Going to work early
+
 ### 05/09/19 (Thursday)
 Weight: N/A
 
