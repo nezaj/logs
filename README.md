@@ -1,5 +1,36 @@
 # Fitness Log
 
+### 05/13/19 (Monday)
+Weight: 160.4
+
+Morning Check-list: (Clean)
+* Weigh-in: Y
+* Exercise: Y
+* Floss: Y
+* Update logs: Y
+
+Night Check-list:
+* Floss:
+* 11pm bedtime:
+* Push logs:
+
+Exercise: Lift
+* Incline Bench: 3x140x5 (good)
+* Crazy 8s: 3x70x6 (good)
+* Leg Gambetta: 2 rounds
+
+Diet: 650, 58g
+* Shake (650), 58g
+
+Notes:
+* I'm noticing weight drifting up and energy being affected
+* I think this is primarily due to poor diet
+* Starting new strict routine at work, let's eat clean 3x/week and no snacking
+* Be mindful of when you are eating, no late snacking
+* No more convenience store runs -- eat real food
+* Next week plan to start Jiu-Jitsu
+* This week will focus on lifting and yoga
+
 ### 05/10/19 (Friday)
 Weight: 157.6
 
@@ -132,11 +163,11 @@ Morning Check-list:
 * Update logs: Y
 
 Night Check-list:
-* Floss:
-* 11pm bedtime:
-* Push logs:
+* Floss: N
+* 11pm bedtime: N
+* Push logs: N
 
-Exercise:
+Exercise: N/A
 
 Diet: N/A
 
@@ -207,9 +238,9 @@ Diet: N/A
 
 Notes:
 * Didn't sleep well due to leg pain, notice it gets irritated/inflamed at night
-* Decided to pass on yoga as well, I think it's actually making things better
+* Decided to pass on yoga as well, I think it's actually making things worse
 * Overall decent day, did lots of writing and reflecting on career goals
-* Met up with mark in the evening!
+* Met up with Mark in the evening!
 
 ### 04/29/19 (Monday)
 Weight: 155.6lb
